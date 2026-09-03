@@ -9,7 +9,8 @@ body{margin:0;background:var(--bg);color:var(--fg);
   line-height:1.7;-webkit-text-size-adjust:100%}
 .top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:8px;
   padding:10px 12px;background:#121a29;border-bottom:1px solid var(--line)}
-.top h1{flex:1;margin:0;font-size:18px;font-weight:700;text-align:center}
+.top h1{flex:1;min-width:0;margin:0;font-size:17px;font-weight:700;text-align:center;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .icon{background:none;border:0;color:var(--fg);font-size:20px;cursor:pointer;
   width:38px;height:38px;border-radius:10px}
 .icon:hover{background:#222e46}
