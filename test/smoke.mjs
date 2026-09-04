@@ -56,14 +56,14 @@ console.log('\n考古英雄 smoke test');
 await go('');
 
 // --- 資料 ---
-ok(await ev('window.APP_EXAMS.length === 150'), '索引載入 150 卷');
-ok(await ev('window.APP_EXAMS.reduce((a,b)=>a+b.n,0) === 12760'), '索引合計 12,760 題');
+ok(await ev('window.APP_EXAMS.length === 205'), '索引載入 205 卷');
+ok(await ev('window.APP_EXAMS.reduce((a,b)=>a+b.n,0) === 16693'), '索引合計 16,693 題');
 ok(await ev('window.APP_CATS.length >= 4'), '至少四個考試分類');
 
 // --- 首頁 ---
 ok(await ev('document.querySelectorAll("#main .hero").length === 1'), '首頁有 hero 區塊');
 ok(await ev('document.querySelectorAll("#main .card").length >= 6'), '首頁列出考試類別卡片');
-ok((await ev('document.querySelector("#main .hero").textContent')).includes('12,760'), 'hero 顯示總題數');
+ok((await ev('document.querySelector("#main .hero").textContent')).includes('16,693'), 'hero 顯示總題數');
 ok(await ev('document.querySelectorAll("#nav a").length === 6'), '導覽列六個項目');
 ok(await ev('document.querySelectorAll(".ft a").length >= 6'), '頁尾有連結');
 
@@ -76,6 +76,13 @@ ok((await ev('document.getElementById("main").textContent')).includes('第二階
 await hash('#/subject/doctor/med3');
 ok((await ev('document.querySelector(".pg-h").textContent')).includes('醫學（三）'), '進入醫學（三）科目頁');
 ok(await ev('document.querySelectorAll("#main .panel .it").length >= 20'), '科目頁列出各年份卷別');
+
+await hash('#/exam/lawyer');
+ok(await ev('document.querySelectorAll("#main .panel .it").length === 4'), '律師頁列出四個科目');
+const lawPid = await ev(`window.APP_EXAMS.filter(e=>e.exam==='lawyer')[0].id`);
+await hash('#/paper/' + lawPid);
+for (let i = 0; i < 60 && !(await ev('!!document.querySelector("#main .opt")')); i++) await sleep(100);
+ok(await ev('document.querySelectorAll("#main .opt").length === 4'), '律師卷可以作答');
 
 // --- 整卷測驗 ---
 const pid = await ev(`window.APP_EXAMS.filter(e=>e.subj==='med3')[0].id`);
@@ -114,12 +121,12 @@ if (figPaper) {
 }
 
 // --- 詳解 ---
-await ev(`new Promise(r=>{const s=document.createElement('script');s.src='js/data/exam/115-2-med1.js';s.onload=r;s.onerror=r;document.head.appendChild(s);})`);
-const expN = await ev(`window.APP_EXAM_PAPERS['115-2-med1'].qs.filter(q=>q.exp).length`);
+await ev(`new Promise(r=>{const s=document.createElement('script');s.src='js/data/exam/doc-115-2-med1.js';s.onload=r;s.onerror=r;document.head.appendChild(s);})`);
+const expN = await ev(`window.APP_EXAM_PAPERS['doc-115-2-med1'].qs.filter(q=>q.exp).length`);
 ok(expN > 0, `已寫詳解 ${expN} 題`);
-ok(await ev(`window.APP_EXAM_PAPERS['115-2-med1'].qs.filter(q=>q.exp).every(q=>q.exp.indexOf('📚')>=0)`),
+ok(await ev(`window.APP_EXAM_PAPERS['doc-115-2-med1'].qs.filter(q=>q.exp).every(q=>q.exp.indexOf('📚')>=0)`),
    '每則詳解都附出處');
-await hash('#/paper/115-2-med1');
+await hash('#/paper/doc-115-2-med1');
 for (let i = 0; i < 60 && !(await ev('!!document.querySelector("#main .opt")')); i++) await sleep(100);
 await ev(`document.querySelectorAll('#main .opt')[0].click()`); await sleep(250);
 ok((await ev(`document.querySelector('#main .fb')?.textContent || ''`)).includes('📚'), '作答後看得到詳解與出處');

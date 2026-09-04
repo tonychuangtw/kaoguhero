@@ -64,17 +64,23 @@ window.APP_CATS = [
   "exams": [
    {
     "id": "lawyer",
-    "name": "律師",
+    "name": "律師／司法官 第一試",
     "icon": "⚖️",
-    "live": false,
-    "note": "第一試、第二試各科"
-   },
-   {
-    "id": "judge",
-    "name": "司法官",
-    "icon": "🏛",
-    "live": false,
-    "note": "第一試、第二試各科"
+    "live": true,
+    "note": "律師考試第一試與司法官考試第一試共用試題",
+    "stages": [
+     {
+      "no": 1,
+      "name": "第一試",
+      "note": "綜合法學（一）（二）",
+      "subjects": [
+       "law1a",
+       "law1b",
+       "law2a",
+       "law2b"
+      ]
+     }
+    ]
    }
   ]
  },
@@ -144,11 +150,31 @@ window.APP_SUBJECTS = {
   "name": "醫學（六）",
   "note": "麻醉科、眼科、耳鼻喉科、婦產科、復健科",
   "stage": 2
+ },
+ "law1a": {
+  "name": "綜合法學（一）憲法組",
+  "note": "憲法、行政法、國際公法、國際私法",
+  "stage": 1
+ },
+ "law1b": {
+  "name": "綜合法學（一）刑法組",
+  "note": "刑法、刑事訴訟法、法律倫理",
+  "stage": 1
+ },
+ "law2a": {
+  "name": "綜合法學（二）民法組",
+  "note": "民法、民事訴訟法",
+  "stage": 1
+ },
+ "law2b": {
+  "name": "綜合法學（二）商法組",
+  "note": "公司法、保險法、票據法、證券交易法、強制執行法、法學英文",
+  "stage": 1
  }
 };
 window.APP_EXAMS = [
  {
-  "id": "115-1-med1",
+  "id": "doc-115-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -161,7 +187,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "115-1-med2",
+  "id": "doc-115-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -174,7 +200,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "115-1-med3",
+  "id": "doc-115-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -187,7 +213,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-1-med4",
+  "id": "doc-115-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -200,7 +226,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-1-med5",
+  "id": "doc-115-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -213,7 +239,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-1-med6",
+  "id": "doc-115-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -226,7 +252,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-2-med3",
+  "id": "doc-115-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -239,7 +265,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-2-med4",
+  "id": "doc-115-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -252,7 +278,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-2-med5",
+  "id": "doc-115-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -265,7 +291,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-2-med6",
+  "id": "doc-115-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -278,7 +304,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "115-2-med1",
+  "id": "doc-115-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -291,7 +317,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "115-2-med2",
+  "id": "doc-115-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -304,7 +330,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "114-1-med1",
+  "id": "doc-114-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -317,7 +343,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "114-1-med2",
+  "id": "doc-114-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -330,7 +356,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "114-1-med3",
+  "id": "doc-114-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -343,7 +369,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-1-med4",
+  "id": "doc-114-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -356,7 +382,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-1-med5",
+  "id": "doc-114-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -369,7 +395,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-1-med6",
+  "id": "doc-114-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -382,7 +408,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-2-med3",
+  "id": "doc-114-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -395,7 +421,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-2-med4",
+  "id": "doc-114-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -408,7 +434,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-2-med5",
+  "id": "doc-114-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -421,7 +447,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-2-med6",
+  "id": "doc-114-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -434,7 +460,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "114-2-med1",
+  "id": "doc-114-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -447,7 +473,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "114-2-med2",
+  "id": "doc-114-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -460,7 +486,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "113-1-med1",
+  "id": "doc-113-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -473,7 +499,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "113-1-med2",
+  "id": "doc-113-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -486,7 +512,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "113-1-med3",
+  "id": "doc-113-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -499,7 +525,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-1-med4",
+  "id": "doc-113-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -512,7 +538,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-1-med5",
+  "id": "doc-113-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -525,7 +551,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-1-med6",
+  "id": "doc-113-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -538,7 +564,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-2-med3",
+  "id": "doc-113-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -551,7 +577,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-2-med4",
+  "id": "doc-113-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -564,7 +590,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-2-med5",
+  "id": "doc-113-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -577,7 +603,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-2-med6",
+  "id": "doc-113-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -590,7 +616,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "113-2-med1",
+  "id": "doc-113-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -603,7 +629,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "113-2-med2",
+  "id": "doc-113-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -616,7 +642,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "112-1-med1",
+  "id": "doc-112-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -629,7 +655,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "112-1-med2",
+  "id": "doc-112-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -642,7 +668,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "112-1-med3",
+  "id": "doc-112-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -655,7 +681,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-1-med4",
+  "id": "doc-112-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -668,7 +694,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-1-med5",
+  "id": "doc-112-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -681,7 +707,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-1-med6",
+  "id": "doc-112-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -694,7 +720,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-2-med3",
+  "id": "doc-112-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -707,7 +733,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-2-med4",
+  "id": "doc-112-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -720,7 +746,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-2-med5",
+  "id": "doc-112-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -733,7 +759,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-2-med6",
+  "id": "doc-112-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -746,7 +772,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "112-2-med1",
+  "id": "doc-112-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -759,7 +785,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "112-2-med2",
+  "id": "doc-112-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -772,7 +798,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "111-1-med1",
+  "id": "doc-111-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -785,7 +811,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "111-1-med2",
+  "id": "doc-111-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -798,7 +824,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "111-1-med3",
+  "id": "doc-111-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -811,7 +837,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-1-med4",
+  "id": "doc-111-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -824,7 +850,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-1-med5",
+  "id": "doc-111-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -837,7 +863,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-1-med6",
+  "id": "doc-111-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -850,7 +876,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-2-med3",
+  "id": "doc-111-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -863,7 +889,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-2-med4",
+  "id": "doc-111-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -876,7 +902,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-2-med5",
+  "id": "doc-111-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -889,7 +915,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-2-med6",
+  "id": "doc-111-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -902,7 +928,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "111-2-med1",
+  "id": "doc-111-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -915,7 +941,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "111-2-med2",
+  "id": "doc-111-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -928,7 +954,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "110-1-med1",
+  "id": "doc-110-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -941,7 +967,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "110-1-med2",
+  "id": "doc-110-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -954,7 +980,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "110-1-med3",
+  "id": "doc-110-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -967,7 +993,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-1-med4",
+  "id": "doc-110-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -980,7 +1006,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-1-med5",
+  "id": "doc-110-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -993,7 +1019,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-1-med6",
+  "id": "doc-110-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1006,7 +1032,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-2-med3",
+  "id": "doc-110-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1019,7 +1045,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-2-med4",
+  "id": "doc-110-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1032,7 +1058,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-2-med5",
+  "id": "doc-110-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1045,7 +1071,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-2-med6",
+  "id": "doc-110-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1058,7 +1084,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "110-2-med1",
+  "id": "doc-110-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1071,7 +1097,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "110-2-med2",
+  "id": "doc-110-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1084,7 +1110,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "109-1-med1",
+  "id": "doc-109-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1097,7 +1123,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "109-1-med2",
+  "id": "doc-109-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1110,7 +1136,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "109-1-med3",
+  "id": "doc-109-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1123,7 +1149,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-1-med4",
+  "id": "doc-109-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1136,7 +1162,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-1-med5",
+  "id": "doc-109-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1149,7 +1175,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-1-med6",
+  "id": "doc-109-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1162,7 +1188,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-2-med3",
+  "id": "doc-109-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1175,7 +1201,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-2-med4",
+  "id": "doc-109-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1188,7 +1214,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-2-med5",
+  "id": "doc-109-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1201,7 +1227,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-2-med6",
+  "id": "doc-109-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1214,7 +1240,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "109-2-med1",
+  "id": "doc-109-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1227,7 +1253,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "109-2-med2",
+  "id": "doc-109-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1240,7 +1266,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "108-1-med1",
+  "id": "doc-108-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1253,7 +1279,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "108-1-med2",
+  "id": "doc-108-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1266,7 +1292,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "108-1-med3",
+  "id": "doc-108-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1279,7 +1305,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-1-med4",
+  "id": "doc-108-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1292,7 +1318,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-1-med5",
+  "id": "doc-108-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1305,7 +1331,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-1-med6",
+  "id": "doc-108-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1318,7 +1344,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-2-med3",
+  "id": "doc-108-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1331,7 +1357,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-2-med4",
+  "id": "doc-108-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1344,7 +1370,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-2-med5",
+  "id": "doc-108-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1357,7 +1383,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-2-med6",
+  "id": "doc-108-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1370,7 +1396,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "108-2-med1",
+  "id": "doc-108-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1383,7 +1409,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "108-2-med2",
+  "id": "doc-108-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1396,7 +1422,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "107-1-med1",
+  "id": "doc-107-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1409,7 +1435,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "107-1-med2",
+  "id": "doc-107-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1422,7 +1448,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "107-1-med3",
+  "id": "doc-107-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1435,7 +1461,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-1-med4",
+  "id": "doc-107-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1448,7 +1474,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-1-med5",
+  "id": "doc-107-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1461,7 +1487,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-1-med6",
+  "id": "doc-107-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1474,7 +1500,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-2-med3",
+  "id": "doc-107-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1487,7 +1513,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-2-med4",
+  "id": "doc-107-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1500,7 +1526,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-2-med5",
+  "id": "doc-107-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1513,7 +1539,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-2-med6",
+  "id": "doc-107-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1526,7 +1552,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "107-2-med1",
+  "id": "doc-107-2-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1539,7 +1565,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "107-2-med2",
+  "id": "doc-107-2-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1552,7 +1578,7 @@ window.APP_EXAMS = [
   "mins": 120
  },
  {
-  "id": "106-1-med3",
+  "id": "doc-106-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1565,7 +1591,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-1-med4",
+  "id": "doc-106-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1578,7 +1604,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-1-med5",
+  "id": "doc-106-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1591,7 +1617,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-1-med6",
+  "id": "doc-106-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1604,7 +1630,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-2-med3",
+  "id": "doc-106-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1617,7 +1643,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-2-med4",
+  "id": "doc-106-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1630,7 +1656,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-2-med5",
+  "id": "doc-106-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1643,7 +1669,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-2-med6",
+  "id": "doc-106-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1656,7 +1682,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "106-1-med1",
+  "id": "doc-106-1-med1",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1664,12 +1690,12 @@ window.APP_EXAMS = [
   "nth": 1,
   "subj": "med1",
   "subjName": "醫學（一）",
-  "label": "106 年第一次　醫學（一）",
+  "label": "106 年　醫學（一）",
   "n": 100,
   "mins": 120
  },
  {
-  "id": "106-1-med2",
+  "id": "doc-106-1-med2",
   "cat": "medical",
   "exam": "doctor",
   "stage": 1,
@@ -1677,12 +1703,12 @@ window.APP_EXAMS = [
   "nth": 1,
   "subj": "med2",
   "subjName": "醫學（二）",
-  "label": "106 年第一次　醫學（二）",
+  "label": "106 年　醫學（二）",
   "n": 100,
   "mins": 120
  },
  {
-  "id": "105-1-med3",
+  "id": "doc-105-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1695,7 +1721,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-1-med4",
+  "id": "doc-105-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1708,7 +1734,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-1-med5",
+  "id": "doc-105-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1721,7 +1747,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-1-med6",
+  "id": "doc-105-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1734,7 +1760,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-2-med3",
+  "id": "doc-105-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1747,7 +1773,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-2-med4",
+  "id": "doc-105-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1760,7 +1786,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-2-med5",
+  "id": "doc-105-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1773,7 +1799,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "105-2-med6",
+  "id": "doc-105-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1786,7 +1812,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-1-med3",
+  "id": "doc-104-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1799,7 +1825,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-1-med4",
+  "id": "doc-104-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1812,7 +1838,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-1-med5",
+  "id": "doc-104-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1825,7 +1851,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-1-med6",
+  "id": "doc-104-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1838,7 +1864,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-2-med3",
+  "id": "doc-104-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1851,7 +1877,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-2-med4",
+  "id": "doc-104-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1864,7 +1890,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-2-med5",
+  "id": "doc-104-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1877,7 +1903,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "104-2-med6",
+  "id": "doc-104-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1890,7 +1916,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-1-med3",
+  "id": "doc-103-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1903,7 +1929,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-1-med4",
+  "id": "doc-103-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1916,7 +1942,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-1-med5",
+  "id": "doc-103-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1929,7 +1955,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-1-med6",
+  "id": "doc-103-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1942,7 +1968,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-2-med3",
+  "id": "doc-103-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1955,7 +1981,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-2-med4",
+  "id": "doc-103-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1968,7 +1994,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-2-med5",
+  "id": "doc-103-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1981,7 +2007,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "103-2-med6",
+  "id": "doc-103-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -1994,7 +2020,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-1-med3",
+  "id": "doc-102-1-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2007,7 +2033,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-1-med4",
+  "id": "doc-102-1-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2020,7 +2046,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-1-med5",
+  "id": "doc-102-1-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2033,7 +2059,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-1-med6",
+  "id": "doc-102-1-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2046,7 +2072,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-2-med3",
+  "id": "doc-102-2-med3",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2059,7 +2085,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-2-med4",
+  "id": "doc-102-2-med4",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2072,7 +2098,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-2-med5",
+  "id": "doc-102-2-med5",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2085,7 +2111,7 @@ window.APP_EXAMS = [
   "mins": 100
  },
  {
-  "id": "102-2-med6",
+  "id": "doc-102-2-med6",
   "cat": "medical",
   "exam": "doctor",
   "stage": 2,
@@ -2096,5 +2122,720 @@ window.APP_EXAMS = [
   "label": "102 年第二次　醫學（六）",
   "n": 80,
   "mins": 100
+ },
+ {
+  "id": "law-115-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 115,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "115 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-115-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 115,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "115 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-115-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 115,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "115 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-115-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 115,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "115 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-114-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 114,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "114 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-114-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 114,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "114 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-114-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 114,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "114 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-114-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 114,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "114 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-113-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 113,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "113 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-113-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 113,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "113 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-113-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 113,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "113 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-113-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 113,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "113 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-112-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 112,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "112 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-112-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 112,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "112 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-112-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 112,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "112 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-112-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 112,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "112 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-111-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 111,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "111 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-111-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 111,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "111 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-111-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 111,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "111 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-111-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 111,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "111 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-110-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 110,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "110 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-110-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 110,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "110 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-110-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 110,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "110 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-110-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 110,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "110 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-109-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 109,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "109 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-109-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 109,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "109 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-109-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 109,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "109 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-109-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 109,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "109 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-108-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 108,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "108 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-108-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 108,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "108 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-108-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 108,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "108 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-108-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 108,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "108 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-107-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 107,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "107 年　綜合法學（一）憲法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-107-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 107,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "107 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-107-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 107,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "107 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-107-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 107,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "107 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-106-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 106,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "106 年　綜合法學（一）憲法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-106-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 106,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "106 年　綜合法學（一）刑法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-106-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 106,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "106 年　綜合法學（二）民法組",
+  "n": 62,
+  "mins": 180
+ },
+ {
+  "id": "law-106-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 106,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "106 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-105-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 105,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "105 年　綜合法學（一）憲法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-105-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 105,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "105 年　綜合法學（一）刑法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-105-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 105,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "105 年　綜合法學（二）民法組",
+  "n": 62,
+  "mins": 180
+ },
+ {
+  "id": "law-105-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 105,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "105 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-104-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 104,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "104 年　綜合法學（一）憲法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-104-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 104,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "104 年　綜合法學（一）刑法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-104-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 104,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "104 年　綜合法學（二）民法組",
+  "n": 62,
+  "mins": 180
+ },
+ {
+  "id": "law-104-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 104,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "104 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-103-1-law1a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 103,
+  "nth": 1,
+  "subj": "law1a",
+  "subjName": "綜合法學（一）憲法組",
+  "label": "103 年　綜合法學（一）憲法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-103-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 103,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "103 年　綜合法學（一）刑法組",
+  "n": 60,
+  "mins": 180
+ },
+ {
+  "id": "law-103-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 103,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "103 年　綜合法學（二）民法組",
+  "n": 62,
+  "mins": 180
+ },
+ {
+  "id": "law-103-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 103,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "103 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
+ },
+ {
+  "id": "law-102-1-law1b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 102,
+  "nth": 1,
+  "subj": "law1b",
+  "subjName": "綜合法學（一）刑法組",
+  "label": "102 年　綜合法學（一）刑法組",
+  "n": 75,
+  "mins": 180
+ },
+ {
+  "id": "law-102-1-law2a",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 102,
+  "nth": 1,
+  "subj": "law2a",
+  "subjName": "綜合法學（二）民法組",
+  "label": "102 年　綜合法學（二）民法組",
+  "n": 80,
+  "mins": 180
+ },
+ {
+  "id": "law-102-1-law2b",
+  "cat": "law",
+  "exam": "lawyer",
+  "stage": 1,
+  "roc": 102,
+  "nth": 1,
+  "subj": "law2b",
+  "subjName": "綜合法學（二）商法組",
+  "label": "102 年　綜合法學（二）商法組",
+  "n": 70,
+  "mins": 180
  }
 ];

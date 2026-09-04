@@ -32,7 +32,7 @@ CATS.forEach(c => {
 const ids = new Set();
 EXAMS.forEach(e => {
   ok(!ids.has(e.id), e.id + ' 沒有重複'); ids.add(e.id);
-  ok(/^\d{3}-[12]-\w+$/.test(e.id), e.id + ' id 格式正確');
+  ok(/^[a-z]{3}-\d{3}-[12]-\w+$/.test(e.id), e.id + ' id 格式正確');
   ok(examIds.has(e.exam), e.id + ' 的 exam 對得到考試');
   ok(!!SUBJ[e.subj], e.id + ' 的 subj 對得到科目');
   ok(Number.isInteger(e.roc) && e.roc >= 90 && e.roc <= 130, e.id + ' roc 合理');
