@@ -71,7 +71,7 @@
     if (loading[id]) return loading[id].push(cb);
     loading[id] = [cb];
     var s = document.createElement('script');
-    s.src = 'js/data/exam/' + id + '.js?v=20260904b';
+    s.src = 'js/data/exam/' + id + '.js?v=20260904c';
     s.onload = function () {
       var fns = loading[id]; loading[id] = null;
       fns.forEach(function (f) { f(PAPERS[id]); });
@@ -186,7 +186,7 @@
       if (!p) return alert('題本載入失敗，請重新整理再試一次。');
       quiz = { mode: 'paper', pid: id, title: p.title, qs: p.qs.slice(), i: 0, ans: [], ok: 0 };
       renderQuiz();
-      show('quiz', p.roc + ' 年' + (p.nth === 2 ? '二' : '一') + ' ' + (p.subj === 'med1' ? '醫學（一）' : '醫學（二）'));
+      show('quiz', p.roc + ' 年第' + (p.nth === 2 ? '二' : '一') + '次 ' + (p.subj === 'med1' ? '醫學（一）' : '醫學（二）'));
     });
   }
 
@@ -298,12 +298,13 @@
       var good = picked === q.a;
       var fb = el('div', 'fb ' + (good ? 'ok' : 'no'));
       fb.appendChild(el('b', null, good ? '✅ 答對了' : '❌ 答錯了'));
-      fb.appendChild(document.createTextNode(
-        '　標準答案：' + LAB[q.a] + '. ' + q.o[q.a]));
       if (q.exp) {
+        // 有詳解時就不再重複「標準答案：…」，詳解的第一行本來就是正解
         fb.appendChild(document.createElement('br'));
         fb.appendChild(document.createTextNode(q.exp));
       } else {
+        fb.appendChild(document.createTextNode(
+          '　標準答案：' + LAB[q.a] + '. ' + q.o[q.a]));
         var note = el('div', 'muted', '（本題詳解尚未撰寫，會分批補上。）');
         note.style.marginTop = '6px';
         fb.appendChild(note);
