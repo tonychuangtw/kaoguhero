@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "腮腺炎（Mumps）",
     "水痘（Varicella）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 水痘帶狀疱疹病毒初次感染造成水痘，之後終身潛伏在背根神經節；免疫力下降（年老、壓力、免疫抑制）時沿神經皮節再活化，就是帶狀疱疹。\n❌ (A) 麻疹病毒的晚期併發症是亞急性硬化性全腦炎，不是帶狀疱疹。\n❌ (B) 德國麻疹不會潛伏再活化。\n❌ (C) 腮腺炎病毒同樣不會潛伏再活化。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Varicella-Zoster Virus；Fields Virology, 7th ed.。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "Roseola infantum",
     "Erythema multiforme"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 服藥兩週後出現持續發燒與圖示的黏膜糜爛（唇部血痂）加上標靶樣皮疹與表皮剝離，是史蒂芬強生症候群——藥物（抗生素、抗癲癇藥）是最常見的誘因，黏膜侵犯是與其他發疹的關鍵鑑別點。\n❌ (A) 猩紅熱是砂紙樣紅疹加草莓舌，不會有黏膜糜爛與水疱剝離。\n❌ (C) 嬰兒玫瑰疹是高燒 3～5 天退燒後才出疹，好發於 6～24 個月大。\n❌ (D) 多形性紅斑主要由單純疱疹病毒誘發，以四肢的典型標靶病灶為主、黏膜侵犯輕微且不會有大片表皮剝離。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis；Fitzpatrick's Dermatology, 9th ed.。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "臨床症狀包括肝脾腫大、黃疸、出疹（Petechiae、Purpura）等",
     "任何沒有通過聽力篩檢的新生兒，都須考慮先天性巨細胞病毒感染之可能性"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句錯了：先天性巨細胞病毒感染的新生兒約有「90% 是無症狀的」，只有約 10% 出生時就有症狀；但無症狀者中仍有一至一成五日後出現感音神經性聽損，所以才需要長期追蹤。\n❌ (A) 這一句是對的：血清陽性母親的乳汁中常有病毒排出，足月兒感染率高但多半無症狀（早產兒才需注意）。\n❌ (C) 這一句是對的：有症狀者典型表現為小頭、肝脾腫大、黃疸、瘀點紫斑與腦室周圍鈣化。\n❌ (D) 這一句是對的：先天性巨細胞病毒是非遺傳性感音神經性聽損最主要的原因，聽篩未過就要檢驗。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Cytomegalovirus；AAP《Congenital CMV Infection》相關建議。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "Azithromycin",
     "Gentamicin"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 黴漿菌沒有細胞壁，因此所有作用在細胞壁的抗生素都無效；治療首選是巨環類（azithromycin），兒童尤其適用（成人也可用四環黴素或氟喹諾酮）。\n❌ (A) Penicillin 抑制細胞壁合成，對無細胞壁的黴漿菌完全無效。\n❌ (B) Vancomycin 同樣作用在細胞壁，無效。\n❌ (D) Gentamicin 作用在核糖體但對黴漿菌活性不佳，且有腎與耳毒性，不用於此。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Mycoplasma pneumoniae；Mandell, Douglas, and Bennett's, 9th ed.。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "貧血",
     "高血鈣"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 妊娠糖尿病母親的巨嬰在子宮內長期暴露於高血糖，胰島 β 細胞代償性增生；出生後臍帶一斷、葡萄糖供應中止，但高胰島素狀態還在，因此在數小時內（尤其前 24 小時）出現低血糖，必須常規監測。\n❌ (A) 早發性黃疸（24 小時內）通常代表溶血（ABO 或 Rh 不合），與母親糖尿病無直接關係。\n❌ (C) 糖尿病母親的新生兒問題是「多血症」（紅血球過多）而非貧血。\n❌ (D) 出現的是「低」血鈣與低血鎂，不是高血鈣。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Infant of a Diabetic Mother；AAP《Postnatal Glucose Homeostasis in Late-Preterm and Term Infants》。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "體溫過熱（Hyperthermia）",
     "周邊血液循環不良（Peripheral circulatory sluggishness）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 手足發紺（只有手掌腳掌與口周發紫、軀幹與黏膜紅潤）是新生兒出生後數小時內非常常見的正常現象，源自周邊血管收縮與循環尚未穩定，保暖後就會改善。\n❌ (A) 胎便吸入症候群會有呼吸窘迫、胎便染色的羊水與胸部 X 光異常。\n❌ (B) 先天性發紺型心臟病造成的是「中央型」發紺（舌頭與口腔黏膜也發紫），且不會因保暖改善。\n❌ (C) 體溫過熱造成的是血管擴張與皮膚潮紅，不是發紺。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., The Newborn Infant（physical examination）；AAP Neonatal Resuscitation Program。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "8個月大時應添加蜂蜜水以增加免疫能力",
     "注意含鐵之副食品的導入以符合營養需求"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 四到六個月大時母體儲存的鐵逐漸耗盡，母乳中的鐵含量又低，因此副食品必須優先導入「含鐵」的食物（強化鐵嬰兒米麥精、紅肉泥、肝泥），以預防缺鐵性貧血。\n❌ (A) 應「一次只加一種」新食物並觀察 3～5 天，才能辨認過敏原。\n❌ (B) 一歲以下不建議喝果汁；即使一歲以上也建議每天不超過 120 毫升。\n❌ (C) 一歲以下「絕對不可」餵蜂蜜——肉毒桿菌孢子可能造成嬰兒肉毒桿菌中毒。\n📚 出處：AAP《Feeding Guidelines for Infants and Young Toddlers》；Nelson Textbook of Pediatrics, 22nd ed., Nutritional Requirements。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "X-linked dominant",
     "X-linked recessive"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 先天性腎上腺增生（最常見為 21-羥化酶缺乏，CYP21A2 基因）屬於體染色體隱性遺傳，因此帶因的父母有四分之一機率生下患兒，新生兒篩檢也以此為基礎。\n❌ (A) 體染色體顯性遺傳的疾病每胎有一半機率發病，與此病的家系模式不符。\n❌ (C) X 染色體顯性遺傳的疾病女性患者多於男性。\n❌ (D) X 染色體隱性遺傳幾乎只影響男性，但本病男女皆可罹患（女嬰還會出現外生殖器男性化）。\n📚 出處：Endocrine Society《Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline》(2018)；Nelson Textbook of Pediatrics, 22nd ed.。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "可能是塵蟎過敏，驗血檢查過敏原是最標準的診斷方法",
     "潰瘍性大腸炎（ulcerative colitis）機率最大，立即做大腸鏡檢查"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 純母乳哺育的嬰兒仍可能對母親飲食中的牛奶蛋白過敏——完整的牛奶蛋白可經母乳傳給嬰兒，造成過敏性直腸結腸炎：血絲便但寶寶活力食慾正常、生長良好；處置是母親飲食排除乳製品 2～4 週觀察。\n❌ (B) 細菌性腸炎不一定發燒，不能以沒發燒就排除。\n❌ (C) 塵蟎屬吸入性過敏原，不會造成血便；而且食物過敏的黃金標準是「排除與再挑戰」，不是抽血驗過敏原。\n❌ (D) 潰瘍性結腸炎在三個月大嬰兒極為罕見，貿然安排大腸鏡並不合理。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Food Protein-Induced Allergic Proctocolitis；NIAID《Guidelines for the Diagnosis and Management of Food Allergy》。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "腸阻塞（Intestinal obstruction）",
     "急性闌尾炎（Appendicitis）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腸套疊的疼痛是陣發性的腹部絞痛（發作時劇痛屈膝、間歇時安靜），疼痛侷限在腹部，最少出現背部轉移痛。\n❌ (B) 胰臟炎因胰臟位於後腹腔，疼痛典型「穿透到背部」。\n❌ (C) 腸阻塞尤其近端阻塞或合併後腹腔刺激時，可有背部轉移痛。\n❌ (D) 後盲腸位的闌尾炎因刺激後腹腔與腰大肌，可表現為腰背部疼痛。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Acute Abdominal Pain in Children；Coran's Pediatric Surgery, 8th ed.。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "蛋白質在小腸前段100-200公分（Proximal 100-200 cm of small intestine）",
     "鐵在遠端迴腸（Distal ileum）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 這一組錯了：鐵的吸收主要在「十二指腸與近端空腸」（酸性環境有利於三價鐵還原為二價鐵）；遠端迴腸吸收的是維生素 B12 與膽鹽。\n❌ (A) 這一組是對的：葉酸在十二指腸與近端空腸吸收。\n❌ (B) 這一組是對的：膽鹽經腸肝循環在遠端迴腸再吸收。\n❌ (C) 這一組是對的：蛋白質與大部分營養素在近端小腸就吸收完成。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Digestion and Absorption；Sleisenger and Fordtran's Gastrointestinal and Liver Disease, 11th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "典型症狀通常在接受TPN治療的一個星期內發生",
     "Ursodeoxycholic acid（UDCA）對改善黃疸可能有助益"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：全靜脈營養相關的膽汁鬱積通常在使用「兩週以後」才逐漸出現（嬰兒約 2 週、成人數週至數月），一週內就出現黃疸應該先找其他原因。\n❌ (A) 這一項是對的：早產、敗血症、短腸症候群與缺乏腸道進食都是危險因子。\n❌ (B) 這一項是對的：大豆油脂肪乳劑的植物固醇與劑量過高與此症相關，改用魚油或混合型脂肪可改善。\n❌ (D) 這一項是對的：熊去氧膽酸可促進膽汁流動，對改善膽汁鬱積有幫助。\n📚 出處：ESPGHAN/ESPEN《Guidelines on Pediatric Parenteral Nutrition》；Nelson Textbook of Pediatrics, 22nd ed.。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "泡泡浴（Bubble bath）",
     "膀胱輸尿管逆流（Vesicoureteral reflux）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 「泡泡浴造成泌尿道感染」是流傳已久的說法，但實證上關聯性最弱——泡泡浴可能造成外陰炎與尿道口刺激（因而有排尿疼痛），但不是真正的感染危險因子。\n❌ (A) 未割包皮的男嬰在一歲內的泌尿道感染風險是已割者的 4～10 倍。\n❌ (B) 慢性便祕造成排尿功能障礙與餘尿增加，是重要且可矯正的危險因子。\n❌ (D) 膀胱輸尿管逆流讓細菌上行到腎臟，是反覆感染與腎疤痕的關鍵因素。\n📚 出處：AAP《Urinary Tract Infection: Clinical Practice Guideline for the Diagnosis and Management of the Initial UTI in Febrile Infants and Children 2 to 24 Months》；Nelson Textbook of Pediatrics, 22nd ed.。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "血清滲透壓（Serum osmolality）﹤280 mOsm/kg 合併血鈉值（serum sodium）﹤135 mEq/L",
     "限水治療後無法改變低血鈉的情形"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 「限水後低血鈉無法改善」不是排除條件，反而是抗利尿激素不適當分泌症候群的「支持性」證據之一（限水有反應才是診斷的特徵，無反應要重新思考）。題目問的是「不是排除條件」，這一項確實不屬於用來排除其他病因的項目。\n❌ (A) 心臟、肝臟、腎臟與甲狀腺（及腎上腺）功能異常都必須先排除，因為它們都會造成低血鈉。\n❌ (B) 尿液滲透壓 >100 mOsm/kg 是診斷準則之一（代表抗利尿激素沒有被適當抑制）。\n❌ (C) 低血漿滲透壓合併低血鈉是診斷的前提條件。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., SIADH；Ellison DH, Berl T. The syndrome of inappropriate antidiuresis. N Engl J Med 2007;356:2064。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "若血尿來自下泌尿道（Lower urinary tract）的病變，尿液為茶色 （Tea-colored）或可樂顏色（Cola-colored）",
     "細菌性泌尿道感染 （Bacterial urinary tract infection）也會引起血尿"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：茶色或可樂色的尿液代表血液在酸性尿中停留較久並已變性，是「上泌尿道／腎絲球」來源的特徵；下泌尿道出血通常是鮮紅色，甚至可見血塊。\n❌ (A) 這一句是對的：急性腎絲球腎炎因鈉水滯留常合併高血壓與水腫。\n❌ (B) 這一句是對的：紅血球擠過腎絲球基底膜而變形（棘紅血球）與紅血球圓柱，是腎絲球性血尿的證據。\n❌ (D) 這一句是對的：泌尿道感染是兒童血尿常見且必須先排除的原因。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Hematuria；KDIGO《Glomerular Diseases Guideline》。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "採用Dopamine receptor拮抗劑可以抑制Tics的行為",
     "部分Gilles de la Tourette syndrome的病人會合併有Obsessive-compulsive的症狀"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 這一句錯了：妥瑞氏症的遺傳模式並非單純的隱性遺傳，目前認為是「多基因加上環境因素」的複雜遺傳，家族聚集明顯但不符合孟德爾單基因模式。\n❌ (B) 這一句是對的：抽動症是兒童最常見的動作障礙，學齡兒童的暫時性抽動盛行率可達一至兩成。\n❌ (C) 這一句是對的：多巴胺受體拮抗劑（如 risperidone、aripiprazole）可有效減少抽動。\n❌ (D) 這一句是對的：妥瑞氏症常合併強迫症與注意力不足過動症。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Tic Disorders；AAN《Practice Guideline Recommendations: Treatment of Tics in People with Tourette Syndrome》(2019)。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "腦炎（Encephalitis）",
     "腦血管畸型（Cerebral vascular malformation）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 四個月大嬰兒、無外傷史卻同時有蜘蛛網膜下腔出血、嚴重腦水腫與「視網膜出血」——這一組合對受虐性頭部外傷（搖晃嬰兒症候群）的特異性極高，必須依法通報並啟動兒虐評估（含骨骼調查與眼底照相）。\n❌ (A) 腦膜炎會有發燒與腦脊髓液異常，不會造成視網膜出血。\n❌ (C) 腦炎同樣不會造成多層視網膜出血與硬腦膜下出血。\n❌ (D) 腦血管畸形可造成出血，但不會有廣泛的視網膜出血，且影像上通常可見血管異常。\n📚 出處：AAP《Abusive Head Trauma in Infants and Children Clinical Report》；Nelson Textbook of Pediatrics, 22nd ed., Child Abuse。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med4'] = {
     "降落傘反射（Parachute reflex）",
     "覓乳反射（Rooting reflex）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 降落傘反射是「後天出現」的保護性反射，約 6～9 個月大才發育並終身存在；原始反射則是出生就有、之後逐漸消失。\n❌ (A) 手掌抓握反射出生即有，約 3～6 個月消失。\n❌ (B) 擁抱反射出生即有，約 4～6 個月消失（不對稱代表可能有臂神經叢損傷或鎖骨骨折）。\n❌ (D) 覓乳反射出生即有，約 4 個月消失。\n📚 出處：Nelson Textbook of Pediatrics, 22nd ed., Neurologic Evaluation（primitive reflexes 的出現與消失時程）。"
   },
   {
    "n": 19,
