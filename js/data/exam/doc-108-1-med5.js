@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "Type III",
     "Type IV"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) Bismuth-Corlette 分類看的是腫瘤與左右肝管匯流處的關係：病灶侷限在總肝管、尚未侵犯匯流處者為第一型。\n❌ (B) 第二型是腫瘤已侵犯左右肝管的匯流處。\n❌ (C) 第三型是侵犯匯流處並延伸到右肝管（IIIa）或左肝管（IIIb）。\n❌ (D) 第四型是同時侵犯兩側二級肝管，或呈多發性病灶，通常已無法切除。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Gallbladder and the Extrahepatic Biliary System（Bismuth-Corlette classification）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "ISS分數區域為1分⾄75分，minor injury是指ISS<9分",
     "Glasgow Coma Scale（GCS）能評量外傷病患意識狀態，分數區域為3分⾄15分"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：外傷嚴重度評分是「解剖性」評分系統——把身體分成六區，取傷勢最重的三區各自 AIS 分數的平方相加；生理性評分系統指的是修正外傷評分（RTS）或格拉斯哥昏迷指數那一類。\n❌ (A) 簡易損傷量表 1971 年提出，分為 1（輕微）到 6（極可能致命）共六級。\n❌ (C) 分數範圍 1–75 分（任一區為 6 分即直接記 75 分），一般以小於 9 分為輕傷、16 分以上為重傷。\n❌ (D) 格拉斯哥昏迷指數由睜眼、語言、運動三項組成，總分 3–15 分。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Trauma（Injury scoring scales）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "percutaneous dilatational tracheostomy (PDT)對於critically ill patients with prolonged mechanical intubation，是簡單安全的⼿術，其peri-procedure mortality rate <0.1%",
     "percutaneous endoscopic gastrostomy (PEG) 是針對high risk aspiration, inability to swallow, gastric outlet obstruction的critically ill patients,可提供安全快速的腸道管路路徑，灌食營養品"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：胃出口阻塞與高吸入風險其實是「經皮內視鏡胃造廔」的相對禁忌——這類病人餵到胃裡照樣會逆流嘔吐甚至吸入，應改做空腸造廔或空腸管灌食，不能說是安全快速的選擇。\n❌ (A) 床邊手術省去轉送重症病人的風險、排程彈性且成本較低，是它的公認優點。\n❌ (B) 腹腔間隔室症候群第三級以上（腹內壓 >21 mmHg）合併器官功能惡化時，床邊剖腹減壓是救命處置。\n❌ (C) 經皮擴張氣管造口術在有經驗的團隊執行下併發症低，圍手術期死亡率不到千分之一。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Surgical Critical Care；ASGE Guideline on Enteral Access。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "術中是否輸⾎",
     "⼿術時間⻑短"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 「是不是癌症病人」本身不是手術部位感染的獨立危險因子——真正影響的是營養狀態、免疫抑制治療、手術時間與污染程度等因素，單純的癌症診斷並未被列為標準風險因子。\n❌ (B) 長期吸菸使組織缺氧、微血管收縮並延遲癒合，是明確且可改變的危險因子。\n❌ (C) 術中輸血具免疫調節作用，會提高術後感染率。\n❌ (D) 手術時間愈長，傷口暴露與污染機會愈多，是感染風險指數（NNIS）中的一項。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Surgical Infections；CDC Guideline for the Prevention of Surgical Site Infection（2017）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "低⾎容積休克",
     "神經性休克"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 血壓低、心輸出指數「下降」而中央靜脈壓「上升」，代表幫浦本身衰竭、血液鬱積在靜脈端——這是心因性休克的血行動力學特徵（發燒可能來自誘發的感染或心肌炎，但血行動力學型態才是判讀關鍵）。\n❌ (B) 敗血性休克屬分布性休克，典型為心輸出指數「上升」、全身血管阻力下降、中央靜脈壓偏低。\n❌ (C) 低血容積休克的中央靜脈壓明顯「下降」。\n❌ (D) 神經性休克因交感張力喪失而血管擴張，中央靜脈壓低且常見心搏「變慢」。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Shock（Hemodynamic profiles）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "⼤多數的胰臟移植時常會合併腎臟移植⼀起進⾏",
     "超急性排斥發⽣於移植後數⼗分鐘到數⼩時，是因為接受者體內抗體攻擊捐贈器官上的⾎型相關抗原或⼈ 類⽩⾎球抗原所致"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：第一例人類肝臟移植由 Starzl 於 1963 年完成，心臟移植則是 Barnard 在 1967 年才完成——肝臟比心臟「早」，順序相反。\n❌ (A) 1954 年 Murray 完成同卵雙胞胎間的腎臟移植，是史上第一例成功的器官移植。\n❌ (C) 胰臟移植的對象多為第 1 型糖尿病合併末期腎病者，因此常同時進行腎臟移植。\n❌ (D) 超急性排斥由受者體內既存的抗體（抗 ABO 血型或抗人類白血球抗原）引起，在血流再灌注後數十分鐘至數小時內發生。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Transplantation。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "⼤腸癌",
     "胰臟癌"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 軟組織肉瘤主要循「血行」轉移到肺，淋巴結轉移率不到 5%（只有滑膜肉瘤、上皮樣肉瘤、橫紋肌肉瘤等少數例外），因此手術以廣泛局部切除為主，不做常規淋巴結廓清。\n❌ (A) 胃癌淋巴轉移率高，D2 淋巴結廓清是標準術式。\n❌ (C) 大腸癌的淋巴結廓清與檢出數目（至少 12 顆）直接影響分期與後續治療決策。\n❌ (D) 胰臟癌的區域淋巴結轉移相當常見，是重要的預後因子。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Soft Tissue Sarcomas；NCCN Guidelines for Soft Tissue Sarcoma。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "鉀、磷、鈣",
     "鉀、鈉、鎂"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 長期飢餓後給予醣類，胰島素大量分泌把鉀、磷、鎂一起驅入細胞內，造成血中這三種離子急速下降——低血磷會導致呼吸衰竭與心律不整，是再餵食症候群致命的核心，因此餵食前後都必須監測並補充（同時補充維生素 B1）。\n❌ (B) 鈉在再餵食時的問題是「滯留」造成水腫與心衰竭，應限制而非補充；鈣也不是主角。\n❌ (C) 同樣把鈣誤列進來，漏掉關鍵的鎂。\n❌ (D) 漏掉最重要的磷，還誤加了應該限制的鈉。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Nutrition（Refeeding syndrome）；NICE Nutrition Support Guideline。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "⽪膚咖啡⽜奶斑（Café-au-lait macules）",
     "脊椎發育異常"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 雙側聽神經瘤是「第二型」神經纖維瘤症的診斷指標（NF2 基因在第 22 號染色體），第一型病人很少出現。\n❌ (A) 第一型屬體染色體顯性遺傳，家族史常見（約半數為新生突變）。\n❌ (C) 咖啡牛奶斑是第一型最早出現也最常見的表現。\n❌ (D) 骨骼異常（脊柱側彎、蝶骨發育不全、長骨假關節）是第一型的診斷條件之一。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery；Nelson Textbook of Pediatrics, 21st ed.（Neurofibromatosis）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "hemodilution",
     "hyperventilation"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) Triple-H 指的是高血容量（hypervolemia）、高血壓（hypertension）與血液稀釋（hemodilution），並不包含過度換氣；過度換氣造成腦血管「收縮」，用於急性顱內壓升高的暫時處置，用在血管痙攣上只會讓缺血惡化。\n❌ (A) 高血容量是三者之一。\n❌ (B) 提高血壓以維持腦灌流壓，是三者之一（現代做法多以此項為主）。\n❌ (C) 血液稀釋降低血液黏稠度以改善微循環，是三者之一。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery（Cerebral vasospasm after SAH）。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "⼿術是第⼀線主要治療⽅法",
     "直徑<1公分通常⽤立體定位放射線⼿術（SRS）治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 泌乳素濃度超過 150–200 ng/mL 幾乎可確定是泌乳素瘤（其他原因如藥物、甲狀腺低能、垂體柄效應通常在 100 ng/mL 以下），且數值大致與腫瘤體積成正比。\n❌ (A) 泌乳素瘤多為直徑小於 1 公分的微腺瘤（尤其女性，因月經異常與泌乳而早期被發現）。\n❌ (C) 它是少數「以藥物為第一線」的腦下垂體腫瘤——多巴胺促效劑（cabergoline、bromocriptine）能同時降低泌乳素並縮小腫瘤。\n❌ (D) 微腺瘤以藥物治療即可，放射手術只保留給藥物與手術都失敗的病例。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Hypothalamic-Pituitary Disorders（Prolactinoma）；Schwartz's Principles of Surgery, 11th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "多形性神經膠質⺟細胞瘤（glioblastoma multiforme）為最常⾒之神經膠質瘤",
     "多形性神經膠質⺟細胞瘤（glioblastoma multiforme）治療⽅法為盡可能完全切除加上放射線治療與 temozolomide化療"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：小腦毛細胞星形細胞瘤（WHO 第一級）的主要治療是「手術完全切除」，切乾淨即可長期存活甚至治癒，不需要常規放射治療（放療保留給無法切除或復發者）。\n❌ (B) 寡樹突神經膠細胞瘤（尤其帶 1p/19q 共同缺失者）對化療反應佳，治療策略正是最大範圍切除後化療（併放療）。\n❌ (C) 多形性神經膠質母細胞瘤占所有神經膠質瘤的一半以上，是最常見者。\n❌ (D) 它的標準治療即為最大安全切除加上放射治療併 temozolomide。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery；WHO Classification of Tumours of the Central Nervous System, 5th ed.。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "最常發⽣原因是superior cerebellar artery壓到三叉神經之腦幹端",
     "開腦⼿術將⾎管與神經墊開是第⼀線治療⽅式"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：三叉神經痛的第一線治療是「藥物」——carbamazepine（或 oxcarbazepine）有效率極高；微血管減壓手術是藥物無效或無法忍受副作用時才考慮。\n❌ (A) 多發性硬化症的脫髓鞘斑塊若位於三叉神經進入區，可造成續發性三叉神經痛（年輕病人或雙側症狀時要特別懷疑）。\n❌ (B) 小腦橋腦角的腫瘤（如聽神經瘤、腦膜瘤、表皮樣囊腫）壓迫也會造成。\n❌ (C) 最常見的原因就是小腦上動脈在神經根進入橋腦處造成的血管壓迫。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery；Harrison's Principles of Internal Medicine, 21st ed., Ch. Cranial Nerve Disorders（Trigeminal neuralgia）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "維持⼿部功能姿勢（functional position），是為了避免伸展肌腱攣縮（extensor tendon contracture）",
     "拇指應維持在外展（abduction）的位置"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：手部燒傷的副木應擺在「安全姿勢」——掌指關節「屈曲」約 70–90 度、指間關節伸展、腕背屈、拇指外展；若讓掌指關節伸展，側副韌帶會在縮短的位置攣縮，日後手指再也無法握拳。\n❌ (A) 傷口愈早癒合，發炎與纖維化的時間愈短，攣縮風險愈低。\n❌ (C) 維持功能姿勢的目的正是避免肌腱與關節在不良位置攣縮。\n❌ (D) 拇指維持外展（虎口撐開）才能保住對掌功能。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Burns（Hand burns and splinting）。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "巨噬細胞（macrophage）",
     "肌纖維⺟細胞（myofibroblast）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 肌纖維母細胞是由纖維母細胞分化而來、胞內含 α 平滑肌肌動蛋白的細胞，它一邊收縮一邊拉近傷口邊緣，是造成傷口收縮（與病態瘢痕攣縮）的主角。\n❌ (A) T 淋巴球參與傷口癒合的免疫調節與膠原重塑，不負責收縮。\n❌ (B) B 淋巴球在傷口癒合中角色極小。\n❌ (C) 巨噬細胞是傷口癒合的指揮官（清創並分泌生長因子），但本身不產生收縮力。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Wound Healing（Wound contraction and myofibroblasts）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "常⾒的⼿術失敗原因包括⾎腫、感染，但移植⽪膚因位移產⽣缺失（loss）情況並不多⾒",
     "移植⽪膚的真⽪愈厚，愈不會產⽣傷⼝疤痕攣縮（scar contracture）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 移植皮膚帶的真皮愈厚（全層皮或厚中厚皮），二次收縮（scar contracture）愈輕微——因為真皮內的膠原結構抑制了肌纖維母細胞的收縮，這也是關節與臉部優先選用全層皮的原因。\n❌ (A) 血漿浸潤是「術後最初 24–48 小時」皮片靠受床滲出液存活的階段，48–72 小時後才進入血管接合與新生血管期。\n❌ (B) 屍皮來自同種（人類）供體，屬「同種異體」移植（allograft），不是異種移植。\n❌ (C) 皮片移位造成的剪力破壞新生血管，是手術失敗的常見原因之一，與血腫、感染並列三大主因。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Plastic and Reconstructive Surgery（Skin grafts）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "適合取較⼤肌⾁來重建缺損的是屬於type I、III、V",
     "股薄肌（gracilis）是屬於type IV，所以只能取⼀⼩部分肌⾁來重建缺損"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) Mathes & Nahai 分類中，第 I 型（單一血管莖）、第 III 型（兩條主要血管莖）與第 V 型（一條主要血管莖加上多條次要節段性血管莖）的血流供應可靠，可以整塊或大範圍取用來重建大型缺損。\n❌ (A) 臀大肌與腹直肌各由兩條主要血管莖供應，屬第 III 型，不是第 II 型。\n❌ (B) 闊背肌由胸背動脈這條主要血管莖加上多條肋間與腰動脈的節段性分支供應，屬第 V 型。\n❌ (D) 股薄肌屬第 II 型（一條主要血管莖加數條次要血管莖），是肌皮瓣中最典型的第 II 型代表。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Plastic and Reconstructive Surgery（Mathes and Nahai classification of muscle flaps）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "⽣物⼯程真⽪替代物（bioengineered dermal replacement）⼤部分只能當作暫時性的傷⼝覆蓋",
     "⽣物⼯程真⽪替代物（bioengineered dermal replacement）優點是具有優異的引導上⽪化（re- epithelialization）的能⼒"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：生物工程真皮替代物提供的是真皮基質支架，本身「不含表皮細胞」，無法引導上皮化——臨床上必須在其血管化後再覆蓋一層薄中厚皮片才能完成傷口閉合。\n❌ (A) 培養的異體角質細胞能立即覆蓋傷口，並釋出生長因子促進自體上皮爬行。\n❌ (B) 它極為脆弱、不易操作，且缺乏真皮結構，仍無法防止傷口攣縮。\n❌ (C) 多數生物工程皮膚替代物（尤其含異體細胞者）會被受者排斥或吸收，只能作為暫時性覆蓋。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Burns（Skin substitutes）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "嚴重完整型唇顎裂（complete cleft lip/palate）可能導致吸入性肺炎，所以應該提早於3～6周進⾏⼿術",
     "顎裂矯正⼿術的併發症最常⾒的是瘻管（fistula），其次是無法完全矯正語⾔發⾳和腭咽不全 （velopharyngeal insufficiency）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：唇裂修補的標準時機是「十的法則」——約 10 週大、體重 10 磅、血紅素 10 g/dL 以上（顎裂則在 9–12 個月），3–6 週太早，麻醉風險高且組織太小不利修補；完整型唇顎裂造成的餵食困難應以特殊奶嘴與擺位處理，不是提前開刀。\n❌ (A) 唇顎裂是最常見的顏面先天異常，臺灣發生率約每千名新生兒 1–2 例。\n❌ (B) 家族史、孕期用藥（如抗癲癇藥）、感染與吸菸都是已知危險因子。\n❌ (D) 顎裂修補後最常見的併發症就是廔管，其次是腭咽閉鎖不全造成的鼻音與構音問題。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Plastic and Reconstructive Surgery（Cleft lip and palate）。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med5'] = {
     "三條⾎管阻塞合併有左前降冠狀動脈近端（LAD proximal）嚴重阻塞（⼤於75%）",
     "⼆條⾎管阻塞包括左前降冠狀動脈近端（LAD proximal）嚴重阻塞（⼤於75%）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 單獨一條近端左前降支嚴重狹窄、且左心室功能正常者，繞道手術對「延長壽命」的建議等級並非第一級（多列為 IIa，且經皮介入亦為合理選擇）——真正能靠手術改善存活的是左主幹與多血管病變。\n❌ (B) 左主幹嚴重狹窄是繞道手術延長壽命最經典的第一級適應症。\n❌ (C) 三條血管病變合併近端左前降支狹窄，屬第一級建議（合併左心室功能不良時效益更大）。\n❌ (D) 兩條血管病變且包含近端左前降支狹窄，同樣列為第一級建議。\n📚 出處：ACC/AHA Guideline for Coronary Artery Bypass Graft Surgery；Schwartz's Principles of Surgery, 11th ed., Ch. Acquired Heart Disease。"
   },
   {
    "n": 21,

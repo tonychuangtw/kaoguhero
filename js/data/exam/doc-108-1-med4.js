@@ -306,7 +306,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "因有⽪膚的症狀，須局部治療",
     "注意是否合併腹痛、關節痛、⾎尿"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 類過敏性紫斑症是全身性小血管炎，除了下肢與臀部的可觸摸性紫斑外，必須主動評估腹痛（腸壁出血、腸套疊）、關節痛與腎臟侵犯（血尿、蛋白尿）——腎炎可能在皮疹消退後數週才出現，因此需追蹤尿液至少半年。\n❌ (A) 它是「IgA」免疫複合體沉積造成的血管炎，不是 IgE 媒介的過敏反應。\n❌ (B) 多數病人為自限性，只需支持療法；類固醇主要用於嚴重腹痛或腎臟侵犯者。\n❌ (C) 皮膚紫斑是全身性血管炎的表現，不需要也無法靠局部治療處理。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Vasculitis Syndromes（IgA vasculitis / Henoch-Schönlein purpura）。"
   },
   {
    "n": 22,
@@ -319,7 +320,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "頸部淋巴結腫⼤",
     "雙眼結膜發炎"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 川崎氏症的口腔黏膜變化是「瀰漫性充血」——嘴唇乾裂出血、草莓舌，但「不會」出現水泡或潰瘍；口腔出現水泡潰瘍反而要想到疱疹性齒齦口炎或腸病毒的疱疹性咽峽炎。\n❌ (A) 草莓舌與唇紅腫龜裂是川崎氏症的主要診斷條件之一。\n❌ (C) 單側頸部淋巴結腫大（直徑 >1.5 公分）也是六大條件之一。\n❌ (D) 兩側非化膿性球結膜充血同樣是典型表現。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Kawasaki Disease；AHA Scientific Statement on Kawasaki Disease。"
   },
   {
    "n": 23,
@@ -332,7 +334,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "氣喘（Asthma）",
     "氣道異物阻塞（Airway foreign body obstruction）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 幼兒在「進食或跑動時突然」開始咳嗽，之後出現「單側」喘息音，且對支氣管擴張劑毫無反應——這是氣道異物的典型三部曲，應安排硬式支氣管鏡取出，延誤會造成阻塞性肺氣腫或阻塞後肺炎。\n❌ (A) 上呼吸道感染有數天的鼻水、發燒等前驅症狀，不會突然發作，也不會單側喘息。\n❌ (B) 細支氣管炎好發於兩歲以下但為病毒感染，喘息是「兩側」且有感染前驅症狀。\n❌ (C) 氣喘的喘息為兩側瀰漫性，且對支氣管擴張劑多半有反應。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Foreign Bodies in the Airway。"
   },
   {
    "n": 24,
@@ -345,7 +348,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "尚未有國際指引建議嬰幼兒常規性使⽤益⽣菌來預防過敏",
     "⺟乳餵哺期間，⺟親需要避免食⽤⾼過敏食物"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 最不恰當：現行證據並不支持哺乳母親迴避高過敏食物來預防嬰兒過敏，這樣做只會犧牲母親的營養均衡與哺乳意願，卻沒有預防效果。\n❌ (A) 同理，孕期飲食也不需要迴避海鮮、花生等食物。\n❌ (B) 建議 4–6 個月開始添加副食品，適時引入易致敏食物反而有助誘導耐受性。\n❌ (C) 益生菌預防過敏的證據仍不一致，目前沒有國際指引建議常規使用。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Allergy and the Immunologic Basis of Atopic Disease；AAP Clinical Report on Early Introduction of Allergenic Foods。"
   },
   {
    "n": 25,
@@ -358,7 +362,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "肺功能檢查常⾒到阻塞性的異常",
     "美觀為⼿術的考量主因之⼀"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：漏斗胸的男女比約 3–5 比 1，男孩明顯多於女孩，不是女孩較多。\n❌ (A) 幼童的胸廓需氧需求低、胸壁柔軟，運動時較少出現症狀；症狀通常在青春期胸廓快速生長、凹陷加深後才明顯。\n❌ (C) 漏斗胸的肺功能多為正常或輕度異常，文獻中同時記載阻塞型與限制型的變化，本題不以此項為誤。\n❌ (D) 外觀與心理層面的困擾，確實是決定是否手術（Nuss 手術）的重要考量之一。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Congenital Anomalies of the Chest Wall（Pectus excavatum）。"
   },
   {
    "n": 26,
@@ -371,7 +376,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "若凝⾎酶原時間（Prothrombin time）和部分凝⾎活酶時間（Activated partial thromboplastin time）延⻑， 應給與維⽣素K以提升肝臟合成凝⾎因⼦II, VII, IX, X",
     "對於有昏睡或意識障礙的肝病病童，若⾎氨（Ammonia）已經上升且合併第⼆期肝腦病變（Hepatic encephalopathy Stage II）之意識混淆及嗜睡，應立即插管使⽤呼吸器"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 凝血酶原時間與部分凝血活酶時間延長時，應先給維生素 K——因為第 II、VII、IX、X 因子的活化需要維生素 K 依賴的羧化作用；若給了仍不改善，才確定是肝臟合成能力衰竭而非維生素 K 缺乏，這也是重要的鑑別步驟。\n❌ (A) 轉胺酶反映的是肝細胞損傷的「量」，與嚴重度不成正比；肝細胞大量壞死到最後轉胺酶反而下降。真正的嚴重度指標是凝血時間（INR）與肝腦病變程度。\n❌ (B) 白蛋白半衰期約 20 天，急性肝衰竭初期不會低；治療也不是先輸白蛋白，且應限制而非「維持性」大量輸液以免加重腦水腫。\n❌ (D) 第二期肝腦病變（意識混淆、嗜睡）尚可觀察並積極治療，插管使用呼吸器的時機是第三、四期（嗜睡到昏迷、無法保護呼吸道）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Acute Liver Failure。"
   },
   {
    "n": 27,
@@ -384,7 +390,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "法洛⽒四重症（Tetralogy of Fallot）",
     "極端型肺動脈瓣狹窄合併開放性動脈導管（Critical pulmonary valve stenosis with patent ductus arteriosus）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 右手（動脈導管前）血氧 98%、下肢（動脈導管後）90%，這種「差異性發紺」代表主動脈弓有阻塞、下半身的血流須靠開放性動脈導管由肺動脈供應——正是主動脈弓窄縮合併開放性動脈導管的表現，處置是給前列腺素 E1 維持導管開放。\n❌ (A) 完全型動脈幹是體循環與肺循環共用一條大血管，上下肢血氧相同（皆偏低）。\n❌ (C) 法洛氏四重症的血氧下降是全身一致的，不會有上下肢差異。\n❌ (D) 極端型肺動脈瓣狹窄的缺氧血是經導管進入主動脈供應下半身，若有差異也是「下肢高於右手」的反向型態。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Coarctation of the Aorta；AAP Pulse Oximetry Screening for Critical Congenital Heart Disease。"
   },
   {
    "n": 28,
@@ -397,7 +404,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⼼雜⾳僅僅在收縮期出現",
     "第⼆⼼⾳會因吸氣⽽出現分岔的情形（S2 split）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 強度達第 4 級（伴有震顫 thrill）的心雜音一定是病理性的；無害性心雜音的強度通常在第 2 級以下，最多不超過第 3 級。\n❌ (B) 無害性心雜音會隨姿勢（躺下變大、站起變小）與呼吸改變，正是它的特徵。\n❌ (C) 它只出現在收縮期；舒張期雜音一律視為病理性。\n❌ (D) 第二心音隨吸氣出現生理性分裂，代表右心射血時間正常延長，是正常現象（固定分裂才異常）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. History and Physical Examination in Cardiac Evaluation（Innocent murmurs）。"
   },
   {
    "n": 29,
@@ -410,7 +418,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "肺動脈瓣閉鎖且無⼼室中膈缺損（Pulmonary atresia with intact ventricular septum）",
     "左⼼發育不全症候群（Hypoplastic left heart syndrome）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 阻塞型全肺靜脈回流異常的病灶在「肺靜脈回流路徑」上，血液回不了心臟造成肺水腫；維持動脈導管開放不但無助改善，反而增加肺血流使肺水腫惡化——此病是少數需要「緊急手術」而非前列腺素的新生兒心臟急症。\n❌ (B) 嚴重主動脈弓窄縮須靠導管供應下半身血流，前列腺素是救命藥。\n❌ (C) 肺動脈瓣閉鎖且心室中膈完整者，肺血流完全依賴動脈導管。\n❌ (D) 左心發育不全症候群的體循環血流全靠導管由右心室供應。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Total Anomalous Pulmonary Venous Return；Ch. Ductal-Dependent Congenital Heart Lesions。"
   },
   {
    "n": 30,
@@ -423,7 +432,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "皆為1/2",
     "皆為2/3"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 體染色體隱性遺傳中，父母皆為帶因者，子代基因型比例為 1 正常：2 帶因：1 患病；哥哥與姊姊「已知沒有發病」，等於排除了患病那一格，因此在剩下的三種可能中帶因的機率各為 2/3。\n❌ (A) 兩人條件完全相同，機率不可能一個 1/4、一個 1/2。\n❌ (B) 1/4 是未考慮「已知未發病」這項資訊時，隨機子代患病的機率。\n❌ (C) 1/2 是未排除患病可能時的帶因機率（也是患者子女必為帶因以外情境的常見答案）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Genetics（Autosomal recessive inheritance and Bayesian risk）；Ch. Defects in Metabolism of Amino Acids（Phenylketonuria）。"
   },
   {
    "n": 31,
@@ -436,7 +446,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "篩檢的疾病以胺基酸、有機酸、脂肪酸代謝異常為主",
     "低體重兒、產程有併發症的寶寶比較會有偽陽性（False positive）的結果"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：新生兒代謝篩檢應在「出生滿 48 小時、且已開始餵奶」之後採檢——太早採檢時許多代謝物尚未累積到可偵測的濃度，容易造成偽陰性。\n❌ (B) 串聯質譜儀可一次分析數十種胺基酸與醯基肉鹼，是目前篩檢的主力工具。\n❌ (C) 現行篩檢項目確實以胺基酸、有機酸與脂肪酸氧化異常為主（另含先天性甲狀腺低能症、蠶豆症等）。\n❌ (D) 低體重兒、早產、產程併發症或靜脈營養都會影響代謝物濃度，偽陽性率較高，需要複檢。\n📚 出處：衛生福利部國民健康署「新生兒篩檢作業手冊」；Nelson Textbook of Pediatrics, 21st ed., Ch. Newborn Screening。"
   },
   {
    "n": 32,
@@ -449,7 +460,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "裘馨⽒肌⾁失養症（Duchenne muscular dystrophy）",
     "結節性硬化症（Tuberous sclerosis complex）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 庫利氏貧血（重型乙型海洋性貧血）屬體染色體隱性遺傳：父母皆為帶因而外表正常，子代不分性別皆有 1/4 機率發病——家族譜系中患者出現在同一世代的兄弟姊妹、且父母未患病，就是典型的隱性遺傳圖形。\n❌ (A) 軟骨發育不全是體染色體顯性遺傳，患者每一世代都會出現（八成為新生突變）。\n❌ (C) 裘馨氏肌肉失養症是 X 染色體隱性遺傳，患者幾乎全為男性，經帶因母親傳遞。\n❌ (D) 結節性硬化症為體染色體顯性遺傳。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Genetics（Patterns of inheritance）；Ch. The Thalassemias。"
   },
   {
    "n": 33,
@@ -462,7 +474,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "睪丸探查⼿術",
     "睪丸切除⼿術"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 青少年半夜突發的單側劇烈睪丸痛，第一考量是睪丸扭轉；黃金搶救時間只有 6 小時，在沒有影像檢查可用時，不應為了等檢查而延誤——直接進行陰囊探查手術（術中復位並雙側固定）才是標準做法。\n❌ (A) 副睪炎的疼痛多為漸進性且常伴排尿症狀，本例病史不符，貿然只給抗生素會錯失搶救時機。\n❌ (B) 急性期做切片毫無意義，也不能解決缺血。\n❌ (D) 應先探查評估睪丸是否還能存活，確定壞死才切除，不能一開始就切。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Disorders and Anomalies of the Scrotal Contents（Testicular torsion）。"
   },
   {
    "n": 34,
@@ -475,7 +488,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "外⽤抗黴菌藥物不能有效治療脂漏性⽪膚炎",
     "若是病程頑固且臨床表現不尋常，需留意HIV感染"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：脂漏性皮膚炎與皮屑芽孢菌（Malassezia）過度增生有關，外用抗黴菌藥（如 ketoconazole 洗劑或乳膏）正是有效且常用的第一線治療。\n❌ (A) 好發部位就是皮脂腺豐富處：頭皮、眉毛、鼻翼兩側、耳後與胸前。\n❌ (B) 發病年齡呈雙峰，嬰兒期（乳痂）與成人期各有一個高峰。\n❌ (D) 病情特別頑固、範圍廣泛或表現不典型時，應考慮 HIV 感染或帕金森氏症等潛在疾病。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Seborrheic Dermatitis；Nelson Textbook of Pediatrics, 21st ed.。"
   },
   {
    "n": 35,
@@ -488,7 +502,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "病灶的病理組織檢查常⾒嗜伊紅球（eosinophil）浸潤",
     "治療藥物以⼝服⽪質類固醇和免疫抑制劑為主"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：類天疱瘡是「老年人」的疾病，好發於 70 歲以上，年輕人罕見；它由抗 BP180／BP230 抗體攻擊表皮下的半橋粒造成，水泡位於表皮下故緊實不易破。\n❌ (B) 疾病初期常先有數週至數月的搔癢與蕁麻疹樣紅斑，之後才長出水泡。\n❌ (C) 病理上除了表皮下水泡，真皮浸潤以嗜伊紅球為特徵。\n❌ (D) 治療以全身性類固醇合併免疫抑制劑為主（局部強效類固醇對輕症亦有效）。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Bullous Pemphigoid。"
   },
   {
    "n": 36,
@@ -501,7 +516,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "扁平苔癬（lichen planus）",
     "類澱粉性苔癬（lichen amyloidsis）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 中老年人背部與四肢伸側長年反覆搔癢的褐色角化丘疹，切片以剛果紅染色陽性、偏光顯微鏡下呈蘋果綠雙折射——證實真皮乳頭有類澱粉沉積，即類澱粉性苔癬（角質細胞退化產生的角蛋白衍生類澱粉，屬皮膚局限型）。\n❌ (A) 點滴狀乾癬為急性發作的多發小紅斑塊覆銀白鱗屑，常在鏈球菌咽炎後出現，剛果紅陰性。\n❌ (B) 結節性癢疹是搔抓造成的表皮增生結節，病理為表皮肥厚與神經增生，無類澱粉沉積。\n❌ (C) 扁平苔癬為紫紅色多角形扁平丘疹，病理是界面皮膚炎與帶狀淋巴球浸潤。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Amyloidosis of the Skin（Lichen amyloidosis）。"
   },
   {
    "n": 37,
@@ -514,7 +530,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "判斷接觸性⽪膚炎的嚴重度",
     "確認發病時間是否超過48⼩時"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 貼膚試驗把可疑的過敏原貼在背部 48 小時後判讀延遲型（第四型）過敏反應，目的是「找出到底對哪一種物質過敏」，好讓病人日後避免接觸——這是過敏性接觸皮膚炎診治的關鍵步驟。\n❌ (A) 它只針對過敏性接觸皮膚炎，對刺激性接觸皮膚炎（非免疫機轉）無法確診。\n❌ (C) 試驗結果的強弱反映的是對該過敏原的反應性，不能用來評估病情嚴重度。\n❌ (D) 48 小時是判讀的時間點（另在 72–96 小時再判讀一次），與發病時間無關。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Allergic Contact Dermatitis（Patch testing）。"
   },
   {
    "n": 38,
@@ -527,7 +544,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "異位性⽪膚炎",
     "鬱⾎性⽪膚炎"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 幼年即發病、慢性反覆、劇癢，好發於四肢屈側，加上父母有過敏性鼻炎的家族史（異位性體質）——這是異位性皮膚炎的典型輪廓，病生理為皮膚屏障缺損（filaggrin 相關）合併第二型免疫發炎。\n❌ (A) 脂漏性皮膚炎分布在皮脂腺豐富處且多不劇癢，嬰兒期後即少見。\n❌ (B) 接觸性皮膚炎侷限在接觸部位，且會隨接觸而發、避開就好，不會從兩歲反覆到六歲。\n❌ (D) 鬱血性皮膚炎發生在有靜脈曲張的成人小腿，兒童不會有。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Atopic Dermatitis；Fitzpatrick's Dermatology, 9th ed.。"
   },
   {
    "n": 39,
@@ -540,7 +558,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "Stevens-Johnson syndrome",
     "bullous pemphigoid"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 類天疱瘡的水泡位於「表皮下」（基底膜帶），表皮整層是完整的，因此側向推壓皮膚不會造成表皮剝離——Nikolsky 徵象陰性，這正是它與天疱瘡最重要的臨床鑑別點。\n❌ (A) 葡萄球菌燙傷樣皮膚症候群的表皮剝脫毒素切斷 desmoglein-1，分離面在顆粒層，徵象陽性。\n❌ (B) 尋常性天疱瘡的抗體攻擊 desmoglein-3，表皮內棘細胞鬆解，徵象陽性。\n❌ (C) 史蒂芬強生症候群的角質細胞大量壞死造成表皮全層剝離，徵象陽性。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Pemphigus and Ch. Bullous Pemphigoid。"
   },
   {
    "n": 40,
@@ -553,7 +572,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "病患會出現發燒、喉嚨痛、肌⾁痠痛、嘔吐或是腹瀉，嚴重時會造成低⾎壓以及多重器官衰竭",
     "主要致病機轉為Pseudomonas 製造的exfoliative toxin所引起"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：毒性休克症候群的病因是金黃色葡萄球菌的 TSST-1（或 A 群鏈球菌的化膿性外毒素）這類「超抗原」大量活化 T 細胞而引發細胞激素風暴；綠膿桿菌與剝脫毒素都不是它的機轉（剝脫毒素造成的是葡萄球菌燙傷樣皮膚症候群）。\n❌ (A) 廣泛的皮膚紅疹（似曬傷）與恢復期一至兩週後的脫屑，是典型皮膚表現。\n❌ (B) 除了經典的月經棉條相關病例外，術後傷口、鼻填塞與深部軟組織感染都是常見來源，初期皮膚劇痛是重要警訊。\n❌ (C) 發燒、喉嚨痛、肌肉痠痛、嘔吐腹瀉，進而低血壓與多重器官衰竭，正是它的病程。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Staphylococcus aureus（Toxic shock syndrome）；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 41,
@@ -566,7 +586,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "易併發⽪膚⾎管病變（vasculopathy）",
     "易併發⿐咽癌"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：與惡性腫瘤相關的是「成人型」皮肌炎；青年型皮肌炎並不會特別合併鼻咽癌或其他癌症，因此兒童病人不需要做成人那樣的全面腫瘤篩檢。\n❌ (A) 部分病童只有典型皮疹而肌力與肌酵素正常，即無肌病型皮肌炎。\n❌ (B) 皮膚與皮下鈣化是青年型皮肌炎特有且棘手的後遺症，發生率遠高於成人型。\n❌ (C) 它的本質是全身性血管病變，甲褶微血管異常、皮膚潰瘍與腸道血管炎都由此而來。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Juvenile Dermatomyositis。"
   },
   {
    "n": 42,
@@ -579,7 +600,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "轉移性⿊⾊素癌可能造成全⾝⽪膚⿊⾊素過度沉著（universal melanosis）",
     "基因、賀爾蒙、紫外線等因素都可能會造成⽪膚⿊⾊素過度沉著"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：汗斑由皮屑芽孢菌引起，菌體產生的壬二酸會抑制黑色素細胞的酪胺酸酶，因此病灶「可深可淺」——在深膚色或曬黑的皮膚上常表現為白色脫色斑。\n❌ (A) 黑色素細胞數目增加（如黑色素細胞痣）與單純黑色素顆粒製造增多（如黑斑、雀斑），都會造成色素過度沉著。\n❌ (C) 轉移性黑色素瘤大量釋出黑色素前驅物，可造成全身皮膚瀰漫性變黑（甚至黑色素尿）。\n❌ (D) 遺傳、荷爾蒙（如懷孕引起的肝斑）與紫外線都是常見成因。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Disorders of Melanocytes；Ch. Superficial Fungal Infections（Pityriasis versicolor）。"
   },
   {
    "n": 43,
@@ -592,7 +614,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "若施打雷射的劑量太強或施打太頻繁，容易造成醫源性⾊素脫失",
     "外⽤A酸（retinoic acid）藥膏對於雀斑（freckles）有淡化效果"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：脈衝光的波長與能量主要作用在表淺色素，「真皮層」的色素（如太田母斑、顴骨母斑）要靠 1064 nm 的 Q 開關釹雅各雷射才能深入擊碎，效果遠優於脈衝光。\n❌ (A) 對苯二酚抑制酪胺酸酶，對表皮型色素沉著（如肝斑、發炎後色素沉著）確實有效。\n❌ (C) 雷射能量過強或間隔太密會破壞黑色素細胞，造成醫源性的色素脫失（且往往不可逆）。\n❌ (D) 外用 A 酸促進表皮代謝與角質更新，對雀斑等表皮色素有淡化效果。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Disorders of Hyperpigmentation；Ch. Laser and Light Therapy。"
   },
   {
    "n": 44,
@@ -605,7 +628,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⾎管⾓化瘤（angiokeratoma）",
     "竇狀⾎管瘤（sinusoid hemangioma）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 老年男性下肢逐漸出現的紫紅色斑塊，病理見篩板狀（sieve-like）不規則增生的血管腔隙、夾雜梭形細胞與外滲紅血球及含鐵血黃素——這是卡波西氏肉瘤的典型病理，臺灣與地中海地區常見的是這種「經典型」。\n❌ (A) 血管肉瘤好發於老年人的頭頸部，呈瘀青樣浸潤性斑塊，病理為異型內皮細胞形成互相吻合的血管網，惡性度高。\n❌ (C) 血管角化瘤是表皮角化過度合併真皮乳頭擴張的血管腔，病灶為孤立的黑紫色角化丘疹。\n❌ (D) 竇狀血管瘤是良性的海綿狀血管腔隙，不會有梭形細胞增生。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Kaposi Sarcoma。"
   },
   {
    "n": 45,
@@ -618,7 +642,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "human papilloma virus（HPV）",
     "Epstein-Barr virus（EBV）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 卡波西氏肉瘤的致病病毒是第八型人類疱疹病毒（又稱卡波西氏肉瘤相關疱疹病毒），四種臨床型別（經典型、地方型、器官移植相關型、愛滋病相關型）都與它有關，免疫組織化學染色 LANA-1 陽性可協助確診。\n❌ (B) 第二型單純疱疹病毒造成生殖器疱疹，與腫瘤無關。\n❌ (C) 人類乳突病毒與子宮頸癌、頭頸癌及疣有關。\n❌ (D) EB 病毒與伯基特淋巴瘤、鼻咽癌及移植後淋巴增生性疾病有關。\n📚 出處：Fitzpatrick's Dermatology, 9th ed., Ch. Kaposi Sarcoma；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 46,
@@ -631,7 +656,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "抗⾎⼩板藥物（antiplatelet）",
     "抗凝⾎藥物（anticoagulants）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這是典型的「睡醒型中風」：最後被目擊正常是前一晚 10 點，發作時間無法確定，已遠超過靜脈血栓溶解劑的 4.5 小時時間窗，因此依標準應給抗血小板藥物（如阿斯匹靈）並積極控制危險因子。\n❌ (A) 發病時間不明且極可能超過 4.5 小時，貿然給血栓溶解劑會大幅提高腦出血風險（部分中心會依進階影像挑選病人，但那不是一般常規）。\n❌ (B) 放射冠梗塞屬小血管疾病，與頸動脈狹窄的機轉不同，急性期也不做支架。\n❌ (D) 抗凝血劑用於心房顫動等心因性栓塞的次級預防，且急性期給予會增加出血轉化風險。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cerebrovascular Diseases；AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke。"
   },
   {
    "n": 47,
@@ -644,7 +670,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "顱內囊狀（saccular type）動脈瘤",
     "顱內梭狀（fusiform type）動脈瘤"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 排除外傷後，「自發性」蜘蛛膜下腔出血約有八成以上來自顱內囊狀（漿果狀）動脈瘤破裂，好發於威利氏環的分支處，典型表現是霹靂般的劇烈頭痛。\n❌ (A) 若把外傷也算進來，頭部外傷是蜘蛛膜下腔出血整體最常見的成因，但臨床上討論此病時指的是自發性出血。\n❌ (B) 動靜脈畸形約占自發性蜘蛛膜下腔出血的 5% 左右。\n❌ (D) 梭狀動脈瘤多與動脈硬化有關，好發於椎基底動脈，破裂遠比囊狀動脈瘤少見。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cerebrovascular Diseases（Subarachnoid hemorrhage）。"
   },
   {
    "n": 48,
@@ -657,7 +684,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "單側肢體無⼒",
     "意識障礙"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 頭痛是腦靜脈竇栓塞最常見的表現，約九成病人會出現——多為亞急性、逐漸加重的持續頭痛，源於顱內壓上升，因此年輕人（尤其孕產婦、口服避孕藥使用者）的不典型頑固頭痛必須想到此病。\n❌ (A) 複視源於顱內壓升高造成的第六對腦神經麻痺，是較晚期且較少見的表現。\n❌ (C) 單側肢體無力要等到靜脈性梗塞形成才出現，約見於四成病人。\n❌ (D) 意識障礙屬病情惡化（大範圍水腫或出血）的表現，並非最常見。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cerebrovascular Diseases（Cerebral venous thrombosis）。"
   },
   {
    "n": 49,
@@ -670,7 +698,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⽇後極可能變成阿茲海默⽒症",
     "多數夢境是愉快的"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 快速動眼期在後半夜比例最高、時間最長，因此此症的異常行為（把夢境演出來）多發生在「後半夜」；病生理是腦幹失去對快速動眼期肌肉張力的抑制。\n❌ (B) 動作內容隨夢境而變，並非固定模式（固定刻板的動作型態反而要想到夜間額葉癲癇）。\n❌ (C) 它是 α-突觸核蛋白疾病的前驅表現，多年後轉變為巴金森氏症、路易氏體失智症或多系統萎縮，不是阿茲海默氏症。\n❌ (D) 夢境多為被追趕、攻擊等不愉快甚至暴力的內容，病人因此揮拳踢腿而受傷。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Sleep Disorders（REM sleep behavior disorder）。"
   },
   {
    "n": 50,
@@ -683,7 +712,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "抗癲癇藥（valproate）是治療⾸選藥物",
     "診斷可能為兒童失神性癲癇"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：起床後不自主的肢體抽動（肌陣攣）並可能因而跌倒、智力正常、有家族史——這是「青少年肌陣攣癲癇」；兒童失神性癲癇的表現是每天數十次的短暫發呆凝視，腦波為 3 Hz 棘慢波，兩者不同。\n❌ (A) 青少年肌陣攣癲癇的腦波典型為 4–6 Hz 的廣泛性多棘慢波，敘述正確。\n❌ (B) 它有明顯遺傳傾向（如 GABRA1、EFHC1 等基因），基因檢測可協助診斷。\n❌ (C) 丙戊酸對此症的三種發作型態（肌陣攣、失神、全身強直陣攣）都有效，是傳統首選（育齡女性須改用 levetiracetam 等替代藥）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Seizures in Childhood（Juvenile myoclonic epilepsy）。"
   },
   {
    "n": 51,
@@ -696,7 +726,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⽇常活動會使頭痛加劇",
     "伴隨流淚及眼結膜充⾎"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 流淚與結膜充血屬於「三叉自律神經性頭痛」（如叢發性頭痛）的自律神經症狀，不是偏頭痛的診斷標準。\n❌ (A) 未治療或治療無效時發作持續 4–72 小時，是偏頭痛的時間標準。\n❌ (B) 噁心和／或嘔吐是伴隨症狀標準之一（另一為畏光加畏聲）。\n❌ (C) 日常活動會使頭痛加劇（或病人因而避免活動），是頭痛特徵四項之一（另三為單側、搏動性、中重度）。\n📚 出處：International Classification of Headache Disorders, 3rd ed.（ICHD-3）1.1 Migraine without aura。"
   },
   {
    "n": 52,
@@ -709,7 +740,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "攻擊⾏為（aggression）",
     "癲癇發作（seizures）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 譫妄的核心診斷特徵是「注意力障礙」——無法集中、維持或轉移注意力，且急性發作、一天內起伏波動；失智症則是慢性進行的認知退化，早期注意力相對保留，這是兩者最重要的區別點。\n❌ (A) 幻覺（尤其視幻覺）在譫妄常見，但失智症（如路易氏體失智症）也會出現，鑑別力不如注意力。\n❌ (C) 攻擊行為在兩者都可能出現，不具鑑別性。\n❌ (D) 癲癇發作不是譫妄的診斷特徵，僅見於特定病因（如酒精戒斷）。\n📚 出處：DSM-5-TR, Neurocognitive Disorders（Delirium）；Harrison's Principles of Internal Medicine, 21st ed., Ch. Confusion and Delirium。"
   },
   {
    "n": 53,
@@ -722,7 +754,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "左側下橄欖核（inferior olivary nucleus）肥⼤",
     "右側下橄欖核（inferior olivary nucleus）肥⼤"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這是「肥厚性下橄欖核退化」：Guillain-Mollaret 三角（紅核—下橄欖核—對側齒狀核）中的中央被蓋徑受損後，同側下橄欖核失去抑制而肥大，數月後產生軟腭肌陣攣（節律約 1.5–3 Hz）；病灶在「左側」紅核，肥大的就是同側（左側）下橄欖核。\n❌ (A) 齒狀核不會因此病變肥大，發生變化的是下橄欖核。\n❌ (B) 同上，且左右也不對。\n❌ (D) 中央被蓋徑不跨越中線，右側下橄欖核不會受影響。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Ataxic Disorders；Ropper & Samuels, Adams and Victor's Principles of Neurology, 11th ed.（Palatal myoclonus）。"
   },
   {
    "n": 54,
@@ -735,7 +768,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⽪質性感覺喪失（cortical sensory loss）",
     "快速動眼期睡眠⾏為異常（rapid eye movement sleep behavior disorder）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 皮質性感覺喪失（如兩點辨別、實體覺、圖形覺喪失）代表頂葉皮質受損，屬於「非典型巴金森症候群」的警訊（尤其皮質基底核退化症），原發性巴金森氏病不會出現。\n❌ (A) 嗅覺減退是原發性巴金森氏病最常見的前驅症狀之一，常比動作症狀早數年出現。\n❌ (B) 不寧腳症候群在巴金森氏病病人身上的比例高於一般族群。\n❌ (D) 快速動眼期睡眠行為異常是巴金森氏病典型的前驅表現。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Parkinson's Disease and Other Movement Disorders（Red flags for atypical parkinsonism）。"
   },
   {
    "n": 55,
@@ -748,7 +782,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "運動神經元病變（motor neuron disease）",
     "腰神經根病變（lumbar root lesion）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 運動神經元疾病（如肌萎縮性側索硬化症）選擇性侵犯上、下運動神經元，感覺系統基本上不受影響——病人肌肉萎縮無力卻沒有麻木疼痛，這正是它的臨床特徵與診斷要點。\n❌ (A) 糖尿病多發性神經病變典型是遠端對稱、感覺為主的「襪套手套型」麻木。\n❌ (B) 腕隧道症候群壓迫正中神經，最早出現的就是手指麻木與夜間痛。\n❌ (D) 腰神經根病變會沿皮節分布出現放射性疼痛與感覺異常。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Amyotrophic Lateral Sclerosis and Other Motor Neuron Diseases。"
   },
   {
    "n": 56,
@@ -761,7 +796,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "多發性肌炎（polymyositis）",
     "腰椎椎間盤突出（herniation of intervertebral disc）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 突然的負重用力後出現劇烈腰痛，並沿臀部、大腿後側放射到腳底（坐骨神經 S1 皮節分布）的麻痛——這是急性腰椎椎間盤突出壓迫神經根的典型表現，理學檢查可見直膝抬腿試驗陽性。\n❌ (A) 帶狀疱疹神經炎的疼痛沿單一皮節分布並伴隨群聚水泡，與用力無關。\n❌ (B) 格林巴利症候群是感染後出現的對稱性、由下往上的無力，不是單側放射痛。\n❌ (C) 多發性肌炎表現為亞急性、對稱性的近端肌無力，不會有神經根性放射痛。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Back and Neck Pain（Lumbar disk disease）。"
   },
   {
    "n": 57,
@@ -774,7 +810,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "腰椎穿刺結果可能發現細胞–蛋⽩分離（cytoalbuminologic dissociation）",
     "⾎液檢查可能出現anti-SSA antibody"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：急性脊髓炎在磁振造影上典型呈「T2 訊號上升」的長節段高訊號病灶（T1 通常等訊號或略低），選項描述的訊號變化正好相反。\n❌ (B) 病人有脊髓炎，必須檢查視神經（視野、視覺誘發電位、眼底）以評估是否為視神經脊髓炎譜系疾病。\n❌ (C) 發炎性脊髓病變的腦脊髓液可出現蛋白升高而細胞數不成比例，即細胞–蛋白分離現象。\n❌ (D) 乾燥症等結締組織疾病也會造成脊髓炎，抗 SSA 抗體陽性是合理的檢查發現。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Diseases of the Spinal Cord（Acute transverse myelitis）。"
   },
   {
    "n": 58,
@@ -787,7 +824,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "雙側聽神經瘤（bilateral acoustic neuromas）",
     "⽪膚多發性神經纖維瘤（multiple skin neurofibromas）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 雙側聽神經瘤（前庭神經鞘瘤）是「第二型」神經纖維瘤症的診斷指標（NF2 基因位於第 22 號染色體），不是第一型的表現。\n❌ (A) 虹膜的色素性錯構瘤（Lisch 結節）是第一型的典型眼科表現。\n❌ (B) 六個以上、直徑超過 5 mm（成人 15 mm）的咖啡牛奶斑，是第一型的主要診斷條件。\n❌ (D) 皮膚多發性神經纖維瘤是第一型最具代表性的病灶（NF1 基因位於第 17 號染色體）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Neurocutaneous Syndromes（Neurofibromatosis）。"
   },
   {
    "n": 59,
@@ -800,7 +838,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "視神經脊髓炎的病⼈比起多發性硬化症的病⼈的預後要好，其視⼒和脊髓炎導致下肢無⼒的情況，均可恢 復80%以上",
     "因為視神經脊髓炎病⼈的脊髓液，並不會出現蛋⽩質升⾼或是有oligoclonal band的現象，因此容易和多發 性硬化症（multiple sclerosis）區分"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 視神經脊髓炎譜系疾病的招牌影像特徵就是「長節段橫貫性脊髓炎」——病灶在磁振造影上縱向延伸超過三個脊椎節段，這與多發性硬化症通常小於兩節段的病灶截然不同。\n❌ (B) 典型三大表現是視神經炎、急性脊髓炎與最後區症候群（頑固打嗝嘔吐），周邊神經病變不是它的表現。\n❌ (C) 恰好相反：它的預後比多發性硬化症「差」，每次發作留下的視力與運動障礙常無法完全恢復，因此必須長期免疫抑制以預防復發。\n❌ (D) 它的腦脊髓液也可能出現蛋白升高與白血球增多，寡株帶則少見（約 20%）而非「不會出現」；真正的鑑別關鍵是血清抗水通道蛋白 4（AQP4）抗體。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Multiple Sclerosis and Other Demyelinating Diseases（Neuromyelitis optica spectrum disorder）。"
   },
   {
    "n": 60,
@@ -813,7 +852,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "病患可以出現Argyll-Robertson瞳孔，其症狀是光反射消失，兩眼往內往近看時，瞳孔的收縮反射消失",
     "可以導致tabes dorsalis病徵，病患出現類似⼑割的神經痛、進⾏性的共濟失調及本體感覺缺失"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 脊髓癆是晚期神經性梅毒侵犯脊髓後索與背根造成的：閃電般的刀割樣神經痛、進行性感覺性共濟失調（Romberg 徵象陽性）與本體感覺、振動覺喪失，並可見反射消失與神經性關節病變。\n❌ (A) 血清 VDRL 只能反映全身性梅毒活性，診斷神經性梅毒必須靠「腦脊髓液」的 VDRL 與細胞數、蛋白質變化。\n❌ (B) 腦脊髓液 FTA-ABS 敏感度高但特異度低（陰性有助排除），且抗螺旋體抗體終身持續存在，無法用來監測治療效果——監測要看腦脊髓液細胞數與 VDRL 效價。\n❌ (C) Argyll-Robertson 瞳孔的特徵是「對光反射消失，但近距離調節輻輳反射保留」（俗稱只會近看不會對光），選項把調節反射也說成消失就錯了。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Syphilis（Neurosyphilis）。"
   },
   {
    "n": 61,
@@ -826,7 +866,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "社交孤立是此症之危險因⼦",
     "此症較常發⽣於男性"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：妄想症在流行病學上「女性略多於男性」（男女比約 0.85:1），並非較常發生於男性。\n❌ (A) 發病年齡跨度很大，從十八歲到高齡都可能，平均約在四十歲左右。\n❌ (B) 病人堅信妄想為真、缺乏病識感，因此極少主動求醫，多是家屬或司法強制才就診。\n❌ (C) 社交孤立、移民、聽力障礙與低社經地位都是已知的危險因子。\n📚 出處：DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders（Delusional disorder）；Kaplan & Sadock's Synopsis of Psychiatry, 12th ed.。"
   },
   {
    "n": 62,
@@ -839,7 +880,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "valproic acid",
     "lamotrigine"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) lamotrigine 獲核准的適應症是雙極性疾患的「維持期」治療（尤其預防憂鬱期復發），並未核准用於急性躁期——它需緩慢調升劑量以避免嚴重皮疹，本來就不適合需要快速控制的躁症。\n❌ (A) 鋰鹽是治療急性躁期的經典藥物，也是唯一被證實能降低自殺風險者。\n❌ (B) carbamazepine（緩釋劑型）已獲核准用於急性躁期與混合發作。\n❌ (C) 丙戊酸（divalproex）同樣核准用於急性躁期，起效較鋰鹽快。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Bipolar Disorders；Katzung Basic & Clinical Pharmacology, 15th ed.。"
   },
   {
    "n": 63,
@@ -852,7 +894,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "重度憂鬱症的家族遺傳關聯性低於雙極性疾患，且女性患者較多",
     "兩種疾患的個案在憂鬱期接受的藥物治療皆以抗憂鬱劑為⾸選"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 雙極性疾患的遺傳度高達 0.7–0.8，明顯高於重度憂鬱症（約 0.35–0.4）；而重度憂鬱症的女性患者約為男性的兩倍，雙極性疾患則男女比例相近。\n❌ (A) 重度憂鬱症的終生盛行率約 15–17%，遠「高於」雙極性疾患的 1–2%。\n❌ (B) 第一型雙極性疾患只要有過一次躁期即可診斷，並不要求必須經歷重鬱期。\n❌ (D) 雙極性憂鬱期若單獨使用抗憂鬱劑，可能誘發轉躁或快速循環，首選是情緒穩定劑或特定非典型抗精神病藥。\n📚 出處：DSM-5-TR, Bipolar and Related Disorders；Depressive Disorders；Kaplan & Sadock's Synopsis of Psychiatry, 12th ed.。"
   },
   {
    "n": 64,
@@ -865,7 +908,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⾃殺死亡者，男性多於女性",
     "常常因為失落或⾝體疾病誘發⾃殺⾏為"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：老年人自殺的計畫性更高、警示訊號更少，且傾向採用「更致命」的手段（如上吊、跳樓、槍械），因此自殺企圖與自殺死亡的比例遠低於年輕族群——即一旦嘗試，死亡率更高。\n❌ (A) 憂鬱症是老年自殺最常見且最重要的共病精神疾患。\n❌ (C) 各年齡層的自殺「死亡」者皆為男性多於女性（女性則自殺企圖較多）。\n❌ (D) 喪偶、退休、失能與慢性疼痛等失落與身體疾病，是老年自殺常見的誘發因素。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Suicide；Ch. Geriatric Psychiatry。"
   },
   {
    "n": 65,
@@ -878,7 +922,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "個案認為這種對社交的害怕是過度或不合理的",
     "通常初次發⽣於成⼈早期"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：社交焦慮症典型「初發於青少年期」（中位年齡約 13 歲，四分之三在 8–15 歲間發病），成人早期才首次發病反而少見。\n❌ (A) 核心恐懼就是在社交或表現場合被他人審視、批評或負面評價。\n❌ (B) 逃避社交場合（或勉強忍受並伴隨強烈痛苦）是診斷準則之一。\n❌ (C) 成人病人多半知道自己的害怕與實際威脅不成比例，但仍無法控制。\n📚 出處：DSM-5-TR, Anxiety Disorders（Social anxiety disorder）。"
   },
   {
    "n": 66,
@@ -891,7 +936,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "結果",
     "潛意識"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 認知學說（Beck）主張情緒困擾並非事件直接造成，而是取決於個體對事件的「想法」與詮釋——負向自動化思考與認知扭曲才是憂鬱、焦慮的核心，這也是認知行為治療的理論基礎（即 A-B-C 模型中的 B）。\n❌ (B) 事件本身是誘發因子，但同一事件在不同人身上引發的情緒截然不同，可見決定關鍵不在事件。\n❌ (C) 結果是情緒與行為的表現，屬於被解釋出來的產物，不是原因。\n❌ (D) 強調潛意識衝突的是精神分析學說，不是認知學說。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Cognitive Behavior Therapy；Beck, Cognitive Therapy of Depression。"
   },
   {
    "n": 67,
@@ -904,7 +950,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "使⽤尼古丁貼片或⼝香糖",
     "使⽤戒菸藥物併⽤團體治療"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 戒菸的成效是「藥物加行為介入」相乘的結果：藥物（尼古丁替代、bupropion、varenicline）處理生理成癮，團體或個別諮商處理行為與情境誘因，兩者併用的長期戒除率明顯高於單獨任何一項。\n❌ (A) 純靠意志力戒菸的一年成功率僅約 3–5%，是所有方式中最低的。\n❌ (B) 醫師的簡短建議雖能提高戒菸率（有實證支持），但單獨使用效果有限。\n❌ (C) 尼古丁替代療法可使成功率約提高一倍，但仍不如再加上行為治療。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Tobacco-Related Disorders；US Public Health Service Guideline: Treating Tobacco Use and Dependence。"
   },
   {
    "n": 68,
@@ -917,7 +964,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "告知⼿術的必要性與成功率",
     "了解個案拒絕⼿術的原委"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 不應包含：告知手術的必要性與成功率是「原轉介的外科醫師」的責任與專業範圍；會診精神科醫師的任務是評估病人的心智與決定能力，越俎代庖說明手術資訊反而混淆角色、也可能造成資訊錯誤。\n❌ (A) 評估病人與家屬的術後照顧能力，屬於決策脈絡的一部分，可納入評估。\n❌ (B) 評估病人是否理解手術的利弊與後遺症，正是判斷決定能力的核心。\n❌ (D) 了解拒絕手術的原委（是否因憂鬱、恐懼或誤解），是會診最重要的任務。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Consultation-Liaison Psychiatry；Appelbaum, Assessment of Patients' Competence to Consent to Treatment。"
   },
   {
    "n": 69,
@@ -930,7 +978,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "抽搐發作為較嚴重之戒斷症狀",
     "戒斷症狀不致於產⽣譫妄"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 長期大量使用苯二氮平類後突然停藥，最嚴重的戒斷表現就是「癲癇發作」（另有譫妄），可致命——因此臨床上必須緩慢逐步減量，絕不能驟停。\n❌ (A) 戒斷時交感神經興奮，心搏「變快」而非變慢。\n❌ (B) diazepam 半衰期長（活性代謝物可達數十小時以上），戒斷症狀往往延遲，第 5–10 天才出現高峰是典型的。\n❌ (D) 苯二氮平戒斷可以產生譫妄，臨床表現與酒精戒斷譫妄相似。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Sedative-, Hypnotic-, or Anxiolytic-Related Disorders；Katzung Basic & Clinical Pharmacology, 15th ed.。"
   },
   {
    "n": 70,
@@ -943,7 +992,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "若要藥物治療，應選擇具⾎清素（serotonin）回收抑制效果的抗憂鬱劑",
     "症狀明顯改善之後，才對其家⼈進⾏衛教和家族性的⼼理介入"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這是分離焦慮症：害怕與依附對象分離、擔心父母出事、拒學、身體不適與相關惡夢並持續超過四週。當症狀嚴重需要藥物時，選擇的是血清素回收抑制劑類抗憂鬱劑，並以認知行為治療為基礎。\n❌ (A) 廣泛性焦慮症的擔憂內容多元（課業、健康、災難等），本例焦慮明確聚焦於「與父母分離」。\n❌ (B) 兒童焦慮症的第一線治療是認知行為治療，不是精神分析式心理治療。\n❌ (D) 家長衛教與家庭介入應「一開始」就同步進行——父母的處理方式直接影響拒學行為的維持，不能等症狀改善後才做。\n📚 出處：DSM-5-TR, Anxiety Disorders（Separation anxiety disorder）；Nelson Textbook of Pediatrics, 21st ed., Ch. Anxiety Disorders。"
   },
   {
    "n": 71,
@@ -956,7 +1006,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "可使⽤低劑量的抗精神病藥物（antipsychotics）治療",
     "男⽣多於女⽣"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：DSM-5 對妥瑞氏症的規定是症狀須在「18 歲」以前出現（典型發病在 4–6 歲，10–12 歲最嚴重），不是 12 歲。\n❌ (A) 診斷要求同時具有多種動作型抽動與至少一種聲語型抽動（不必同時出現），且持續超過一年。\n❌ (C) 症狀影響生活時可用低劑量抗精神病藥（如 haloperidol、risperidone、aripiprazole）或 α2 促效劑治療。\n❌ (D) 男女比約 3–4 比 1，男生明顯較多。\n📚 出處：DSM-5-TR, Neurodevelopmental Disorders（Tourette's disorder）；Nelson Textbook of Pediatrics, 21st ed.。"
   },
   {
    "n": 72,
@@ -969,7 +1020,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "注意⼒缺損／過動疾患治療之統合分析結果顯⽰，非藥物治療之療效遠優於藥物治療",
     "易共病物質使⽤相關疾患"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：多項大型統合分析（含美國 MTA 研究）一致顯示，中樞神經興奮劑等「藥物治療」對核心症狀的效果最強，行為治療為重要輔助；說非藥物治療遠優於藥物治療與實證相反。\n❌ (A) 過動與衝動症狀通常隨年齡改善較明顯，注意力不足則持續較久。\n❌ (B) 約半數以上的病人到成人期仍有注意力缺損相關的功能損害。\n❌ (D) 未治療的注意力缺損／過動疾患與日後物質使用障礙的共病率明顯較高。\n📚 出處：DSM-5-TR, Neurodevelopmental Disorders（ADHD）；Kaplan & Sadock's Synopsis of Psychiatry, 12th ed.。"
   },
   {
    "n": 73,
@@ -982,7 +1034,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "lithium",
     "modafinil"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) modafinil 是促進清醒的藥物（作用與傳統中樞興奮劑不同、成癮性低），已核准用於嗜睡症、阻塞型睡眠呼吸中止症殘餘嗜睡與輪班工作睡眠障礙的日間過度嗜睡。\n❌ (A) clozapine 是治療頑固型思覺失調症的抗精神病藥，本身還會造成嗜睡。\n❌ (B) lorazepam 是苯二氮平類鎮靜劑，方向完全相反。\n❌ (C) 鋰鹽用於雙極性疾患。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. CNS Stimulants；Harrison's Principles of Internal Medicine, 21st ed., Ch. Sleep Disorders（Narcolepsy）。"
   },
   {
    "n": 74,
@@ -995,7 +1048,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "酒精戒斷症候群治療⾸選為benzodiazepines",
     "使⽤酒精可幫助入眠，減少睡眠中斷，增加快速動眼期睡眠（REM sleep）及stage 4 sleep"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：酒精雖然縮短入睡時間，但代謝後會造成後半夜頻繁醒來、睡眠變得片斷，並「抑制」快速動眼期與第四期深睡（戒斷時還會出現快速動眼期反彈與惡夢），整體睡眠品質下降。\n❌ (A) 酒精使用障礙症與其他物質濫用、反社會型人格、情感性疾患及焦慮症的共病率都很高。\n❌ (B) 手抖、焦慮、噁心、幻覺與癲癇發作都是酒精戒斷症候群的表現，嚴重者進展為戒斷譫妄。\n❌ (C) 苯二氮平類是酒精戒斷的首選用藥（可預防抽搐與譫妄），並須補充維生素 B1。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Alcohol-Related Disorders；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 75,
@@ -1008,7 +1062,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "夢魘（噩夢，nightmare）主要發⽣於非快速動眼期（NREM ）",
     "睡眠驚恐症（sleep terror）常發⽣於非快速動眼期的深睡期（deep NREM sleep）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 睡眠驚恐症屬非快速動眼期的「深睡期」（第三期慢波睡眠）異睡症，因此多發生在入睡後 1–3 小時的前半夜；病人突然驚坐尖叫、心跳呼吸急促，但難以喚醒且事後完全不記得。\n❌ (A) 慢波睡眠集中在前半夜，因此睡眠驚恐症不會好發於後半夜。\n❌ (B) 夢遊與睡眠驚恐同屬非快速動眼期深睡期的異睡症，不是發生在快速動眼期。\n❌ (C) 夢魘發生在夢境最鮮明的「快速動眼期」（故多在後半夜），病人可被喚醒並清楚描述夢境內容。\n📚 出處：Kaplan & Sadock's Synopsis of Psychiatry, 12th ed., Ch. Sleep-Wake Disorders；DSM-5-TR（NREM sleep arousal disorders）。"
   },
   {
    "n": 76,
@@ -1021,7 +1076,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "磁振造影",
     "同位素肝臟掃描"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 血行動力學穩定的鈍傷病人懷疑腹內實質器官損傷時，「注射顯影劑的電腦斷層」是首選：它能同時評估肝脾裂傷程度、有無活動性出血（顯影劑外漏）與腹腔積血，並快速涵蓋其他器官。\n❌ (A) 血管攝影屬侵入性檢查，現多用於電腦斷層確認出血後的栓塞治療，不是第一線診斷工具。\n❌ (C) 磁振造影耗時長、急診可近性差，不適合外傷評估。\n❌ (D) 同位素肝臟掃描解析度低、耗時，早已不用於急性外傷。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Approach to the Patient with Abdominal Trauma；ATLS Student Course Manual, 10th ed.。"
   },
   {
    "n": 77,
@@ -1034,7 +1090,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "可能產⽣的併發症包括腦炎、肺炎",
     "避免使⽤aspirin治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不恰當：水痘的傳染期是從「疹子出現前 1–2 天」就開始，一直到所有水泡結痂為止——正因為出疹前已具傳染力，才會在校園快速傳播。\n❌ (A) 水痘由水痘帶狀疱疹病毒（屬疱疹病毒科）引起，敘述正確。\n❌ (C) 斑疹、丘疹、水泡與結痂同時並存是水痘的典型皮疹型態，併發症包括續發細菌感染、肺炎與腦炎（小腦失調）。\n❌ (D) 兒童病毒感染期間使用阿斯匹靈可能誘發雷氏症候群，應避免。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Varicella-Zoster Virus Infections。"
   },
   {
    "n": 78,
@@ -1047,7 +1104,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "針對3⼩時內缺⾎性腦中風病⼈，適合給r-tPA治療者，可改善神經學預後",
     "以r-tPA治療缺⾎性腦中風之劑量，最⼤量不超過90 mg"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：急性缺血性腦中風不宜積極降壓（缺血半影區需要灌流壓），一般要到收縮壓 >220 mmHg 或舒張壓 >120 mmHg 才處理；若要施打血栓溶解劑則另須控制在 185/110 mmHg 以下。\n❌ (A) 中風急性期的血壓上升多為代償性反應，疼痛、躁動與顱內壓控制後常自行下降。\n❌ (C) 發病 3 小時內（延伸適應症可至 4.5 小時）給予血栓溶解劑，可顯著改善三個月後的神經學預後。\n❌ (D) 血栓溶解劑劑量為 0.9 mg/kg，總量上限 90 mg，其中一成於一分鐘內推注、其餘一小時滴完。\n📚 出處：AHA/ASA Guidelines for the Early Management of Patients with Acute Ischemic Stroke；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 79,
@@ -1060,7 +1118,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "病⼈是15歲的未成年⼈拒絕輸⾎",
     "⽗⺟都是耶和華⾒證⼈信徒，為其8歲病童拒絕輸⾎"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 成年且具行為能力的病人，在充分知情下所做的拒絕治療決定，即使會導致死亡也應受尊重——這是病人自主權的核心；有清楚的書面證據時，緊急情況下醫師仍應遵循其預立的意願。\n❌ (B) 涉及胎兒的生命利益，法院與倫理界對孕婦拒絕輸血多採較保留的態度，不能單以自主權處理。\n❌ (C) 15 歲屬未成年人，不具完全的醫療決定能力，其拒絕不足以推翻救命治療。\n❌ (D) 父母的宗教信仰不能替子女放棄生命；此時應依兒童最佳利益原則，必要時聲請法院裁定輸血。\n📚 出處：Beauchamp & Childress, Principles of Biomedical Ethics, 8th ed.（Respect for autonomy）；醫療法第 63、64 條與兒童及少年福利與權益保障法。"
   },
   {
    "n": 80,
@@ -1073,7 +1132,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "以所有可⽤之現代醫療盡全⼒搶救到最後",
     "不移除維⽣之呼吸器，但停⽌⼿術等積極治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 此嬰兒為多重器官衰竭、依賴呼吸器與透析且無治癒可能的末期狀態；經與父母充分溝通、確認理解病情後取得同意書，由醫療團隊依安寧緩和醫療的程序撤除維生設備並提供舒適照護，是符合法律與倫理的做法。\n❌ (A) 撤除維生醫療是醫療行為，必須由醫療人員執行；要求家屬親手移除既不合法也極不人道。\n❌ (C) 在治癒無望的末期病人身上無限度延長侵入性治療，只是延長痛苦，違反不傷害原則。\n❌ (D) 只停手術卻留著呼吸器並非緩和醫療的完整選項；決策應建立在整體治療目標的討論上，而不是各項處置的任意取捨。\n📚 出處：安寧緩和醫療條例（末期病人撤除維生醫療之要件與程序）；Nelson Textbook of Pediatrics, 21st ed., Ch. Pediatric Palliative Care。"
   }
  ]
 };
