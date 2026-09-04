@@ -278,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "右前胸壁，第五肋間靠近胸骨處",
     "左前胸壁，第五肋間靠近胸骨處"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 左前胸壁，第二肋間靠近胸骨處：心臟四個瓣膜的聽診區並非位於瓣膜的解剖位置，而是血流傳導最清楚之處。肺動脈瓣聽診區在左側第二肋間胸骨旁，主動脈瓣則在右側第二肋間胸骨旁。\n❌ (A) 右前胸壁，第二肋間靠近胸骨處：這是主動脈瓣的聽診區，主動脈狹窄的收縮期噴射雜音在此最響亮，並可傳導至頸動脈。\n❌ (C) 右前胸壁，第五肋間靠近胸骨處：此處並非標準的四大聽診區之一。\n❌ (D) 左前胸壁，第五肋間靠近胸骨處：這是三尖瓣的聽診區（左側第四至第五肋間胸骨旁）；二尖瓣則在左鎖骨中線第五肋間的心尖處。\n📚 出處：Bates' Guide to Physical Examination and History Taking 第 13 版，心臟血管系統檢查章；Harrison's Principles of Internal Medicine 第 21 版第 234 章 Physical Examination of the Cardiovascular System。口訣：APTM——Aortic（右二肋間）、Pulmonic（左二肋間）、Tricuspid（左四至五肋間胸骨旁）、Mitral（心尖）。"
   },
   {
    "n": 20,
@@ -291,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "在上縱膈腔（superior mediastinum）內，通常位於左鎖骨下動脈起始處（initial portion of left subclavian artery）的前方",
     "在後縱膈腔（posterior mediastinum）內，一般位在半奇靜脈（hemiazygos vein）匯入奇靜脈（azygos vein）處的前方"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 在後縱膈腔內，一般位在半奇靜脈匯入奇靜脈處的前方：胸管在後縱膈腔沿脊柱前方上行，位於胸主動脈與奇靜脈之間、食道後方；半奇靜脈於第八至第九胸椎高度橫過脊柱前方匯入奇靜脈時，正是從胸管的後方經過，因此胸管位於其前方。\n❌ (A) 通常位在主動脈前方：胸管走在胸主動脈的「右後方」，介於主動脈與奇靜脈之間，並非位於主動脈前方。\n❌ (B) 通常經由食管裂孔由腹腔進入胸腔：胸管與主動脈、奇靜脈一同經「主動脈裂孔」（T12）進入胸腔；食道裂孔（T10）通過的是食道與迷走神經幹。\n❌ (C) 在上縱膈腔內，通常位於左鎖骨下動脈起始處的前方：胸管在上縱膈腔沿食道左緣上行，位於左鎖骨下動脈的「內側偏後方」，最後彎向前方注入左靜脈角，並非走在該動脈起始處的前方。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Thorax 章 Thoracic duct；Standring《Gray's Anatomy》第 42 版縱隔與淋巴系統章。臨床提醒：食道手術或左鎖骨上淋巴結廓清若傷及胸管，會造成乳糜胸（chylothorax）。"
   },
   {
    "n": 21,
@@ -304,7 +306,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "T10-11",
     "T12"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) T12：內臟大神經（greater splanchnic nerve）源自 T5–T9、內臟小神經（lesser splanchnic nerve）源自 T10–T11、最小內臟神經（least splanchnic nerve）源自 T12，後者穿過橫膈後終止於腎神經叢。\n❌ (A) T1-4：這一段的交感神經節前纖維主要供應頭頸部與胸腔臟器（心臟、肺），不形成內臟神經下行至腹腔。\n❌ (B) T5-9：這是內臟大神經的來源，終止於腹腔神經節，支配前腸衍生的臟器。\n❌ (C) T10-11：這是內臟小神經的來源，終止於主動脈腎節，支配中腸衍生的臟器。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Abdomen 章 Splanchnic nerves；Standring《Gray's Anatomy》第 42 版自主神經章。整理：大 5-9、小 10-11、最小 12，依序終止於腹腔節、主動脈腎節、腎叢。"
   },
   {
    "n": 22,
@@ -317,7 +320,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "腸繫膜下動脈（inferior mesenteric artery）",
     "髂內動脈（internal iliac artery）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腹主動脈（abdominal aorta）：睪丸動脈是腹主動脈在第二腰椎（L2）高度發出的成對臟支，因為睪丸在胚胎期原本位於後腹壁高處，隨著下降至陰囊而把血管一路拉長，故其起源仍留在腹主動脈的高位。\n❌ (B) 腎動脈（renal artery）：腎動脈自 L1–L2 高度發出後直接進入腎門，一般不發出睪丸動脈（少數變異除外）。\n❌ (C) 腸繫膜下動脈（inferior mesenteric artery）：腸繫膜下動脈供應後腸（左結腸至直腸上段），與生殖腺無關。\n❌ (D) 髂內動脈（internal iliac artery）：髂內動脈供應骨盆腔臟器與會陰，睪丸的血液供應並非來自此處。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Abdomen 章 Testicular/Ovarian arteries；Standring《Gray's Anatomy》第 42 版。要點：性腺動脈與靜脈的不對稱——左睪丸靜脈注入左腎靜脈、右睪丸靜脈直接注入下腔靜脈，這也是左側精索靜脈曲張較常見的解剖原因。"
   },
   {
    "n": 23,
@@ -330,7 +334,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "子宮闊韌帶（broad ligament of uterus）",
     "卵巢懸韌帶（suspensory ligament of the ovary）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 膈食道韌帶（phrenicoesophageal ligament）：膈食道韌帶是由橫膈下筋膜（腹橫筋膜的延續）向上反折、包繞食道下端所形成的纖維構造，屬於筋膜而非腹膜的衍生物，其功能是把食道固定於食道裂孔並容許吞嚥時的移動。\n❌ (A) 脾腎韌帶（splenorenal ligament）：由腹膜構成，內含胰尾與脾動靜脈，是連接脾臟與左腎前方的腹膜皺襞。\n❌ (C) 子宮闊韌帶（broad ligament of uterus）：是雙層腹膜皺襞，由子宮兩側延伸至骨盆側壁，內含輸卵管、圓韌帶與卵巢韌帶。\n❌ (D) 卵巢懸韌帶（suspensory ligament of the ovary）：又稱骨盆漏斗韌帶，同樣是腹膜皺襞，內含卵巢動靜脈。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Abdomen 章 Peritoneal ligaments 與 Esophageal hiatus；Standring《Gray's Anatomy》第 42 版。要點：解剖學上的「韌帶」有三種來源——腹膜皺襞、纖維筋膜增厚、以及胚胎殘留構造（如肝圓韌帶），不要一律當成腹膜。"
   },
   {
    "n": 24,
@@ -343,7 +348,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "提肛肌（levator ani）參與組成骨盆膈（pelvic diaphragm），骨盆膈形成骨盆底",
     "尾骨肌（coccygeus）參與組成外側壁，通過坐骨小孔，再延伸往臀區"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 尾骨肌參與組成外側壁，通過坐骨小孔，再延伸往臀區（此敘述錯誤）：尾骨肌（又稱坐骨尾骨肌）起自坐骨棘、止於尾骨與薦骨下端，與提肛肌共同構成「骨盆膈（骨盆底）」，並不是外側壁，也不通過坐骨小孔延伸至臀區。\n❌ (A) 閉孔內肌參與形成外側壁，通過坐骨小孔，再延伸往臀區：正確。閉孔內肌起自閉孔膜內面構成骨盆側壁，其肌腱以近乎直角轉折通過坐骨小孔，止於股骨大轉子。\n❌ (B) 梨狀肌參與形成後壁，通過坐骨大孔，再延伸往臀區：正確。梨狀肌起自薦骨前面，經坐骨大孔出骨盆，是臀部區域最重要的解剖標誌。\n❌ (C) 提肛肌參與組成骨盆膈，骨盆膈形成骨盆底：正確。提肛肌由恥骨尾骨肌、恥骨直腸肌與髂骨尾骨肌組成，是骨盆底的主要支撐。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Pelvis and Perineum 章 Walls and floor of pelvic cavity；Standring《Gray's Anatomy》第 42 版骨盆章。要點：骨盆膈＝提肛肌＋尾骨肌；骨盆側壁＝閉孔內肌；骨盆後壁＝梨狀肌。"
   },
   {
    "n": 25,
@@ -356,7 +362,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "陰道後穹窿（posterior vaginal fornix）的位置靠近直腸子宮陷凹（rectouterine pouch）",
     "陰道的血液供應來自子宮動脈（uterine arteries）、陰道動脈（vaginal arteries）及陰部內動脈 （internal pudendal arteries）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 巴多林氏腺的導管開口於大陰唇和小陰唇之間（此敘述錯誤）：前庭大腺（巴多林氏腺）位於陰道口兩側，其導管開口於「陰道前庭」，也就是小陰唇內側、陰道口的後外側（約 4 點鐘與 8 點鐘方向），而不是開口於大小陰唇之間。\n❌ (B) 陰道位於膀胱及尿道的後方：正確。由前而後的排列是尿道、陰道、直腸，因此陰道在膀胱與尿道之後、直腸之前。\n❌ (C) 陰道後穹窿的位置靠近直腸子宮陷凹：正確。後穹窿與道格拉斯氏陷凹（直腸子宮陷凹）僅隔一層薄壁，臨床上可經此穿刺抽取腹腔積液（culdocentesis）。\n❌ (D) 陰道的血液供應來自子宮動脈、陰道動脈及陰部內動脈：正確，三者形成豐富的吻合供應陰道全長。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Pelvis and Perineum 章 Vagina 與 Greater vestibular glands；Standring《Gray's Anatomy》第 42 版女性生殖系統章。臨床提醒：巴多林氏腺囊腫或膿瘍即發生在陰道口後外側，位置正對應其導管開口處。"
   },
   {
    "n": 26,
@@ -369,7 +376,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "下直腸神經（inferior rectal nerve）支配會陰深橫肌（deep transverse perineal muscle）",
     "陰部神經（pudendal nerve）先分支出陰囊後神經（posterior scrotal nerve）後再分支出下直腸神經 （inferior rectal nerve）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 陰囊後神經是會陰神經的分支：陰部神經在會陰部分為三支——下直腸神經、會陰神經、陰莖（陰蒂）背神經；會陰神經再分為淺支與深支，淺支即男性的陰囊後神經（女性為陰唇後神經），支配該區皮膚感覺。\n❌ (A) 陰部神經是會陰神經的分支：上下關係顛倒。陰部神經是主幹（源自 S2–S4），會陰神經才是它的分支。\n❌ (C) 下直腸神經支配會陰深橫肌：下直腸神經支配的是肛門外括約肌與肛門周圍皮膚；會陰深橫肌由會陰神經的深支支配。\n❌ (D) 陰部神經先分支出陰囊後神經後再分支出下直腸神經：順序錯誤。陰部神經進入會陰部後最先分出的是下直腸神經，之後才是會陰神經（含陰囊後神經）與陰莖背神經。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Pelvis and Perineum 章 Pudendal nerve；Standring《Gray's Anatomy》第 42 版。臨床應用：陰部神經阻斷術以坐骨棘為標誌，用於產科會陰切開與修補時的麻醉。"
   },
   {
    "n": 27,
