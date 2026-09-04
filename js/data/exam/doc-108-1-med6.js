@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "喉頭痙攣持續時間通常很短暫，只要誘發的刺激獲得緩解，喉頭痙攣⼀定可以很快⾃⾏消失痊癒",
     "負壓肺⽔腫（negative-pressure pulmonary edema）是喉頭痙攣嚴重的併發症之⼀，除了肺間質 （interstitia）有組織液滲漏外，也有可能因為⼩⾎管爆裂導致肺泡內出⾎（hemorrhage into alveoli）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：喉頭痙攣「不一定」會自行緩解——嚴重且持續的痙攣會造成完全氣道阻塞與缺氧，必須以正壓給氧、下顎前推、加深麻醉，必要時給予小劑量 succinylcholine 打斷痙攣，等它自己好可能致命。\n❌ (A) 它是聲帶（有時連同假聲帶）反射性關閉造成的氣道阻塞。\n❌ (B) 最常見的情境是麻醉深度不足時受到分泌物、血液或手術操作刺激，誘發喉上神經媒介的反射。\n❌ (D) 病人用力吸氣對抗關閉的聲門，產生強大胸內負壓而造成負壓性肺水腫，嚴重時微血管破裂會有肺泡內出血。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Airway Management in the Adult（Laryngospasm）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "left ventricular end-diastolic pressure",
     "pulmonary artery systolic pressure"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 氣球阻斷肺動脈分支後，導管尖端與左心房之間形成一段靜止的血柱，量到的壓力等於左心房壓；在二尖瓣正常的情況下，左心房壓又約等於「左心室舒張末壓」，因此楔壓被用來估計左心室前負荷。\n❌ (A) 主動脈舒張壓由體循環決定，與肺循環的楔壓無關。\n❌ (B) 中央靜脈壓反映的是右心的前負荷。\n❌ (D) 肺動脈收縮壓反映右心室射出與肺血管阻力，數值明顯高於楔壓。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Cardiovascular Monitoring（Pulmonary artery catheterization）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "懷孕",
     "甲狀腺亢進"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 甲狀腺亢進使代謝率與交感活性升高（並常伴體溫上升），會提高最低肺泡濃度——也就是需要更高的吸入麻醉劑濃度才能達到相同的麻醉深度。\n❌ (A) 最低肺泡濃度隨年齡增長而逐漸「下降」（約 40 歲後每十年降 6%）。\n❌ (B) 嚴重低血壓（平均動脈壓過低）會降低最低肺泡濃度。\n❌ (C) 懷孕時黃體素上升，最低肺泡濃度可下降達三成，這也是產科麻醉容易過深的原因。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Inhaled Anesthetics（Factors affecting MAC）。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "使⽤的局部⿇醉藥不會造成全⾝毒性",
     "使⽤的針有可能傷到神經"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：局部麻醉藥若誤入血管或用量過大被吸收，會造成「全身性毒性」——先是口周麻木、耳鳴、抽搐，嚴重時心律不整與心跳停止（尤其 bupivacaine），因此必須限制劑量、分次回抽並備妥脂肪乳劑急救。\n❌ (A) 超音波導引、神經刺激器或病人的異感反應，都是定位神經的方法。\n❌ (B) 病人不同意屬絕對禁忌（其他還有注射部位感染、對局麻藥過敏）。\n❌ (D) 針直接刺入神經束可造成神經損傷，這也是採用超音波導引的理由之一。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Peripheral Nerve Blocks；Ch. Local Anesthetics（LAST）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⽬前並無證據顯⽰在⼿術週期（perioperative），老⼈實施半⾝⿇醉比全⾝⿇醉發⽣的併發症較少",
     "術後認知功能障礙（postoperative cognitive dysfunction）發⽣率在老⼈較⾼"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：老年人白蛋白減少使麻醉藥的蛋白結合「下降」，游離型藥物濃度反而「上升」，加上分布體積與清除率改變，藥效是「增強」的——臨床上必須減量、慢慢給，否則容易過深與低血壓。\n❌ (A) 單看年齡本身只是次要風險因子，真正決定風險的是共病、功能狀態與衰弱程度。\n❌ (C) 現有證據並未證實半身麻醉在圍手術期併發症上優於全身麻醉。\n❌ (D) 術後認知功能障礙與術後譫妄在老年人發生率明顯較高。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Anesthesia for the Older Patient。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "對於有害（noxious）的刺激，感覺越來越強烈",
     "對於有害（noxious）的刺激，感覺越來越減弱"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 觸痛（allodynia）指的是原本「不會引起疼痛」的刺激（如衣物摩擦、微風、輕觸）卻造成疼痛，是神經病變性疼痛（如帶狀疱疹後神經痛、複雜性局部疼痛症候群）的核心特徵，反映中樞或周邊的敏感化。\n❌ (A) 沒有刺激而自發產生的異常感覺是感覺異常（paresthesia）或自發痛。\n❌ (C) 對有害刺激的反應被放大稱為痛覺過敏（hyperalgesia）。\n❌ (D) 對有害刺激的感覺減弱是痛覺減退（hypoalgesia）。\n📚 出處：IASP Terminology（Allodynia）；Miller's Anesthesia, 9th ed., Ch. Chronic Pain Management。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "任何病患皆可使⽤",
     "病⼈可依疼痛強度調整⽌痛藥劑量"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 「任何病患皆可使用」是錯的：病人自控式止痛需要病人能理解操作、有能力自行按壓並判斷需求——因此意識不清、認知功能障礙、太年幼或無法操作按鈕的病人都不適用（且絕不能由家屬代按）。\n❌ (A) 血中藥物濃度較穩定，止痛效果優於間歇性肌肉注射。\n❌ (B) 病人能自己掌控、不必等護理人員，滿意度明顯較高。\n❌ (D) 病人可依當下疼痛強度自行追加劑量，正是它的核心設計（並有鎖定時間與上限保護）。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Acute Postoperative Pain（Patient-controlled analgesia）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "12",
     "15"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 急性呼吸窘迫症候群的肺是「小肺」（可通氣肺泡大幅減少），必須採低潮氣量的肺保護策略：以理想體重計算 6 mL/kg，並將高原壓控制在 30 cmH2O 以下——ARDSNet 試驗證實此策略可降低死亡率。\n❌ (B) 10 mL/kg 已超過肺保護的範圍。\n❌ (C) 12 mL/kg 正是 ARDSNet 試驗中死亡率較高的對照組設定。\n❌ (D) 15 mL/kg 會造成明顯的容積傷與呼吸器誘發肺損傷。\n📚 出處：ARDS Network, NEJM 2000（Low tidal volume ventilation）；Miller's Anesthesia, 9th ed., Ch. Critical Care Medicine。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "周邊視網膜格⼦狀變性（lattice degeneration）",
     "視網膜⾊素上⽪肥厚（hypertrophy of the retinal pigment epithelium）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：高度近視因眼軸過度拉長，後極部的視網膜色素上皮與脈絡膜是「萎縮變薄」（豹紋狀眼底、脈絡膜視網膜萎縮），不是肥厚。\n❌ (A) 漆裂紋是布魯赫氏膜被拉扯斷裂形成的黃白色線條，並可能續發脈絡膜新生血管。\n❌ (B) 後鞏膜葡萄腫是眼軸拉長使後極部向後膨出，是病理性近視的標誌。\n❌ (C) 周邊視網膜格子狀變性使該處變薄易破孔，是高度近視容易視網膜剝離的主因。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Retinal Detachment；Ch. Acquired Macular Disorders（Pathologic myopia）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "結節性多動脈炎（polyarteritis nodosa）",
     "Wegener⽒⾁芽腫（Wegener granulomatosis）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 類風濕性關節炎是最常合併周邊潰瘍性角膜炎（角膜邊緣潰瘍）的全身性自體免疫疾病；它代表疾病處於全身性血管炎的活躍狀態，預後不佳，必須全身免疫抑制治療而非只點眼藥。\n❌ (A) 紅斑性狼瘡的眼部表現以乾眼與視網膜血管病變為主，角膜緣潰瘍少見。\n❌ (C) 結節性多動脈炎可造成鞏膜炎與周邊角膜潰瘍，但發生率遠低於類風濕性關節炎。\n❌ (D) 肉芽腫性多套血管炎（Wegener 氏）雖是典型會造成周邊潰瘍性角膜炎的血管炎，但因疾病本身罕見，總體病例數仍少於類風濕性關節炎。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Cornea（Peripheral ulcerative keratitis）。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "正常眼壓性青光眼（normal tension glaucoma）",
     "⾎管增⽣性青光眼（neovascular glaucoma）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 隅角閉鎖性青光眼的根本問題是瞳孔阻滯——房水無法從後房流到前房，把虹膜往前推而堵住隅角；雷射虹膜穿孔在虹膜周邊打一個小孔，讓房水直接通過，是治療與預防（含對側眼）的標準做法。\n❌ (A) 隅角開放性青光眼的隅角本來就是開的，做穿孔沒有意義，治療以降眼壓藥物、雷射小樑成形或濾過手術為主。\n❌ (C) 正常眼壓性青光眼同屬開放隅角，治療是進一步降低眼壓。\n❌ (D) 血管增生性青光眼須先治療缺血的視網膜（全視網膜雷射、抗血管內皮生長因子），虹膜穿孔無法解除新生血管膜造成的阻塞。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Glaucoma（Primary angle-closure glaucoma）。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "0.8",
     "兩眼視神經盤凹杯與視神經盤直徑比例（cup-disk ratio）極不對稱"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 凹杯與視神經盤直徑比 0.2 屬正常範圍（一般認為 0.5 以下且兩眼對稱者較無疑慮），最不需要懷疑青光眼。\n❌ (B) 0.5 已達需要進一步評估的邊緣值。\n❌ (C) 0.8 代表視神經盤凹陷明顯擴大、神經纖維層流失，高度懷疑青光眼。\n❌ (D) 兩眼比值差異超過 0.2 即屬異常——正常人兩眼視神經盤大致對稱，明顯不對稱代表其中一眼有神經流失。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Glaucoma（Assessment of the optic nerve head）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "內直肌（medial rectus muscle）和上斜肌（superior obique muscle）",
     "內直肌（medial rectus muscle）和上直肌（superior rectus muscle）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 眼球要往「內下」看，需要內直肌把眼球內轉，再由上斜肌下壓——上斜肌的下轉作用在眼球內收時最強（因為此時肌肉的作用線與視軸接近平行），因此兩者共同完成內下方注視。\n❌ (A) 下直肌的下轉作用在眼球「外展」時最強，內收時它主要負責外旋。\n❌ (B) 下斜肌的作用是上轉（內收時最強），方向相反。\n❌ (D) 上直肌是上轉肌，方向相反。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Strabismus（Actions of the extraocular muscles）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "該眼只剩下40%的視覺效能（visual efficiency）",
     "相當於史奈倫（Snellen）⽒視⼒表檢查的20/50視⼒"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 小數視力 0.4 換算成史奈倫氏記法就是 20/50（即 0.4 ≈ 20/50，分數形式 4/10）——兩者只是同一視力的不同表示法。\n❌ (A) 視力表的檢查距離是固定的（5 或 6 公尺），走近只是改變視角，不能這樣換算。\n❌ (B) 最小可分辨視角等於視力的倒數，0.4 的倒數是 2.5 分角，不是五分之二分角。\n❌ (C) 視覺效能有專門的換算表（0.4 的視覺效能約 83–85%），並不等於視力數值的百分比。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Optics and Refraction（Visual acuity notation）。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "黏液層的作⽤為避免⽔分的蒸散",
     "⽔液層的基礎分泌量在睡眠時最少"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：防止水分蒸散的是最外層的「油脂層」；黏液層的功能是把疏水的角膜上皮轉為親水表面，讓水液層能均勻鋪展附著。\n❌ (A) 淚膜由外而內確實是油脂層、水液層、黏液層三層結構。\n❌ (B) 油脂層主要由眼瞼板內的瞼板腺分泌，這也是瞼板腺功能障礙會造成蒸發型乾眼的原因。\n❌ (D) 水液層的基礎分泌在睡眠時最少（反射性分泌則完全停止）。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Dry Eye（Tear film structure）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⽪脂腺癌（sebaceous gland carcinoma）臨床上易被誤診為慢性眼瞼炎或霰粒腫（chalazion）",
     "⽪脂腺癌⼀般好發在下眼瞼"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：皮脂腺癌好發於「上眼瞼」——因為上眼瞼的瞼板腺數目較多（約 25–40 個，下眼瞼約 20 個），這也是它與其他眼瞼惡性腫瘤的分布差異。\n❌ (A) 基底細胞癌占眼瞼惡性腫瘤的八至九成，最常見，好發於下眼瞼與內眥。\n❌ (B) 鱗狀細胞癌較具侵襲性，可循神經擴散並轉移，預後比基底細胞癌差。\n❌ (C) 皮脂腺癌常偽裝成反覆發作的霰粒腫或單側慢性眼瞼炎，因而延誤診斷，臨床上遇到反覆同一位置的霰粒腫必須切片。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Eyelids（Malignant eyelid tumours）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⾎管紋細胞（striae vascularis cells）",
     "螺旋神經節細胞（spiral ganglion cells）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 人工電子耳是「繞過」已受損的毛細胞，直接以電極刺激耳蝸內的螺旋神經節細胞（聽神經的第一級神經元）——因此它的成效取決於螺旋神經節細胞是否仍存活。\n❌ (A) 外毛細胞負責放大聲音，在感音性聽損中通常已受損，正是要被繞過的對象。\n❌ (B) 內毛細胞是真正的感受器，同樣多已喪失功能。\n❌ (C) 血管紋負責產生內淋巴電位，不是聽覺訊號的傳遞細胞。\n📚 出處：Cummings Otolaryngology: Head and Neck Surgery, 7th ed., Ch. Cochlear Implantation。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "3個⽉",
     "6個⽉"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 指引建議無併發症的積液性中耳炎先觀察「3 個月」（從發病或診斷日起算）——多數積液會自行吸收；超過三個月仍持續，才進行聽力檢查並考慮置放中耳通氣管。\n❌ (A) 一個月太短，多數病例此時積液仍在自然消退的過程中。\n❌ (B) 兩個月同樣早於指引建議的觀察期。\n❌ (D) 拖到六個月會延誤有聽損與語言發展風險兒童的處置。\n📚 出處：AAO-HNS Clinical Practice Guideline: Otitis Media with Effusion（Update）；Cummings Otolaryngology, 7th ed.。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "聲帶之後聯合處（posterior commissure）",
     "聲帶之後三分之⼀"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 聲帶結節長在「前三分之一與中三分之一交界處」——這裡是聲帶振動時振幅最大、撞擊力最強的位置（膜性聲帶的中點），長期用聲過度就在此形成對稱性的雙側結節。\n❌ (A) 前聯合處是兩側聲帶交會的固定點，振幅小。\n❌ (C) 後聯合為杓狀軟骨所在，屬軟骨性聲帶，不參與主要振動（接觸性肉芽腫才好發於此）。\n❌ (D) 聲帶後三分之一同屬軟骨部，振幅小。\n📚 出處：Cummings Otolaryngology: Head and Neck Surgery, 7th ed., Ch. Benign Vocal Fold Mucosal Disorders。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "切緣（section margin）有腫瘤細胞，輔助性放化療仍有助於病情的控制",
     "第四期病⼈⼿術即使切除完整，也建議給予輔助性放化療"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：術後輔助治療應「越早越好」——建議在手術後 6 週內開始（整體治療時間宜控制在 11–13 週內完成），延遲開始與局部復發率上升、存活率下降明確相關。\n❌ (B) 淋巴結包膜外擴散是加做同步化放療（而非單純放療）的主要適應症之一。\n❌ (C) 切緣陽性同樣是高風險特徵，若無法再次手術，同步化放療有助於局部控制。\n❌ (D) 第三、四期等進展期病人即使切除完整，仍建議術後輔助放療或化放療。\n📚 出處：NCCN Guidelines for Head and Neck Cancers；Cummings Otolaryngology, 7th ed., Ch. Oral Cavity Cancer。"
   },
   {
    "n": 21,
