@@ -306,7 +306,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "嬰兒於平躺時症狀較輕微",
     "嬰兒於喝奶時症狀較嚴重"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 這是喉軟化症（laryngomalacia）——出生後數週開始出現吸氣性喘鳴，喝奶時因吸吮、吞嚥與呼吸協調加上腹壓變化，負壓把鬆軟的杓會厭皺襞吸入聲門，症狀最明顯，嚴重者會嗆咳、餵食困難甚至體重不增。\n❌ (A) 喉軟化症以男嬰居多，男女比約 2:1。\n❌ (B) 症狀通常在 6–9 個月大時最嚴重，多數要到 12–24 個月才隨軟骨變硬而自行緩解。\n❌ (C) 平躺時舌根後倒、重力使組織塌陷，症狀反而「加重」；俯臥或側臥較輕。\n📚 出處：Cummings Otolaryngology: Head and Neck Surgery, 7th ed., Ch. Congenital Anomalies of the Larynx（Laryngomalacia）。"
   },
   {
    "n": 22,
@@ -319,7 +320,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "EBV anti-EA IgA",
     "Serum/Plasma free EBV DNA copies"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 血漿中的游離 EB 病毒 DNA 定量準確度最高——它直接反映腫瘤負荷，敏感度與特異度都優於抗體檢測，並可用於篩檢、療效評估與復發偵測（香港的大規模篩檢研究已證實其價值）。\n❌ (A) 抗 VCA 的 IgG 在一般人群普遍陽性（多數成人都感染過 EB 病毒），毫無鑑別力。\n❌ (B) 抗 VCA 的 IgA 曾是傳統篩檢工具，但偽陽性率偏高。\n❌ (C) 抗早期抗原的 IgA 特異度較好但敏感度不足。\n📚 出處：Cummings Otolaryngology, 7th ed., Ch. Nasopharyngeal Carcinoma；Chan et al., NEJM 2017（Plasma EBV DNA screening）。"
   },
   {
    "n": 23,
@@ -332,7 +334,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "Sipple’s syndrome",
     "⿐咽癌"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 反覆鼻出血、消化道出血造成的缺鐵性貧血，加上鼻腔與舌面多處微血管擴張的紅點——這是遺傳性出血性微血管擴張症（Osler-Weber-Rendu 症候群），屬體染色體顯性遺傳，凝血功能檢查完全正常，病灶在血管壁本身。\n❌ (A) 鼻過敏不會造成黏膜微血管擴張與消化道出血。\n❌ (C) Sipple 氏症候群即第二 A 型多發性內分泌腫瘤（甲狀腺髓質癌、嗜鉻細胞瘤、副甲狀腺亢進），與出血無關。\n❌ (D) 鼻咽癌雖可鼻出血，但不會在舌部出現多發性微血管擴張，也不會造成反覆黑便。\n📚 出處：Cummings Otolaryngology, 7th ed., Ch. Epistaxis；Harrison's Principles of Internal Medicine, 21st ed.（Hereditary hemorrhagic telangiectasia）。"
   },
   {
    "n": 24,
@@ -345,7 +348,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "下⿐甲切除術",
     "⽪瓣移植⼿術"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 遺傳性出血性微血管擴張症的病灶是整片鼻黏膜，反覆燒灼或填塞只會讓黏膜更薄更容易出血；最有效的長期做法是「鼻中膈皮膚移植術」（septodermoplasty）——把病變黏膜切除、以皮瓣或皮膚移植取代，減少出血次數。\n❌ (A) 血管結紮只能處理單一供血血管，病灶多發性時側枝很快再形成。\n❌ (B) 栓塞可用於急性大量出血的暫時控制，但無法解決反覆出血的黏膜病灶。\n❌ (C) 下鼻甲切除與病灶分布無關，反而可能造成空鼻症。\n📚 出處：Cummings Otolaryngology, 7th ed., Ch. Epistaxis（Management of HHT-related epistaxis）。"
   },
   {
    "n": 25,
@@ -358,7 +362,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⼩於37週",
     "介於38～41週之間"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 超過 42 週的過期妊娠，胎兒腸道成熟加上羊水量減少，濃稠胎糞染色的發生率最高（可達三至四成），也因此新生兒胎糞吸入症候群的風險大增。\n❌ (A) 小於 24 週的胎兒腸道尚未成熟，幾乎不會排出胎糞。\n❌ (C) 早產兒排胎糞相對少見（若出現要考慮感染，如李斯特菌）。\n❌ (D) 足月期的胎糞染色率明顯低於過期妊娠。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Postterm Pregnancy；Ch. Amnionic Fluid。"
   },
   {
    "n": 26,
@@ -371,7 +376,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "cleft lip",
     "duodenal atresia"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 產前超音波在胎兒顏面冠狀切面看到上唇連續性中斷（並可能延伸到齒槽），就是唇裂——這是最常見的顏面先天異常之一，診斷後應進一步詳查是否合併其他結構異常或染色體問題。\n❌ (A) 無腦症在超音波上看到的是顱骨穹窿與大腦半球缺損（「青蛙眼」外觀），十分容易辨識。\n❌ (B) 唐氏症的超音波是軟指標（頸部皺褶增厚、鼻骨發育不良等），無法只憑顏面切面診斷。\n❌ (D) 十二指腸閉鎖的典型影像是腹部的「雙泡徵象」，位置在腹部而非顏面。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Fetal Imaging（Facial anomalies）。"
   },
   {
    "n": 27,
@@ -384,7 +390,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "過期流產（missed abortion）",
     "敗⾎性流產（septic abortion）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 子宮頸已經擴張（開 3 公分）但妊娠產物尚未排出，代表流產已無法阻止，這就是「無法避免的流產」，處置為子宮收縮劑或手術清除。\n❌ (A) 不完全流產是部分妊娠產物已排出、部分仍殘留在子宮內。\n❌ (C) 過期流產是胚胎已死亡但仍留在子宮內，子宮頸「關閉」且無出血。\n❌ (D) 敗血性流產必須有發燒、子宮壓痛與感染徵象。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Abortion（Classification of spontaneous abortion）。"
   },
   {
    "n": 28,
@@ -397,7 +404,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "表淺外陰部動脈（superficial external pudendal artery）",
     "下腹壁動脈（inferior epigastric artery）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 下腹壁動脈由外髂動脈發出後沿腹直肌後方上行，位置大約在臍與恥骨聯合連線外側、腹直肌外緣附近；側邊套管若太靠近中線（腹直肌外緣）就容易刺穿它，造成腹壁血腫，預防方法是先以腹腔鏡從內側直視定位。\n❌ (A) 表淺迴旋髂動脈位於腹壁淺層，即使傷到也只造成皮下小出血。\n❌ (B) 胃左動脈在上腹腔內，與腹壁套管路徑無關。\n❌ (C) 表淺外陰部動脈位於腹股溝下方，不在套管置入的範圍。\n📚 出處：Williams Gynecology, 4th ed., Ch. Minimally Invasive Surgery（Trocar placement and abdominal wall vasculature）。"
   },
   {
    "n": 29,
@@ -410,7 +418,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "間質性膀胱炎（interstitial cystitis）",
     "膀胱憩室（bladder diverticulum）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 頻尿、夜尿、脹尿後下腹痛而尿液無菌、尿動力學無逼尿肌過動，加上膀胱容量明顯縮小，麻醉下水擴張後黏膜出現瀰漫性點狀出血（glomerulations）——這是間質性膀胱炎／膀胱疼痛症候群的典型表現。\n❌ (A) 膀胱結石在膀胱鏡下可直接看到結石，且症狀多為終末血尿與排尿中斷。\n❌ (B) 膀胱腫瘤在鏡下呈乳突狀或實質腫塊，典型症狀是無痛性血尿。\n❌ (D) 膀胱憩室在鏡下看到的是黏膜的袋狀開口，且常合併餘尿與感染。\n📚 出處：Campbell-Walsh-Wein Urology, 12th ed.（Interstitial cystitis/bladder pain syndrome）；AUA Guideline on IC/BPS。"
   },
   {
    "n": 30,
@@ -423,7 +432,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "obturator internus muscle",
     "endopelvic fasciae"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 提肛肌腱弓（arcus tendineus levator ani）是提肛肌起始附著的筋膜線，位於閉孔內肌筋膜上，就像吊床兩端固定的橫木，把整片肌肉懸吊在骨盆側壁上。\n❌ (B) 骨盆筋膜腱弓（ATFP）是「陰道側壁」與骨盆側壁筋膜的附著線（懸吊陰道與尿道），與提肛肌本身的起點不同。\n❌ (C) 閉孔內肌是提肛肌腱弓所依附的肌肉，本身不是附著構造。\n❌ (D) 骨盆內筋膜是懸吊子宮與陰道的結締組織網，不是提肛肌的起點。\n📚 出處：Williams Gynecology, 4th ed., Ch. Anatomy（Pelvic floor）；Ch. Pelvic Organ Prolapse。"
   },
   {
    "n": 31,
@@ -436,7 +446,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "骨盆腔超⾳波檢查",
     "⼦宮鏡"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 育齡、有性經驗的女性出現月經遲來，第一件事永遠是「排除懷孕」——尿液懷孕試驗快速、便宜且敏感度高，結果會直接改變後續所有檢查與用藥的方向（含避免對孕婦使用有害藥物與放射檢查）。\n❌ (B) 荷爾蒙檢查（泌乳素、甲狀腺、雄性素）是排除懷孕之後才進行的第二線評估。\n❌ (C) 骨盆腔超音波固然有用，但在極早期妊娠可能還看不到孕囊，敏感度不如尿液試驗。\n❌ (D) 子宮鏡屬侵入性檢查，若病人懷孕更是禁忌。\n📚 出處：Williams Gynecology, 4th ed., Ch. Abnormal Uterine Bleeding；Ch. Amenorrhea。"
   },
   {
    "n": 32,
@@ -449,7 +460,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "術後須定期追蹤",
     "⼿術後遺症為diabetes mellitus"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 泌乳素瘤無論以藥物或手術治療，都必須「長期定期追蹤」泌乳素濃度、視野與影像——因為停藥後復發率高，術後也有相當比例會再發，且可能出現腦下垂體功能低下。\n❌ (A) 多巴胺促效劑雖對多數病人有效，但仍有約一成屬抗藥性（腫瘤不縮小、泌乳素降不下來），不能說一定有效。\n❌ (B) 手術切除後仍有復發可能，尤其大腺瘤或侵犯海綿竇者。\n❌ (D) 腦下垂體手術的內分泌後遺症是「尿崩症」（抗利尿激素缺乏），不是糖尿病。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Hypothalamic-Pituitary Disorders（Prolactinoma）；Endocrine Society Guideline on Hyperprolactinemia。"
   },
   {
    "n": 33,
@@ -462,7 +474,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "規則⽉經的運動選⼿",
     "裝有⼦宮內避孕器的婦女"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 多囊性卵巢症候群造成長期無排卵，子宮內膜持續受雌激素刺激卻缺乏黃體素對抗；再加上糖尿病與肥胖帶來的胰島素阻抗與周邊雌激素生成，是年輕女性罹患子宮內膜癌最典型的高風險組合。\n❌ (A) 口服避孕藥中的黃體素能保護子宮內膜，長期使用可降低子宮內膜癌風險約五成。\n❌ (C) 月經規則代表規律排卵，內膜每月完整剝落，風險低（運動選手若長期閉經則另當別論）。\n❌ (D) 含黃體素的子宮內避孕器甚至可用來治療子宮內膜增生，具保護作用。\n📚 出處：Williams Gynecology, 4th ed., Ch. Endometrial Cancer（Risk factors）。"
   },
   {
    "n": 34,
@@ -475,7 +488,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "Yolk sac tumor",
     "Embryonal carcinoma"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 無性細胞瘤（dysgerminoma）是卵巢生殖細胞腫瘤中唯一有明顯雙側傾向者，約 10–15% 為雙側（因此手術時要仔細檢視對側卵巢）；它對放射線與化學治療都極為敏感，預後良好。\n❌ (B) 絨毛膜癌幾乎都是單側。\n❌ (C) 卵黃囊瘤（內胚竇瘤）也幾乎都是單側，並分泌甲型胎兒蛋白。\n❌ (D) 胚胎癌同樣以單側為主。\n📚 出處：Williams Gynecology, 4th ed., Ch. Ovarian Germ Cell and Sex Cord-Stromal Tumors。"
   },
   {
    "n": 35,
@@ -488,7 +502,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "紅⾎球體積（red cell volume）⼀直到懷孕20週後才開始上升",
     "⾎比容積上升是由於紅⾎球體積上升多過於⾎漿體積⽽造成"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 懷孕到足月時總血量約增加 40–50%，這是為了應付子宮胎盤循環的需求並預留生產失血的緩衝。\n❌ (A) 血漿容積增加的幅度大於紅血球容積，血色素因稀釋而「下降」，即生理性貧血。\n❌ (C) 紅血球容積從懷孕早期就開始緩慢增加，並持續到足月（約增加 20–30%）。\n❌ (D) 血比容是「下降」的，正因為血漿增加多於紅血球增加。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Maternal Anatomy and Physiology（Hematologic changes）。"
   },
   {
    "n": 36,
@@ -501,7 +516,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "25%",
     "15%"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 單劑 methotrexate 治療子宮外孕後，若第 4 天到第 7 天的血清人類絨毛膜性腺激素下降未達 15%，即視為療效不足，應追加第二劑（並繼續每週追蹤到降至陰性）。\n❌ (A) 45% 遠高於指引標準，會造成大量不必要的重複給藥。\n❌ (B) 35% 同樣過高。\n❌ (C) 25% 仍高於公認的 15% 門檻。\n📚 出處：ASRM Practice Committee Opinion: Medical Treatment of Ectopic Pregnancy（2013）；Williams Obstetrics, 26th ed.。"
   },
   {
    "n": 37,
@@ -514,7 +530,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "對於有症狀的孕婦，建議以氣球擴張術（balloon valvotomy）治療",
     "若是嘗試陰道⽣產時，待產時建議注意輸液量不能過少，⽣產時建議使⽤產鉗或真空吸幫助⽣產"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：主動脈瓣的氣球擴張術效果差、再狹窄快且併發症（瓣膜逆流、栓塞）多，不像二尖瓣狹窄那樣是孕期的好選擇；症狀嚴重時應以藥物與嚴密監測度過孕期，必要時才考慮手術或以介入作為過渡。\n❌ (A) 主動脈瓣狹窄病人的心輸出高度依賴前負荷，孕期血管阻力下降、仰臥時下腔靜脈受壓等造成有效前負荷不足時，症狀確實惡化。\n❌ (B) 無症狀且瓣膜狹窄程度不嚴重者，可密切追蹤而不需介入。\n❌ (D) 待產時要維持足夠的輸液避免前負荷驟降，第二產程則以產鉗或真空吸引縮短用力時間，減少 Valsalva 造成的血行動力學波動。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Cardiovascular Disorders（Aortic stenosis in pregnancy）；ESC Guidelines for Cardiovascular Diseases during Pregnancy。"
   },
   {
    "n": 38,
@@ -527,7 +544,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⼈類絨⽑膜性腺激素（human chorionic gonadotropin）",
     "懷孕相關蛋⽩A（pegnancy-associated protein A）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 母血甲型胎兒蛋白屬於「第二孕期」的四指標篩檢（另含人類絨毛膜性腺激素、雌三醇、抑制素 A），並非第一孕期的篩檢項目。\n❌ (A) 頸部透明帶厚度是第一孕期（11–13⁺⁶ 週）超音波篩檢的核心指標。\n❌ (C) 游離型 β 人類絨毛膜性腺激素是第一孕期母血生化篩檢的兩項之一。\n❌ (D) 懷孕相關血漿蛋白 A 是第一孕期生化篩檢的另一項（唐氏症時會下降）。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Prenatal Diagnosis（First-trimester combined screening）。"
   },
   {
    "n": 39,
@@ -540,7 +558,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "新⽣兒出⽣後不必給與B型肝炎免疫球蛋⽩治療，只需安排B型肝炎疫苗預防接種",
     "新⽣兒出⽣後不必給與B型肝炎免疫球蛋⽩治療，也不必安排B型肝炎疫苗預防接種"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 母親 e 抗原陽性、病毒量高，新生兒屬高風險：出生 12 小時內（愈快愈好）同時給予 B 型肝炎免疫球蛋白提供被動免疫，並在不同部位施打第一劑 B 型肝炎疫苗建立主動免疫——兩者併用可把垂直感染率降到 5% 以下（母親孕期已服抗病毒藥可再降低）。\n❌ (B) 只給免疫球蛋白而不接種疫苗，被動抗體數月後消失即失去保護。\n❌ (C) 高病毒量母親的新生兒單靠疫苗保護不足，必須加免疫球蛋白。\n❌ (D) 兩者都不給，等於任由垂直感染發生。\n📚 出處：衛生福利部疾病管制署「B 型肝炎母嬰垂直感染防治」；Williams Obstetrics, 26th ed., Ch. Hepatic Disorders。"
   },
   {
    "n": 40,
@@ -553,7 +572,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "絨⽑膜⽺膜炎（chorioamnionitis ）",
     "胎膜早破（premature rupture of membranes ）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 「前一胎曾發生胎盤早期剝離」是所有危險因子中風險最高者——再次發生率約 10–15%，是一般孕婦的十倍以上，若曾發生兩次則風險更高達兩成以上。\n❌ (B) 子癇前症與慢性高血壓確實會提高風險（約 2–5 倍），但仍遠低於復發的相對風險。\n❌ (C) 絨毛膜羊膜炎是危險因子之一，風險增幅有限。\n❌ (D) 胎膜早破（尤其合併羊水快速流失）會提高風險，但同樣不及復發性剝離。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Obstetrical Hemorrhage（Placental abruption: risk factors）。"
   },
   {
    "n": 41,
@@ -566,7 +586,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "2",
     "4"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 國際尿失禁學會的標準是 24 小時棉墊試驗增重超過「4 公克」才算異常——這個門檻已扣除正常陰道分泌物與汗水造成的重量，是客觀量化漏尿量並評估治療成效的依據。\n❌ (A) 完全不增加才算正常，門檻過嚴，臨床上不可行。\n❌ (B) 1 公克是 1 小時棉墊試驗常用的門檻，不是 24 小時版本。\n❌ (C) 2 公克同樣低於 24 小時試驗的公認標準。\n📚 出處：International Continence Society（ICS）Standardisation of Terminology；Campbell-Walsh-Wein Urology, 12th ed.（Evaluation of urinary incontinence）。"
   },
   {
    "n": 42,
@@ -579,7 +600,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "填充期膀胱內壓測量法（filling phase cystometry）",
     "無壓⼒尿流測量法（free uroflowmetry）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 排尿日記讓病人連續記錄每次排尿的時間、尿量、飲水量與漏尿事件，可以「客觀」驗證主訴的頻尿是否為真、是尿量太多還是膀胱容量太小，是評估下泌尿道症狀最基本也最重要的工具。\n❌ (B) 一小時棉墊試驗量的是漏尿量，不是排尿次數。\n❌ (C) 膀胱內壓測量評估的是儲尿期的逼尿肌活性與感覺，屬侵入性檢查，不是用來確認頻尿次數。\n❌ (D) 尿流速測量評估的是排尿期的流速與有無阻塞。\n📚 出處：Campbell-Walsh-Wein Urology, 12th ed.（Evaluation of lower urinary tract symptoms；Bladder diary）。"
   },
   {
    "n": 43,
@@ -592,7 +614,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "強烈尿意（strong desire to void）發⽣在⼩於250 mL灌注液量",
     "膀胱容量（cystometric capacity）介於400 and 600 mL灌注液量"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：正常女性的「強烈尿意」出現在灌注約 400–600 mL 時（接近膀胱容量）；若在 250 mL 以下就出現強烈尿意，代表膀胱感覺過度敏感或容量偏小，屬異常。\n❌ (A) 正常餘尿量應小於 50 mL。\n❌ (B) 初感尿意約在灌注 150–250 mL 時出現。\n❌ (D) 正常膀胱容量約 400–600 mL。\n📚 出處：Campbell-Walsh-Wein Urology, 12th ed.（Urodynamics: normal values）；ICS Good Urodynamic Practices。"
   },
   {
    "n": 44,
@@ -605,7 +628,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "美國⽣殖醫學會（ASRM）將⼦宮內膜異位，依疼痛的嚴重程度分為第⼀期到第四期",
     "⼦宮內膜異位症與卵巢癌有關"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：美國生殖醫學會的分期是依據「病灶的位置、大小、深度與沾黏程度」計分後分為第一到第四期，與疼痛嚴重程度無關——臨床上常見輕微病灶劇痛、廣泛病灶卻無症狀的落差。\n❌ (A) 骨盆疼痛（經痛、性交疼痛）與不孕是它最主要的兩大臨床問題。\n❌ (B) 診斷的黃金標準是腹腔鏡直視加切片，但切片未見異位內膜組織也不能排除診斷。\n❌ (D) 子宮內膜異位症（尤其卵巢巧克力囊腫）與透明細胞癌、子宮內膜樣卵巢癌的風險上升有關。\n📚 出處：Williams Gynecology, 4th ed., Ch. Endometriosis（ASRM classification）。"
   },
   {
    "n": 45,
@@ -618,7 +642,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "晚期的⼦宮頸癌，建議去放射腫瘤科接受化療同步的放射線治療",
     "接受陰道鏡輔助的⼦宮頸切片檢查或直接⼦宮頸切片檢查"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 抹片只是「篩檢」工具，異常結果必須靠組織病理確認：下一步應做陰道鏡導引下的子宮頸切片（必要時加子宮頸管搔刮），確立診斷與侵犯深度後才能決定治療；輸尿管的顯影劑缺損也提醒要留意子宮頸癌侵犯壓迫的可能。\n❌ (A) 高度異常的抹片不可以只追蹤了事，延誤診斷後果嚴重。\n❌ (B) 尚未有組織診斷與分期，就直接安排根除性手術是本末倒置。\n❌ (C) 同樣未確診也未分期，不能直接送去做化放療。\n📚 出處：Williams Gynecology, 4th ed., Ch. Preinvasive Lesions of the Lower Genital Tract；Ch. Cervical Cancer；ASCCP Risk-Based Management Consensus Guidelines。"
   },
   {
    "n": 46,
@@ -631,7 +656,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "卵巢多胚瘤（polyembryoma）及不成熟畸胎瘤（immature teratoma）",
     "卵巢內胚層竇瘤（endodermal sinus tumor）及不成熟畸胎瘤（immature teratoma）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 混合型卵巢惡性生殖細胞瘤中最常見的組合是「無性胚胎瘤＋內胚層竇瘤（卵黃囊瘤）」，約占三分之一；因為含有卵黃囊成分，血清甲型胎兒蛋白會升高，這對術前判斷與追蹤很重要。\n❌ (B) 多胚瘤本身極為罕見，這種組合並不常見。\n❌ (C) 同樣包含罕見的多胚瘤。\n❌ (D) 內胚層竇瘤與不成熟畸胎瘤的組合可以出現，但頻率低於選項 A。\n📚 出處：Williams Gynecology, 4th ed., Ch. Ovarian Germ Cell Tumors（Mixed germ cell tumors）。"
   },
   {
    "n": 47,
@@ -644,7 +670,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⻑期服⽤tamoxifen",
     "肥胖且無⽉經（amenorrhea）的婦女"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不可能：黃體素的作用正是「對抗」雌激素對子宮內膜的增生刺激，使內膜轉為分泌期並定期剝落——臨床上還用它來治療子宮內膜增生，長期服用是保護因子而非危險因子。\n❌ (A) 長期無排卵使內膜只受雌激素刺激而缺乏黃體素對抗，是最典型的原因。\n❌ (C) tamoxifen 在乳房是抗雌激素，在子宮內膜卻表現為部分促效作用，會造成內膜增厚與息肉。\n❌ (D) 肥胖使脂肪組織的芳香酶把雄性素轉為雌酮，加上無月經（無排卵），內膜長期暴露於無對抗的雌激素。\n📚 出處：Williams Gynecology, 4th ed., Ch. Endometrial Hyperplasia。"
   },
   {
    "n": 48,
@@ -657,7 +684,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "雌激素會刺激⼦宮內膜中⾎管（blood vessels）與腺體（glands）的增⽣",
     "黃體素會抑制⼦宮內膜中⾎管（blood vessels）與腺體（glands）的增⽣"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：黃體素雖然抑制內膜腺體的「增生」（使腺體轉為分泌型），卻會促進基質蛻膜化並使「螺旋動脈」發育捲曲——這是為著床做準備的必要變化，不是抑制血管生成。\n❌ (A) 雌激素刺激基質細胞增生，是增生期的主要作用。\n❌ (B) 黃體素抑制基質細胞的有絲分裂並促其蛻膜化。\n❌ (C) 雌激素同時刺激腺體與血管增生，使內膜由月經後的薄層增厚。\n📚 出處：Williams Gynecology, 4th ed., Ch. Reproductive Endocrinology（The endometrial cycle）。"
   },
   {
    "n": 49,
@@ -670,7 +698,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "治療以改變⽣活型態（減肥減重）（=飲食控制+運動）為主，臨床症狀之治療為輔",
     "以clomiphene citrate來治療不排卵"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：metformin 單獨使用誘導排卵與活產的效果明顯不如口服排卵藥，指引已不建議把它當成第一線的排卵誘導藥物（它主要用於改善代謝異常，或作為輔助）。\n❌ (A) 抗雄性素藥物（如 spironolactone、含 cyproterone 的避孕藥）可改善痤瘡與多毛。\n❌ (C) 減重 5–10% 即可能恢復排卵並改善代謝，是所有治療的基礎。\n❌ (D) clomiphene citrate（現在多首選 letrozole）是誘導排卵的標準用藥。\n📚 出處：Williams Gynecology, 4th ed., Ch. Polycystic Ovarian Syndrome；International Evidence-Based Guideline for PCOS。"
   },
   {
    "n": 50,
@@ -683,7 +712,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "AMH的值不受到性腺激素的影響（gonadotropin-independent）",
     "AMH值無法⽤來預測卵巢對於FSH刺激的反應"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：抗穆勒氏荷爾蒙是「預測卵巢對濾泡刺激素反應」最好的指標之一——數值低者反應不佳（取卵數少），數值過高者則要警惕卵巢過度刺激症候群，臨床上正是用它來設計刺激劑量。\n❌ (A) 它是評估卵子庫存量與卵巢反應的核心工具。\n❌ (B) 由前竇卵泡與小竇卵泡的顆粒細胞分泌，反映的正是這群卵泡的數量。\n❌ (C) 它不受性腺激素調控，因此月經週期內波動小、也不受口服避孕藥明顯影響，可在任何時間抽血。\n📚 出處：Williams Gynecology, 4th ed., Ch. Evaluation of the Infertile Couple（Ovarian reserve testing）；ASRM Committee Opinion on Ovarian Reserve Testing。"
   },
   {
    "n": 51,
@@ -696,7 +726,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "抗穆勒⽒賀爾蒙（antimüllerian hormone, AMH）下降",
     "超⾳波測量竇卵泡計數量（antral follicle count, AFC）上升"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 卵子庫存量下降時，小竇卵泡數目減少，其分泌的抗穆勒氏荷爾蒙隨之「下降」——它是目前最早也最敏感反映卵巢老化的指標。\n❌ (A) 卵泡減少使抑制素 B 與雌激素的負回饋減弱，基礎濾泡刺激素反而「上升」。\n❌ (B) 卵子庫存量與年齡高度相關，35 歲後加速下降。\n❌ (D) 超音波的竇卵泡計數同樣「下降」。\n📚 出處：Williams Gynecology, 4th ed., Ch. Evaluation of the Infertile Couple（Diminished ovarian reserve）。"
   },
   {
    "n": 52,
@@ -709,7 +740,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "追蹤測量發現雌激素值過⾼時，不考慮完全停⽌促性腺激素藥物刺激",
     "取卵後使⽤Cabergoline可能可以抑制⾎管內⽪⽣⻑因⼦（VEGF）產⽣"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 卵巢過度刺激症候群的核心介質是血管內皮生長因子造成的血管通透性增加；取卵後給予多巴胺促效劑 cabergoline 可抑制其受體訊號傳遞，是已被證實能降低發生率的預防措施之一。\n❌ (A) 人類絨毛膜性腺激素半衰期長、持續刺激黃體，正是誘發此症候群的主因——降低風險的做法反而是改用促性腺激素釋放素促效劑觸發排卵。\n❌ (B) 促效劑療程中腦下垂體已被降調節，再給拮抗劑不可能觸發排卵；能用促效劑觸發的是「拮抗劑療程」。\n❌ (C) 雌激素過高代表反應過度，此時應考慮減量、暫停給藥（coasting）甚至取消週期，不能置之不理。\n📚 出處：Williams Gynecology, 4th ed., Ch. Treatment of the Infertile Couple；ASRM Practice Committee: Prevention of OHSS。"
   },
   {
    "n": 53,
@@ -722,7 +754,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "正常懷孕從受孕到產後的這段期間，側躺休息時的⼼輸出量最⼤的時期在妊娠週數第28⾄32週間",
     "⼀般妊娠20週後，孕婦側躺時，⼼輸出量及⼼臟打出的容積量（stroke volume）比坐著時⾼，但每分鐘⼼ 跳數則比坐著時低。此外，懷孕時左側躺的收縮壓、舒張壓均較仰臥時低"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：頭臀長 2.1 公分換算出的是「妊娠週數」約 9 週（自末次月經算起）；題目問的是「胚胎週數」，受精比末次月經晚約兩週，因此胚胎（受精後）週數約 7 週——兩者相差兩週不可混用。\n❌ (B) 懷孕 8 週前心輸出量即開始上升、周邊血管阻力下降、心跳加快，是孕期最早出現的生理適應。\n❌ (C) 側躺休息時的心輸出量在妊娠 28–32 週間達到高峰。\n❌ (D) 20 週後側躺可解除下腔靜脈受壓，回心血量增加使心輸出量與心搏量上升、心跳相對變慢，且左側躺的血壓低於仰臥。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Maternal Anatomy and Physiology；Ch. Fetal Imaging（CRL dating）。"
   },
   {
    "n": 54,
@@ -735,7 +768,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⼤的⼼室中膈缺損可能會進展為左⼼室衰竭及肺動脈⾼壓，當肺動脈阻⼒（pulmonary vascular resistance）⼤於系統性⾎管阻⼒（systemic vascular resistance），會造成右側到左側的分流（right to left shunt），即Eisenmenger症候群，此時⺟親的死亡率會⾼達30～50%",
     "沒有修補的⼼室中膈缺損會有感染性⼼內膜炎（infective endocariditis）的風險，在懷疑有菌⾎症時，建議 給預防性抗⽣素"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：先天性心臟病具明確的遺傳傾向——母親有心室中膈缺損時，子代發生先天性心臟病的機率約 3–6%（高於一般族群的 0.8%），因此建議胎兒心臟超音波檢查。\n❌ (A) 懷孕前爬三層樓才喘、日常無礙屬第二級；懷孕後走久就喘需休息，已惡化為第三級。\n❌ (C) 大型缺損長期左向右分流會造成肺高壓，當肺血管阻力超過體循環阻力時分流逆轉為右向左，即艾森曼格症候群，孕產婦死亡率高達三至五成，屬懷孕的絕對禁忌。\n❌ (D) 未修補的心室中膈缺損有感染性心內膜炎風險，在高風險處置或懷疑菌血症時給預防性抗生素是合理的。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Cardiovascular Disorders（Congenital heart disease in pregnancy）。"
   },
   {
    "n": 55,
@@ -748,7 +782,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "溫度適中的食物",
     "較為堅硬的食物"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 冰冷的溫度刺激能增強口咽部的感覺輸入，縮短吞嚥反射的延遲時間——臨床上的「溫度觸覺刺激」即以冰棉棒刺激前咽門弓，是吞嚥障礙復健常用的技巧。\n❌ (B) 味覺（甜）對誘發吞嚥反射的效果遠不如溫度刺激（酸味的效果較甜味明顯）。\n❌ (C) 與體溫接近的食物感覺輸入最弱，最不易誘發反射。\n❌ (D) 堅硬食物增加咀嚼與吞嚥的困難度，對吞嚥障礙病人反而危險。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Swallowing Disorders（Thermal-tactile stimulation）。"
   },
   {
    "n": 56,
@@ -761,7 +796,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "股神經（femoral nerve）",
     "隱神經（saphenous nerve）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 夏柯–馬利–杜斯氏病又稱「腓骨肌萎縮症」，最早也最嚴重受侵犯的就是腓神經支配的肌群——脛前肌與腓骨肌無力造成垂足、高足弓與槌狀趾，小腿呈倒香檳瓶樣外觀。\n❌ (B) 脛神經支配的小腿後側肌群受影響較晚也較輕。\n❌ (C) 股神經支配的股四頭肌通常保留到疾病晚期。\n❌ (D) 隱神經是純感覺神經，不會造成足部變形。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Myopathy and Neuropathy；Harrison's Principles of Internal Medicine, 21st ed.（Charcot-Marie-Tooth disease）。"
   },
   {
    "n": 57,
@@ -774,7 +810,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "直腸",
     "陰莖"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 電刺激取精是把探頭置入「直腸」，隔著直腸前壁刺激攝護腺與精囊周圍的交感神經叢（下腹下神經叢），誘發射精；脊髓損傷病人多需在麻醉下進行（T6 以上者要慎防自主神經反射異常）。\n❌ (A) 腹部電刺激無法刺激到負責射精的骨盆神經叢。\n❌ (B) 會陰部刺激主要影響體神經支配的骨盆底肌，不足以誘發射精。\n❌ (D) 陰莖部位使用的是「震動刺激取精法」，是另一種方法，不是電極放置處。\n📚 出處：Campbell-Walsh-Wein Urology, 12th ed.（Ejaculatory dysfunction in spinal cord injury: electroejaculation）。"
   },
   {
    "n": 58,
@@ -787,7 +824,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "受傷初期之肌⼒與往後之恢復無關",
     "愈早恢復者，預後愈佳"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：受傷初期殘存的肌力是預後最重要的預測因子——初期肌力愈好（尤其屬不完全損傷者），日後恢復的幅度與機會愈大，兩者高度相關。\n❌ (A) 上肢功能的恢復大多發生在受傷後 6–9 個月內，之後進展有限。\n❌ (B) 恢復速度最快的階段在受傷後前 3 個月。\n❌ (D) 愈早出現恢復跡象者，最終功能預後愈好。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Spinal Cord Injury（Prognosis for neurologic recovery）。"
   },
   {
    "n": 59,
@@ -800,7 +838,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "連續電刺激神經檢查（repetitive nerve stimulation test）",
     "肌⾁激發電刺激檢查（muscle excitability test）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 針極肌電圖能直接分析運動單位電位的形態：肌肉病變呈「振幅小、時距短、多相位」且早期召募；神經病變則呈「振幅大、時距長」的巨大電位與召募減少——這是區分兩者最有用的電學工具。\n❌ (A) 神經傳導檢查主要評估周邊神經的傳導速度與振幅，在單純肌肉病變時多為正常，無法辨識肌病的細節。\n❌ (C) 連續電刺激用於診斷神經肌肉接合處疾病（重症肌無力、蘭伯特–伊頓症候群）。\n❌ (D) 肌肉激發電刺激檢查已非現行臨床標準工具。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Electrodiagnostic Medicine；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 60,
@@ -813,7 +852,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⽪質類固醇（glucocorticoid）",
     "非類固醇抗炎⽌痛劑（non-steroidal anti-inflammatory drug）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 高劑量皮質類固醇是多發性肌炎的第一線治療（通常從每日每公斤 1 毫克 prednisolone 開始），待肌酵素與肌力改善後緩慢減量，並常合併免疫抑制劑作為類固醇節省劑。\n❌ (A) 傳統抗風濕藥物（如 methotrexate、azathioprine）是輔助或類固醇節省用藥，不是首選。\n❌ (B) 生物製劑（如 rituximab）保留給頑固型病例。\n❌ (D) 非類固醇消炎藥只能緩解肌肉痠痛，對免疫媒介的肌肉發炎沒有治療作用。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Inflammatory Myopathies；Braddom's Physical Medicine and Rehabilitation, 6th ed.。"
   },
   {
    "n": 61,
@@ -826,7 +866,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "要選擇使⽤那⼀種助⾏器，決定於使⽤者所需要的平衡能⼒和承重協助",
     "可以把助⾏器當成上肢的延伸"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：助行器除了力量支撐，也提供重要的「感覺回饋」——手掌透過拐杖或助行架感受到地面的反作用力與地形變化，這種本體感覺輸入對平衡不佳或周邊神經病變的使用者特別關鍵。\n❌ (A) 改善平衡、重新分配下肢承重、減輕疼痛，正是使用助行器的三大目的。\n❌ (C) 選擇哪一種（手杖、腋下拐、助行架）取決於所需的平衡協助與可承重程度。\n❌ (D) 把助行器視為上肢的延伸，是理解其生物力學的常用比喻。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Lower Limb Orthoses and Ambulation Aids。"
   },
   {
    "n": 62,
@@ -839,7 +880,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "可協助⼿功能",
     "可延緩疾病的進⾏"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：副木是「機械性」的支持與保護工具，可減輕症狀、維持關節位置，但無法改變關節炎本身的免疫發炎過程，不能延緩疾病進行——那是抗風濕藥物的角色。\n❌ (A) 靜態副木在休息時把關節固定在功能位置，可減緩尺側偏移等變形。\n❌ (B) 適當的副木穩定腕關節後，手指的抓握力反而能提升。\n❌ (C) 功能性副木可協助日常生活動作的執行。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Upper Limb Orthoses；Ch. Rheumatologic Rehabilitation。"
   },
   {
    "n": 63,
@@ -852,7 +894,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "神經傳導檢查（NCS）",
     "磁振造影檢查（MRI）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 走一段路就兩腿痠麻、坐下（腰椎前彎）立刻緩解，是典型的「神經性跛行」——腰椎脊柱狹窄的招牌症狀；磁振造影能直接顯示椎管與神經孔的狹窄程度、黃韌帶肥厚與神經根受壓，對診斷最有幫助。\n❌ (A) 一般 X 光只能看到退化性變化與排列，無法評估神經受壓的軟組織。\n❌ (B) 肌電圖可輔助判斷神經根受損程度，但無法定位狹窄的解剖位置。\n❌ (C) 神經傳導檢查主要用來排除周邊神經病變，對脊柱狹窄的診斷幫助有限。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Low Back Pain（Lumbar spinal stenosis）；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 64,
@@ -865,7 +908,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "物理治療最為重要，⼤多數病⼈不需職能治療",
     "須配合居家與⼯作環境適應"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：類風濕性關節炎最常侵犯手部小關節，職能治療（關節保護技巧、副木製作、日常生活輔具、工作簡化）對維持功能極為重要，絕不是「大多數病人不需要」。\n❌ (A) 復健的目標正是避免變形並維持活動功能。\n❌ (B) 必要時使用副木與輔具矯正或代償變形的關節。\n❌ (D) 居家與職場環境的調整（改裝把手、調整工作高度）是治療計畫的一部分。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Rheumatologic Rehabilitation。"
   },
   {
    "n": 65,
@@ -878,7 +922,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "每週進⾏3～5天的訓練",
     "每次進⾏10～20分鐘"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 美國運動醫學會對心肺耐力訓練的建議是每週 3–5 天（中等強度每週至少 150 分鐘），配合暖身與緩和運動。\n❌ (A) 心肺訓練要用「大肌群的動態、節律性」運動（走路、慢跑、游泳、騎車），小肌群靜態運動屬阻力訓練範疇。\n❌ (B) 重力訓練機器屬肌力訓練，不是心肺耐力訓練的主要或輔助形式。\n❌ (D) 每次持續時間建議 20–60 分鐘（可分段累積），10–20 分鐘不足。\n📚 出處：ACSM's Guidelines for Exercise Testing and Prescription；Braddom's Physical Medicine and Rehabilitation, 6th ed.。"
   },
   {
    "n": 66,
@@ -891,7 +936,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "撅唇呼吸（pursed lip breathing）的作⽤在於維持呼氣期氣道的正壓（maintain positive airway pressure during exhalation）",
     "慢性阻塞性肺疾病（COPD）患者雖然常被教導橫膈膜式呼吸⽅式（diaphragmatic breathing），但對這群 患者⽽⾔，橫膈膜式呼吸⽅式可能比⾃然呼吸⽅式（natural pattern of breathing）消耗更多的呼吸功 （increase the work of breathing）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：慢性阻塞性肺病要教的是「慢而深」的呼吸——快而淺的呼吸只會增加無效腔通氣比例、加重動態過度充氣，正好是要矯正的錯誤模式。\n❌ (A) 呼吸困難常伴隨頸肩輔助肌緊繃與焦慮，先學會放鬆才能有效執行呼吸運動。\n❌ (C) 撅唇呼氣提供背壓，維持呼氣期氣道正壓避免小氣道塌陷，讓氣體排得出來。\n❌ (D) 過度充氣使橫膈壓平、力學效率變差，這類病人做橫膈式呼吸反而可能增加呼吸功，需個別評估。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Pulmonary Rehabilitation。"
   },
   {
    "n": 67,
@@ -904,7 +950,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "典型患者通常於8⾄12歲時會喪失步⾏能⼒",
     "臨床上⾒到患者會有⾼爾⽒徵象（Gowers' sign）是因為遠端肢體無⼒所致"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：高爾氏徵象（要從地上站起來必須用雙手撐著大腿一步步往上爬）反映的是「近端」肌群（髖伸肌與股四頭肌）無力，不是遠端肢體無力。\n❌ (A) 它由 X 染色體上的 dystrophin 基因突變造成，屬性聯隱性遺傳，患者幾乎都是男孩。\n❌ (B) 臀中肌無力使骨盆在單腳站立時下沉，造成搖擺步態（Trendelenburg 步態）。\n❌ (C) 典型病程在 8–12 歲間失去獨立步行能力，之後需靠輪椅。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Muscular Dystrophies；Braddom's Physical Medicine and Rehabilitation, 6th ed.。"
   },
   {
    "n": 68,
@@ -917,7 +964,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "出⽣體重⼩於2,500公克",
     "⺟親智能障礙"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 胎兒心搏過速最不會造成腦性麻痺——它多為發燒、感染或藥物引起的暫時變化，與腦部缺氧損傷的關聯性遠不如其他選項（真正令人擔心的是持續性的心搏過緩與變異性消失）。\n❌ (B) 新生兒癲癇發作代表已有腦部損傷，是腦性麻痺最強的預測因子之一。\n❌ (C) 低出生體重與早產是腦性麻痺最主要的危險因子。\n❌ (D) 母親智能障礙在流行病學研究中與子代腦性麻痺風險上升有關（涉及產前照護、社經與遺傳等多重因素）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Cerebral Palsy（Risk factors）。"
   },
   {
    "n": 69,
@@ -930,7 +978,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "當晚上使⽤⾜踝部護具（AFO）時，必須將踝關節固定在最⼤蹠屈（plantar flexion）⾓度",
     "有證據顯⽰，體外震波治療（extracorporeal shockwave therapy）可有效治療⾜底筋膜炎"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：夜間副木必須把踝關節固定在「背屈」（中立或略背屈）的位置，讓足底筋膜與小腿後肌群在睡眠中維持伸展；固定在最大蹠屈只會讓筋膜整夜攣縮，隔天第一步更痛。\n❌ (A) 晨起第一步或久坐後起身最痛，是它的典型病史。\n❌ (B) 壓痛點通常在足底筋膜附著於跟骨內側結節處。\n❌ (D) 體外震波治療對慢性頑固性足底筋膜炎的療效已有相當證據支持。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Musculoskeletal Disorders of the Lower Limb（Plantar fasciitis）。"
   },
   {
    "n": 70,
@@ -943,7 +992,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "正中神經（median nerve）",
     "肌⽪神經（musculocutaneous nerve）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 尺神經支配小魚際肌、骨間肌與第三、四蚓狀肌；受損後蚓狀肌無法屈曲掌指關節、伸直指間關節，第四與第五指便呈掌指關節過伸、指間關節屈曲的「鷹爪手」，並伴小魚際肌萎縮。\n❌ (B) 橈神經受損造成的是垂腕，屬伸肌群無力。\n❌ (C) 正中神經受損造成大魚際肌萎縮與「猿手」，以及握拳時食中指無法屈曲的祝福手。\n❌ (D) 肌皮神經支配上臂屈肌（肱二頭肌），與手部小肌肉無關。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Mononeuropathies of the Upper Limb（Ulnar neuropathy）。"
   },
   {
    "n": 71,
@@ -956,7 +1006,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "global aphasia",
     "Wernicke aphasia"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 命名性失語症的唯一明顯障礙是「找不到詞」，流暢度、理解力與「覆誦」都保持完好，是所有失語症中語言功能保留最多、預後最好的一型。\n❌ (A) 傳導性失語症的核心缺損正是覆誦障礙（弓狀束受損），理解與流暢度反而正常。\n❌ (C) 全失性失語症的所有語言功能（表達、理解、覆誦、命名）皆嚴重受損。\n❌ (D) 威尼克氏失語症說話流暢但無意義，理解與覆誦都差。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Aphasia and Other Focal Cerebral Disorders；Braddom's Physical Medicine and Rehabilitation, 6th ed.。"
   },
   {
    "n": 72,
@@ -969,7 +1020,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "上呼吸道感染",
     "深頸部感染症"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 年輕男性以上頸部（後三角區）無痛硬塊表現，電腦斷層見鼻咽頂後壁軟組織增厚、咽隱窩消失並合併頸部淋巴結腫大——這是鼻咽癌最典型的臨床與影像組合（臺灣好發，與 EB 病毒相關）。\n❌ (B) 淋巴管瘤多在嬰幼兒時期發現，影像上是不強化的多房囊狀病灶，且不會有鼻咽壁增厚。\n❌ (C) 上呼吸道感染造成的淋巴結腫大會疼痛、伴隨發燒且短期內消退。\n❌ (D) 深頸部感染會有紅腫熱痛、發燒與影像上的膿瘍環狀強化。\n📚 出處：Cummings Otolaryngology: Head and Neck Surgery, 7th ed., Ch. Nasopharyngeal Carcinoma。"
   },
   {
    "n": 73,
@@ -982,7 +1034,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⼦宮頸癌（cervical cancer）",
     "⼦宮內膜息⾁（endometrial polyp）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 磁振造影顯示腫瘤中心位於「子宮頸」並向外破壞子宮頸基質環（T2 低訊號環中斷）、往陰道或旁組織延伸——這是子宮頸癌的典型影像，磁振造影也是子宮頸癌術前分期評估旁組織侵犯的最佳工具。\n❌ (A) 子宮肌瘤位於肌肉層，T2 呈邊界清楚的低訊號腫塊，不會破壞子宮頸基質環。\n❌ (B) 子宮內膜癌的病灶中心在子宮腔內膜，向肌肉層侵犯，位置與本例不同。\n❌ (D) 子宮內膜息肉是內膜腔內帶蒂的小病灶，不會侵犯周邊組織。\n📚 出處：Williams Gynecology, 4th ed., Ch. Cervical Cancer（Imaging and FIGO staging）。"
   },
   {
    "n": 74,
@@ -995,7 +1048,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "臂神經叢傷害的磁振造影表現可以是stretching injury、 root avulsion等",
     "Root avulsion是指神經根與脊髓（spinal cord）的神經節後分離（post-ganglionic separation）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：神經根撕脫是神經根在「背根神經節近端」與脊髓分離，屬「節前（pre-ganglionic）」損傷——這也是它預後極差、無法靠神經修補恢復的原因（節後損傷才有機會自行再生或修補）。\n❌ (A) 車禍後單側上肢無力麻痺合併頸椎影像異常，符合臂神經叢損傷。\n❌ (B) 磁振造影上神經根袖套處的假性脊髓膜膨出（腦脊髓液外漏形成的囊袋），是神經根撕脫的間接證據。\n❌ (C) 臂神經叢損傷的影像表現包含牽拉傷造成的神經增粗訊號增強，以及神經根撕脫。\n📚 出處：Braddom's Physical Medicine and Rehabilitation, 6th ed., Ch. Brachial Plexopathy；Schwartz's Principles of Surgery, 11th ed.。"
   },
   {
    "n": 75,
@@ -1008,7 +1062,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "磁振造影檢查（MRI）可看到動脈壁上的⾎腫訊號",
     "藥物治療無效者可考慮⽀架置放術（carotid stenting）治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：頸動脈剝離的病灶是血管壁內的血腫，不是動脈硬化斑塊，內膜切除術既無適應症也可能造成血管進一步撕裂；標準治療是抗血栓藥物（抗血小板或抗凝），多數可自行癒合。\n❌ (A) 它好發於顱外內頸動脈的頸部節段（距分叉處 2 公分以上的活動段），而非動脈硬化好發的分叉處。\n❌ (C) 磁振造影的脂肪抑制 T1 影像可見血管壁的新月形高訊號血腫，是診斷利器。\n❌ (D) 藥物治療下仍反覆缺血事件或出現假性動脈瘤時，可考慮支架置放。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cerebrovascular Diseases（Arterial dissection）。"
   },
   {
    "n": 76,
@@ -1021,7 +1076,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "⾓膜炎（keratitis）",
     "急性青光眼（acute glaucoma）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 急性結膜炎的病灶侷限在結膜，典型表現是分泌物增多、異物感與眼睛紅，「不會有明顯畏光」——出現畏光就代表角膜或葡萄膜受到侵犯，必須進一步檢查。\n❌ (B) 虹膜炎（前葡萄膜炎）的三大症狀正是眼痛、畏光與視力模糊。\n❌ (C) 角膜炎因角膜神經豐富，會有劇烈畏光、流淚與眼瞼痙攣。\n❌ (D) 急性青光眼發作時眼壓極高，除劇痛、視力下降與虹視外，角膜水腫也造成畏光。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Ch. Conjunctiva；Ch. Uveitis；Ch. Glaucoma。"
   },
   {
    "n": 77,
@@ -1034,7 +1090,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "若中⽿積⽔亦可考慮使⽤prednisolone",
     "成⼈急性中⽿炎常需⼿術治療"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：成人急性中耳炎絕大多數以抗生素等內科治療即可痊癒，只有在劇痛難忍、鼓膜即將破裂或治療無效、出現併發症時才需要鼓膜切開引流，「常需手術」的說法不正確。\n❌ (A) 高劑量 amoxicillin 仍是第一線用藥。\n❌ (B) 治療 48–72 小時無效時，改用能涵蓋產 β-內醯胺酶菌株的 amoxicillin-clavulanate 或第二代頭孢子素。\n❌ (C) 對持續性中耳積水，臨床上有使用短期類固醇的作法（療效證據有限，屬輔助選項）。\n📚 出處：Cummings Otolaryngology, 7th ed., Ch. Otitis Media；AAO-HNS/AAP Clinical Practice Guideline on Acute Otitis Media。"
   },
   {
    "n": 78,
@@ -1047,7 +1104,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "假產痛⼦宮頸沒擴張，真產痛⼦宮頸則會逐漸擴張",
     "假產痛通常會持續數天，真產痛預期⼀天內⼩孩會⽣下來"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：假產痛（Braxton Hicks 收縮）的不適主要集中在「下腹部與腹股溝」；真產痛則是從「腰背部」開始，再向前繞到下腹，兩者的描述正好相反。\n❌ (B) 假產痛的間隔不規則且不會愈來愈密，真產痛則規則且頻率漸增、強度漸強。\n❌ (C) 是否造成子宮頸「進行性擴張與變薄」，才是區分真假產痛的決定性標準。\n❌ (D) 假產痛可持續數天而無進展，真產痛一旦進入活動期，通常在一天內完成分娩。\n📚 出處：Williams Obstetrics, 26th ed., Ch. Normal Labor（True versus false labor）。"
   },
   {
    "n": 79,
@@ -1060,7 +1118,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "報告學校當局",
     "尊重病⼈的隱私權不予揭露"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 對方未滿 16 歲，即使自稱自願，依法仍屬與未成年人的性行為；醫事人員為責任通報人員，知悉後應於 24 小時內向主管機關通報，並依情況通知父母或監護人——保密義務在法定通報責任前必須讓步（同時仍應提供避孕與性健康的衛教與後續協助）。\n❌ (A) 只給衛教而不通報，違反兒少保護的法定義務。\n❌ (C) 通報對象是社政（主管）機關，不是學校當局。\n❌ (D) 保密權不是絕對的，法定通報事項屬明確的例外。\n📚 出處：兒童及少年福利與權益保障法第 53 條；性侵害犯罪防治法第 8 條（責任通報）；刑法第 227 條。"
   },
   {
    "n": 80,
@@ -1073,7 +1132,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med6'] = {
     "疑似伊波拉病毒感染，需隔離治療",
     "唐⽒症病患，需住院治療"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 唐氏症「本身」不代表病人沒有決定能力——是否需要代理同意，取決於個別評估其理解與表達能力，不能因為診斷標籤就逕行剝奪其自主權；其餘三者都有法律明文的例外規定。\n❌ (A) 緊急情況下延遲治療將致死，屬緊急避難的例外，可先施救（醫療法第 60 條）。\n❌ (B) 嚴重病人有自傷或傷人之虞時，可依精神衛生法辦理強制住院。\n❌ (C) 第一類法定傳染病依傳染病防治法可實施強制隔離治療，以保障公共衛生。\n📚 出處：醫療法第 60、63、64 條；精神衛生法；傳染病防治法；Beauchamp & Childress, Principles of Biomedical Ethics, 8th ed.（Capacity assessment）。"
   }
  ]
 };
