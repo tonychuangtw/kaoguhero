@@ -184,6 +184,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "115 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -197,6 +198,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "115 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -210,6 +212,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "115 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -223,6 +226,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "115 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -236,6 +240,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "115 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -249,6 +254,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "115 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -262,6 +268,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "115 年第二次　醫學（三）",
   "n": 80,
+  "exp": 6,
   "mins": 100
  },
  {
@@ -275,6 +282,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "115 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -288,6 +296,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "115 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -301,6 +310,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "115 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -314,6 +324,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "115 年第二次　醫學（一）",
   "n": 100,
+  "exp": 18,
   "mins": 120
  },
  {
@@ -327,6 +338,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "115 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -340,6 +352,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "114 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -353,6 +366,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "114 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -366,6 +380,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "114 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -379,6 +394,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "114 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -392,6 +408,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "114 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -405,6 +422,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "114 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -418,6 +436,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "114 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -431,6 +450,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "114 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -444,6 +464,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "114 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -457,6 +478,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "114 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -470,6 +492,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "114 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -483,6 +506,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "114 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -496,6 +520,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "113 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -509,6 +534,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "113 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -522,6 +548,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "113 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -535,6 +562,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "113 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -548,6 +576,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "113 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -561,6 +590,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "113 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -574,6 +604,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "113 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -587,6 +618,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "113 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -600,6 +632,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "113 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -613,6 +646,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "113 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -626,6 +660,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "113 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -639,6 +674,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "113 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -652,6 +688,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "112 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -665,6 +702,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "112 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -678,6 +716,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "112 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -691,6 +730,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "112 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -704,6 +744,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "112 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -717,6 +758,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "112 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -730,6 +772,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "112 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -743,6 +786,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "112 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -756,6 +800,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "112 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -769,6 +814,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "112 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -782,6 +828,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "112 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -795,6 +842,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "112 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -808,6 +856,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "111 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -821,6 +870,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "111 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -834,6 +884,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "111 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -847,6 +898,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "111 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -860,6 +912,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "111 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -873,6 +926,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "111 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -886,6 +940,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "111 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -899,6 +954,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "111 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -912,6 +968,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "111 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -925,6 +982,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "111 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -938,6 +996,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "111 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -951,6 +1010,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "111 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -964,6 +1024,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "110 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -977,6 +1038,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "110 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -990,6 +1052,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "110 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1003,6 +1066,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "110 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1016,6 +1080,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "110 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1029,6 +1094,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "110 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1042,6 +1108,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "110 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1055,6 +1122,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "110 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1068,6 +1136,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "110 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1081,6 +1150,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "110 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1094,6 +1164,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "110 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1107,6 +1178,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "110 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1120,6 +1192,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "109 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1133,6 +1206,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "109 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1146,6 +1220,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "109 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1159,6 +1234,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "109 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1172,6 +1248,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "109 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1185,6 +1262,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "109 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1198,6 +1276,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "109 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1211,6 +1290,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "109 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1224,6 +1304,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "109 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1237,6 +1318,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "109 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1250,6 +1332,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "109 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1263,6 +1346,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "109 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1276,6 +1360,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "108 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1289,6 +1374,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "108 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1302,6 +1388,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "108 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1315,6 +1402,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "108 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1328,6 +1416,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "108 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1341,6 +1430,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "108 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1354,6 +1444,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "108 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1367,6 +1458,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "108 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1380,6 +1472,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "108 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1393,6 +1486,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "108 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1406,6 +1500,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "108 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1419,6 +1514,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "108 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1432,6 +1528,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "107 年第一次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1445,6 +1542,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "107 年第一次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1458,6 +1556,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "107 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1471,6 +1570,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "107 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1484,6 +1584,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "107 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1497,6 +1598,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "107 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1510,6 +1612,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "107 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1523,6 +1626,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "107 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1536,6 +1640,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "107 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1549,6 +1654,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "107 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1562,6 +1668,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "107 年第二次　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1575,6 +1682,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "107 年第二次　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1588,6 +1696,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "106 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1601,6 +1710,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "106 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1614,6 +1724,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "106 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1627,6 +1738,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "106 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1640,6 +1752,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "106 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1653,6 +1766,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "106 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1666,6 +1780,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "106 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1679,6 +1794,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "106 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1692,6 +1808,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（一）",
   "label": "106 年　醫學（一）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1705,6 +1822,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（二）",
   "label": "106 年　醫學（二）",
   "n": 100,
+  "exp": 0,
   "mins": 120
  },
  {
@@ -1718,6 +1836,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "105 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1731,6 +1850,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "105 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1744,6 +1864,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "105 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1757,6 +1878,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "105 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1770,6 +1892,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "105 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1783,6 +1906,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "105 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1796,6 +1920,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "105 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1809,6 +1934,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "105 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1822,6 +1948,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "104 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1835,6 +1962,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "104 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1848,6 +1976,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "104 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1861,6 +1990,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "104 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1874,6 +2004,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "104 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1887,6 +2018,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "104 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1900,6 +2032,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "104 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1913,6 +2046,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "104 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1926,6 +2060,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "103 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1939,6 +2074,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "103 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1952,6 +2088,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "103 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1965,6 +2102,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "103 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1978,6 +2116,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "103 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -1991,6 +2130,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "103 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2004,6 +2144,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "103 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2017,6 +2158,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "103 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2030,6 +2172,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "102 年第一次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2043,6 +2186,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "102 年第一次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2056,6 +2200,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "102 年第一次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2069,6 +2214,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "102 年第一次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2082,6 +2228,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "102 年第二次　醫學（三）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2095,6 +2242,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "102 年第二次　醫學（四）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2108,6 +2256,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（五）",
   "label": "102 年第二次　醫學（五）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2121,6 +2270,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（六）",
   "label": "102 年第二次　醫學（六）",
   "n": 80,
+  "exp": 0,
   "mins": 100
  },
  {
@@ -2134,6 +2284,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "115 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 3,
   "mins": 180
  },
  {
@@ -2147,6 +2298,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "115 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2160,6 +2312,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "115 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 4,
   "mins": 180
  },
  {
@@ -2173,6 +2326,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "115 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2186,6 +2340,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "114 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2199,6 +2354,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "114 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2212,6 +2368,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "114 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2225,6 +2382,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "114 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2238,6 +2396,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "113 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2251,6 +2410,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "113 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2264,6 +2424,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "113 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2277,6 +2438,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "113 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2290,6 +2452,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "112 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2303,6 +2466,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "112 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2316,6 +2480,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "112 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2329,6 +2494,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "112 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2342,6 +2508,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "111 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2355,6 +2522,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "111 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2368,6 +2536,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "111 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2381,6 +2550,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "111 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2394,6 +2564,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "110 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2407,6 +2578,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "110 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2420,6 +2592,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "110 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2433,6 +2606,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "110 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2446,6 +2620,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "109 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2459,6 +2634,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "109 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2472,6 +2648,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "109 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2485,6 +2662,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "109 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2498,6 +2676,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "108 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2511,6 +2690,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "108 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2524,6 +2704,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "108 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2537,6 +2718,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "108 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2550,6 +2732,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "107 年　綜合法學（一）憲法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2563,6 +2746,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "107 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2576,6 +2760,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "107 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2589,6 +2774,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "107 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2602,6 +2788,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "106 年　綜合法學（一）憲法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2615,6 +2802,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "106 年　綜合法學（一）刑法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2628,6 +2816,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "106 年　綜合法學（二）民法組",
   "n": 62,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2641,6 +2830,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "106 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2654,6 +2844,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "105 年　綜合法學（一）憲法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2667,6 +2858,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "105 年　綜合法學（一）刑法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2680,6 +2872,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "105 年　綜合法學（二）民法組",
   "n": 62,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2693,6 +2886,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "105 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2706,6 +2900,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "104 年　綜合法學（一）憲法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2719,6 +2914,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "104 年　綜合法學（一）刑法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2732,6 +2928,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "104 年　綜合法學（二）民法組",
   "n": 62,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2745,6 +2942,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "104 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2758,6 +2956,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "103 年　綜合法學（一）憲法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2771,6 +2970,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "103 年　綜合法學（一）刑法組",
   "n": 60,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2784,6 +2984,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "103 年　綜合法學（二）民法組",
   "n": 62,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2797,6 +2998,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "103 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2810,6 +3012,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "102 年　綜合法學（一）刑法組",
   "n": 75,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2823,6 +3026,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）民法組",
   "label": "102 年　綜合法學（二）民法組",
   "n": 80,
+  "exp": 0,
   "mins": 180
  },
  {
@@ -2836,6 +3040,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "102 年　綜合法學（二）商法組",
   "n": 70,
+  "exp": 0,
   "mins": 180
  }
 ];

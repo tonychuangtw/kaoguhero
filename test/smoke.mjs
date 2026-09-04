@@ -124,6 +124,8 @@ if (figPaper) {
 await ev(`new Promise(r=>{const s=document.createElement('script');s.src='js/data/exam/doc-115-2-med1.js';s.onload=r;s.onerror=r;document.head.appendChild(s);})`);
 const expN = await ev(`window.APP_EXAM_PAPERS['doc-115-2-med1'].qs.filter(q=>q.exp).length`);
 ok(expN > 0, `已寫詳解 ${expN} 題`);
+ok(await ev(`window.APP_EXAMS.filter(e=>e.exp>0).length > 0`), '索引記錄了各卷的詳解題數');
+ok(await ev(`window.APP_EXAMS.every(e=>typeof e.exp==='number' && e.exp<=e.n)`), '詳解題數不超過該卷題數');
 ok(await ev(`window.APP_EXAM_PAPERS['doc-115-2-med1'].qs.filter(q=>q.exp).every(q=>q.exp.indexOf('📚')>=0)`),
    '每則詳解都附出處');
 await hash('#/paper/doc-115-2-med1');

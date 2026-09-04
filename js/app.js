@@ -223,9 +223,11 @@
         var stat = list.reduce(function (a, e) {
           var s2 = state.stats[e.id]; if (s2) { a.n += s2.n; a.ok += s2.ok; } return a;
         }, { n: 0, ok: 0 });
+        var ex = list.reduce(function (a, b) { return a + (b.exp || 0); }, 0);
         p.appendChild(item('📘', SUBJ[sid].name,
           list.length + ' 卷 · ' + list.reduce(function (a, b) { return a + b.n; }, 0) + ' 題　'
-          + SUBJ[sid].note + (stat.n ? '　｜已作答 ' + stat.n + ' 題，正確率 ' + pct(stat.ok, stat.n) + '%' : ''),
+          + SUBJ[sid].note + (ex ? '　｜✍ 詳解 ' + ex + ' 題' : '')
+          + (stat.n ? '　｜已作答 ' + stat.n + ' 題，正確率 ' + pct(stat.ok, stat.n) + '%' : ''),
           null, '#/subject/' + examId + '/' + sid));
       });
       s.appendChild(p); main.appendChild(s);
@@ -257,7 +259,8 @@
     list.forEach(function (e) {
       var st = state.stats[e.id];
       p.appendChild(item('📄', e.label,
-        e.n + ' 題' + (st ? '　｜已作答 ' + st.n + ' 題，正確率 ' + pct(st.ok, st.n) + '%' : ''),
+        e.n + ' 題' + (e.exp ? '　｜✍ 詳解 ' + e.exp + ' 題' : '')
+        + (st ? '　｜已作答 ' + st.n + ' 題，正確率 ' + pct(st.ok, st.n) + '%' : ''),
         null, '#/paper/' + e.id));
     });
     s.appendChild(p); main.appendChild(s);

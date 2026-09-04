@@ -166,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "滑車神經（trochlear nerve）",
     "外旋神經（abducens nerve）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 動眼神經（oculomotor nerve）：使眼球內收（往鼻側轉）的是內直肌，由動眼神經支配。動眼神經受損時病人無法內收該側眼球，並常合併眼瞼下垂、瞳孔放大與眼球呈「向外向下」的位置。\n❌ (A) 視神經（optic nerve）：第二對腦神經只負責視覺傳入，完全不支配眼外肌，受損表現為視力喪失而非眼球運動障礙。\n❌ (C) 滑車神經（trochlear nerve）：支配上斜肌，其作用是使眼球內旋並向下外側轉；受損時病人下樓梯或看近物會複視，並出現代償性頭部傾斜，而非無法內收。\n❌ (D) 外旋神經（abducens nerve）：支配外直肌，負責眼球「外展」；受損時是無法外展、眼球內斜，方向與題意正好相反。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 11 章 Cranial Nerves（眼外肌與其神經支配）；Moore《Clinically Oriented Anatomy》第 8 版 Head 章。口訣：LR6 SO4 R3——外直肌第六對、上斜肌第四對，其餘眼外肌都是第三對。"
   },
   {
    "n": 12,
@@ -179,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "視盤（optic disc）",
     "睫狀突（ciliary process）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 中央小凹（central fovea）：中央小凹位於黃斑部中央，是視網膜上錐狀細胞密度最高的區域，且此處幾乎沒有桿狀細胞，內層神經細胞也向旁側移開，讓光線能直接抵達感光細胞，因此提供最高的視覺敏銳度與色覺。\n❌ (A) 脈絡膜（choroid）：脈絡膜是位於視網膜與鞏膜之間的血管層，負責供應視網膜外層的營養，本身不含感光細胞。\n❌ (C) 視盤（optic disc）：視盤是視神經纖維離開眼球與血管進出的部位，完全沒有感光細胞，因此形成生理性盲點。\n❌ (D) 睫狀突（ciliary process）：睫狀突屬於睫狀體的一部分，功能是分泌房水並藉懸韌帶調節水晶體，與感光無關。\n📚 出處：Guyton & Hall《Textbook of Medical Physiology》第 14 版，第 51 章 The Eye: Receptor and Neural Function of the Retina；Standring《Gray's Anatomy》第 42 版眼球章。要點：錐狀細胞主司色覺與敏銳度、集中於中央小凹；桿狀細胞主司暗視覺、分布於周邊視網膜。"
   },
   {
    "n": 13,
@@ -192,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "頸神經叢的分支（branches of cervical plexus）",
     "肩胛舌骨肌上腹（superior belly of omohyoid muscle）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 頸神經叢的分支（branches of cervical plexus）：頸後三角由胸鎖乳突肌後緣、斜方肌前緣與鎖骨圍成，頸神經叢的皮支（枕小神經、耳大神經、頸橫神經、鎖骨上神經）自胸鎖乳突肌後緣中點（Erb 氏點）穿出，正位於此三角內，是頸叢阻斷術的定位依據。\n❌ (A) 顏面動脈由頸外動脈發出：頸外動脈及其分支顏面動脈位於「頸前三角」的頸動脈三角內，不在後三角。\n❌ (B) 表淺處之皮膚底下即是迷走神經：迷走神經走在頸動脈鞘內、位置很深，且位於前三角，不會在後三角的淺層出現。\n❌ (D) 肩胛舌骨肌上腹：肩胛舌骨肌的「下腹」才通過後三角並將其分為枕三角與鎖骨下三角；「上腹」位於頸前三角。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Neck 章 Posterior triangle of the neck；Standring《Gray's Anatomy》第 42 版頸部章。臨床提醒：副神經（CN XI）淺行於後三角，頸部淋巴結切片時最容易在此被誤傷，導致斜方肌無力與翼狀肩。"
   },
   {
    "n": 14,
@@ -205,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "耳後動脈（posterior auricular artery）",
     "面橫動脈（transverse facial artery）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 枕動脈（occipital artery）：枕動脈自頸外動脈發出後向後上走行，供應枕部頭皮與後頸部肌肉，與位於耳前下方的耳下腺距離較遠，是四者中最不相關的。\n❌ (A) 上頷動脈（maxillary artery）：上頷動脈是頸外動脈的終末分支之一，在耳下腺實質內分出，沿途供應腺體。\n❌ (C) 耳後動脈（posterior auricular artery）：自頸外動脈發出後行經耳下腺上緣與外耳道之間，會發出分支供應腺體。\n❌ (D) 面橫動脈（transverse facial artery）：由顳淺動脈在耳下腺內發出，橫行於顴弓下方，是耳下腺的重要供血來源。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Head 章 Parotid gland；Standring《Gray's Anatomy》第 42 版頭頸血管章。要點：頸外動脈在耳下腺實質內分為上頷動脈與顳淺動脈兩終末支——記住「頸外動脈穿過耳下腺」，供血關係就清楚了。"
   },
   {
    "n": 15,
@@ -218,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "莖突舌骨肌（stylohyoid muscle）",
     "二腹肌的後腹（posterior belly of the digastric muscle）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 顳肌（temporalis muscle）：三叉神經下頷支（CN V3）支配全部四條咀嚼肌——顳肌、咬肌、內翼狀肌、外翼狀肌，以及下頷舌骨肌、二腹肌前腹、鼓膜張肌與腭帆張肌。顳肌屬咀嚼肌，答案正確。\n❌ (B) 頰肌（buccinator muscle）：頰肌雖然位於臉頰深處、參與咀嚼時把食物推回牙列之間，但它屬於「表情肌」，由顏面神經（CN VII）支配，不是 V3。\n❌ (C) 莖突舌骨肌（stylohyoid muscle）：由顏面神經支配，與二腹肌後腹同源，屬第二鰓弓衍生物。\n❌ (D) 二腹肌的後腹（posterior belly of the digastric muscle）：同樣由顏面神經支配；只有二腹肌的「前腹」才由 V3（下頷舌骨肌神經）支配，這是本題最經典的陷阱。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Head 章 Muscles of mastication；Standring《Gray's Anatomy》第 42 版。整理：第一鰓弓（V3）＝咀嚼肌、二腹肌前腹、下頷舌骨肌、鼓膜張肌、腭帆張肌；第二鰓弓（VII）＝表情肌、二腹肌後腹、莖突舌骨肌、鐙骨肌。"
   },
   {
    "n": 16,
@@ -231,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "第五對腦神經、第二分支（CN V2）",
     "第五對腦神經、第三分支（CN V3）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 第五對腦神經、第三分支（CN V3）：V3 支配的是下頷區域——下排牙齒、下唇、頦部、舌前三分之二的一般感覺與咀嚼肌，其分布完全不及鼻腔，因此不會出現在鼻腔內。\n❌ (A) 第一對腦神經（CN I）：嗅神經的嗅覺受器就位於鼻腔頂部的嗅上皮，其軸突穿過篩板進入嗅球，當然出現在鼻腔內。\n❌ (B) 第五對腦神經、第一分支（CN V1）：眼支經由鼻睫神經發出前篩神經與後篩神經，支配鼻腔前上部的黏膜感覺。\n❌ (C) 第五對腦神經、第二分支（CN V2）：上頷支經翼腭神經節發出鼻後外側支與鼻腭神經，支配鼻腔後下部與鼻中隔的大部分黏膜。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Head 章 Nasal cavity innervation；Standring《Gray's Anatomy》第 42 版鼻腔章。臨床延伸：鼻中隔前下方的 Kiesselbach 氏區（Little's area）是多條動脈吻合處，也是鼻出血最常見的部位。"
   },
   {
    "n": 17,
@@ -244,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "下腔靜脈（inferior vena cava）",
     "胸管（thoracic duct）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 下腔靜脈（inferior vena cava）：下腔靜脈於第八胸椎高度（T8）穿過橫膈的中心腱。因為中心腱是纖維性構造、不會隨呼吸收縮，管腔在吸氣時反而被牽開，有助於靜脈回流。\n❌ (A) 主動脈（aorta）：主動脈在 T12 高度通過主動脈裂孔，該裂孔位於橫膈「後方」、由左右膈腳與正中弓狀韌帶圍成，並不穿過橫膈本身，因此吸氣時不受壓迫。\n❌ (B) 食道（esophagus）：食道於 T10 高度穿過食道裂孔，該裂孔位於右膈腳的肌肉纖維之間，肌肉收縮有助於防止胃食道逆流。\n❌ (D) 胸管（thoracic duct）：胸管與主動脈一同經主動脈裂孔通過，不穿越中心腱。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Thorax 章 Diaphragmatic apertures；Standring《Gray's Anatomy》第 42 版橫膈章。口訣：T8 腔靜脈（vena cava，8 個字母）、T10 食道（esophagus，10 個字母）、T12 主動脈（aortic hiatus，12 個字母）。"
   },
   {
    "n": 18,
@@ -257,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-115-2-med1'] = {
     "上腔靜脈（superior vena cava）",
     "胸管（thoracic duct）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 肺動脈幹（pulmonary trunk）：上縱隔腔的下界為胸骨角與第四胸椎下緣的連線（Ludwig 平面）。肺動脈幹自右心室發出後位於此平面「以下」，屬於中縱隔腔的內容物，因此通常不會出現在上縱隔腔。\n❌ (A) 胸腺（thymus）：胸腺位於上縱隔腔的最前方，兒童時期體積明顯，是上縱隔腔的典型內容物。\n❌ (C) 上腔靜脈（superior vena cava）：上腔靜脈由左右頭臂靜脈匯合而成，其上半段位於上縱隔腔內。\n❌ (D) 胸管（thoracic duct）：胸管沿食道左後方上行通過上縱隔腔，最後注入左靜脈角。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Thorax 章 Mediastinum；Standring《Gray's Anatomy》第 42 版縱隔章。整理：上縱隔腔含胸腺、大血管（主動脈弓及其分支、上腔靜脈與頭臂靜脈）、氣管、食道、胸管、迷走神經與膈神經；心臟與肺動脈幹則在中縱隔腔。"
   },
   {
    "n": 19,
