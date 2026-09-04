@@ -1458,7 +1458,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "108 年第二次　醫學（四）",
   "n": 80,
-  "exp": 0,
+  "exp": 80,
   "mins": 100
  },
  {
