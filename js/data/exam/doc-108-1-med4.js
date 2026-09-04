@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "急性期可先給與氧氣及Epinephrine混合⽣理食鹽⽔以吸入⽅式治療",
     "此疾病最常⾒的病原為腸病毒（Enterovirus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：哮吼最常見的病原是「副流感病毒」（尤其第一型），腸病毒不是主要致病原。\n❌ (A) 頸部前後位 X 光上聲門下狹窄形成的倒 V 形，就是尖塔徵象。\n❌ (B) 幼兒半夜發作、聲音沙啞、犬吠樣咳嗽合併吸氣性喘鳴，是哮吼的典型三聯表現。\n❌ (C) 急性期給氧並以吸入型腎上腺素快速消腫，同時給予單劑類固醇（dexamethasone），是標準處置。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Acute Inflammatory Upper Airway Obstruction（Croup）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "anti-VCA IgM（+）、anti-VCA IgG（+）、anti-EBNA Ab NEA（-）",
     "anti-VCA IgM（-）、anti-VCA IgG（-）、anti-EBNA Ab NEA（+）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 急性期的血清學特徵是抗病毒外殼抗原（VCA）的 IgM 與 IgG 皆陽性，而抗 EBNA 抗體「陰性」——因為抗 EBNA 要在感染後 6–12 週才逐漸出現，它的陽性代表既往感染而非急性期。\n❌ (A) 抗 VCA IgM 陰性加上抗 EBNA 陽性，是過去曾感染、已痊癒的型態。\n❌ (B) 三者全陽性不符合初次感染的時序（除非是再活化或偽陽性）。\n❌ (D) 抗 VCA 全陰性代表未曾感染，與抗 EBNA 陽性互相矛盾。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Epstein-Barr Virus（Serologic diagnosis of infectious mononucleosis）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "副流感病毒（Parainfluenza）",
     "肺炎披衣菌（Chlamydia pneumoniae）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 呼吸道融合病毒是兩歲以下嬰幼兒急性細支氣管炎最主要的病原（約占五至八成），秋冬季流行，臨床上以先流鼻水咳嗽、再出現喘鳴與呼吸急促為典型病程。\n❌ (A) 人類間質肺炎病毒可造成相同的臨床表現，但比例遠低於呼吸道融合病毒。\n❌ (C) 副流感病毒主要造成哮吼。\n❌ (D) 肺炎披衣菌好發於學齡兒童與青少年的非典型肺炎，不是嬰兒細支氣管炎的主因。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Bronchiolitis。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "膿胸（Empyema）",
     "肋膜積⽔（Pleural effusion）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腦膜炎最不常見：兒童細菌性肺炎的併發症以「肺與肋膜局部」為主，病原必須經血行散播才會造成腦膜炎，機率遠低於其他三者。\n❌ (B) 心包膜炎雖不常見，但仍可由鄰近肺部感染直接蔓延而來，機率高於腦膜炎。\n❌ (C) 膿胸是肺炎鏈球菌與金黃色葡萄球菌肺炎的重要併發症。\n❌ (D) 肋膜積水是最常見的併發症，約四分之一的住院肺炎童會出現。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Community-Acquired Pneumonia（Complications）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "C型肝炎病毒（Hepatitis C virus）",
     "D型肝炎病毒（Hepatitis D virus）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) A 型肝炎經「糞口」傳染，不會經由周產期垂直傳染給新生兒；它也不會形成慢性帶原，感染後可終身免疫。\n❌ (B) B 型肝炎是垂直傳染最典型的例子，臺灣因此在新生兒全面接種疫苗並對高風險者加打免疫球蛋白。\n❌ (C) C 型肝炎的母嬰垂直傳染率約 5%（合併 HIV 感染者更高）。\n❌ (D) D 型肝炎依附 B 型肝炎病毒存在，可隨 B 型一併垂直傳染。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Viral Hepatitis。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "輪狀病毒疫苗",
     "肺炎鏈球菌疫苗"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 輪狀病毒疫苗有嚴格的年齡限制：第一劑必須在出生 15 週前給予，整個系列須在 8 個月大前完成——因為超齡接種與腸套疊風險上升有關，故滿周歲的幼兒已不適合開始接種。\n❌ (A) 水痘疫苗的常規接種時程正是滿 12 個月。\n❌ (B) A 型肝炎疫苗在臺灣也是滿 12 個月接種第一劑。\n❌ (D) 肺炎鏈球菌結合型疫苗的追加劑安排在 12–15 個月。\n📚 出處：衛生福利部疾病管制署「兒童預防接種時程及紀錄表」；Nelson Textbook of Pediatrics, 21st ed., Ch. Immunization Practices。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "食道閉鎖合併下段食道氣管瘻管",
     "食道閉鎖合併上段及下段食道氣管瘻管"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 口水不斷、鼻胃管放不下去代表食道閉鎖；而腹部完全沒有腸氣，表示空氣無法從氣管經瘻管進入胃腸——因此瘻管只存在於「上段」（近端盲端與氣管相通），下段食道與氣管之間沒有通路。\n❌ (A) 單純氣管食道瘻管（H 型）的食道是通的，鼻胃管可順利放入，腹部也有腸氣。\n❌ (C) 食道閉鎖合併「下段」瘻管（最常見的 C 型）會讓空氣灌入胃內，腹部腸氣反而增多。\n❌ (D) 上下段皆有瘻管時，空氣同樣可經下段瘻管進入胃腸，不會是無腸氣。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Esophageal Atresia and Tracheoesophageal Fistula。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⺟乳性黃疸（Breast milk jaundice）",
     "⼄型海洋性貧⾎（ß-Thalassemia）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 出生 19 小時內總膽紅素就衝到 12 mg/dL（24 小時內出現黃疸即為病理性），母親 O 型、父親 B 型，最可能是母親的抗 B 抗體通過胎盤造成的 ABO 血型不合溶血——這是新生兒早發性黃疸最常見的原因。\n❌ (A) Rh 其他血型不合需母親曾致敏（輸血或前次懷孕），本例母親未曾輸血且為第一胎。\n❌ (C) 母乳性黃疸在出生一週後才逐漸明顯，高峰在第二週，不會在 19 小時就發生。\n❌ (D) 乙型海洋性貧血的血紅素要到出生數月後才由胎兒型轉換完成，新生兒期不會表現。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Jaundice and Hyperbilirubinemia in the Newborn（Hemolytic disease of the newborn）。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⼗⼆指腸閉鎖（Duodenal atresia）",
     "橫膈膜疝氣（Diaphragmatic hernia）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 出生即發紺、呼吸窘迫，胸部飽滿而腹部凹陷（舟狀腹），心音移到右側——這是左側橫膈膜疝氣把腸子推入左胸腔、將縱膈往右推擠的典型表現，X 光可見胸腔內腸氣影。\n❌ (A) 張力性氣胸雖也會使縱膈偏移，但胸廓不會有腹部凹陷的舟狀腹，X 光是無肺紋的透亮區而非腸氣。\n❌ (B) 食道閉鎖以口水多、無法放鼻胃管表現，不會造成心音移位。\n❌ (C) 十二指腸閉鎖的表現是出生後嘔吐膽汁與腹部 X 光的雙泡徵象，不影響呼吸。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Congenital Diaphragmatic Hernia。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⼩腸結腸炎（Enterocolitis）：HD＞FC",
     "腹漲（Abdominal distention）：HD＞FC"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：大便失禁（滲便）是「功能性便秘」的典型表現——大量糞便滯留使直腸擴張、稀便從旁滲出；先天性巨結腸症的無神經節腸段持續收縮、肛門內括約肌不放鬆，反而很少滲便。\n❌ (B) 巨結腸症因慢性阻塞與營養吸收不良，生長遲緩比功能性便秘常見。\n❌ (C) 巨結腸症特有且致命的併發症就是小腸結腸炎。\n❌ (D) 巨結腸症的腹脹明顯且常從新生兒期（胎便延遲超過 48 小時）就開始。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Motility Disorders and Hirschsprung Disease。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "Peutz-Jeghers症候群（Peutz-Jeghers syndrome）",
     "Cowden症候群（Cowden syndrome）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 家族性結直腸息肉症由 APC 基因突變引起，青春期起大腸長出數百上千顆腺瘤，若不做預防性全大腸切除，「終身罹癌率接近 100%」，平均在 40 歲前就會癌變——風險遠高於其他息肉症候群。\n❌ (A) 幼年性息肉症的息肉屬錯構瘤，終身大腸癌風險約 30–40%。\n❌ (C) Peutz-Jeghers 症候群風險升高但主要在小腸、胰臟、乳房等多器官，大腸癌風險仍低於家族性腺瘤性息肉症。\n❌ (D) Cowden 症候群以甲狀腺癌與乳癌風險為主，大腸癌風險相對較低。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Intestinal Polyps；Robbins and Cotran Pathologic Basis of Disease, 10th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "應給與電解質⼝服液或稀飯等清淡飲食，無需給與⼝服抗⽣素",
     "應該住院打點滴並禁食，無需給與抗⽣素"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 免疫功能正常、無敗血症徵象且症狀正在改善的非傷寒沙門氏桿菌腸炎，屬自限性疾病：抗生素既無法縮短病程，反而會延長帶菌排菌時間並增加抗藥性，因此只需口服電解質液與清淡飲食支持治療。\n❌ (A) 錯在多給了不必要的口服抗生素。\n❌ (B) 病童精神活動力正常、能進食，沒有住院禁食與靜脈抗生素的適應症。\n❌ (D) 住院禁食同樣過度處置；腸炎期間應持續餵食以維持腸黏膜健康。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Salmonella（Nontyphoidal salmonellosis: treatment）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "1歲以下嬰兒避免餵食蜂蜜",
     "每次只添加⼀種新食物，由少量開始，逐漸增加，觀察4⾄7天"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不適當：延後添加副食品並「不能」預防過敏；現行證據反而顯示 4–6 個月間適時引入（包括蛋、花生等易致敏食物）有助於誘導耐受性，過度延後可能增加食物過敏風險。\n❌ (A) 純母乳到 6 個月後鐵質與熱量已不敷需求，必須開始添加副食品。\n❌ (C) 一歲以下嬰兒腸道菌相未成熟，蜂蜜可能造成嬰兒肉毒桿菌中毒，應避免。\n❌ (D) 一次只加一種、由少量漸增並觀察數天，才能辨識出是哪一項食物造成不良反應。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Feeding Healthy Infants, Children, and Adolescents；衛生福利部國民健康署嬰兒期營養手冊。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "純⺟乳哺育的嬰兒，在出⽣後6個⽉內無需補充氟",
     "早產兒純⺟乳哺餵時鐵質可能不⾜，須額外補充；⾜⽉兒則會⾜夠，無需額外補充"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 六個月以下的嬰兒不需要補充氟——此時牙齒尚未萌發，過早補氟反而會造成日後恆齒的氟斑；一般建議六個月後視飲水含氟量再評估是否補充。\n❌ (A) 建議純母乳哺育到「6 個月」，之後加副食品並持續哺乳到一歲以上，不是純母乳到 12 個月。\n❌ (B) 純母乳嬰兒容易不足的是維生素 D（出生後即應每日補充 400 IU）；維生素 K 是在出生時單次肌肉注射預防。\n❌ (D) 足月純母乳兒約 4 個月起體內儲鐵耗盡，同樣需要補鐵（早產兒更早、劑量更高），不是「無需補充」。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Breastfeeding；AAP Clinical Report on Vitamin D and Iron Supplementation。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⾼鈣尿（Hypercalciuria）",
     "Alport症候群（Alport syndrome）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 上呼吸道感染後一兩天出現的肉眼血尿、持續性血尿合併蛋白尿，加上「母系男性親屬年輕即末期腎病」的家族史——這是 X 染色體連鎖遺傳（COL4A5 突變）的 Alport 症候群典型輪廓，需注意合併感音神經性聽力障礙與眼部病變。\n❌ (A) 局部巢狀腎絲球硬化以大量蛋白尿與腎病症候群表現，不會有這種感染後肉眼血尿的模式。\n❌ (B) 家族性薄基底膜疾病同樣可有血尿，但通常不伴明顯蛋白尿，且家族成員不會進展到末期腎病（故稱良性家族性血尿）。\n❌ (C) 高鈣尿造成的多為顯微血尿與結石，不會有蛋白尿與家族性腎衰竭。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Hereditary Nephritis（Alport syndrome）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "蛋⽩尿的量已達到Nephrotic range proteinuria的定義",
     "若患者對類固醇反應良好則預後好，很少會進展到慢性腎臟病⽽須透析治療"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：兒童腎病症候群的高血脂是低白蛋白血症引起的續發現象，隨著蛋白尿緩解會自行恢復，不需要（也不建議）在急性期立刻給史他汀類藥物。\n❌ (B) 1–10 歲、無血尿高血壓與腎功能不全的典型病例多為微小變化病變，可直接先用類固醇，不需先做腎切片。\n❌ (C) 兒童腎病症候群範圍的蛋白尿定義為 >40 mg/m²/hr 或尿蛋白/肌酸酐比 >2 mg/mg；本例比值為 250/50＝5，已明確達標。\n❌ (D) 類固醇反應良好者（占大多數）雖可能復發，長期腎功能預後良好，極少進展至透析。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nephrotic Syndrome（Idiopathic nephrotic syndrome of childhood）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "滿4歲但未滿5歲",
     "滿5歲但未滿6歲"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這三項發展指標都落在三歲上下：「照樣畫圓」約三歲達成、能正確使用「你的／我的」等所有格代名詞也約在三歲，而單腳站立的能力此時開始出現並持續進步（各量表對維持秒數的年齡標準略有差異，本題以三至四歲計）。\n❌ (A) 兩歲多的孩子多半只能畫出垂直線，圓圈仍畫不像，語言以雙詞句為主。\n❌ (C) 四至五歲已能照樣畫方形、會單腳跳並說出完整故事，能力明顯超過本題描述。\n❌ (D) 五至六歲能畫三角形與人形五官以上，並開始認字，發展遠超過本題。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Developmental Surveillance and Screening；Denver II 發展篩檢量表。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "⾸次發⽣單純型熱性痙攣，⼤多須安排神經影像檢查以排除腦部構造異常",
     "熱性痙攣之發⽣與基因或家族史無關"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 六個月以下的嬰兒腦膜炎症狀不典型（可能只以抽搐表現），且熱性痙攣在此年齡本就罕見，因此必須做腰椎穿刺排除中樞神經感染——這是各指引一致的建議。\n❌ (A) 複雜型熱性痙攣（局部發作、超過 15 分鐘或 24 小時內反覆）日後發生癲癇的機率明顯高於一般族群。\n❌ (C) 首次單純型熱性痙攣、恢復後神經學檢查正常者，不需常規安排腦部影像。\n❌ (D) 熱性痙攣有明顯的家族聚集性，一等親有病史者風險大幅升高，已知多個易感基因。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Seizures in Childhood（Febrile seizures）；AAP Clinical Practice Guideline on Febrile Seizures。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "早期McCune-Albright⽒症候群（McCune-Albright syndrome, early）",
     "下視丘錯構瘤（Hypothalamic hamartoma）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 下視丘錯構瘤屬「中樞性（GnRH 依賴型）」性早熟——它自行搏動式分泌 GnRH 或壓迫下視丘而提早啟動性腺軸，性徵發育是完整且循序的；其餘三者都是不經性腺軸的周邊性（假性）性早熟。\n❌ (A) 外源性雌激素直接作用於標的器官，性腺軸並未被啟動。\n❌ (B) 先天性腎上腺增生是腎上腺分泌過多雄性素造成，屬周邊性。\n❌ (C) McCune-Albright 症候群早期是卵巢自主分泌雌激素（GNAS 活化突變），與 GnRH 無關（病程久後才可能續發轉為中樞性）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Disorders of Pubertal Development（Precocious puberty）。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med4'] = {
     "3β-hydroxysteroid dehydrogenase deficiency, classic type",
     "17α-hydroxylase/17,20-lyase deficiency"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 先天性腎上腺增生中九成以上為 21-羥化酶缺乏，其中又以症狀輕微的「非典型（nonclassic）」最為常見——盛行率約 1/1,000 至 1/100（某些族群更高），遠超過典型型的 1/15,000。\n❌ (B) 11β-羥化酶缺乏約占先天性腎上腺增生的 5%。\n❌ (C) 3β-羥類固醇脫氫酶缺乏（典型型）相當罕見。\n❌ (D) 17α-羥化酶／17,20-裂解酶缺乏亦為罕見型別。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Disorders of the Adrenal Gland（Congenital adrenal hyperplasia）。"
   },
   {
    "n": 21,

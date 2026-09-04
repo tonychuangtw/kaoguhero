@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "藥物（bromocriptine therapy）",
     "說明病情使病患放⼼（reassurance）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 空蝶鞍多半是蜘蛛膜下腔疝入蝶鞍造成的影像所見，若腦下垂體功能完全正常（本例月經規則、free T4 與 TSH 正常、清晨皮質醇 15 μg/dL 足夠），就屬「原發性空蝶鞍」的偶然發現，只需說明病情並定期追蹤即可。\n❌ (A) 沒有腫瘤、沒有壓迫視神經、也沒有荷爾蒙異常，手術毫無適應症且會製造醫源性腦下垂體低下。\n❌ (B) 放射治療用於無法切除或術後殘存的腦下垂體腫瘤，本例無腫瘤。\n❌ (C) bromocriptine 用於泌乳素瘤，本例月經正常、無泌乳素過高的證據。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Hypothalamic-Pituitary Disorders（Empty sella syndrome）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "不易感知的⽔分流失（insensible losses）約5 mL/kg/day",
     "⾎鈉的矯正儘量不超過10 mM/day，以避免腦部⽔腫（cerebral edema）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 高血鈉的矯正速度一般以每天不超過 10 mEq/L（急性者可稍快）為原則；矯正過快時腦細胞來不及排出先前累積的滲透物質，水分湧入細胞而造成腦水腫甚至抽搐。\n❌ (A) 男女顛倒了：全身水量約為男性體重的 60%、女性 50%（老年人再各減約 10%）。\n❌ (B) 自由水缺乏量＝全身水量×（血鈉/140−1）＝70×0.6×(160/140−1)≈6 公升，不是 5000 c.c.。\n❌ (C) 不易感知的水分流失約 10 mL/kg/day（發燒或呼吸急促時更多），不是 5 mL/kg/day。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Fluid and Electrolyte Disturbances（Hypernatremia）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "eosinophilic gastroenteritis",
     "Crohn's disease"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 慢性腹瀉隨麵粉（麩質）製品加重、停食改善，加上吸收不良造成的貧血與低血鈣，而血中 IgA 抗組織轉麩醯胺酶抗體陽性——這組合就是乳糜瀉（麩質敏感性腸病變），確診再以十二指腸切片看絨毛萎縮。\n❌ (A) 大腸激躁症不會造成貧血、低血鈣等吸收不良的客觀異常，也不會有此自體抗體。\n❌ (C) 嗜酸性球胃腸炎以周邊嗜酸性球增多與腸壁嗜酸性球浸潤為特徵，與麩質無關。\n❌ (D) 克隆氏症的腹瀉與麩質攝取無關，且抗組織轉麩醯胺酶抗體陰性。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of Absorption（Celiac disease）。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "主動脈瓣或⼆尖瓣急性逆流達中度以上、且伴有⼼衰竭症狀時，不應使⽤⾎管擴張劑，並應及早開⼑治療",
     "單純主動脈瓣狹窄或單純⼆尖瓣狹窄病患，⼼導管均顯⽰左⼼室舒張末壓（LVEDP）升⾼"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 二尖瓣狹窄絕大多數源自風濕熱後的慢性瓣膜變化，發病年齡多在中年、女性居多；隨著鏈球菌感染早期抗生素治療普及，臺灣近年病例數確實逐年減少。\n❌ (B) 主動脈瓣逆流時 A2 減弱，第二心音是「變小聲」而非變大聲。\n❌ (C) 急性中重度逆流合併心衰竭時，血管擴張劑（降低後負荷）正是穩定病人、銜接手術的重要處置，不是禁忌。\n❌ (D) 單純二尖瓣狹窄的阻塞在左心室「上游」，左心室舒張末壓正常甚至偏低，升高的是左心房壓。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Valvular Heart Disease；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "前中膈（anterior septum）",
     "後中膈（posterior septum）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 預激症候群的旁道定位主要看 V1 的 delta 波與 QRS 主波方向：V1 呈明顯正向（R 波為主）、且下側壁導程 I、aVL 的 delta 波為負向，代表旁道位於「左心室側壁」——這也是最常見的旁道位置。\n❌ (A) 右心室側壁旁道在 V1 呈負向 QRS（類左束支傳導型態），電軸偏左。\n❌ (C) 前中膈旁道在下壁導程（II、III、aVF）delta 波為正向，且 V1 為負向。\n❌ (D) 後中膈旁道的特徵是下壁導程 delta 波「負向」，與本例不符。\n📚 出處：Braunwald's Heart Disease, 12th ed., Ch. Supraventricular Tachyarrhythmias（WPW accessory pathway localization）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⾼⾎鉀症（hyperkalemia）",
     "低⾎鉀症（hypokalemia）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 慢性腎臟病病人出現疲倦無力，心電圖若見高聳而基底狹窄的對稱性 T 波、P 波變平消失、PR 間期延長與 QRS 增寬，就是高血鉀的典型序列——腎臟排鉀能力下降是最常見原因，屬需立即處理的電解質急症。\n❌ (A) 高血鈣造成 QT「縮短」，不會有高聳 T 波。\n❌ (B) 低血鈣造成 QT 間期延長。\n❌ (D) 低血鉀表現為 T 波變平、ST 下降並出現明顯 U 波。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Fluid and Electrolyte Disturbances（Hyperkalemia）；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⼼包膜炎",
     "肺栓塞"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 年輕女性、感冒症狀後出現隨姿勢改變的胸痛（前傾可緩解）、發炎指數上升而心肌酶正常、心電圖呈廣泛 ST 上升合併 PR 下降，加上超音波可見少量心包膜積液而心室收縮功能正常——這是急性心包膜炎的完整組合。\n❌ (A) 急性冠心病應有心肌酶上升與對應導程的局部室壁運動異常。\n❌ (B) 心肌炎會有心肌酶上升與收縮功能或局部室壁運動異常。\n❌ (D) 肺栓塞的 D-dimer 幾乎不會正常，且不會有心包膜積液與姿勢相關胸痛。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pericardial Disease；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "主動脈縮窄（coarctation of the aorta）",
     "法洛⽒四合症（tetralogy of Fallot）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 「不隨呼吸變化的固定性第二心音分裂」是心房中膈缺損的招牌所見（左向右分流使右心室持續容積負荷、肺動脈瓣延遲關閉）；再加上肺動脈瓣區收縮期雜音、心電圖右軸偏移與 V1 的 rSR′（不完全右束支傳導阻滯）、胸部 X 光右心房與肺動脈擴大，診斷明確。\n❌ (B) 心室中膈缺損的雜音是胸骨左緣下方全收縮期粗雜音，第二心音不會固定分裂。\n❌ (C) 主動脈縮窄表現為上肢高血壓與股動脈脈搏減弱延遲。\n❌ (D) 法洛氏四合症有發紺與右心室出口阻塞，且第二心音單一（S2 single）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Congenital Heart Disease in the Adult（Atrial septal defect）。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "ankle-brachial index為0.9",
     "因下肢測量部位為dorsalis pedis artery，無法計算ankle-brachial index"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 踝肱指數＝踝部（脛後或足背動脈）收縮壓 ÷ 上臂收縮壓＝90 ÷ 150＝0.6，屬中度周邊動脈阻塞（＜0.9 即異常，0.4–0.7 常伴間歇性跛行）。\n❌ (B) 計算只用收縮壓，不需要下肢舒張壓。\n❌ (C) 0.9 會是把 135 當分子才得到的數字，實際比值為 0.6。\n❌ (D) 足背動脈與脛後動脈本來就是標準測量位置，取兩者中較高者為該側踝壓。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Arterial Diseases of the Extremities（Ankle-brachial index）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "為紐約⼼臟協會的⼼衰竭功能分類（NYHA functional classification）的第四級",
     "有左側⼼衰竭"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 腹頸靜脈迴流（abdominojugular reflux）陽性代表右心無法容納腹部加壓後回流的血量，反映的是右心充盈壓升高、也就是全身「容積過載」，常見於心衰竭與體液滯留。\n❌ (A) 頸靜脈的變化反映的是靜脈（前負荷）而非動脈端的壓力負荷。\n❌ (C) 功能分級要靠症狀與活動耐受度判定，單一理學徵象無法定為第四級。\n❌ (D) 頸靜脈怒張反映的是右側心衰竭／體循環鬱血，左心衰竭的典型表現是肺鬱血與囉音。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Physical Examination of the Cardiovascular System；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "當病患進⾏完佛薩⽡⽒壓⼒均衡呼吸法（Valsalva maneuver）後，⼼臟右側雜⾳恢復到原來強度的速度快 於左側的⼼雜⾳",
     "當從坐姿站立時，若有⼼室出⼝阻塞性⼼肌病變（hypertrophic obstructive cardiomyopathy, HOCM）時， ⼼雜⾳聲⾳會因為⾎流減少⽽減弱"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：由坐姿突然站起會使前負荷（左心室容積）「減少」，肥厚性阻塞型心肌病變的出口阻塞反而加重，雜音是「變大聲」——這正是它與主動脈瓣狹窄鑑別的關鍵動作。\n❌ (A) 雙手緊握提高後負荷，使二尖瓣逆流量增加、雜音變強，敘述正確。\n❌ (B) 佛薩瓦氏動作減少回心血量，主動脈瓣狹窄的雜音因通過瓣膜的血流減少而變短變弱。\n❌ (C) 佛薩瓦氏動作後右心系統先接受回流，因此右側雜音恢復較快（約 2–3 個心動週期，左側約 5–10 個）。\n📚 出處：Braunwald's Heart Disease, 12th ed., Ch. Physical Examination（Dynamic auscultation）。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⾺凡⽒症（Marfan's syndrome）除了⾝形瘦⻑之外，在牙齦上的表現常常是有較低的牙腭⼸（low-arched palate）",
     "所謂的杵狀指（clubbing finger）是暗⽰著病患可能有從右到左的⾎液分流（shunting）病態⽣理現象"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：馬凡氏症的口腔特徵是「高拱型」硬腭（high-arched palate）合併牙齒排列擁擠，不是低平的腭弓。\n❌ (A) 差異性發紺（只有下肢發紺）見於開放性動脈導管合併肺高壓時的右至左分流，敘述正確。\n❌ (B) 皮膚呈青銅色色素沉著合併心衰竭，要想到血色素沈著病造成的浸潤性心肌病變。\n❌ (D) 杵狀指可見於右至左分流的先天性心臟病，也見於慢性肺病與感染性心內膜炎。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Physical Examination of the Cardiovascular System；Ch. Inherited Disorders of Connective Tissue（Marfan syndrome）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "非酒精性脂肪肝病引起的纖維化，初始階段好發於中⼼肝⼩靜脈（central perivenular）附近（zone 3）",
     "嚴重腹⽔或是凝⾎功能異常延⻑時不能進⾏肝穿刺檢查"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：肝穿刺檢體長度至少需 1.5–2 公分並含 11 個以上的門脈區，才足以正確分期纖維化；0.5 公分遠低於標準，抽樣誤差極大。\n❌ (B) 慢性 C 型肝炎的纖維化由門脈區與門脈周圍（zone 1）開始，再形成橋接。\n❌ (C) 非酒精性脂肪肝病的纖維化起自中央靜脈周圍（zone 3）的竇周纖維化，這是它與病毒性肝炎的分布差異。\n❌ (D) 大量腹水與凝血功能異常是經皮肝穿刺的禁忌（可改走經頸靜脈途徑）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Evaluation of Liver Function；AASLD 肝纖維化評估指引。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "transient elastography（如FibroScan）可以快速簡單的檢測肝臟硬度，但對於過度肥胖與有腹⽔之患者測 定能⼒會降低",
     "magnetic resonance elastography（MRE）判定各等級肝纖維化程度的能⼒比transient elastography好"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：血清生物標誌組合（如 FibroTest）對「無纖維化 vs. 顯著纖維化」與「肝硬化」兩端判別力好，但無法對各種病因、各個分期都精準區分中間等級（F1–F3），這是它公認的限制。\n❌ (A) 非侵入性評估確實分為血清標誌與影像式肝臟硬度測量兩大主流。\n❌ (C) 暫時性彈性造影快速方便，但肥胖、肋間隙窄與腹水會造成測量失敗或高估。\n❌ (D) 磁振彈性造影的準確度與適用範圍優於暫時性彈性造影，只是成本高、普及率低。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Evaluation of Liver Function；EASL–ALEH Clinical Practice Guidelines on non-invasive tests。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "病毒的核衣殼（nucleocapsid）⼤⼩為27 nm，具有表⾯抗原（HBsAg），病毒DNA和DNA聚合酶",
     "B型肝炎病毒的e抗原（HBeAg），包含部分核前（precore）區蛋⽩及導引⾄內質網的訊號區"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：27 nm 的核衣殼帶的是「核心抗原（HBcAg）」以及病毒 DNA 與 DNA 聚合酶；表面抗原位在外層的脂質外套上，不在核衣殼。\n❌ (A) 帶原者血中數量最多的是只含表面抗原的 22 nm 球形與絲狀顆粒，不具感染性。\n❌ (B) 42 nm 的 Dane 顆粒才是完整、具感染性的病毒，數量遠少於 22 nm 顆粒。\n❌ (D) e 抗原由核前區與核心區共同轉譯，核前區的訊號胜肽把它導向內質網後分泌到血中。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Viral Hepatitis（Hepatitis B virus）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "無線射頻燒灼術（radiofrequency ablation）",
     "標靶治療（sorafenib）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 腫瘤侵犯門靜脈主幹並已多處肺轉移，屬 BCLC 分期的 C 期（進展期）；肝功能保留良好（Child-Pugh A、無黃疸腹水）者，標準治療是全身性藥物治療——sorafenib 這類標靶治療即為此期的代表方案。\n❌ (A) 肝外轉移與大血管侵犯是肝臟移植的絕對禁忌。\n❌ (B) 8 公分腫瘤合併門靜脈主幹癌栓與遠端轉移，手術切除無法改善存活。\n❌ (C) 射頻燒灼只適用於 3 公分以下、數目有限且無血管侵犯的腫瘤。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Liver and Biliary Tract Cancer；BCLC staging and treatment strategy。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "可⽤來治療肝腎症候群的藥物有terlipressin",
     "由於腎實質已經受損，就算是進⾏肝臟移植，肝腎症候群也不會改善"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) terlipressin（血管加壓素類似物）合併白蛋白是肝腎症候群的標準藥物治療——它收縮擴張的內臟血管、提高有效循環容積，進而改善腎灌流。\n❌ (A) 兩型描述顛倒：第一型是 2 週內腎功能急速惡化、預後極差；第二型較穩定、以頑固性腹水表現。\n❌ (B) 肝腎症候群幾乎都發生在有腹水的進展性肝硬化病人身上。\n❌ (D) 它是「功能性」腎衰竭，腎實質本身無明顯病變，肝臟移植後腎功能多可恢復——這也是根本治療。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cirrhosis and Its Complications（Hepatorenal syndrome）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "僅②④",
     "①②③④"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) ①②③ 正確：發炎性腸道疾病發病高峰在 20–40 歲；隨著生活型態西化，亞洲已開發地區發生率上升；嬰兒期使用抗生素擾亂腸道菌相，是流行病學上公認的危險因子。\n❌ (A) 漏掉③，早期抗生素暴露與日後發病風險增加的關聯證據明確。\n❌ (C) 含④且漏掉①③，闌尾切除只與潰瘍性大腸炎風險降低有關。\n❌ (D) 含④：闌尾切除雖降低潰瘍性大腸炎風險，卻與克隆氏症風險「上升」有關，不能說兩者都顯著降低。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Inflammatory Bowel Disease（Epidemiology and risk factors）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "近年來⼤腸癌的發⽣，右側⼤腸癌個案顯著多於左側⼤腸與直腸癌個案",
     "⼤腸癌所造成的貧⾎為⼩球性貧⾎"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 大腸癌長期慢性失血造成鐵質流失，貧血型態是「小球性低色素性貧血」；中老年男性或停經後女性出現不明原因缺鐵性貧血，必須先排除大腸癌。\n❌ (A) 左右顛倒了：右側大腸腔大、糞便較稀，以慢性失血造成的貧血為主；左側腸腔窄、糞便成形，以排便習慣改變與阻塞表現。\n❌ (B) 早期大腸癌多半沒有症狀，這正是需要糞便潛血篩檢與大腸鏡的原因。\n❌ (C) 右側大腸癌比例雖逐年上升，整體上左側大腸與直腸癌仍多於右側。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Gastrointestinal Tract Cancer（Colorectal cancer）。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "在clinical presentation上以peptic ulcer及erosive esophagitis為主，下消化道腹瀉的症狀相當罕⾒",
     "Zollinger-Ellison syndrome之gastrinoma罕有惡性的可能性，腫瘤遠處轉移的狀況相當少⾒"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 胃泌素瘤在消化性潰瘍病人中約占 0.1–1%；其中約兩至三成屬第一型多發性內分泌腫瘤症候群的一部分（合併副甲狀腺與腦下垂體腫瘤），因此診斷後應檢查血鈣與副甲狀腺素。\n❌ (A) 胃泌素瘤源自「非 β 細胞」的胰島或十二指腸內分泌細胞，β 細胞分泌的是胰島素。\n❌ (C) 大量胃酸使胰脂解酶失活並造成腸黏膜損傷，超過半數病人有腹瀉，並非罕見。\n❌ (D) 多數胃泌素瘤具惡性潛能，肝臟與淋巴結轉移並不少見，是影響預後的主因。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Peptic Ulcer Disease（Zollinger-Ellison syndrome）。"
   },
   {
    "n": 21,
@@ -286,7 +306,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "篩檢胰臟癌，⾎清學檢驗CA19-9及CEA都有相當不錯的敏感度及陽性預測值",
     "晚期遠處轉移之胰臟癌的第⼀線治療為gemcitabine，使⽤此藥物治療，病患⼀年的存活率可達70%"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 抽菸是胰臟癌最明確且可改變的危險因子，約占所有病例的兩到三成，吸菸者風險約為不吸菸者的兩倍，戒菸十年後風險才逐漸回到基準。\n❌ (B) 有明確遺傳傾向者只占約 5–10%，八成以上是偶發性。\n❌ (C) CA19-9 的敏感度與陽性預測值都不足以用於一般族群篩檢（且 Lewis 抗原陰性者不會分泌），它只用於治療反應與復發追蹤。\n❌ (D) 轉移性胰臟癌預後極差，即使化療一年存活率也僅約兩成，遠不到 70%（目前第一線多採 FOLFIRINOX 或 gemcitabine 併 nab-paclitaxel）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pancreatic Cancer。"
   },
   {
    "n": 22,
@@ -299,7 +320,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "磷（PO43-）5.5 mg/dL",
     "鈣（Ca++）8.0 mg/dL"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 高血鈉最不可能：慢性腎病病人的問題是水分「排不掉」而非缺水，加上口渴機轉正常，血鈉通常正常或偏低（稀釋性低血鈉），148 mEq/L 的高血鈉並非此病的典型表現。\n❌ (B) 腎絲球過濾率下降後排鉀能力受限，高血鉀是慢性腎病常見且危險的併發症。\n❌ (C) 磷排除減少造成高血磷，是慢性腎病礦物質骨病變的起點。\n❌ (D) 活性維生素 D 生成不足加上高血磷結合，造成低血鈣與續發性副甲狀腺亢進。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Chronic Kidney Disease。"
   },
   {
    "n": 23,
@@ -312,7 +334,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "使⽤擬鈣劑（calcimimetic）",
     "使⽤鈣濃度3.0 mEq/L透析液"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 此病人高血磷（6.8）、高血鈣（10.8）而副甲狀腺素只有 88 pg/mL（透析病人建議維持在正常上限的 2–9 倍），代表副甲狀腺並未過度活躍；治療重點是降磷，且應選用「不含鈣」的磷結合劑以免血鈣再升高。\n❌ (B) 維生素 D3 會同時提高腸道鈣與磷的吸收，使高血鈣、高血磷更惡化。\n❌ (C) 擬鈣劑用於副甲狀腺素過高的續發性亢進，本例副甲狀腺素偏低，用了會造成低血鈣與更嚴重的低轉換性骨病變。\n❌ (D) 提高透析液鈣濃度只會讓血鈣更高，方向相反（應考慮降低透析液鈣濃度）。\n📚 出處：KDIGO Clinical Practice Guideline Update for CKD-MBD（2017）；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 24,
@@ -325,7 +348,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "sirolimus",
     "everolimus"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 鈣調磷酸酶抑制劑中以 tacrolimus 造成「移植後新發糖尿病」的風險最高——它直接抑制胰島 β 細胞的胰島素合成與分泌，發生率明顯高於 cyclosporine，移植後數月內出現高血糖是典型時序。\n❌ (A) mycophenolate mofetil 的主要副作用是骨髓抑制與腹瀉，不影響血糖。\n❌ (C) sirolimus 會造成高血脂與傷口癒合不良，致糖尿病風險低於 tacrolimus。\n❌ (D) everolimus 屬同類 mTOR 抑制劑，副作用型態同 sirolimus。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Transplantation in the Treatment of Renal Failure；KDIGO Transplant Recipient Guideline。"
   },
   {
    "n": 25,
@@ -338,7 +362,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "fractional excretion of chloride",
     "urine osmolality"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 嘔吐造成代謝性鹼中毒，大量碳酸氫根從尿中排出時會「帶走鈉」，使腎前性個案的鈉排泄分率假性升高；此時氯的排泄分率不受影響，仍能忠實反映腎小管的再吸收能力，是最適合的鑑別指標。\n❌ (A) 鈉排泄分率正是被碳酸氫根尿干擾而失真的那一個。\n❌ (B) 尿素比值受蛋白攝取、消化道出血與類固醇影響，特異性不足。\n❌ (D) 尿液滲透壓在利尿劑使用、慢性腎病與老年人皆會失去濃縮能力，判讀不可靠。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Kidney Injury（Urinary indices）。"
   },
   {
    "n": 26,
@@ -351,7 +376,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "NSAID-induced interstitial nephritis",
     "polyarteritis nodosa"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 顯微多套動脈炎屬 ANCA 相關血管炎，以寡免疫型壞死性腎絲球腎炎表現，血中嗜酸性球「不會」升高——會有明顯嗜酸性球增多的是同屬 ANCA 家族的嗜酸性肉芽腫性多套血管炎（Churg-Strauss）。\n❌ (B) 膽固醇栓塞常出現嗜酸性球增多、低補體與網狀青斑三聯徵。\n❌ (C) 藥物引起的急性間質性腎炎典型可見發燒、皮疹與嗜酸性球增多。\n❌ (D) 結節性多動脈炎部分病人亦可見嗜酸性球升高。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Kidney Injury；Ch. The Vasculitis Syndromes。"
   },
   {
    "n": 27,
@@ -364,7 +390,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⾎清肌酸酐值於⼀星期內上升幅度⼤於或等於50%",
     "尿液每⼩時之排出量少於0.5 mL/kg，並持續6⼩時"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：KDIGO 沒有「5 天內上升 25%」這條標準，正確的相對變化門檻是「7 天內上升至基準值的 1.5 倍（即 50%）以上」。\n❌ (A) 48 小時內血清肌酸酐上升 ≥0.3 mg/dL 是絕對值標準。\n❌ (C) 7 天內上升 ≥50%（1.5 倍）是相對值標準。\n❌ (D) 尿量 <0.5 mL/kg/hr 持續 6 小時是尿量標準。\n📚 出處：KDIGO Clinical Practice Guideline for Acute Kidney Injury（2012）；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 28,
@@ -377,7 +404,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "rapidly progressive glomerulonephritis",
     "IgA nephropathy"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 年輕人服用非類固醇消炎藥後急速出現大量蛋白尿（尿蛋白/肌酸酐比 12 g/g）、低白蛋白血症、高血脂與全身水腫——完整的腎病症候群；非類固醇消炎藥引起的微小變化病變常合併急性間質性腎炎（故有皮疹與腎功能上升），停藥加類固醇多可恢復。\n❌ (A) 溶血性尿毒症候群應有溶血性貧血、血小板低下與碎裂紅血球，且多有前驅腹瀉。\n❌ (C) 急進性腎絲球腎炎的尿沉渣應見大量紅血球與紅血球圓柱，本例尿紅血球僅 2–3 顆。\n❌ (D) IgA 腎病變以感染後 1–2 天的肉眼血尿為典型表現，蛋白尿通常不到腎病症候群程度。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Glomerular Diseases（Minimal change disease／NSAID-associated nephropathy）。"
   },
   {
    "n": 29,
@@ -390,7 +418,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "利尿劑（diuretics）會增加尿酸從尿液排出⽽降低⾎中尿酸",
     "acute myeloid leukemia（AML）在化學治療時會產⽣⾼尿酸⾎症，因此可⽤benzbromarone來預防⾼尿酸 ⾎症"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 次黃嘌呤鳥嘌呤磷酸核糖轉移酶（HPRT）基因位於 X 染色體，完全缺乏造成 Lesch-Nyhan 症候群、部分缺乏造成年輕男性的高尿酸血症與痛風；酵素失效使嘌呤無法回收再利用，全部走向尿酸生成。\n❌ (B) 尿酸主要由「腎臟」排除，臨床上九成的高尿酸血症來自腎臟排泄不足，不是肝功能不全所致。\n❌ (C) 利尿劑造成血液濃縮並促進近端小管對尿酸的再吸收，是使血中尿酸「上升」的常見藥物。\n❌ (D) 化療引起的腫瘤溶解症候群應以 allopurinol 或 rasburicase 預防；促尿酸排泄的 benzbromarone 會讓大量尿酸湧入腎小管而造成尿酸性腎病變。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of Purine and Pyrimidine Metabolism；Ch. Gout and Other Crystal-Associated Arthropathies。"
   },
   {
    "n": 30,
@@ -403,7 +432,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "calcium apatite deposition引起的關節與關節附近發炎，更容易發⽣在慢性腎臟衰竭合併有 hyperphosphatemia的病⼈",
     "CPPD與calcium apatite deposition結晶引起的關節炎皆可⽤colchicine和glucocorticoid治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：焦磷酸鈣沉積症（假性痛風）好發於「高齡」族群，年紀愈大盛行率愈高，並常與副甲狀腺亢進、血色素沈著病、低血鎂等代謝疾病相關，不是年輕男性的病。\n❌ (A) 它的急性發作同樣是單一大關節（尤其膝關節）紅腫熱痛，臨床上與痛風極相似，需靠關節液結晶（菱形、弱正雙折射）區分。\n❌ (C) 磷灰石沉積造成的肩關節與關節周圍發炎，在慢性腎衰竭合併高血磷者特別常見。\n❌ (D) 兩者的急性發炎都以秋水仙素、非類固醇消炎藥或類固醇治療。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Gout and Other Crystal-Associated Arthropathies。"
   },
   {
    "n": 31,
@@ -416,7 +446,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "關節攣縮（joint contractures）常發⽣於polymyositis",
     "⽪下鈣化（subcutaneous calcifications）常發⽣於polymyositis"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 史他汀類藥物可引起從肌肉痠痛到橫紋肌溶解的一系列肌肉毒性，其中免疫媒介性壞死性肌病變（帶抗 HMGCR 抗體）在臨床與病理上都酷似多發性肌炎，鑑別時務必詢問用藥史。\n❌ (B) 50 歲以上的發炎性肌肉病變中，最常見的其實是包涵體肌炎（且對類固醇反應差）。\n❌ (C) 關節攣縮較常見於幼年型皮肌炎與肌失養症，不是多發性肌炎的特徵。\n❌ (D) 皮下鈣化是幼年型皮肌炎的典型併發症。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Inflammatory Myopathies。"
   },
   {
    "n": 32,
@@ -429,7 +460,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "好發於20～40歲女性",
     "通常對類固醇的治療反應不佳"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 巨細胞（顳）動脈炎與風濕性多肌痛是同一疾病譜的兩端：約四到五成的顳動脈炎病人合併肩、髖帶的近端肌肉僵痛，而風濕性多肌痛病人中約一至兩成會出現顳動脈炎。\n❌ (A) 它屬「大血管炎」，主要侵犯主動脈及其大分支（顳動脈是頸外動脈分支）。\n❌ (C) 好發於 50 歲以上、尤其 70 歲以上的長者，20–40 歲極為罕見（那是高安氏動脈炎的好發年齡）。\n❌ (D) 它對類固醇反應極佳，往往用藥數日內症狀即戲劇性改善；懷疑時應先給藥以免視力永久喪失。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. The Vasculitis Syndromes（Giant cell arteritis）。"
   },
   {
    "n": 33,
@@ -442,7 +474,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "應立即⽤⾼劑量類固醇治療",
     "加上新型抗凝⾎藥物（new oral anticoagulants, NOAC）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 抗磷脂質抗體持續高效價的紅斑性狼瘡病人首次發生靜脈栓塞，標準治療是長期口服 warfarin，目標 INR 2.0–3.0（中間值 2.5）；抗磷脂質抗體症候群的栓塞復發率高，通常需終身抗凝。\n❌ (A) 阿斯匹靈只用於尚未發生栓塞者的初級預防，對已發生的深部靜脈栓塞強度不足。\n❌ (C) 高劑量類固醇對抗磷脂質抗體造成的血栓沒有治療效果（除非合併災難型抗磷脂質症候群等特殊情況）。\n❌ (D) 新型口服抗凝劑在抗磷脂質抗體症候群（尤其三重抗體陽性者）的試驗顯示栓塞復發率高於 warfarin，不建議使用。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Systemic Lupus Erythematosus；Ch. Antiphospholipid Syndrome。"
   },
   {
    "n": 34,
@@ -455,7 +488,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "Africa：Aflatoxin B1 and hepatitis B chronic infection",
     "Taiwan：Ethanol chronic consumption and primary biliary cirrhosis"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 非洲（特別是撒哈拉以南）的肝細胞癌以慢性 B 型肝炎為主因，並因穀物花生保存不良而普遍暴露於黃麴毒素 B1；黃麴毒素造成 p53 第 249 密碼子的特徵性突變，與 B 型肝炎有加乘作用。\n❌ (A) 歐美最重要的病因是慢性 C 型肝炎、酒精性肝病與脂肪肝，威爾森氏症極為罕見。\n❌ (B) 中國大陸最重要的病因是慢性 B 型肝炎，不是 C 型肝炎或脂肪肝炎。\n❌ (D) 臺灣最重要的病因同樣是慢性 B 型肝炎（其次 C 型），原發性膽汁性膽管炎並非主因。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Liver and Biliary Tract Cancer（Epidemiology and etiology of HCC）。"
   },
   {
    "n": 35,
@@ -468,7 +502,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "「⼿術前⾎清中CA19-9值」與病患胰臟癌的期別（stage）具相關性",
     "「⼿術後⾎清中CA19-9值」與病患的預後無關"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 術前 CA19-9 濃度與腫瘤負荷及分期呈正相關，數值愈高者可切除性愈低、期別愈晚，因此臨床上用它輔助評估手術可行性與預後。\n❌ (A) 它不是診斷的必要條件——約 5–10% 的人 Lewis 抗原陰性，根本不會分泌 CA19-9，即使腫瘤很大數值仍正常。\n❌ (B) 一般族群盛行率低而偽陽性多（膽道阻塞、胰臟炎、肝硬化皆會升高），不建議用於篩檢。\n❌ (D) 術後 CA19-9 能否降至正常，是公認的強力預後因子，並用於偵測復發。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pancreatic Cancer；NCCN Guidelines for Pancreatic Adenocarcinoma。"
   },
   {
    "n": 36,
@@ -481,7 +516,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "跟吸菸相關性⾼的是鱗狀上⽪癌、⼩細胞癌（small-cell carcinoma）",
     "表⽪⽣⻑因⼦受體（epidermal growth factor receptor）突變常出現於腺癌"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：隨著吸菸率下降與濾嘴香菸普及，「腺癌」早已取代鱗狀上皮癌成為最常見的肺癌組織型態，在臺灣尤其明顯（不吸菸女性肺腺癌比例高）。\n❌ (B) 腺癌的組織亞型確實包含腺泡型、乳突型、貼壁型（lepidic）、微乳突型與固態型。\n❌ (C) 鱗狀上皮癌與小細胞癌與吸菸的關聯性最強。\n❌ (D) 表皮生長因子受體突變絕大多數出現在腺癌，尤其亞洲不吸菸女性。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Neoplasms of the Lung；WHO Classification of Thoracic Tumours, 5th ed.。"
   },
   {
    "n": 37,
@@ -494,7 +530,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "此類病⼈的紅⾎球中的protoporphyrin 量常是降低的",
     "此類病⼈的red cell distribution width（RDW）index常是增加的"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：缺鐵性貧血（ferritin 3.84、血清鐵低、TIBC 高、MCV 74.8）時紅血球內的原紫質因為缺乏鐵可供嵌入而「累積增加」，游離紅血球原紫質上升正是診斷缺鐵的敏感指標，不是降低。\n❌ (A) 造血原料不足使骨髓反應受限，網狀紅血球通常偏低。\n❌ (B) 骨髓鐵耗竭，含鐵芽細胞比例明顯下降甚至消失。\n❌ (D) 大小不一的紅血球使紅血球分布寬度上升，是缺鐵早期就出現的變化。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Iron Deficiency and Other Hypoproliferative Anemias。"
   },
   {
    "n": 38,
@@ -507,7 +544,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "有些病⼈會合併有autoimmune thrombocytopenia或autoimmune hemolytic anemia",
     "此類病⼈⼀開始通常無明顯與此病相關的症狀，⽽是偶然抽⾎檢驗⾎球數據時才發現此病"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：慢性淋巴球性白血病（CD19+、CD5+、dim CD20、CD23+、輕鏈受限）是無痛性疾病，早期無症狀者只需觀察等待；治療以 BTK 抑制劑、BCL-2 抑制劑或化學免疫療法為主，並非大多數人需要高劑量化療與異體幹細胞移植。\n❌ (A) 腫瘤細胞脆弱，抹片推片時破裂形成的破碎細胞（smudge/basket cells）是典型所見。\n❌ (C) 併發自體免疫性溶血性貧血或免疫性血小板低下並不少見，是此病的免疫失調表現。\n❌ (D) 多數病人是健檢或其他原因抽血時偶然發現淋巴球增多才診斷。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Chronic Lymphocytic Leukemia。"
   },
   {
    "n": 39,
@@ -520,7 +558,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⽪下注射romiplostim或是⼝服eltrombopag常可有效的提升此類病⼈之⾎⼩板數量",
     "此種病⼈之周邊⾎液之⾎球型態與分化，⼀般⽽⾔，是正常的，但是偶⽽有較⼤的platelets"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：免疫性血小板低下的治療目標是「避免出血」而不是把數字拉到正常；血小板穩定在 3–4 萬且無出血症狀者，一般只需追蹤，不必承受類固醇長期使用的副作用。\n❌ (B) 年輕、單純血小板低下且其他血球正常者，不必一開始就做骨髓切片。\n❌ (C) 血小板生成素受體促效劑（romiplostim、eltrombopag）對此病確實有效，是第二線常用選擇。\n❌ (D) 周邊血抹片除了血小板減少（偶見較大的年輕血小板）之外，其餘血球型態與分化正常。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Coagulation Disorders（Immune thrombocytopenia）；ASH ITP Guideline（2019）。"
   },
   {
    "n": 40,
@@ -533,7 +572,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "prednisolone",
     "vincristine"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) vincristine 抑制微管聚合，對周邊與自主神經特別具毒性；指尖麻木（感覺神經病變）與腸蠕動變慢造成的便秘、腹脹甚至麻痺性腸阻塞，是它最典型的副作用組合，通常在給藥後一至數週出現。\n❌ (A) cyclophosphamide 的特徵性毒性是出血性膀胱炎與骨髓抑制。\n❌ (B) adriamycin 的招牌毒性是累積劑量相關的心肌病變與黏膜炎。\n❌ (C) prednisolone 反而會使腸蠕動增加、食慾變好，並造成血糖上升與失眠。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Cancer Chemotherapy；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 41,
@@ -546,7 +586,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "HPV的E6及E8分⼦是HPV相關⼦宮頸癌之致病因⼦",
     "侵犯骨盆腔或陰道下三分之⼀的⼦宮頸癌屬於FIGO分期的第三期"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：人類乳突病毒的致癌基因是 E6 與「E7」——E6 促使 p53 降解、E7 使 Rb 失活，兩者合力解除細胞週期的煞車；並沒有所謂的 E8 致癌分子。\n❌ (A) 子宮頸癌高發生率地區確實包括南美洲、加勒比海與東南亞（篩檢與疫苗覆蓋率低）。\n❌ (B) 在初次性行為前接種疫苗，可有效預防 HPV-16、18 感染並降低子宮頸癌前病變。\n❌ (D) FIGO 第三期定義為腫瘤侵犯骨盆壁或陰道下三分之一（或造成水腎、侵犯淋巴結）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Gynecologic Malignancies；Robbins and Cotran Pathologic Basis of Disease, 10th ed.。"
   },
   {
    "n": 42,
@@ -559,7 +600,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "O6-methylguanine-DNA methyltransferase（MGMT）有表現的腫瘤，對於temozolomide的治療較有療效",
     "bevacizumab可⽤於復發後的病⼈，此藥物可以減少腫瘤周邊的⽔腫，也可延⻑progression-free survival"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：MGMT 是修復烷化劑損傷的酵素，它「有表現」反而會把 temozolomide 造成的 DNA 損傷修好；真正預測療效好的是 MGMT 啟動子甲基化、酵素被沉默不表現的腫瘤。\n❌ (A) 多形性膠質母細胞瘤即使接受標準治療，中位存活期仍僅約 15 個月。\n❌ (B) 標準治療即為最大安全範圍切除後併用放射治療與 temozolomide（Stupp regimen）。\n❌ (D) bevacizumab 抑制血管內皮生長因子，可減輕腫瘤周邊水腫、延長無惡化存活期（但未延長總存活期）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Primary and Metastatic Tumors of the Nervous System。"
   },
   {
    "n": 43,
@@ -572,7 +614,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "可能合併出現肺癌或間⽪細胞瘤（mesothelioma）",
     "肺功能出現阻塞性功能障礙及氣體瀰散量（diffusing capacity）下降，為病⼈呼吸急促的主因"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：石綿肺症是瀰漫性間質纖維化，肺功能呈「限制型」障礙（肺活量與全肺量下降）合併氣體瀰散量降低，不是阻塞型。\n❌ (A) 造船、保溫防火材料、煞車來令片與電流絕緣材料是主要暴露來源。\n❌ (B) 病理上為以下肺葉與胸膜下為主的瀰漫性間質纖維化，並可見石綿小體。\n❌ (C) 石綿暴露同時提高肺癌（與吸菸有加乘作用）與惡性間皮細胞瘤的風險，後者潛伏期可長達 20–40 年。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Occupational and Environmental Lung Disease。"
   },
   {
    "n": 44,
@@ -585,7 +628,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "肋膜腔積液中adenosine deaminase（ADA）level＞50 mg/L，須⾼度懷疑為淋巴瘤（lymphoma）",
     "結核（tuberculosis）造成的肋膜腔積液，⼤多可以培養出結核菌（Mycobacterium tuberculosis）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) Light's criteria 需要同時測肋膜液與血清的乳酸脫氫酶及總蛋白：肋膜液/血清蛋白 >0.5、肋膜液/血清 LDH >0.6、或肋膜液 LDH >正常血清上限的三分之二，符合任一項即為滲出液。\n❌ (A) 正常肋膜液由「壁層」肋膜的微血管產生，再由壁層肋膜的淋巴管吸收，敘述中的來源與吸收方向都錯了。\n❌ (C) 腺苷脫胺酶升高（一般以 >40 U/L 為界）高度懷疑的是結核性肋膜炎，不是淋巴瘤。\n❌ (D) 結核性肋膜積液的細菌量少，培養陽性率只有約兩到三成，因此才需仰賴腺苷脫胺酶與肋膜切片。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Pleura。"
   },
   {
    "n": 45,
@@ -598,7 +642,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "ALK translocation的肺腺癌病⼈年紀中位數（median age），較整體肺腺癌患者的年紀中位數年輕",
     "ALK translocation之肺腺癌，經標靶治療產⽣抗藥性後，約50～60%產⽣exon 20 T790M突變"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 帶有 ALK 基因重組的肺腺癌病人年齡中位數約 50 歲上下，明顯比整體肺腺癌（約 65–70 歲）年輕，且多為不吸菸或輕度吸菸者。\n❌ (A) 東亞肺腺癌的 EGFR 突變率約 50%（不吸菸女性更高），遠高於 10–20%（那是西方族群的比例）。\n❌ (B) 標靶藥物能大幅延長無惡化存活期與生活品質，但第四期並無法治癒，終究會產生抗藥性。\n❌ (D) T790M 是 EGFR 標靶治療後的抗藥突變，不是 ALK；ALK 的抗藥機轉是 ALK 激酶區的續發突變（如 L1196M）或旁路活化。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Neoplasms of the Lung。"
   },
   {
    "n": 46,
@@ -611,7 +656,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "詢問使⽤抗⾼⾎壓藥物情形",
     "24⼩時食道pH值檢查"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 高血壓病人出現數週至數月的持續乾咳、而理學檢查與胸部 X 光皆正常，第一個要想到的就是血管收縮素轉換酶抑制劑——它使緩激肽累積而誘發乾咳（發生率約 5–20%），停藥或換成 ARB 後即改善，這是最省時省錢的診斷步驟。\n❌ (A) 肺功能檢查用於懷疑氣喘或慢性阻塞性肺病，應在排除藥物因素後再考慮。\n❌ (B) 鼻竇後鼻滴流也是慢性咳嗽常見原因，但仍應先問用藥史。\n❌ (D) 24 小時食道酸鹼監測是侵入性檢查，屬更後線的評估。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cough；Ch. Hypertensive Vascular Disease。"
   },
   {
    "n": 47,
@@ -624,7 +670,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "肺炎",
     "肺癌"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 高齡、慢性運動性呼吸困難、杵狀指加上兩側下肺野吸氣末的細囉音（俗稱魔鬼氈囉音），是特發性肺纖維化的典型三聯表現，高解析度電腦斷層可見下肺葉與胸膜下的蜂窩狀變化。\n❌ (B) 肺水腫的囉音多在兩側，但會合併頸靜脈怒張、端坐呼吸與心臟病史，且不會有杵狀指。\n❌ (C) 肺炎為急性病程，會發燒且囉音多為局部。\n❌ (D) 肺癌雖可合併杵狀指，但不會造成兩側對稱性的細囉音與長年漸進的呼吸困難。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Interstitial Lung Disease（Idiopathic pulmonary fibrosis）。"
   },
   {
    "n": 48,
@@ -637,7 +684,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "ethambutol",
     "pyrazinamide"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) pyrazinamide 的代謝物 pyrazinoic acid 抑制腎小管對尿酸的排泄，使血中尿酸上升，是四種第一線抗結核藥中唯一常引起高尿酸血症與痛風發作者（另一常見副作用是肝毒性）。\n❌ (A) isoniazid 的主要副作用是肝炎與周邊神經病變（需補充維生素 B6）。\n❌ (B) rifampin 會使體液呈橘紅色並誘導肝臟酵素造成藥物交互作用。\n❌ (C) ethambutol 的招牌副作用是視神經炎（視力模糊與紅綠色覺障礙）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Tuberculosis；Katzung Basic & Clinical Pharmacology, 15th ed.。"
   },
   {
    "n": 49,
@@ -650,7 +698,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "鮑⽒不動桿菌（Acinetobacter baumannii）",
     "嗜⾎桿菌（Haemophilus influenzae）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 鮑氏不動桿菌是典型的「院內」病原，好發於加護病房、長期插管或曾使用廣效抗生素的病人；本例是過去健康、社區發病的中年男性，最不可能由它致病。\n❌ (A) 肺炎鏈球菌是社區型肺炎最常見的病原。\n❌ (B) 黴漿菌是中青年社區型非典型肺炎的常見原因。\n❌ (D) 嗜血桿菌亦為社區型肺炎常見菌，尤其有慢性肺病或吸菸者。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pneumonia（Community-acquired pneumonia）。"
   },
   {
    "n": 50,
@@ -663,7 +712,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⼼悸或⼼律不整",
     "怕熱"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 甲狀腺功能亢進使基礎代謝率上升、產熱與分解代謝增加，典型是「食慾變好但體重下降」；體重增加不是典型症狀（少數年輕病人因食量大增而體重持平或微增，屬例外）。\n❌ (A) 甲狀腺素過多會干擾性腺軸，造成經量減少甚至無月經。\n❌ (C) 心搏過速、心悸與心房顫動是甲狀腺亢進最重要的心血管表現。\n❌ (D) 產熱增加使病人怕熱、多汗、皮膚溫暖潮濕。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Thyroid Gland（Thyrotoxicosis）。"
   },
   {
    "n": 51,
@@ -676,7 +726,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "淋巴球細胞（lymphocytes）",
     "纖維⺟細胞（fibroblasts）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 甲狀腺髓質癌源自濾泡旁的 C 細胞（神經內分泌來源），會分泌降鈣素——血中降鈣素與癌胚抗原因此成為診斷與追蹤的腫瘤標記，部分病例屬第二型多發性內分泌腫瘤症候群（RET 基因突變）。\n❌ (A) 濾泡上皮細胞衍生的是乳突癌、濾泡癌與未分化癌。\n❌ (C) 淋巴球來源的是甲狀腺原發性淋巴瘤（常發生在橋本氏甲狀腺炎的背景上）。\n❌ (D) 纖維母細胞不會形成甲狀腺癌。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Thyroid Gland（Medullary thyroid carcinoma）。"
   },
   {
    "n": 52,
@@ -689,7 +740,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "第2型糖尿病與肥胖及家族遺傳有關，是臨床上最常⾒的糖尿病型態",
     "妊娠型糖尿病好發於婦女懷孕的前3個⽉，與胰島素阻抗有關"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 第 2 型糖尿病與肥胖、缺乏運動及家族遺傳密切相關，占全部糖尿病的九成以上，是臨床上最常見的型態；病生理為胰島素阻抗合併相對的分泌不足。\n❌ (A) 第 1 型糖尿病典型好發於兒童與青少年（30 歲以上發病者多屬成人隱匿型自體免疫糖尿病）。\n❌ (B) 診斷標準是空腹血糖 ≥126 mg/dL 或糖化血色素 ≥6.5%；100 mg/dL 與 6% 只是「糖尿病前期」的門檻。\n❌ (D) 妊娠糖尿病好發於懷孕中後期（24–28 週篩檢），因為此時胎盤分泌的抗胰島素荷爾蒙最多。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Diabetes Mellitus: Diagnosis, Classification, and Pathophysiology；ADA Standards of Medical Care in Diabetes。"
   },
   {
    "n": 53,
@@ -702,7 +754,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "乳糜粒（chylomicron）在肝臟內形成，其蛋⽩質成分為apolipoprotein B-48",
     "胰島素阻抗會使⾎脂質代謝異常，⾎中的⾼密度脂蛋⽩會上升"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 脂蛋白外層的載脂蛋白（apolipoprotein）決定它的命運：作為酵素的輔因子（如 apoC-II 活化脂蛋白脂解酶）、作為受體的配體（如 apoB-100、apoE 與 LDL 受體結合），因此與血脂代謝密不可分。\n❌ (A) 體積最大、密度最低的是乳糜粒，其次才是極低密度脂蛋白。\n❌ (C) 乳糜粒由「小腸」上皮細胞合成，其結構蛋白為 apoB-48（肝臟合成的 VLDL 才用 apoB-100）。\n❌ (D) 胰島素阻抗造成的血脂型態是三酸甘油酯上升、高密度脂蛋白「下降」並出現小而緻密的低密度脂蛋白。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of Lipoprotein Metabolism。"
   },
   {
    "n": 54,
@@ -715,7 +768,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "會增加⼼⾎管疾病的風險",
     "⾎中極低密度脂蛋⽩（VLDL） 的濃度會增加"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：代謝症候群的典型血脂異常是三酸甘油酯上升、高密度脂蛋白下降，並使低密度脂蛋白轉為「小而緻密」的顆粒——這種顆粒更易穿透內皮並被氧化，濃度是「增加」而非減少。\n❌ (A) 胰島素阻抗是代謝症候群的核心病生理。\n❌ (C) 它明確增加心血管疾病與第 2 型糖尿病的風險。\n❌ (D) 肝臟三酸甘油酯合成增加，極低密度脂蛋白分泌隨之上升。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. The Metabolic Syndrome。"
   },
   {
    "n": 55,
@@ -728,7 +782,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "庫欣⽒症（Cushing's syndrome）",
     "原發性醛固酮過⾼症（primary aldosteronism）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 陣發性頭痛、心悸、盜汗合併突發性血壓飆高，是嗜鉻細胞瘤的經典四聯表現（兒茶酚胺陣發性分泌所致）；診斷靠血漿或尿液中的甲基腎上腺素代謝物，確認後以影像定位並先給 α 阻斷劑再手術。\n❌ (B) 甲狀腺亢進造成的是持續性心搏過速與收縮壓上升，不會陣發性飆到 180/100 再自行緩解。\n❌ (C) 庫欣氏症的高血壓是持續性的，並伴隨月亮臉、水牛肩、紫紋等體態變化。\n❌ (D) 原發性醛固酮過高症表現為持續性高血壓合併低血鉀，沒有陣發性交感症狀。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pheochromocytoma。"
   },
   {
    "n": 56,
@@ -741,7 +796,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "肺炎鏈球菌（Streptococcus pneumoniae）",
     "表⽪葡萄球菌（Staphylococcus epidermidis）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 人工瓣膜手術後兩個月內發生的「早期」人工瓣膜心內膜炎，多來自手術當時的皮膚菌污染，其中凝固酶陰性葡萄球菌（以表皮葡萄球菌為代表）最常見，且常帶有甲氧西林抗藥性。\n❌ (A) 流感嗜血桿菌屬 HACEK 族群，較常見於晚期或自體瓣膜心內膜炎，且比例低。\n❌ (B) 抗萬古黴素腸球菌雖是院內重要菌種，但作為早期人工瓣膜心內膜炎的病原並不常見。\n❌ (C) 肺炎鏈球菌造成的心內膜炎少見，多見於酗酒或脾切除者的自體瓣膜。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Infective Endocarditis（Prosthetic valve endocarditis）。"
   },
   {
    "n": 57,
@@ -754,7 +810,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "導管相關尿路感染的發⽣與尿路導管材質的品質關係最⼤",
     "經尿管輸液沖洗膀胱，即使在輸液內加入抗⽣素，仍可能增加導管相關尿路感染的機會"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 例行以輸液沖洗膀胱（即使加入抗生素）會反覆打開密閉的引流系統，反而增加細菌沿導管上行的機會，指引明確列為不應執行的措施。\n❌ (A) 尿道口塗抹抗生素或消毒藥膏並無預防效果，指引不建議。\n❌ (B) 常規口服抗生素預防只會篩選出抗藥菌，實證上不建議。\n❌ (C) 真正決定感染風險的是「留置天數」與是否維持密閉系統，導管材質只是次要因素——最有效的預防就是盡早移除導管。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Urinary Tract Infections；IDSA Guideline for Catheter-Associated Urinary Tract Infection（CAUTI）。"
   },
   {
    "n": 58,
@@ -767,7 +824,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "在原有瓣膜疾病問題的病患，可能導致⼼內膜炎（endocarditis）",
     "是急性感染症，不會造成慢性感染"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) Q 熱由貝氏考克斯菌（Coxiella burnetii）引起，除急性的發燒、肝炎與肺炎外，還會轉為慢性感染；原本就有瓣膜病變或人工瓣膜者，最典型的慢性表現就是血液培養陰性的心內膜炎。\n❌ (A) 臺灣以南部（高屏、澎湖）的本土病例為主，感染源多為羊、牛等家畜的分娩物與排泄物氣膠。\n❌ (B) 皮疹並非 Q 熱的表現，這是它與其他立克次體感染（如恙蟲病、斑疹傷寒）的鑑別點之一。\n❌ (D) 它明確會造成慢性感染，且慢性期治療需長達 18 個月以上的 doxycycline 併 hydroxychloroquine。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Rickettsial Diseases（Q fever）；衛生福利部疾病管制署 Q 熱疾病介紹。"
   },
   {
    "n": 59,
@@ -780,7 +838,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "進⾏隔離直到排除開放性結核",
     "立即給與amphotericin B治療"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 最不恰當：病理呈肉芽腫合併乾酪性壞死與多核巨細胞，第一考量是結核而非黴菌；在還沒有任何黴菌證據（特殊染色、培養或抗原）之前就給 amphotericin B，既無適應症又要承受腎毒性與輸注反應。\n❌ (A) 痰液抗酸菌抹片與培養是確認結核並判斷傳染性的基本檢查，應優先安排。\n❌ (B) 抗酸菌染色與黴菌特殊染色可直接在切片上找病原，合理。\n❌ (C) 在排除開放性結核之前先隔離，是保護其他病人與醫護的標準做法。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Tuberculosis；Ch. Approach to the Patient with a Pulmonary Nodule。"
   },
   {
    "n": 60,
@@ -793,7 +852,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "CXCR4",
     "CXCR6"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) CCR5 是 R5 型（親巨噬細胞株）HIV 進入細胞的主要副接受器；帶有 CCR5-Δ32 純合缺失的人，受體無法表現在細胞表面，因此對 R5 型病毒幾乎完全免疫——「柏林病人」的治癒案例正是移植了帶此突變的骨髓。\n❌ (A) CCR2 的多型性只與病程進展速度有關，不決定是否被感染。\n❌ (C) CXCR4 是 X4 型病毒（多在感染後期出現）使用的副接受器，且它的缺失並不存在此種保護性突變。\n❌ (D) CXCR6 不是 HIV 進入 CD4 T 細胞的主要副接受器。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Human Immunodeficiency Virus Disease（HIV entry and coreceptors）。"
   },
   {
    "n": 61,
@@ -806,7 +866,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "中暑（heat stroke）",
     "熱昏厥（heat syncope）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 高溫下劇烈運動後核心體溫 40.8℃ 合併「中樞神經功能異常」（昏迷、抽搐），並已出現肝指數上升與急性腎損傷等器官傷害——這是勞力型中暑，屬體溫調節失控的致命急症，必須立刻積極降溫。\n❌ (A) 熱痙攣只有肌肉抽筋，體溫正常、意識清楚。\n❌ (B) 熱衰竭核心體溫通常低於 40℃，病人雖虛弱、頭暈、噁心，但意識清楚且無器官損傷。\n❌ (D) 熱昏厥是久站後周邊血管擴張造成的短暫昏厥，很快自行恢復，不會昏迷抽搐。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Heat-Related Illnesses（Heat stroke）。"
   },
   {
    "n": 62,
@@ -819,7 +880,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "補充⽣理食鹽⽔",
     "必要時使⽤lorazepam治療痙攣"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 最不適宜：中暑不是體溫調節中樞的設定點被上調（那才是發燒），而是散熱失效，因此解熱鎮痛劑完全無效；acetaminophen 反而可能加重已受損的肝臟——正確做法是體表或蒸發散熱等物理降溫。\n❌ (B) 昏迷病人無法保護呼吸道，插管是合理處置。\n❌ (C) 病人血壓偏低、脫水並有橫紋肌溶解風險，積極輸注生理食鹽水是必要的。\n❌ (D) 抽搐時給予苯二氮平類藥物控制，可減少產熱並避免進一步傷害。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Heat-Related Illnesses（Management of heat stroke）。"
   },
   {
    "n": 63,
@@ -832,7 +894,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "每天補充2,500 mL⽣理食鹽⽔",
     "開始透析治療"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 肌酸激酶 42,700 U/L、肌肉腫痛、尿液潛血 4+ 卻無紅血球（肌紅蛋白尿），是典型橫紋肌溶解；治療核心是大量靜脈輸液沖洗腎小管，把尿量維持在每小時 200–300 mL，以防肌紅蛋白造成的管型阻塞與腎小管壞死。\n❌ (B) 方向相反：肌紅蛋白在酸性尿中更容易沉澱析出，必要時應「鹼化」尿液（給碳酸氫鈉），絕不可酸化。\n❌ (C) 每天 2,500 mL 遠遠不夠——初期常需每小時數百毫升、一天數公升的輸液量。\n❌ (D) 目前尿量沒有明顯減少、血鉀 5.0、也無難治性酸中毒或容積過載，尚未達透析適應症。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Kidney Injury（Rhabdomyolysis-associated AKI）。"
   },
   {
    "n": 64,
@@ -845,7 +908,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "Cryptococcus neoformans",
     "Klebsiella pneumoniae"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 克雷伯氏肺炎桿菌屬化膿性細菌性腦膜炎，腦脊髓液應呈「嗜中性球為主」的數千顆白血球、蛋白顯著升高、糖值明顯下降；本例是淋巴球為主（90%）、蛋白僅 45 mg/dL 的輕度變化，與細菌性腦膜炎不符。\n❌ (A) 單純疱疹病毒腦炎正是淋巴球為主的腦脊髓液型態。\n❌ (B) 結核性腦膜炎典型為淋巴球為主、腦壓升高，符合本例。\n❌ (C) 新型隱球菌腦膜炎以腦壓顯著升高（常 >250 mmH2O）與淋巴球為主為特徵。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Meningitis, Encephalitis, Brain Abscess, and Empyema（CSF profiles）。"
   },
   {
    "n": 65,
@@ -858,7 +922,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "照胸部X光，抽⾎做黴菌培養及抗原檢測",
     "給echinocandin類藥物"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：棘白菌素（echinocandin）抑制 β-1,3-葡聚糖合成，而隱球菌的細胞壁不依賴此路徑，對它天生無效；且此類藥物幾乎不進入中樞神經系統，用於隱球菌腦膜炎是雙重錯誤。\n❌ (A) 隱球菌腦膜炎的誘導期標準治療正是 amphotericin B 併用 flucytosine。\n❌ (B) 隱球菌腦膜炎是後天免疫缺乏症候群的指標疾病，務必檢驗 HIV。\n❌ (C) 隱球菌經呼吸道入侵，應照胸部 X 光找肺部病灶，並抽血做培養與莢膜抗原檢測評估散播性感染。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cryptococcosis；IDSA Clinical Practice Guidelines for the Management of Cryptococcal Disease。"
   },
   {
    "n": 66,
@@ -871,7 +936,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "需住院治療，且需入住加護病房",
     "未抽⾎檢查，無法判定"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) CURB-65 五項各計一分：意識混亂（無）、尿素氮 >19 mg/dL（未達或未測）、呼吸 ≥30（24 次，不計）、收縮壓 <90 或舒張壓 ≤60（96/62，不計）、年齡 ≥65（21 歲，不計）——總分 0 分屬低危險群，可門診口服抗生素治療並安排追蹤。\n❌ (B) 一般病房適用於 2 分左右的中危險群。\n❌ (C) 加護病房適用於需升壓劑或機械通氣、或符合重症肺炎標準者。\n❌ (D) CURB-65 的其餘四項已可判定，即使尿素氮那一分全給也只有 1 分，仍屬低危險群，不影響決策。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pneumonia（CURB-65 severity score）。"
   },
   {
    "n": 67,
@@ -884,7 +950,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "吸入型抗膽鹼劑（anticholinergics）",
     "吸入型sodium cromoglycate（cromolyn）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 運動誘發型支氣管收縮的標準預防方式，是運動前 10–20 分鐘吸入短效乙二型交感神經興奮劑，可保護約 2–4 小時；這是各大氣喘指引一致列為首選的做法（若需頻繁使用，才加上吸入型類固醇作為控制藥）。\n❌ (B) 口服茶鹼作用慢、治療濃度範圍窄且副作用多，早已不是首選。\n❌ (C) 吸入型抗膽鹼劑起效較慢、支氣管擴張效果不如乙二型促效劑。\n❌ (D) cromolyn 雖可用於運動前預防，但效果弱於短效乙二型促效劑，且現已少用。\n📚 出處：Global Initiative for Asthma（GINA）Report；Harrison's Principles of Internal Medicine, 21st ed., Ch. Asthma。"
   },
   {
    "n": 68,
@@ -897,7 +964,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "可使⽤迷你營養評估量表（MNA）來進⾏營養評估，若總分⾼於10分，表⽰可能有營養不良，需進⼀步提 供營養諮詢",
     "可使⽤巴⽒量表來進⾏⽇常⽣活功能評估，若得分在31～60分屬於輕度失能"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 迷你心智狀態檢查滿分 30 分，一般以 24 分（含）以下視為認知功能異常，需再依教育程度校正——本例為高中教育程度，適用此切點。\n❌ (B) 老年憂鬱量表（GDS-15）以 5 分（含）以上即懷疑憂鬱，10 分以上幾乎確定，並非「8 分以上才算」。\n❌ (C) 迷你營養評估量表滿分 30 分，24 分以上為營養良好、17–23.5 分為營養不良風險、低於 17 分為營養不良——是「分數低」才代表營養不良，方向相反。\n❌ (D) 巴氏量表 31–60 分屬「中度」依賴，61–90 分才是輕度。\n📚 出處：Hazzard's Geriatric Medicine and Gerontology, 8th ed., Ch. Comprehensive Geriatric Assessment；衛生福利部長期照顧失能等級評估量表說明。"
   },
   {
    "n": 69,
@@ -910,7 +978,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "第0、7、28天，共3次",
     "第0、14、28天，共3次"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 未曾接種過的人暴露後，臺灣採用的是 Essen 五劑肌肉注射法：第 0、3、7、14、28 天各一劑，並在第 0 天於傷口周圍浸潤注射狂犬病免疫球蛋白，同時立即以肥皂大量沖洗傷口 15 分鐘。\n❌ (B) 四劑（0、3、7、14 天）是美國對「免疫功能正常者」的簡化方案，日期組合也與此選項不同。\n❌ (C) 第 0、7、28 天三劑是「暴露前」預防接種的排程，不能用於暴露後。\n❌ (D) 沒有這種排程。\n📚 出處：衛生福利部疾病管制署「狂犬病防治工作指引」；WHO Position Paper on Rabies Vaccines。"
   },
   {
    "n": 70,
@@ -923,7 +992,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "⾝體症狀障礙症（somatic symptom disorder）",
     "焦慮症（anxiety disorder）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 身體症狀障礙症的核心不在於症狀有沒有器質性原因，而在於病人對症狀投入過度的想法、情緒與行為——持續高度焦慮、反覆求醫與檢查、耗費大量時間精力，且症狀持續超過六個月，本例完全符合。\n❌ (A) 重度憂鬱症需有持續兩週以上的情緒低落或失去興趣，本例並未描述。\n❌ (B) 輕鬱症（持續性憂鬱症）需慢性情緒低落達兩年以上。\n❌ (D) 焦慮症的擔憂內容廣泛且不侷限於身體健康，本例的焦慮明確聚焦在身體症狀上。\n📚 出處：DSM-5-TR, Somatic Symptom and Related Disorders（Somatic symptom disorder, 300.82）。"
   },
   {
    "n": 71,
@@ -936,7 +1006,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "統合分析（meta-analysis）",
     "個案對照研究（case-control study）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 統合分析把多個同質的隨機對照試驗系統性地整合並量化，樣本數與統計效力最大、偏差最小，位於實證醫學證據金字塔的最頂端（系統性回顧合併統合分析為 Level 1）。\n❌ (A) 世代研究屬觀察性研究，雖有時序性但仍受干擾因子影響。\n❌ (B) 專家意見在證據層級中位於最底層。\n❌ (D) 個案對照研究回溯性收集資料，容易有回憶偏差與選擇偏差，層級低於世代研究。\n📚 出處：Oxford Centre for Evidence-Based Medicine, Levels of Evidence；Harrison's Principles of Internal Medicine, 21st ed., Ch. Approach to the Patient（Evidence-based medicine）。"
   },
   {
    "n": 72,
@@ -949,7 +1020,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "社區醫療群",
     "基層診所"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 社區健康營造中心的任務是「健康促進」——推動社區運動、營養、菸害防制等公共衛生活動，它不提供門診診療服務，因此不屬於基層醫療服務的提供單位。\n❌ (A) 衛生所提供預防保健、疫苗接種與基層門診，是最典型的基層醫療單位。\n❌ (C) 社區醫療群由數家診所結合社區醫院組成，提供整合式的家庭醫師照護。\n❌ (D) 基層診所是民眾第一線就醫的主要場所。\n📚 出處：衛生福利部國民健康署「社區健康營造」計畫說明；衛生福利部「家庭醫師整合性照護計畫」（社區醫療群）。"
   },
   {
    "n": 73,
@@ -962,7 +1034,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "放置中央靜脈導管給予全靜脈營養",
     "繼續經⼝給予可接受的食物"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 末期病人的臨終脫水與厭食是自然過程，人工營養與水分並不能延長存活或改善生活品質，反而增加水腫、腹水與吸入風險；安寧照護的共識是「舒適餵食」——在病人能安全接受的範圍內繼續經口給予喜歡的食物。\n❌ (A) 放置鼻胃管會造成不適與躁動，且無證據能改善末期病人的存活或減少吸入性肺炎。\n❌ (B) 靜脈輸液在此階段容易造成體液滯留、呼吸道分泌物增加而加重喘息。\n❌ (C) 全靜脈營養屬侵入性且併發症多，在末期病人並無效益。\n📚 出處：安寧緩和醫療條例；Harrison's Principles of Internal Medicine, 21st ed., Ch. Palliative and End-of-Life Care（Artificial nutrition and hydration）。"
   },
   {
    "n": 74,
@@ -975,7 +1048,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "甲狀腺瘤（adenoma）",
     "良性多發性結節（nodular goiter）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 甲狀腺結節合併同側頸部淋巴結無痛性腫大，超音波呈低回音、邊緣不規則、縱長大於橫寬並可見微鈣化與內部雜亂血流——這組惡性特徵指向甲狀腺乳突狀癌，它也是最常經淋巴轉移到頸部的甲狀腺癌。\n❌ (A) 甲狀腺炎表現為瀰漫性回音不均，通常不會有孤立結節加淋巴轉移。\n❌ (C) 甲狀腺腺瘤為邊界清楚、有完整暈環的實質結節，不會造成淋巴結轉移。\n❌ (D) 結節性甲狀腺腫為多發、邊界清楚的良性結節，同樣不伴淋巴結轉移。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Thyroid Gland（Thyroid nodules and papillary carcinoma）；ATA Guidelines for Thyroid Nodules。"
   },
   {
    "n": 75,
@@ -988,7 +1062,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "當插上氣管內管時，成⼈的壓胸及通氣比為30：2",
     "維持每次6～7 mL/kg的通氣量"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 較不適當：一旦置放進階呼吸道（氣管內管），就「不再」以 30:2 交替，而是持續不間斷地壓胸每分鐘 100–120 次，同時每 6 秒給一次呼吸（每分鐘 10 次）。\n❌ (A) 尚未插管、使用袋瓣面罩時，成人維持每分鐘 10–12 次通氣。\n❌ (B) 插管後每 6 秒一次通氣，即每分鐘 10 次，敘述正確。\n❌ (D) 每次潮氣容積約 6–7 mL/kg（約 500–600 mL），以看到胸廓起伏為原則，避免過度通氣。\n📚 出處：2015 American Heart Association Guidelines Update for CPR and ECC（Adult Basic and Advanced Life Support）。"
   },
   {
    "n": 76,
@@ -1001,7 +1076,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "Phentolamine（α-腎上腺阻斷劑）",
     "Propranolol（β-腎上腺阻斷劑）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 古柯鹼造成的急性冠心症禁用非選擇性乙型阻斷劑：乙型受體被阻斷後，古柯鹼對甲型受體的興奮作用「失去對抗」（unopposed alpha stimulation），冠狀動脈與全身血管更加收縮，血壓與心肌缺血反而惡化。\n❌ (A) 苯二氮平類是第一線用藥，可同時降低中樞交感興奮、心跳與血壓。\n❌ (B) 嗎啡可止痛並降低交感張力。\n❌ (C) 甲型阻斷劑 phentolamine 直接解除古柯鹼引起的冠狀動脈痙攣，是合理選擇（硝化甘油亦然）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cocaine and Other Commonly Abused Drugs；AHA Scientific Statement on Cocaine-Associated Chest Pain。"
   },
   {
    "n": 77,
@@ -1014,7 +1090,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "經靜脈快速灌注⽣理食鹽⽔1000 mL，治療低⾎壓及稀釋鉀離⼦",
     "經靜脈給予氯化鈣，以拮抗鉀離⼦對⼼臟細胞膜電位的影響"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 不適當：糖尿病腎病變的病人排水能力差，快速灌注 1,000 mL 生理食鹽水只會造成容積過載與肺水腫（病人已有胸悶、呼吸急促），而且靠稀釋根本無法有效降低血鉀。\n❌ (A) 碳酸氫鈉可矯正代謝性酸中毒（pH 7.20、HCO3 12）並促使鉀離子移入細胞內。\n❌ (B) 葡萄糖加胰島素是把鉀移入細胞內最快速可靠的方法。\n❌ (D) 心跳每分鐘僅 40 下、血鉀 7.7，必須立即給鈣（氯化鈣或葡萄糖酸鈣）穩定心肌細胞膜——這是第一步。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Fluid and Electrolyte Disturbances（Treatment of hyperkalemia）。"
   },
   {
    "n": 78,
@@ -1027,7 +1104,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "右下腹痛（right lower quadrant pain）",
     "發燒（fever）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 在各項闌尾炎的臨床表現中，「右下腹疼痛」的敏感度最高（文獻報告約 0.8–0.9 以上），幾乎所有闌尾炎病人都會出現——敏感度高代表沒有它時可大幅降低此診斷的可能。\n❌ (A) 腰大肌徵象特異度高但敏感度低（僅約 0.15–0.2），只有後腹膜位置的闌尾發炎才會出現。\n❌ (B) 轉移痛的特異度不錯，但敏感度約 0.5–0.6，不少病人並沒有典型的疼痛轉移。\n❌ (D) 發燒在早期闌尾炎常常沒有（本例即無發燒），敏感度最低。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Appendicitis；JAMA Rational Clinical Examination: Does This Patient Have Appendicitis?。"
   },
   {
    "n": 79,
@@ -1040,7 +1118,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "意願⼈接受安寧緩和醫療或維⽣醫療抉擇之意願及其內容",
     "意願書之簽署，應有具完全⾏為能⼒者⼆⼈以上在場⾒證。⾒證⼈最好為實施安寧緩和醫療之醫療機構⼈ 員"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：依安寧緩和醫療條例第 4 條，見證人須為具完全行為能力者二人以上，但「實施安寧緩和醫療及執行意願人維生醫療抉擇之醫療機構所屬人員不得為見證人」——以避免利益衝突，與選項所說的「最好為該機構人員」正好相反。\n❌ (A) 意願書應載明意願人姓名、國民身分證統一編號及住居所，為法定應記載事項。\n❌ (B) 立意願書之日期同為法定應記載事項。\n❌ (C) 意願人的抉擇意願及其內容當然必須載明。\n📚 出處：安寧緩和醫療條例第 4 條、第 5 條。"
   },
   {
    "n": 80,
@@ -1053,7 +1132,8 @@ window.APP_EXAM_PAPERS['doc-108-1-med3'] = {
     "病⼈偏好（patient preferences）",
     "⽣活品質（quality of life）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 不傷害原則屬於 Beauchamp 與 Childress 的「生命倫理四原則」（自主、不傷害、行善、正義），不是 Jonsen 四象限法的內容；四象限法是分析個案的實務工具，不是原則清單。\n❌ (B) 醫療適應症是四象限的第一格，處理診斷、治療目標與醫療效益。\n❌ (C) 病人偏好是第二格，處理知情同意與自主意願。\n❌ (D) 生活品質是第三格（第四格為脈絡特徵 contextual features，涵蓋家屬、經濟、法律與資源）。\n📚 出處：Jonsen, Siegler & Winslade, Clinical Ethics: A Practical Approach to Ethical Decisions in Clinical Medicine, 9th ed.（Four Topics Method）。"
   }
  ]
 };
