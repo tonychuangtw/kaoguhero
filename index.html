@@ -3,29 +3,51 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>考古英雄 — 醫師國考考古題練習</title>
-<meta name="description" content="醫師國考（第一階段：醫學一、醫學二）歷屆考古題線上練習：整卷測驗、無限刷題、錯題本與弱點統計。">
-<link rel="stylesheet" href="css/style.css?v=20260904c">
+<title>考古英雄｜國家考試考古題免費線上練習</title>
+<meta name="description" content="國家考試歷屆考古題免費線上刷題：題目與標準答案取自考選部公開資料，詳解自撰並附出處。提供整卷測驗、無限刷題、錯題本與弱點統計。">
+<meta name="theme-color" content="#2f5bd7">
+<meta property="og:title" content="考古英雄｜國家考試考古題免費線上練習">
+<meta property="og:description" content="歷屆考古題、標準答案與逐題詳解，全部免費。">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%232f5bd7'/><text x='16' y='23' font-size='19' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>考</text></svg>">
+<link rel="stylesheet" href="css/v2.css?v=20260904d">
 </head>
 <body>
-<header class="top">
-  <button id="btnBack" class="icon" hidden aria-label="返回">‹</button>
-  <h1 id="topTitle">考古英雄</h1>
-  <button id="btnInfo" class="icon" aria-label="使用說明">ℹ️</button>
+
+<header class="hd">
+  <div class="hd-in">
+    <a class="logo" href="#/" data-nav><span class="mk">考</span>考古英雄</a>
+    <nav id="nav"></nav>
+    <button class="burger" id="burger" aria-label="開啟選單" aria-expanded="false">☰</button>
+  </div>
+  <div class="drawer" id="drawer"></div>
 </header>
 
-<main id="app">
-  <section id="view-home" class="view"></section>
-  <section id="view-list" class="view" hidden></section>
-  <section id="view-quiz" class="view" hidden></section>
-  <section id="view-result" class="view" hidden></section>
-  <section id="view-wrong" class="view" hidden></section>
-  <section id="view-stats" class="view" hidden></section>
-  <section id="view-info" class="view" hidden></section>
-</main>
+<main class="wrap" id="main"></main>
 
-<script src="js/data/exams.js?v=20260904c"></script>
-<script src="js/versions.js?v=20260904c"></script>
-<script src="js/app.js?v=20260904c"></script>
+<footer class="ft">
+  <div class="ft-in">
+    <div>
+      <h4>關於考古英雄</h4>
+      <p class="fine">收錄國家考試歷屆考古題與標準答案，並提供自撰的逐題詳解。題目與標準答案取自考選部「考畢試題查詢平臺」公開資料（政府資訊公開）；站上的詳解與所有文案皆為本站自行撰寫。</p>
+    </div>
+    <div>
+      <h4>學習資源</h4>
+      <a href="#/exams" data-nav>考試題庫總覽</a>
+      <a href="#/guide" data-nav>準備方式介紹</a>
+      <a href="#/stories" data-nav>考取心得分享</a>
+    </div>
+    <div>
+      <h4>支持與聯絡</h4>
+      <a href="#/sponsor" data-nav>☕ 贊助我們</a>
+      <a href="#/support" data-nav>客服中心</a>
+      <a href="#/about" data-nav>使用說明與版本紀錄</a>
+    </div>
+  </div>
+</footer>
+
+<script src="js/data/exams.js?v=20260904d"></script>
+<script src="js/versions.js?v=20260904d"></script>
+<script src="js/app.js?v=20260904d"></script>
 </body>
 </html>
