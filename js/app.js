@@ -71,7 +71,7 @@
     if (loading[id]) return loading[id].push(cb);
     loading[id] = [cb];
     var s = document.createElement('script');
-    s.src = 'js/data/exam/' + id + '.js?v=20260904';
+    s.src = 'js/data/exam/' + id + '.js?v=20260904b';
     s.onload = function () {
       var fns = loading[id]; loading[id] = null;
       fns.forEach(function (f) { f(PAPERS[id]); });
@@ -186,7 +186,7 @@
       if (!p) return alert('題本載入失敗，請重新整理再試一次。');
       quiz = { mode: 'paper', pid: id, title: p.title, qs: p.qs.slice(), i: 0, ans: [], ok: 0 };
       renderQuiz();
-      show('quiz', p.roc + ' 年 ' + (p.subj === 'med1' ? '醫學（一）' : '醫學（二）'));
+      show('quiz', p.roc + ' 年' + (p.nth === 2 ? '二' : '一') + ' ' + (p.subj === 'med1' ? '醫學（一）' : '醫學（二）'));
     });
   }
 

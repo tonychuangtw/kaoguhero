@@ -138,6 +138,23 @@ const figSrc = await evalJs(`window.APP_EXAM_PAPERS['113-020-med2'].qs.find(q=>q
 const figOk = await evalJs(`fetch('${figSrc}').then(r=>r.ok).catch(()=>false)`);
 ok(figOk, '圖檔實際存在：' + figSrc);
 
+// 詳解：有 exp 的題目答完後要把詳解印出來（含 📚 出處）
+await goto(`http://127.0.0.1:${PORT}/index.html`);
+await evalJs(`new Promise(r=>{const s=document.createElement('script');
+  s.src='js/data/exam/115-090-med1.js';s.onload=r;s.onerror=r;document.head.appendChild(s);})`);
+const expN = await evalJs(`window.APP_EXAM_PAPERS['115-090-med1'].qs.filter(q=>q.exp).length`);
+ok(expN > 0, `題本內有 ${expN} 題已寫詳解`);
+ok(await evalJs(`window.APP_EXAM_PAPERS['115-090-med1'].qs.filter(q=>q.exp)
+   .every(q => q.exp.indexOf('📚') >= 0)`), '每則詳解都附出處（📚）');
+await evalJs(`[...document.querySelectorAll('#view-home .btn')].find(b=>b.textContent.includes('醫學（一）')&&b.textContent.includes('卷')).click()`);
+await sleep(300);
+await evalJs(`[...document.querySelectorAll('#view-list .btn')].find(b=>b.textContent.includes('115 年第二次'))?.click()`);
+for (let i=0;i<60 && !(await evalJs('!document.getElementById("view-quiz").hidden'));i++) await sleep(100);
+await evalJs(`document.querySelectorAll('#view-quiz .opt')[0].click()`);
+await sleep(250);
+const fbTxt = await evalJs(`document.querySelector('#view-quiz .fb')?.textContent || ''`);
+ok(fbTxt.includes('📚'), '作答後畫面上看得到詳解與出處');
+
 ok(logs.length === 0, 'console 沒有錯誤' + (logs.length ? '：' + logs.slice(0, 3).join(' | ') : ''));
 
 ws.close(); chrome.kill(); srv.kill();

@@ -1,4 +1,4 @@
-/* 115 年醫師分階段考試（第一階段） 醫學（一）（100 題）
+/* 115 年第二次 醫師分階段考試（第一階段） 醫學（一）（100 題）
    試題與標準答案為考選部考畢試題查詢平臺公開資料；解析為本站自撰。 */
 window.APP_EXAM_PAPERS = window.APP_EXAM_PAPERS || {};
 window.APP_EXAM_PAPERS['115-090-med1'] = {
@@ -6,7 +6,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
  "roc": 115,
  "code": "115090",
  "subj": "med1",
- "title": "115 年醫師分階段考試（第一階段） 醫學（一）",
+ "nth": 2,
+ "title": "115 年第二次 醫師分階段考試（第一階段） 醫學（一）",
  "src": "考選部考畢試題查詢平臺公開之試題與標準答案",
  "mins": 120,
  "qs": [
@@ -21,7 +22,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "疑核（nucleus ambiguus）",
     "孤立核（solitary nucleus）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 疑核（nucleus ambiguus）：疑核位於延腦網狀結構之中，是特殊臟性運動核（special visceral efferent），其軸突分別加入舌咽神經（CN IX）與迷走神經（CN X），支配咽喉的橫紋肌，題目所述「位於網狀結構內」與「傳出纖維走第九、十對腦神經」兩個條件同時成立。\n❌ (A) 舌下神經核（hypoglossal nucleus）：位於延腦背側近中線的舌下神經三角深部，不在網狀結構內，且其纖維構成第十二對腦神經支配舌肌。\n❌ (B) 背側迷走神經核（dorsal nucleus of vagus）：雖屬第十對腦神經，但它是一般臟性運動核（副交感節前神經元），位於第四腦室底的迷走神經三角深部，並非網狀結構內的疑核，也不參與第九對腦神經的運動支配。\n❌ (D) 孤立核（solitary nucleus）：屬於「感覺」核（一般與特殊臟性感覺），接收味覺與內臟感覺的「傳入」纖維，不是題目所問的傳出（efferent）纖維來源。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 11 章 Cranial Nerve Nuclei；Moore《Clinically Oriented Anatomy》第 8 版，Head 章腦神經核整理。判別口訣：延腦內「運動核由內而外」排列，疑核因位置深藏於網狀結構、在解剖上不易辨識而得名。"
   },
   {
    "n": 2,
@@ -34,7 +36,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "背側迷走神經核（dorsal nucleus of vagus）",
     "三叉神經脊髓核（spinal trigeminal nucleus）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 孤立核（solitary nucleus）：頸動脈竇與主動脈弓的壓力感受器訊息，分別由舌咽神經（CN IX，Hering 氏神經）與迷走神經（CN X）傳入，兩者的一般臟性感覺纖維都終止於孤立核的尾側部，再投射到延腦的心血管中樞完成壓力感受器反射。\n❌ (A) 疑核（nucleus ambiguus）：疑核是「運動」核，發出纖維支配咽喉肌肉，並不接收感覺訊息；它是壓力感受器反射的傳出端（迷走神經對心臟的作用）而非傳入端。\n❌ (C) 背側迷走神經核（dorsal nucleus of vagus）：屬副交感節前運動核，負責支配胸腹腔內臟的平滑肌與腺體，同樣是傳出而非傳入。\n❌ (D) 三叉神經脊髓核（spinal trigeminal nucleus）：接收的是頭面部的痛覺、溫度覺等一般體感覺，與血壓訊息無關。\n📚 出處：Guyton & Hall《Textbook of Medical Physiology》第 14 版，第 18 章 Nervous Regulation of the Circulation（壓力感受器反射路徑）；Snell《Clinical Neuroanatomy》第 8 版腦神經核章。記憶要點：孤立核是「所有臟性感覺（味覺、壓力、化學感受器）的總入口」。"
   },
   {
    "n": 3,
@@ -47,7 +50,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "三叉神經運動核（trigeminal motor nucleus）",
     "三叉神經中腦核（mesencephalic trigeminal nucleus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 三叉神經中腦核（mesencephalic trigeminal nucleus）：此核是中樞神經系統中唯一把「初級感覺神經元的細胞本體」留在腦內而非神經節內的構造，負責傳遞咀嚼肌的肌梭與牙周韌帶的本體感覺，因此偵測咬合力道的細胞本體就位於這裡。\n❌ (A) 三叉神經脊髓核（spinal trigeminal nucleus）：接收頭面部的痛覺與溫度覺，而且它是「次級」神經元所在，初級神經元的細胞本體在三叉神經節。\n❌ (B) 三叉神經橋腦核（pontine trigeminal nucleus）：又稱主感覺核，處理的是辨別性觸覺與壓覺，初級神經元的細胞本體同樣位於三叉神經節。\n❌ (C) 三叉神經運動核（trigeminal motor nucleus）：屬運動核，支配咀嚼肌收縮，是反射的傳出端而非感覺端。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 11 章三叉神經核群；Standring《Gray's Anatomy》第 42 版 Trigeminal nerve 章。考點：中腦核＝唯一位於 CNS 內的初級感覺神經元胞體，與咀嚼反射（jaw-jerk reflex）直接相關。"
   },
   {
    "n": 4,
@@ -60,7 +64,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "栓狀核（emboliform nucleus）",
     "齒狀核（dentate nucleus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 齒狀核（dentate nucleus）：小腦四個深部核由內（近中線）向外依序為頂核、球狀核、栓狀核、齒狀核，因此齒狀核位置最外側，體積也最大，其傳出纖維經小腦上腳投射到對側紅核與丘腦腹外側核。\n❌ (A) 頂核（fastigial nucleus）：位於最內側、緊鄰中線，接收絨球小結葉與蚓部的投射，與平衡及軀幹姿勢有關。\n❌ (B) 球狀核（globose nucleus）：位於頂核外側、栓狀核內側，與栓狀核合稱間位核，居於中間位置而非最外側。\n❌ (C) 栓狀核（emboliform nucleus）：位於球狀核外側、齒狀核內側，仍不是最外側的那一個。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 6 章 The Cerebellum；Standring《Gray's Anatomy》第 42 版小腦章。背誦口訣：由內而外「Fastigial → Globose → Emboliform → Dentate」，可用 F-G-E-D 記順序。"
   },
   {
    "n": 5,
@@ -73,7 +78,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "腹後外側核（ventral posterior lateral nucleus）與腹後內側核（ventral posterior medial nucleus）",
     "外側背側核（lateral dorsal nucleus）與外側後側核（lateral posterior nucleus）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 外側膝狀核與內側膝狀核：丘腦的特定中繼核各司其職——外側膝狀核（LGN）接收視網膜經視神經束傳來的視覺訊息後投射至枕葉初級視覺皮質；內側膝狀核（MGN）接收下丘（inferior colliculus）傳來的聽覺訊息後投射至顳葉初級聽覺皮質。\n❌ (A) 腹前側核與腹外側核：這兩個核屬於運動迴路的中繼站，分別接收蒼白球與小腦（齒狀核）的投射再送往運動皮質，與視聽覺無關。\n❌ (C) 腹後外側核與腹後內側核：VPL 中繼軀幹與四肢的體感覺、VPM 中繼頭面部體感覺與味覺，處理的是觸覺痛溫覺而非視聽覺。\n❌ (D) 外側背側核與外側後側核：屬於聯絡核（association nuclei），與扣帶回、頂葉聯絡皮質相連，參與情緒與感覺整合，並非視聽覺的專屬中繼站。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 12 章 The Thalamus；Purves《Neuroscience》第 6 版視覺與聽覺路徑章。記憶法：Lateral–Light（外側膝狀核管視覺）、Medial–Music（內側膝狀核管聽覺）。"
   },
   {
    "n": 6,
@@ -86,7 +92,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "舌咽神經（glossopharyngeal nerve）",
     "迷走神經（vagus nerve）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 舌咽神經（glossopharyngeal nerve）：外耳的感覺支配由三叉神經的耳顳神經（耳廓前上方與外耳道前壁）、迷走神經的耳支（Arnold 氏神經，外耳道後壁與耳膜外側）以及顏面神經的分支共同負責；舌咽神經主要支配的是中耳與咽鼓管（經鼓室神經、Jacobson 氏神經）以及舌後三分之一，與「外耳」的疼痛最不相關。\n❌ (A) 三叉神經（trigeminal nerve）：其分支耳顳神經支配耳廓前部與外耳道前壁，是外耳最主要的感覺來源之一。\n❌ (B) 顏面神經（facial nerve）：發出分支參與外耳道後壁與耳廓凹面的感覺支配，帶狀疱疹侵犯膝狀神經節時（Ramsay Hunt 症候群）即以耳痛與耳廓水疱表現。\n❌ (D) 迷走神經（vagus nerve）：其耳支支配外耳道後下壁與耳膜，這也是掏耳朵會引發咳嗽反射（Arnold 反射）的原因。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Head 章 External ear innervation；Standring《Gray's Anatomy》第 42 版外耳感覺神經分布。臨床延伸：因為外耳與咽喉共用神經支配，咽喉癌可表現為轉移痛型的耳痛（referred otalgia）。"
   },
   {
    "n": 7,
@@ -99,7 +106,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "舌骨舌肌（hyoglossus muscle）",
     "頦舌肌（genioglossus muscle）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 頦舌肌（genioglossus muscle）：頦舌肌起自下頜骨的頦棘、向後散開進入舌體，收縮時把舌頭往前「拉出」（protrusion），是唯一使舌頭前伸的肌肉，因此它的收縮不會造成舌後移。臨床上單側麻痺時伸舌會偏向患側，正是此作用的表現。\n❌ (A) 上縱肌（superior longitudinal muscle）：屬舌內在肌，收縮時使舌縮短並使舌尖上翹，同時參與把舌體往後拉。\n❌ (B) 下縱肌（inferior longitudinal muscle）：同為舌內在肌，收縮使舌縮短、舌尖下壓，也具有使舌後移的作用。\n❌ (C) 舌骨舌肌（hyoglossus muscle）：起自舌骨、止於舌側，收縮時把舌體往下並向後拉，是典型的舌後移肌。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Head 章 Muscles of the tongue；Standring《Gray's Anatomy》第 42 版舌肌章。口訣：舌外在肌中「頦舌前伸、舌骨舌下拉後縮、莖突舌上提後縮、腭舌上抬舌根」。"
   },
   {
    "n": 8,
@@ -112,7 +120,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "心小靜脈（small cardiac vein）",
     "心後靜脈（posterior cardiac vein）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 心小靜脈（small cardiac vein）：心小靜脈走行於右側冠狀溝（房室溝）內，與右冠狀動脈的主幹並行，最後注入冠狀竇的右端。\n❌ (A) 心大靜脈（great cardiac vein）：走在前室間溝內，與左冠狀動脈的前室間支（LAD）伴行，之後轉入左側冠狀溝並延續為冠狀竇。\n❌ (B) 心中靜脈（middle cardiac vein）：走在後室間溝內，與後室間支（多數人來自右冠狀動脈）伴行，但它伴行的是分支而非右冠狀動脈「主幹」。\n❌ (D) 心後靜脈（posterior cardiac vein）：位於左心室後面，與左迴旋支的分支關係較密切，並不沿右側冠狀溝走行。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Thorax 章 Venous drainage of the heart；Standring《Gray's Anatomy》第 42 版心臟靜脈章。整理原則：心臟靜脈多與同名動脈伴行——前室間溝配心大靜脈、後室間溝配心中靜脈、右冠狀溝配心小靜脈。"
   },
   {
    "n": 9,
@@ -125,7 +134,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "偏外",
     "中間"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 偏內：股鞘由腹橫筋膜與髂筋膜向下延伸而成，內部被縱隔分成三個腔室，由外而內依序為股動脈、股靜脈、股管；股管位於最內側，內含疏鬆結締組織與 Cloquet 淋巴結，其上口即股環，是股疝氣的好發部位。\n❌ (A) 深層：股鞘的三個腔室是「由外而內」並排，而不是分深淺層次，因此以深淺描述股管的位置並不正確。\n❌ (C) 偏外：股鞘最外側的腔室容納的是股動脈，不是股管。\n❌ (D) 中間：中間的腔室容納股靜脈；股管位在股靜脈的內側。\n📚 出處：Moore《Clinically Oriented Anatomy》第 8 版，Lower Limb 章 Femoral sheath and femoral canal；Standring《Gray's Anatomy》第 42 版腹股溝區章。臨床要點：由外而內記成 NAVEL（Nerve–Artery–Vein–Empty space–Lymphatics），其中股神經在股鞘之「外」，不包在鞘內。"
   },
   {
    "n": 10,
@@ -138,7 +148,8 @@ window.APP_EXAM_PAPERS['115-090-med1'] = {
     "主要經脊髓背根內側（medial division of posterior root），進入脊髓，且通常為較粗的神經纖維 （large diameter fiber）",
     "主要經脊髓背根外側（lateral division of posterior root），進入脊髓，且通常為較粗的神經纖維 （large diameter fiber）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 主要經脊髓背根外側，且通常為較細的神經纖維：痛覺與溫度覺由 Aδ 與 C 這類細徑纖維傳遞，它們進入脊髓時集中在背根的外側部（lateral division），隨後在背外側束（Lissauer 氏束）上下一至兩節，再與後角的次級神經元換元並交叉形成脊髓丘腦側束。\n❌ (A) 主要經脊髓背根內側，且通常為較細的神經纖維：纖維粗細判斷正確，但進入的位置錯誤——背根內側部（medial division）走的是粗徑纖維。\n❌ (C) 主要經脊髓背根內側，且通常為較粗的神經纖維：這描述的是本體感覺與辨別性觸覺（Aα、Aβ 粗纖維）的路徑，它們經背根內側進入後直接上行至背柱，與痛覺無關。\n❌ (D) 主要經脊髓背根外側，且通常為較粗的神經纖維：進入位置正確但纖維粗細錯誤，粗纖維走的是內側部。\n📚 出處：Snell《Clinical Neuroanatomy》第 8 版，第 4 章 The Spinal Cord（背根纖維的分區與 Lissauer 束）；Guyton & Hall《Textbook of Medical Physiology》第 14 版第 49 章 Somatic Sensations II（痛覺纖維分類）。整理：細（Aδ/C）走外側 → 脊髓丘腦側束；粗（Aβ）走內側 → 背柱–內側蹄系。"
   },
   {
    "n": 11,
