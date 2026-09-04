@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "吸入性肺炎",
     "支氣管痙攣"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 拔管期的肺水腫是「負壓性」肺水腫——喉痙攣時病人用力吸氣對抗關閉的聲門，胸腔內產生極大負壓把液體吸進肺泡；沒有「正壓性」肺水腫這個併發症。\n❌ (B) 上呼吸道阻塞（舌根後墜、喉頭水腫、殘餘肌鬆）是拔管期最常見的併發症。\n❌ (C) 保護性反射尚未完全恢復時容易發生吸入。\n❌ (D) 氣道敏感者在拔管刺激下可能出現支氣管痙攣。\n📚 出處：Miller's Anesthesia, 9th ed., Airway Management／Postanesthesia Recovery；Barash Clinical Anesthesia, 8th ed.。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "靜脈藥物中，ketamine 與 barbiturates 對腦波的影響類似",
     "somatosensory-evoked potentials（SSEP）、motor-evoked potentials（MEP）與 electromyogram （EMG）都可以使用在 spinal column 及 spinal cord 手術中的神經監測"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：巴比妥類會使腦波減慢、劑量夠大時出現爆發抑制；愷他命則是「活化」腦波（增加 β 波與 θ 波活動），兩者對腦波的影響完全不同，這也是術中監測時要注意的用藥選擇。\n❌ (A) 這一句是對的：即時監測可在不可逆傷害前發出警訊並讓術者調整操作。\n❌ (B) 這一句是對的：維持血壓、體溫、二氧化碳濃度與穩定的麻醉深度，訊號才可靠。\n❌ (D) 這一句是對的：體感覺誘發電位、運動誘發電位與肌電圖是脊椎手術的標準組合。\n📚 出處：Miller's Anesthesia, 9th ed., Neurologic Monitoring；ASNM《Intraoperative Neurophysiological Monitoring Guidelines》。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "發燒會導致 SvO2 升高",
     "疼痛控制不佳會導致 SvO2 升高"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 混合靜脈血氧飽和度反映的是「全身氧氣供需的平衡」——當輸送不足或耗氧增加時它會下降；術中下降與術後併發症的增加相關，因此在大手術中是重要的整體性指標。\n❌ (A) 脈搏血氧只反映動脈血的氧合，不代表心輸出量或組織灌流；貧血或低心輸出時血氧飽和度可以正常但組織仍缺氧。\n❌ (C) 發燒使代謝率與耗氧增加，混合靜脈血氧飽和度會「下降」。\n❌ (D) 疼痛控制不佳造成交感興奮與耗氧增加，同樣使其「下降」。\n📚 出處：Miller's Anesthesia, 9th ed., Cardiovascular Monitoring（SvO2 的臨床意義）；Marino's The ICU Book, 4th ed.。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "迅速增加 desflurane 的濃度，常導致心率下降",
     "sevoflurane 的無刺激性和肺泡濃度的迅速增加，使其成為平穩和快速誘導的絕佳選擇"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：迅速提高 desflurane 濃度會刺激交感神經，造成心跳「加快」與血壓上升（甚至短暫的交感風暴），這也是它不適合用於快速誘導的原因。\n❌ (A) 這一句是對的：最低肺泡濃度的定義就是讓 50% 的病人對切皮不產生體動的濃度。\n❌ (B) 這一句是對的：血液／氣體分配係數低使肺泡分壓上升快，誘導與甦醒都快。\n❌ (D) 這一句是對的：sevoflurane 無刺激性、氣味可接受，是吸入誘導（尤其兒童）的首選。\n📚 出處：Miller's Anesthesia, 9th ed., Inhaled Anesthetics；Katzung's Basic and Clinical Pharmacology, 15th ed., Ch.25。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "benzodiazepine 增加腦耗氧量",
     "ketamine 抑制 NMDA 通道"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：苯二氮平類會「降低」腦血流與腦氧代謝率（這也是它在神經麻醉中有腦保護作用的原因），不是增加。\n❌ (A) 這一句是對的：flumazenil 是苯二氮平受體的競爭性拮抗劑。\n❌ (B) 這一句是對的：它抑制呼吸中樞對二氧化碳的通氣反應，與鴉片類併用時呼吸抑制更明顯。\n❌ (D) 這一句是對的：愷他命是 NMDA 受體的非競爭性拮抗劑（阻斷通道）。\n📚 出處：Miller's Anesthesia, 9th ed., Intravenous Anesthetics；Katzung's Basic and Clinical Pharmacology, 15th ed.。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "吸氣負壓（inspiratory negative pressure）",
     "四聯刺激（train-of-four, TOF）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 四聯刺激是直接測量神經肌肉接合處的功能：以第四次與第一次收縮的比值（TOF ratio）評估殘餘阻斷，比值需大於 0.9 才算安全恢復——這是唯一客觀且量化的指標。\n❌ (A) 潮氣容積在殘餘肌鬆時仍可能正常，敏感度太低。\n❌ (B) 呼吸速率同樣不敏感。\n❌ (C) 吸氣負壓雖比前兩者好，但仍屬臨床指標，無法偵測輕度殘餘阻斷。\n📚 出處：ASA《Practice Guidelines for Monitoring and Antagonism of Neuromuscular Blockade》(2023)；Miller's Anesthesia, 9th ed., Neuromuscular Monitoring。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "抽菸患者屬於術後噁心嘔吐的高風險族群",
     "採用多模式止痛方式（multimodal analgesia），如：合併使用局部麻醉或區域麻醉止痛（local or regional anesthesia），可減少 opioids 使用"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：吸菸者術後噁心嘔吐的風險反而「較低」（是 Apfel 風險評分中的保護因子之一）；高風險族群是女性、不吸菸、有暈車或術後嘔吐病史、以及術後使用鴉片類止痛。\n❌ (A) 這一句是對的：健康的門診手術病人不需要常規的例行檢驗。\n❌ (B) 這一句是對的：早產兒依受孕後週數評估術後呼吸暫停風險，通常未滿 60 週不建議門診手術。\n❌ (D) 這一句是對的：多模式止痛可減少鴉片類用量與其副作用，有利當日離院。\n📚 出處：Apfel CC, et al. A simplified risk score for predicting postoperative nausea and vomiting；SAMBA《Consensus Guidelines for the Management of PONV》。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "不宜使用嗎啡以外的藥物",
     "是一種 negative-feedback loop，病患感覺疼痛就會按壓止痛藥物按鈕；若病患疼痛降低，則不會自主按 壓止痛藥按鈕"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：病患自控式止痛可以使用多種藥物——fentanyl、hydromorphone、oxycodone 等都常用，並非只能用嗎啡（腎功能不全者反而應避免嗎啡，因為代謝物會蓄積）。\n❌ (A) 這一項是對的：病人痛了自己按，不必等護理人員，止痛更即時。\n❌ (B) 這一項是對的：小劑量頻繁給藥可維持較穩定的血中濃度，總劑量往往較低。\n❌ (D) 這一項是對的：它本質上就是一個負回饋系統，也因此病人「想睡就按不動」成為內建的安全機制——這也是為什麼絕不可由家屬代按。\n📚 出處：Miller's Anesthesia, 9th ed., Acute Postoperative Pain；APS/ASA《Guidelines on the Management of Postoperative Pain》。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "敗血性休克的病人，越早給與營養支持，預後越好",
     "對於胃排空較差的病人，可考慮放置十二指腸管灌食，以減少吸入（aspiration）的風險"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：血行動力學尚未穩定的敗血性休克病人「不應」急著給營養支持——腸道灌流不足時強行灌食可能造成腸道缺血壞死；指引建議先復甦、待休克穩定（升壓劑減量中）後才開始早期腸道營養。\n❌ (A) 這一項是對的：營養狀況良好者可容忍約 7 天的禁食，只需水分電解質。\n❌ (B) 這一項是對的：腸胃道手術後早期灌食（ERAS 概念）已證實安全且有益。\n❌ (D) 這一項是對的：幽門後（十二指腸或空腸）灌食可降低吸入風險。\n📚 出處：ASPEN/SCCM《Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient》；ESPEN《Clinical Nutrition in the Intensive Care Unit》。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "家族史很重要，遺傳也是危險因子",
     "抽菸是危險因子，會增加發病機會"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句錯了：年齡相關性黃斑部退化的高風險族群是「白種人」；黑色人種的發生率與因此失明的比例明顯較低（色素較多具保護作用）。\n❌ (A) 這一句是對的：年齡是最主要的危險因子。\n❌ (C) 這一句是對的：補體因子 H 等基因變異使家族史成為重要風險。\n❌ (D) 這一句是對的：吸菸是最重要的可改變危險因子（風險增加 2～4 倍）。\n📚 出處：AAO《Age-Related Macular Degeneration Preferred Practice Pattern》；AREDS 研究。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "高度近視產生併發症的風險，無法因為接受角膜近視雷射手術而降低，只有利用白內障水晶體置換手術才能 將風險去除",
     "高度近視可能會產生黃斑部視網膜分裂症（retinoschisis），玻璃體內注射抗血管內皮生長因子（anti- vascular endothelial growth factor）通常是沒用的"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：角膜雷射手術只改變角膜屈光度，「並不會」降低高度近視眼球本身（眼軸過長）造成的視網膜與脈絡膜併發症；同樣地，換人工水晶體也無法把已經拉長變薄的視網膜風險「去除」。\n❌ (A) 這一句是對的：格子狀退化與視網膜破洞是裂孔性剝離的前驅病變。\n❌ (B) 這一句是對的：近視性脈絡膜新生血管會造成中心視力永久受損（可用抗血管內皮生長因子治療）。\n❌ (D) 這一句是對的：近視性黃斑部視網膜分裂是機械性牽引造成，抗血管內皮生長因子無效，需玻璃體手術。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Pathologic Myopia；AAO《Refractive Errors & Refractive Surgery PPP》。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "①②④",
     "①②③"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) ①②③都是角膜「弧度（形狀）」異常的擴張性疾病：圓錐角膜是中央下方變薄前突、球狀角膜是全角膜變薄膨出、清澈型角膜邊緣變性是下方周邊帶狀變薄。\n❌ (A) 含④角膜內皮細胞失養症：那是內皮細胞的幫浦功能失效造成角膜水腫（如 Fuchs 失養症），與弧度無關。\n❌ (B) 同樣含④。\n❌ (C) 也含④，理由如上。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Corneal Ectasias／Corneal Dystrophies。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "不會復發",
     "有可能合併免疫風濕性疾病"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 上鞏膜炎多數是特發性，但約有兩成到三成合併全身性疾病（類風濕性關節炎、發炎性腸道疾病、痛風、血管炎），因此反覆發作者應做免疫風濕評估。\n❌ (A) 好發於年輕至中年成人（尤其女性），不是老年人。\n❌ (B) 上鞏膜炎多為自限性且輕微，「很少」進展為真正的鞏膜炎。\n❌ (C) 它常常復發，這也是病人反覆求診的原因。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Episcleritis and Scleritis；AAO Basic and Clinical Science Course, External Disease and Cornea。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "眼瞼下垂",
     "眼內炎"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 白內障手術後數月至數年視力再度模糊，最常見的原因是後囊混濁（後發性白內障）——殘留的水晶體上皮細胞增生移行到後囊；用 Nd:YAG 雷射把後囊打開即可立即改善。\n❌ (B) 囊狀黃斑部水腫（Irvine-Gass 症候群）多在術後 4～12 週出現，且相對少見。\n❌ (C) 眼瞼下垂可能發生但不會造成「視力模糊」。\n❌ (D) 眼內炎是急性且伴劇痛與紅眼的手術併發症，不會在一年後才出現。\n📚 出處：AAO《Cataract in the Adult Eye Preferred Practice Pattern》；Kanski's Clinical Ophthalmology, 9th ed.。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "眼壓的波動（intraocular pressure fluctuation）也是造成青光眼惡化的原因之一",
     "治療失敗常與病患的順從性（patient compliance）不佳有關"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句最不適當：青光眼沒有一個「安全的絕對數字」——每位病人的目標眼壓不同，正常眼壓性青光眼在 21 mmHg 以下仍會持續惡化；治療目標是把眼壓降到「該病人不再惡化」的水準（通常較基線再降 20～30%）。\n❌ (A) 這一項是對的：治療目標是保住終生夠用的視覺功能與生活品質。\n❌ (C) 這一項是對的：眼壓的日夜波動幅度大也是惡化的獨立危險因子。\n❌ (D) 這一項是對的：長期點藥的順從性不佳是治療失敗最常見的原因。\n📚 出處：AAO《Primary Open-Angle Glaucoma Preferred Practice Pattern》；European Glaucoma Society《Terminology and Guidelines for Glaucoma》。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "弱視的人視物會有 crowding phenomenon，用單一視標測量的視力會比較好",
     "弱視的治療包括光學矯正、遮蔽好眼、或是用藥物模糊好眼（penalization）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 這一句錯了：兒童的調節力比成人「強」得多（近點可以很近）；遠視兒童容易弱視的真正原因是——即使用力調節看清楚了，未矯正的高度遠視仍造成長期的視網膜影像模糊與調節性內斜視，而近視兒童在近距離看得清楚，視覺發育刺激較充足。\n❌ (B) 這一句是對的：400 度近視的遠點在 1÷4.00＝0.25 公尺，即眼前 25 公分。\n❌ (C) 這一句是對的：擁擠現象使弱視者看排列成行的視標比單一視標差。\n❌ (D) 這一句是對的：光學矯正、遮眼與藥物懲罰（阿托品模糊好眼）都是標準治療。\n📚 出處：AAO《Amblyopia Preferred Practice Pattern》；Kanski's Clinical Ophthalmology, 9th ed., Strabismus and Amblyopia。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "要檢查視神經盤形態以排除腦壓升高造成的視乳突水腫",
     "兒童須比照有糖尿病病史的老年人，先觀察三個月是否自行恢復，再進行積極的調查"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 這一句錯了：兒童的外展神經麻痺「不可」比照老年糖尿病病人觀察三個月——兒童的第六對腦神經麻痺常是顱內壓上升或後顱窩腫瘤的表現，必須立即安排影像檢查。\n❌ (A) 這一項是對的：小腦橋腦角腫瘤可同時影響第五、七、八對腦神經。\n❌ (B) 這一項是對的：鼻咽癌侵犯顱底時常以外展神經麻痺為第一個症狀。\n❌ (C) 這一項是對的：第六對腦神經行程長，是顱內壓上升的「假性定位徵象」，須看視乳突有無水腫。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Neuro-ophthalmology（sixth nerve palsy）；AAO Basic and Clinical Science Course, Neuro-Ophthalmology。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med6'] = {
     "肺臟",
     "皮膚"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 脈絡膜黑色素瘤透過「血行」轉移（眼球內沒有淋巴管），而肝臟是壓倒性最常見的轉移部位（超過九成的轉移病例侵犯肝臟），因此追蹤時要定期做肝臟影像與肝功能檢查。\n❌ (A) 胰臟不是常見的轉移部位。\n❌ (C) 肺臟是第二常見，但比例遠低於肝臟。\n❌ (D) 皮膚轉移少見。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed., Uveal Melanoma；Collaborative Ocular Melanoma Study (COMS) 報告。"
   },
   {
    "n": 19,
