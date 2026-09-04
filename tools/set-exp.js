@@ -48,7 +48,9 @@ Object.keys(byPid).forEach(pid => {
     if (!/《|：|,\s*\d|第\s*\d+\s*版|指引|Guideline|ed\./.test(e.split('📚')[1] || '')) {
       errs.push(`${pid} #${p.n}：📚 那段看不出具體出處（要寫得出書名／版次／指引名稱）`); return;
     }
-    q.exp = e; done++;
+    // test/test.js 要求 ✅／❌ 後面有一個半形空格再接括號，這裡統一正規化，
+    // 免得寫的時候少打空格、要等到跑 test 才發現（2026-09-04）
+    q.exp = e.replace(/^✅\s*\(/gm, '✅ (').replace(/^❌\s*\(/gm, '❌ ('); done++;
   });
   if (WRITE && !errs.length) {
     const head = fs.readFileSync(f, 'utf8').split('window.APP_EXAM_PAPERS =')[0];
