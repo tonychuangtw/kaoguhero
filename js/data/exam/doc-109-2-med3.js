@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "需加驗甲狀腺功能",
     "經由周邊靜脈補鉀時，應將氯化鉀加在葡萄糖水裡，鉀離子濃度儘量不超過20～40 mmol/L"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 年輕男性突發低血鉀合併「低血磷」與極低的尿鉀（10 mEq/L，代表鉀是跑進細胞裡而不是排掉了），這是典型的低血鉀週期性麻痺；亞洲年輕男性最常見的原因是甲狀腺毒症性低血鉀週期性麻痺，因此必須加驗甲狀腺功能。\n❌ (A) 跨腎小管鉀梯度＝(尿鉀÷血鉀)÷(尿滲透壓÷血滲透壓)＝(10÷2.0)÷(580÷290)＝5÷2＝2.5，不是 2.0。\n❌ (B) 尿鉀只有 10 mEq/L 代表腎臟正在盡力保鉀，缺鉀不是從腎臟流失的。\n❌ (D) 周邊靜脈補鉀不應加在「葡萄糖水」裡——葡萄糖會刺激胰島素分泌，把鉀更往細胞內推，反而讓血鉀更低；應以生理食鹽水稀釋。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Hypokalemia／Thyrotoxic periodic paralysis；Brenner and Rector's The Kidney, 11th ed.。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "被篩檢的疾病對於健康沒有太大影響",
     "篩檢方式具有高風險性"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 篩檢的核心前提之一（Wilson-Jungner 準則）是「早期發現能改變結果」——疾病必須有有效的治療或介入方式，否則提早知道只是延長焦慮的時間。\n❌ (B) 準則要求疾病的自然史必須「清楚」，才知道在哪個階段介入有效。\n❌ (C) 篩檢的疾病應該是重要的健康問題，對健康影響不大就沒有篩檢價值。\n❌ (D) 篩檢工具必須安全、可接受度高，高風險的檢查不適合用在無症狀的健康人身上。\n📚 出處：Wilson JMG, Jungner G. Principles and Practice of Screening for Disease. WHO, 1968；Gordis Epidemiology, 6th ed., Ch.18。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "自行服藥",
     "在床與椅子間移動"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 自行服藥屬於「工具性」日常生活活動（IADL，還包括理財、購物、交通、備餐、使用電話、做家事），不是基本日常生活活動。\n❌ (A) 個人衛生（盥洗、修飾）是基本日常生活活動之一。\n❌ (B) 穿脫衣服是基本日常生活活動之一。\n❌ (D) 床椅間的轉位是基本日常生活活動之一（巴氏量表項目）。\n📚 出處：Katz S, et al. Studies of illness in the aged: the index of ADL；Lawton MP, Brody EM. IADL scale；Hazzard's Geriatric Medicine and Gerontology, 8th ed.。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "2.25",
     "1.12"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 網狀紅血球生成指數＝網狀紅血球百分比 ×（病人血比容 ÷ 45）÷ 成熟因子。血比容 23% 對應的成熟因子是 2.0，所以 9 × (23/45) ÷ 2 ＝ 2.3，最接近 2.25。指數小於 2 代表骨髓反應不足，大於 2～3 才算適當反應。\n❌ (A) 9.0 是未經任何校正的原始百分比。\n❌ (B) 4.5 是只做了血比容校正、忘了除以成熟因子。\n❌ (D) 1.12 是重複校正（多除了一次）的結果。\n📚 出處：Hoffman's Hematology: Basic Principles and Practice, 8th ed., Approach to Anemia；Harrison's Principles of Internal Medicine, 21st ed., Anemia。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "右上腹觸診在吸氣與吐氣時，皆出現壓痛且停止呼吸，可記錄為Murphy sign陽性",
     "執行Obturator sign檢查時，通常右側髖關節（hip）保持彎曲（flexion）；而施行Psoas sign時，膝關節則伸 直"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 閉孔肌測試是把髖與膝彎曲後做被動內旋（因此髖關節保持屈曲）；腰大肌測試則是讓病人側躺、膝伸直後被動後伸髖關節（或主動抬腿）——兩者的姿勢描述正確。\n❌ (A) 肚臍周圍瘀青是 Cullen 徵象；Grey Turner 徵象是「側腹」瘀青。\n❌ (B) 小腸阻塞「初期」腸音是高亢、金屬音且過度活躍；到晚期腸道疲乏後才變成腸音減弱。\n❌ (C) Murphy 徵象的定義是「吸氣時」壓痛加劇而突然停止吸氣；若吸氣吐氣都痛，就失去了它的特異性。\n📚 出處：Bates' Guide to Physical Examination and History Taking, 13th ed., The Abdomen；Sabiston Textbook of Surgery, 21st ed., Acute Abdomen。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "被激活之血小板會以其表面的glycoprotein IIb/IIIa receptor彼此直接連結，形成血小板團塊",
     "被激活之血小板釋出之thrombin會將fibrinogen轉換為fibrin，進而形成更多血栓"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：活化的血小板不是靠 GPIIb/IIIa 受體「彼此直接連結」，而是各自與「纖維蛋白原」結合，由纖維蛋白原當作橋梁把兩個血小板架起來——這也是 GPIIb/IIIa 抑制劑能阻斷凝集的原理。\n❌ (A) 這一句是對的：發炎細胞分泌的基質金屬蛋白酶分解纖維帽的膠原，使斑塊變得不穩定。\n❌ (B) 這一句是對的：血小板釋出的血栓素 A2 與血清素造成血管收縮並活化更多血小板。\n❌ (D) 這一句是對的：凝血酶把纖維蛋白原轉成纖維蛋白，強化血栓。\n📚 出處：Braunwald's Heart Disease, 12th ed., Acute Coronary Syndromes（pathophysiology）；Robbins and Cotran Pathologic Basis of Disease, 10th ed., Ch.4。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "非ST段上升心肌梗塞的心肌受損程度雖然比ST段上升心肌梗塞的少，但所有病人仍然應該在12小時內接受 冠脈介入治療",
     "對非ST段上升心肌梗塞病患的藥物治療中，應包括抗血小板藥物、抗凝血藥物、乙型交感神經阻斷劑（beta blocker）、及硝酸甘油等"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：非 ST 段上升心肌梗塞並不是全部都要在 12 小時內做介入；應依風險分層決定——極高風險（血行動力學不穩、頑固胸痛、致命性心律不整）在 2 小時內做，高風險 24 小時內，中風險 72 小時內，低風險可先做非侵入性評估。\n❌ (A) 這一句是對的：這正是其定義。\n❌ (B) 這一句是對的：高敏感度肌鈣蛋白特異性與敏感度都最好，上升也早。\n❌ (D) 這一句是對的：雙抗血小板、抗凝、乙型阻斷劑與硝酸鹽都是標準藥物治療。\n📚 出處：ESC《Guidelines for the Management of Acute Coronary Syndromes》(2023)；ACC/AHA《NSTE-ACS Guideline》。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "6",
     "7"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) CHA2DS2-VASc 計分：病人「稍微走路就會喘」屬於心衰竭症狀計 1 分、高血壓 1 分、年齡 ≥75 歲 2 分、糖尿病 1 分、女性 1 分，合計 6 分——分數愈高中風風險愈高，本例明確需要口服抗凝血劑。\n❌ (A) 4 分是把年齡只算 1 分又漏掉心衰竭那一項。\n❌ (B) 5 分是漏算了「走路會喘」代表的心衰竭 1 分——這是本題最容易失分的地方。\n❌ (D) 7 分則是多算了她並沒有的中風或血管疾病病史。\n📚 出處：Lip GYH, et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach. Chest 2010;137:263；ESC《Guidelines for the Management of Atrial Fibrillation》(2020)。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "有左心室肥厚（left ventricular hypertrophy）",
     "有房室傳導阻滯（atrioventricular block）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 心跳 48 次／分加上心電圖上 P 波與 QRS 的關係異常（PR 間期延長或 P 波與 QRS 各走各的），代表傳導阻滯；病人的疲倦、運動耐受不良與胸悶，正是心搏過慢造成心輸出量不足的表現，需評估是否植入心律調節器。\n❌ (A) 竇性心搏過緩每個 P 波後面都有 QRS 且 PR 間期固定正常，與圖不符。\n❌ (B) 圖上沒有 QTc 延長的證據，且 QTc 延長不會造成這些症狀。\n❌ (C) 左心室肥厚看的是電壓標準（如 Sokolow-Lyon），與心搏過慢無關。\n📚 出處：Braunwald's Heart Disease, 12th ed., Bradyarrhythmias and Atrioventricular Block；ACC/AHA/HRS《Guideline on the Evaluation and Management of Patients With Bradycardia》(2018)。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "站起（standing）",
     "抬腳（leg raising）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這是肥厚性阻塞型心肌病（年輕運動員運動時暈厥、家族猝死史、心室壁肥厚與心室內壓力梯度）。它的雜音來自左心室出口動態阻塞——凡是「減少前負荷」的動作（站起、Valsalva 用力期）都會讓心室變小、阻塞加重，雜音變大。\n❌ (A) 用力握手增加後負荷，使血液較難射出、心室變大，雜音變小。\n❌ (B) 蹲下同時增加前負荷與後負荷，心室變大，雜音變小。\n❌ (D) 抬腳增加靜脈回流（前負荷），心室變大，雜音變小。\n📚 出處：ACC/AHA《Guideline for the Management of Patients With Hypertrophic Cardiomyopathy》(2020)；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "常出現在心電圖紀錄有right bundle branch block的病人",
     "常出現在肺高壓合併右心衰竭的病人"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 矛盾分裂指的是第二心音在「呼氣」時分裂、吸氣時反而合併，成因是主動脈瓣關閉延後（A2 跑到 P2 後面）；嚴重主動脈瓣狹窄與左束支傳導阻滯都會造成。\n❌ (A) 第二心音的分裂與二尖瓣無關（二尖瓣關閉屬於第一心音）。\n❌ (C) 右束支傳導阻滯造成的是「寬分裂」（wide splitting），不是矛盾分裂。\n❌ (D) 肺高壓合併右心衰竭時 P2 增強甚至提前，同樣不是矛盾分裂。\n📚 出處：Braunwald's Heart Disease, 12th ed., Physical Examination of the Cardiovascular System（second heart sound splitting）；Bates' Guide to Physical Examination, 13th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "當pulse oximetry在手指比腳趾有大於2%的氧飽合（oxygen saturation）差異時，可用以偵測本病之存在",
     "血管雜音（vascular bruit）音量的大小和狹窄程度無關"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句錯了：血管雜音代表血流在狹窄處變成「湍流」，是狹窄的徵象，不代表有分流；動靜脈瘻管確實會有雜音，但那是另一種情境。\n❌ (A) 這一句是對的：皮膚變涼、間歇性跛行與脈搏減弱都代表血流不足的程度較嚴重。\n❌ (C) 這一句是對的：手指與腳趾的血氧飽和度差異超過 2% 可用來偵測下肢動脈阻塞。\n❌ (D) 這一句是對的：雜音的響度與狹窄程度沒有可靠的相關性——極嚴重的狹窄血流量太少，雜音反而可能消失。\n📚 出處：ACC/AHA《Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease》(2016)；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "發現有連續性的心雜音，應考慮的鑑別診斷包括：sinus of Valsalva破裂以及心房中膈缺損",
     "僧帽瓣狹窄的心雜音，主要是舒張期的中段到末段雜音，病患左側躺時，在心尖部位會聽到低頻的心音"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 二尖瓣狹窄的雜音是舒張中晚期的低頻隆隆聲（併前收縮期加強），最好在病人「左側躺」時用鐘面（bell）在心尖聽診——這是床邊聽診的經典技巧。\n❌ (A) 主動脈瓣狹窄是收縮「中期」的漸強漸弱噴射性雜音（crescendo-decrescendo），不是早期收縮期。\n❌ (B) 講反了：肥厚型心肌病由蹲下改站立時前負荷減少、阻塞加重，雜音變「大」。\n❌ (C) 連續性雜音的鑑別包括開放性動脈導管、Valsalva 竇動脈瘤破裂與動靜脈瘻管；心房中膈缺損造成的是收縮期雜音加上固定分裂的第二心音。\n📚 出處：Braunwald's Heart Disease, 12th ed., Physical Examination；ACC/AHA《Valvular Heart Disease Guideline》(2020)。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "RAAS抑制劑：包括angiotensin converting enzyme inhibitor以及angiotensin II receptor antagonist類的藥物",
     "降心跳藥物：包括乙型阻斷劑以及ivabradine"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 非二氫吡啶類鈣離子阻斷劑（verapamil、diltiazem）具有負性肌力作用，會進一步降低已受損的心室收縮力，在射出分量降低型心衰竭是「應避免使用」的藥物。\n❌ (A) 利尿劑緩解鬱血症狀，礦皮質素受體拮抗劑更能降低死亡率。\n❌ (C) ACE 抑制劑與 ARB（現以 ARNI 為優先）是基石用藥。\n❌ (D) 有實證的乙型阻斷劑可降低死亡率；ivabradine 用於竇性心律且心跳仍偏快者。\n📚 出處：ACC/AHA/HFSA《Guideline for the Management of Heart Failure》(2022)；ESC《Heart Failure Guidelines》(2021)。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "懷孕期間，肝臟常見功能的變化包括血清 alkaline phosphatase，AST及ALT上升",
     "懷孕會增加肝臟腺瘤（adenoma）破裂出血的機會"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：正常懷孕時因為胎盤製造鹼性磷酸酶，血清鹼性磷酸酶會明顯上升（可達 2～4 倍），但「AST 與 ALT 應維持正常」——轉胺酶上升一定是病理性的，必須進一步檢查。\n❌ (A) 這一句是對的：妊娠急性脂肪肝好發於第三孕期，病理是微囊泡型脂肪堆積。\n❌ (B) 這一句是對的：HELLP 症候群的根本治療就是終止妊娠。\n❌ (D) 這一句是對的：懷孕的荷爾蒙與血流變化增加肝腺瘤生長與破裂出血的風險。\n📚 出處：Williams Obstetrics, 26th ed., Ch.55 Hepatic Disorders；AASLD《Reproductive Health and Liver Disease Guidance》。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "針對末期PBC患者，除了換肝手術外，UDCA（ursodeoxycholic acid）並無法有效改善PBC的存活率",
     "PBC的患者，女性占大多數"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句錯了：膽管癌的高風險族群是「原發性硬化性膽管炎」（終身風險約 10～15%）；原發性膽汁性膽管炎增加的是肝細胞癌的風險（在肝硬化期），不是膽管癌。\n❌ (A) 這一句是對的：約七至八成的原發性硬化性膽管炎合併發炎性腸道疾病，以潰瘍性結腸炎為主。\n❌ (C) 這一句是對的：末期病人只能靠肝臟移植；熊去氧膽酸在早期可延緩進展，末期則無法改善存活。\n❌ (D) 這一句是對的：原發性膽汁性膽管炎九成以上是女性，好發於中年。\n📚 出處：EASL《Clinical Practice Guidelines: The Diagnosis and Management of Patients with Primary Biliary Cholangitis》；AASLD《Primary Sclerosing Cholangitis Guidance》。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "糖尿病患發生Klebsiella pneumoniae肝膿瘍時，可能併發endophthalmitis",
     "目前之標準處理方式為膿瘍引流（drainage）加上抗生素注射治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這一句錯了：台灣（與整個東亞）原發性（隱源性）肝膿瘍最常見的病原是「克雷伯氏肺炎桿菌」（高黏液型 K1／K2 血清型），不是大腸桿菌——這是本地流行病學與西方教科書最大的差異之一。\n❌ (A) 這一句是對的：血行性播散的肝膿瘍多為單一菌種，以葡萄球菌與鏈球菌常見。\n❌ (C) 這一句是對的：糖尿病人的克雷伯氏菌肝膿瘍可併發轉移性感染，內眼炎與腦膿瘍最為典型。\n❌ (D) 這一句是對的：引流加上抗生素是標準處置。\n📚 出處：Mandell, Douglas, and Bennett's, 9th ed., Liver Abscess；Fang CT, et al. Klebsiella pneumoniae liver abscess and endophthalmitis syndrome. J Exp Med 2004。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-109-2-med3'] = {
     "個案3屬於過往的B型肝炎感染，目前不可能偵測到病毒存在",
     "個案4可以是B型肝炎疫苗注射後或是假陽性"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 這一句錯了：表面抗原陰性、核心抗體與表面抗體陽性代表過去感染已恢復，但「潛伏感染（occult HBV infection）」仍然存在——肝細胞核內的 cccDNA 不會消失，在免疫抑制（如化療、使用 rituximab）時可能再活化，因此不能說「不可能偵測到病毒」。\n❌ (A) 這一句是對的：表面抗原陽性、e 抗原陰性、e 抗體陽性，可以是 e 抗原陰性慢性肝炎或急性感染後期。\n❌ (B) 這一句是對的：只要表面抗原持續陽性超過六個月就是慢性帶原。\n❌ (D) 這一句是對的：單獨表面抗體陽性可以是疫苗接種後的免疫，也可能是低效價的偽陽性。\n📚 出處：AASLD《Hepatitis B Guidance》(2018)；Mandell, Douglas, and Bennett's, 9th ed., Hepatitis B Virus（occult HBV infection）。"
   },
   {
    "n": 19,
