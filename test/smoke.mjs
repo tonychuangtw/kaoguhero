@@ -148,6 +148,49 @@ for (const [h, kw] of [['#/guide', '準備方式'], ['#/stories', '考取心得'
 await hash('#/no-such-page');
 ok((await ev('document.getElementById("main").textContent')).includes('找不到'), '未知網址顯示找不到頁面');
 
+// --- 顯示設定：字級／配色／語言 ---
+await hash('#/');
+ok(await ev('!!document.getElementById("gear")'), '頁首有顯示設定按鈕');
+await ev(`document.getElementById('gear').click()`); await sleep(200);
+ok(await ev(`document.getElementById('prefs').classList.contains('open')`), '設定面板可展開');
+ok(await ev(`document.querySelectorAll('#prefs .chips').length === 3`), '面板有字級／配色／語言三組');
+
+// 字級
+const base = await ev(`parseFloat(getComputedStyle(document.body).fontSize)`);
+await ev(`[...document.querySelectorAll('#prefs .chips')][0].lastChild.click()`); await sleep(200);
+const big = await ev(`parseFloat(getComputedStyle(document.body).fontSize)`);
+ok(big > base + 1, `字級可放大（${base}px → ${big}px）`);
+ok(await ev(`document.documentElement.getAttribute('data-fs') === 'xl'`), '字級設定寫進 data-fs');
+
+// 配色
+await ev(`[...document.querySelectorAll('#prefs .chips')][1].children[2].click()`); await sleep(200);
+ok(await ev(`document.documentElement.getAttribute('data-theme') === 'dark'`), '可切換到深色');
+const darkBg = await ev(`getComputedStyle(document.body).backgroundColor`);
+await ev(`[...document.querySelectorAll('#prefs .chips')][1].children[3].click()`); await sleep(200);
+ok(await ev(`getComputedStyle(document.body).backgroundColor !== '${darkBg}'`), '護眼米配色與深色不同');
+
+// 語言
+await ev(`[...document.querySelectorAll('#prefs .chips')][2].lastChild.click()`); await sleep(300);
+ok(await ev(`document.documentElement.lang === 'en'`), '切英文後 html lang=en');
+ok((await ev(`document.getElementById('nav').textContent`)).includes('Question banks'), '導覽列變成英文');
+ok((await ev(`document.getElementById('main').textContent`)).includes('free until you nail them'), '首頁文案變成英文');
+ok((await ev(`document.querySelector('.ft').textContent`)).includes('About Kaoguhero'), '頁尾也變成英文');
+// 題目內容不翻譯
+await hash('#/paper/doc-115-2-med1');
+for (let i = 0; i < 60 && !(await ev('!!document.querySelector("#main .opt")')); i++) await sleep(100);
+ok(/[\u4e00-\u9fff]/.test(await ev(`document.querySelector('#main .stem').textContent`)), '英文模式下題幹仍是中文原文');
+ok((await ev(`document.getElementById('main').textContent`)).includes('Q 1 /'), '英文模式的題號是英文格式');
+// 設定會存起來
+ok(await ev(`JSON.parse(localStorage.getItem('kaoguhero.prefs')).lang === 'en'`), '設定寫入 localStorage');
+await go('');
+ok(await ev(`document.documentElement.lang === 'en' && document.documentElement.getAttribute('data-fs') === 'xl'`),
+   '重新載入後設定保留');
+// 切回中文，免得影響後續
+await ev(`document.getElementById('gear').click()`); await sleep(150);
+await ev(`[...document.querySelectorAll('#prefs .chips')][2].firstChild.click()`); await sleep(250);
+ok((await ev(`document.getElementById('nav').textContent`)).includes('考試題庫'), '可以切回中文');
+
+
 ok(logs.length === 0, 'console 沒有錯誤' + (logs.length ? '：' + logs.slice(0, 2).join(' | ') : ''));
 ws.close(); chrome.kill(); srv.kill();
 console.log(fails.length ? `\n✗ ${fails.length} 項失敗` : '\n全部通過');
