@@ -2494,7 +2494,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（二）商法組",
   "label": "112 年　綜合法學（二）商法組",
   "n": 70,
-  "exp": 0,
+  "exp": 51,
   "mins": 180
  },
  {
