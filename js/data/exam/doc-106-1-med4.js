@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "enterovirus",
     "Streptococcus pneumoniae"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 兩個月大嬰兒陣發性劇咳到發紺、咳了三週卻不發燒，白血球明顯升高且以「淋巴球為主」（70%）——這是百日咳的典型表現，百日咳桿菌的百日咳毒素會造成淋巴球增多症。\n❌ (A) 腺病毒感染多有高燒、咽炎與結膜炎，白血球分類不會呈淋巴球獨大。\n❌ (C) 腸病毒常見發燒與皮疹、口腔潰瘍，不會持續咳三週。\n❌ (D) 肺炎鏈球菌是細菌性肺炎，會有高燒且以嗜中性球為主。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Pertussis (Bordetella pertussis)。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "通常不會發燒",
     "可以用紅黴素（erythromycin）治療"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：新生兒披衣菌肺炎的聽診特徵是「囉音（rales）」，典型表現為斷續性的頓咳（staccato cough）而「不會有喘鳴音」——這一點常用來與呼吸道融合病毒細支氣管炎鑑別。\n❌ (A) 正確：約七成病嬰有嗜伊紅性白血球增多，是重要線索。\n❌ (C) 正確：此病典型「不發燒」，病程亞急性。\n❌ (D) 正確：治療首選口服紅黴素 14 天（或 azithromycin）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Chlamydia trachomatis（Infant pneumonia）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "水痘疫苗",
     "口服輪狀病毒疫苗"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 靜脈注射免疫球蛋白後，血中的被動抗體會使「活性減毒疫苗」失效，麻疹腮腺炎德國麻疹與水痘疫苗必須延後 11 個月；肺炎鏈球菌疫苗是不活化的結合型疫苗，不受影響，可以立即接種。\n❌ (A) 麻疹腮腺炎德國麻疹是活性減毒疫苗，必須延後。\n❌ (C) 水痘疫苗同樣是活性減毒疫苗，必須延後。\n❌ (D) 口服輪狀病毒疫苗除了是活性疫苗外，接種年齡上限為 8 個月，15 個月已不可接種。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Immunization Practices；ACIP General Best Practice Guidelines（antibody-containing products interval）。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "出生後2個月脖子仍無法穩定的撐起頭",
     "出生後13個月仍無法在輔助下以下肢支撐身體站立起來"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 早產兒要用「矯正年齡」評估（28 週出生約需扣掉 3 個月），13 個月矯正後約 10 個月，此時扶著站立早該做到——仍無法在輔助下以下肢支撐，屬明確的粗動作發展遲緩警訊，應轉介聯合評估中心。\n❌ (A) 矯正後才不到 1 個月，社會性微笑通常在矯正 2 個月才出現。\n❌ (B) 矯正後約 2 個月，翻身本來就要 4–6 個月才會。\n❌ (C) 矯正後不到 1 個月，頭部控制要 3–4 個月才穩定。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Developmental Surveillance and Screening；Ch. The Newborn Infant（corrected age）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "性染色體異常",
     "生產傷害"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 新生兒期嚴重肌張力低下、吸吮無力餵食困難、色素偏淡、隱睪、手腳小——這是普瑞德威利症候群，八成源自父源第 15 號染色體 q11-q13 的「微缺失」（其餘為母源單親二體）。\n❌ (B) 平衡性易位不會造成此固定的臨床表徵組合。\n❌ (C) 性染色體異常（如 Klinefelter）在新生兒期通常沒有明顯症狀。\n❌ (D) 生產傷害造成的張力低下多合併特定神經學缺損，不會有隱睪與色素偏淡。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Prader-Willi Syndrome（15q11.2-q13 deletion）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "出生1分鐘時嬰兒的Apgar score比5分鐘的Apgar score更與預後有關",
     "母親使用硫酸鎂不會影響嬰兒Apgar score"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 阿普伽評分的五個項目是心跳、「呼吸」、肌肉張力、反射刺激反應與膚色，每項 0–2 分——呼吸的確是核心指標之一。\n❌ (A) 分數愈低代表狀況愈差，7 分以上才算正常。\n❌ (C) 與神經預後較相關的是「5 分鐘（乃至 10、15 分鐘）」的分數；1 分鐘分數只反映當下是否需要急救。\n❌ (D) 母親使用硫酸鎂會使新生兒張力低下、呼吸抑制，確實會壓低分數。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Delivery Room Emergencies（Apgar score）。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "生長遲滯（growth retardation）",
     "尿道口疼痛（pain of urethral orifice）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 尿道口疼痛屬局部刺激（如外傷、皮膚炎、外陰炎或異物），指向的是尿道口本身而非腎臟疾病。\n❌ (A) 長期泡泡尿代表蛋白尿，是腎絲球疾病的重要線索。\n❌ (B) 多尿可能來自腎小管濃縮功能障礙（腎因性尿崩症、腎小管疾病）。\n❌ (C) 慢性腎病是兒童生長遲滯的重要病因（酸中毒、營養不良與生長激素阻抗）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Clinical Evaluation of the Child with Renal Disease。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "coronal suture",
     "metopic suture"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 矢狀縫過早癒合，頭骨無法左右變寬只能前後生長，形成前後徑長、左右徑窄的「舟形頭」——這是最常見的單一顱縫早閉型態。\n❌ (B) 人字縫早閉造成後方扁平的斜頭。\n❌ (C) 冠狀縫雙側早閉造成短頭（brachycephaly），單側則為前斜頭。\n❌ (D) 額縫早閉造成三角頭（trigonocephaly），前額呈龍骨狀突起。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Congenital Anomalies of the Skull（Craniosynostosis）。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "升糖素刺激試驗（glucagon stimulation test）",
     "葡萄糖耐受性試驗（glucose tolerance test）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 葡萄糖耐受試驗是診斷糖尿病用的，與生長激素缺乏無關；生長激素的動態試驗反而是用「胰島素引起的低血糖」來刺激分泌（口服葡萄糖負荷則用於診斷肢端肥大症的抑制試驗）。\n❌ (A) 第 1 型似胰島素生長因子是生長激素作用的媒介，濃度低是重要篩檢指標。\n❌ (B) 第 3 型結合蛋白同樣反映生長激素狀態，且在幼兒較不受營養影響。\n❌ (C) 升糖素刺激試驗是常用且安全的生長激素激發試驗，特別適用於幼童。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Hypopituitarism（Diagnosis of GH deficiency）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "吸入型類固醇（inhaled corticosteroid）",
     "吸入型類固醇倂用口服白三烯素受體結抗劑（inhaled corticosteroid + oral leukotriene receptor antagonist）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 白天症狀每週少於一次、夜間醒來每月少於兩次、肺功能正常——屬「間歇型氣喘」，只需在需要時使用吸入型短效乙二型促效劑緩解即可，不必長期控制用藥。\n❌ (B) 長效支氣管擴張劑不可單獨使用（會增加氣喘死亡風險），且此程度也用不到。\n❌ (C) 吸入型類固醇是「持續型」氣喘的第一線控制藥，本例尚未達到。\n❌ (D) 合併治療用於中重度持續型氣喘，對本例屬過度治療。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Childhood Asthma；GINA Report（severity classification）。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "沙門氏菌（Salmonella species）",
     "黴漿菌（Mycoplasma pneumoniae）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 不論任何年齡層，兒童化膿性關節炎最常見的病原都是金黃色葡萄球菌（新生兒另需涵蓋 B 族鏈球菌與革蘭氏陰性菌）——治療須及早引流並給予抗葡萄球菌抗生素。\n❌ (B) 大腸桿菌主要見於新生兒或免疫缺損者，比例低。\n❌ (C) 沙門氏菌關節炎特別見於鐮刀型貧血病人，在臺灣少見。\n❌ (D) 黴漿菌造成的是肺炎，關節炎極罕見。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Septic Arthritis。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "amegakaryocytic thrombocytopenia",
     "Fanconi anemia"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 新生兒同種免疫性血小板低下紫斑症是「後天」的免疫問題——母親對胎兒由父親遺傳來的血小板抗原產生抗體，經胎盤破壞胎兒血小板，並非先天基因缺陷造成的血小板生成異常。\n❌ (A) 威斯科特-奧德里奇症候群是 X 染色體遺傳，有小血小板、濕疹與免疫缺陷三聯症。\n❌ (C) 先天性無巨核細胞性血小板低下症是 MPL 基因突變造成。\n❌ (D) 范康尼貧血是 DNA 修復缺陷，常以血小板低下為最早表現。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Platelet and Blood Vessel Disorders。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "肺動脈吊帶（pulmonary sling）",
     "持續第五動脈弓（persistent fifth arch）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 肺動脈吊帶是左肺動脈異常起源於右肺動脈，繞行於「氣管與食道之間」——因此壓迫氣管造成喘鳴，食道攝影可見食道「前壁」有壓迫凹痕，這個位置是它獨有的診斷特徵。\n❌ (A) 雙主動脈弓形成完整血管環，食道攝影會在食道「後方」兩側都有壓痕。\n❌ (B) 右主動脈弓合併左開放性動脈導管也是血管環，壓痕同樣在食道後方。\n❌ (D) 持續第五動脈弓極罕見，且不會造成此典型的食道前壁壓迫。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Vascular Rings（Pulmonary artery sling）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "Pierre-Robin sequence合併 micrognathia",
     "Prader-Willi syndrome併發肥胖（obesity）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不可能：「尚未修補」的腭裂反而使鼻咽腔相通、氣道空間變大，不會造成阻塞；臨床上是腭裂「修補術後」（尤其咽瓣手術）才可能出現阻塞性睡眠呼吸中止。\n❌ (A) 軟骨發育不全的顏面中段發育不良使鼻咽腔狹窄，加上枕骨大孔狹窄，是高風險族群。\n❌ (C) 皮耶羅賓序列的小下顎使舌根後墜，是新生兒上呼吸道阻塞的典型原因。\n❌ (D) 普瑞德威利症候群同時有肥胖、肌張力低下與中樞化學受器異常，阻塞與中樞型呼吸中止都常見。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Obstructive Sleep Apnea Syndrome in Children。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "腸病毒71型較易引起重症",
     "腸病毒的傳染途徑，主要經由糞口傳染或藉由呼吸道分泌物傳播"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：手足口症由腸病毒引起，acyclovir 是抗皰疹病毒藥物，對腸病毒完全無效——治療以支持療法為主（止痛退燒、維持水分），重症則考慮免疫球蛋白。\n❌ (A) 正確：軟顎水疱加上手掌、腳掌與臀部的紅疹，是手足口症的典型分布。\n❌ (C) 正確：腸病毒 71 型最容易引起腦幹腦炎與心肺衰竭等重症。\n❌ (D) 正確：腸病毒經糞口與呼吸道飛沫傳染，故洗手與環境清潔是防治重點。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nonpolio Enteroviruses；衛福部疾管署腸病毒防治指引。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "congenital human herpes simplex virus infection",
     "congenital cytomegalovirus infection"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 子宮內生長遲滯加上「腦室周圍鈣化」、腦室擴大與感覺神經性聽力障礙——這是先天性巨細胞病毒感染的典型三合一，也是非遺傳性先天聽損最常見的原因。\n❌ (A) 微小病毒 B19 感染造成胎兒貧血與水腫，不會有腦部鈣化。\n❌ (B) 先天性德國麻疹症候群以白內障、心臟缺損（開放性動脈導管、肺動脈狹窄）與聽損為三聯症；若有鈣化多在基底核。\n❌ (C) 先天性單純皰疹病毒感染多在生產時感染，表現為皮膚水疱、腦炎與播散性疾病，不以鈣化為特徵。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Cytomegalovirus（Congenital CMV infection）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "食道閉鎖氣管食道廔管（esophageal atresia with tracheoesophageal fistula）",
     "後鼻孔閉鎖 （choanal atresia）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腹腔臟器在胎兒期就疝入胸腔，長期壓迫使肺無法正常發育——肺發育不全與續發的持續性肺高壓才是決定存活的關鍵，不是橫膈的缺損本身。\n❌ (B) 雖可合併心臟畸形，但不是最主要的致命問題。\n❌ (C) 食道閉鎖合併氣管食道廔管是另一個獨立的先天畸形。\n❌ (D) 後鼻孔閉鎖屬 CHARGE 聯合畸形的一部分，與橫膈疝氣無直接關聯。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Diaphragmatic Hernia。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "出生後6週內接受手術",
     "血型為O型"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 肝門空腸吻合術（葛西手術）能否成功引流膽汁，取決於肝門部殘存膽管的口徑——顯微鏡下膽小管直徑小於 100 µm 者膽汁引流不良，術後預後較差，多需肝臟移植。\n❌ (A) 術後大便轉為深黃色代表膽汁引流成功，是預後「好」的指標。\n❌ (C) 出生後 60 天內（尤其 6 週內）手術，成功率最高。\n❌ (D) 血型與膽道閉鎖的預後無關。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Biliary Atresia（Kasai portoenterostomy, prognostic factors）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "硬化性膽管炎（sclerosing cholangitis）",
     "脾臟動靜脈瘻管（splenic arteriovenous fistula）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 硬化性膽管炎屬「肝內型」門脈高壓——它會持續破壞肝實質造成膽汁鬱積性肝硬化與肝衰竭，最終多需肝臟移植，預後在四者中最差。\n❌ (A) 肝外門靜脈栓塞屬肝前型，肝功能本身正常，處理靜脈曲張出血後長期預後良好。\n❌ (B) 臍靜脈導管是造成門靜脈栓塞的常見原因，同屬肝前型，肝功能保留。\n❌ (D) 脾動靜脈瘻管造成的是血流量增加型門脈高壓，栓塞或手術後可矯正。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Portal Hypertension and Varices。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med4'] = {
     "食道壓力檢測（manometry）可協助診斷",
     "以內視鏡注射肉毒桿菌毒素（botulinum toxin）可完全治癒"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：內視鏡注射肉毒桿菌毒素只能暫時鬆弛下食道括約肌，效果約維持 6–12 個月就會復發，屬「症狀緩解」而非治癒；根治性治療是氣球擴張、經口內視鏡肌肉切開或海勒氏肌肉切開術。\n❌ (A) 正確：食道蠕動消失加上下食道括約肌無法鬆弛、靜止壓上升，正是本病的定義。\n❌ (B) 正確：吞嚥困難、逆流嘔吐、體重下降、胸痛與吸入性咳嗽都是常見表現。\n❌ (C) 正確：食道壓力檢測是診斷的黃金標準。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Motility Disorders（Achalasia）；Harrison's, 21st ed., Ch. Diseases of the Esophagus。"
   },
   {
    "n": 21,
