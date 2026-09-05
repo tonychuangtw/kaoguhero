@@ -46,3 +46,24 @@ js/data/exam/<id>.js    各卷題目（自動產生）
 img/q/                  選項是圖片的題目，從官方 PDF 裁下來的原圖
 js/app.js               前端全部邏輯
 ```
+
+## 匯出成 Anki 牌組 / 列印講義
+
+```bash
+# 1. 先把要出的卷匯成 JSON（可用卷號前綴）
+node tools/export-json.js /tmp/out.json doc-115 doc-114
+
+# 2a. Anki 牌組（.apkg）—— 需要 genanki
+python3 -m venv /tmp/ankienv && /tmp/ankienv/bin/pip install genanki
+/tmp/ankienv/bin/python tools/build-anki.py /tmp/out.json out.apkg \
+    --deck "考古英雄 醫師一階" --owner "買家 Email"
+
+# 2b. 列印講義（先產 HTML，再用 headless Chrome 印成 PDF）
+python3 tools/build-pdf.py /tmp/out.json /tmp/out.html \
+    --title "115 年 醫師國考第一階段 完整詳解" --owner "買家 Email"
+~/.cache/ms-playwright/chromium_headless_shell-*/chrome-headless-shell-linux64/chrome-headless-shell \
+    --headless --disable-gpu --no-sandbox --no-pdf-header-footer \
+    --print-to-pdf=out.pdf "file:///tmp/out.html"
+```
+
+`--owner` 會印在每張卡的頁尾與 PDF 每一頁下方（明碼浮水印）；`--limit N` 每卷只取前 N 題，用來做試看樣本。
