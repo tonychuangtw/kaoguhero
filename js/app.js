@@ -7,7 +7,7 @@
   var SUBJ = window.APP_SUBJECTS || {};
   var EXAMS = window.APP_EXAMS || [];
   var PAPERS = window.APP_EXAM_PAPERS = window.APP_EXAM_PAPERS || {};
-  var VER = '20260909q';
+  var VER = '20260909r';
   var KEY = 'kaoguhero.v1';
   var LAB = ['A', 'B', 'C', 'D'];
   var T = (window.KH && window.KH.T) || function (s) { return s; };
