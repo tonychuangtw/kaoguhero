@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "應該是血管瘤，不需要做特別處理，解釋病情並建議1歲大時追蹤即可",
     "可能為惡性腫瘤，應儘速安排電腦斷層檢查"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 卡介苗接種在「左上臂」，同側腋下淋巴結在接種後數週到數月腫大化膿，卻不發燒、對一般抗生素無效——這是卡介苗接種後淋巴腺炎（BCG lymphadenitis），處置是細針抽吸引流並送抗酸性染色與分枝桿菌培養確認。\n❌ (A) 一般抗生素對分枝桿菌無效，加量沒有意義。\n❌ (C) 血管瘤不會化膿紅腫，也不會在數週內快速惡化。\n❌ (D) 惡性腫瘤不會有這種與接種部位對應的位置關係，且不會化膿。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Tuberculosis（BCG complications）；衛福部疾管署卡介苗異常反應處置。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "天花（smallpox）",
     "麻疹（measles）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 幼兒發燒、口腔黏膜小水疱（潰瘍），加上手、腳、膝與臀部的水疱疹——這是腸病毒引起的手足口症；臀部與膝部的皮疹在臺灣的個案中相當常見。\n❌ (A) 水痘的皮疹從軀幹開始向外擴散，且各階段病灶（丘疹、水疱、結痂）同時並存，會癢。\n❌ (C) 天花已於 1980 年宣告根除。\n❌ (D) 麻疹是斑丘疹（不是水疱），並伴咳嗽、鼻炎、結膜炎與柯氏斑。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nonpolio Enteroviruses。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "腦膜炎雙球菌感染",
     "多形性紅斑"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 幼兒急性發燒、嘔吐嗜睡，加上「出血點與紫斑」及左移的白血球增多、血小板下降、發炎指數極高——這是腦膜炎雙球菌敗血症（暴發性腦膜炎球菌血症），須立即抗生素，延誤數小時就可能死亡。\n❌ (A) 亨諾-許蘭紫斑症不會有高燒與意識改變，血小板也正常。\n❌ (B) 免疫性血小板低下紫斑症的病童看起來精神良好，不會發燒嗜睡，白血球也正常。\n❌ (D) 多形性紅斑是靶心狀病灶，不是出血點與紫斑。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Neisseria meningitidis。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "治療首選藥物為紅黴素",
     "會呈現草莓舌、皮膚通紅"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：猩紅熱（A 族鏈球菌）的首選治療是「青黴素或 amoxicillin」——紅黴素只保留給青黴素過敏者，而且臺灣的紅黴素抗藥率不低。\n❌ (A) 正確：皮疹由致熱性外毒素（紅疹毒素）引起。\n❌ (B) 正確：病程後期手指與腳趾出現脫皮，是 A 族鏈球菌感染的特徵。\n❌ (D) 正確：草莓舌與砂紙樣的全身潮紅皮疹是典型表現。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Group A Streptococcus（Scarlet fever）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "泌尿道感染",
     "擴張性心肌病變"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 大量蛋白尿、低白蛋白血症（1.6）、水腫加上高血脂——這四項就是腎病症候群的完整定義（高血脂源自肝臟代償性增加脂蛋白合成）。\n❌ (B) 急性腎炎以血尿、高血壓與腎功能下降為主，蛋白尿多未達腎病程度。\n❌ (C) 泌尿道感染會有膿尿與症狀，但不會造成低白蛋白血症與高血脂。\n❌ (D) 擴張性心肌病變的水腫會伴隨心臟擴大與呼吸困難，且不會有大量蛋白尿。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nephrotic Syndrome。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "出生24小時內",
     "出生2～5天內"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 足月新生兒的生理性黃疸在出生後 2–5 天（多為第 3–5 天）達到高峰，數值一般不超過 12–15 mg/dL，之後逐漸下降。\n❌ (A) 出生 6 小時內出現黃疸屬病理性（要想溶血）。\n❌ (B) 12 小時內同樣屬病理性。\n❌ (C) 「24 小時內出現的黃疸」是病理性黃疸的定義，必須立即檢查。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Jaundice and Hyperbilirubinemia in the Newborn。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "體溫37.5℃",
     "前囟門平坦"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 不正常：清醒足月新生兒的正常心跳是每分鐘 100–160 下——72 下已是明顯的心搏過緩，要想先天性心臟傳導阻滯、缺氧或顱內壓升高。\n❌ (B) 正常：新生兒呼吸每分鐘 40–60 次。\n❌ (C) 正常：體溫 36.5–37.5℃ 都在範圍內。\n❌ (D) 正常：前囟門平坦柔軟是正常表現（凸起代表顱內壓升高）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. The Newborn Infant（Vital signs）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "緩慢速率地注入",
     "以aerosol的方式給予"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 出生時肺內還留有胎兒肺液，此時給予表面張力素，藥劑可隨著液體均勻擴散到各個肺泡——這正是「預防性／早期給藥」效果優於延後給藥的原理。\n❌ (A) 使用呼吸器一段時間後，肺液已被吸收、肺泡已部分塌陷，分布反而不均。\n❌ (C) 應快速大量灌注（bolus）才能靠液體推力散開；緩慢注入會集中在單側或下垂部位。\n❌ (D) 霧化給藥時大部分藥劑沉積在氣道近端，到達肺泡的量太少。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Respiratory Distress Syndrome（Surfactant administration）。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "嗜伊紅性腦膜炎",
     "真菌性腦膜炎"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腦脊髓液白血球高達 5000、蛋白質 300 mg/dL、葡萄糖低到 20 mg/dL——這三項合起來（極高白血球、極高蛋白、極低糖）是細菌性腦膜炎的典型變化，必須立即靜脈抗生素。\n❌ (B) 病毒性腦膜炎的白血球通常在數十到數百、以淋巴球為主，蛋白質輕度上升而「葡萄糖正常」。\n❌ (C) 嗜伊紅性腦膜炎（廣東住血線蟲）以嗜伊紅性白血球為主，且有生食螺類等病史。\n❌ (D) 真菌性腦膜炎病程較慢，白血球數也不會這麼高。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Acute Bacterial Meningitis（CSF findings）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "嘔吐",
     "血便"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 最少出現：壞死性腸炎的腸道是「發炎、腫脹、蠕動停滯」，臨床表現是腹脹、殘餘奶量增加、嘔吐與血便，「便祕」不是它的表現。\n❌ (B) 常見：腹脹是最早也最常見的徵象。\n❌ (C) 常見：含膽汁的嘔吐或胃殘餘量增加。\n❌ (D) 常見：血便反映腸黏膜壞死出血。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Necrotizing Enterocolitis。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "5歲以上找不到合理解釋的肝功能異常病人，Wilson disease應被列為鑑別診斷之一",
     "應會診眼科，看cornea 是否有Kayser-Fleischer (K-F) ring"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯誤：威爾遜氏症是「體染色體隱性」遺傳（ATP7B 基因），不是性聯隱性。\n❌ (B) 正確：早期血清銅與銅藍蛋白可能仍在正常範圍，因此不能只靠這兩項排除診斷（需加驗 24 小時尿銅或肝銅含量）。\n❌ (C) 正確：3–5 歲以上原因不明的肝功能異常，都應把威爾遜氏症列入鑑別（這是可治療的疾病，漏掉會致命）。\n❌ (D) 正確：裂隙燈檢查凱斯-佛來斯環是重要的診斷佐證。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Wilson Disease。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "glucoamylase",
     "maltase"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 腸炎後腸絨毛受損，刷狀緣的雙醣酶都會減少；已經換成無乳糖配方卻仍持續酸性水便，代表配方中的「蔗糖與麥芽糊精」也消化不了——最可能是蔗糖酶-異麥芽糖酶缺乏（它同時負責蔗糖與大部分澱粉分解產物）。\n❌ (A) 海藻糖酶只分解蕈類中的海藻糖，缺乏極罕見且與嬰兒配方無關。\n❌ (C) 葡萄糖澱粉酶的活性下降通常伴隨蔗糖酶-異麥芽糖酶一起出現，不會單獨造成此表現。\n❌ (D) 麥芽糖酶的活性由多種酵素重疊提供，單獨缺乏罕見。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Disorders of Malabsorption（Disaccharidase deficiencies）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "迴腸-迴腸型（ileoileal）腸套疊最常發生",
     "鋇劑灌腸復位（barium enema reduction）後的復發率小於1%"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 陣發性劇烈腹痛（哭鬧、雙腿蜷起，間隔數分鐘後又恢復平靜）是腸套疊最典型也最早出現的症狀。\n❌ (A) 男女比約 3:2，是「男」多於女。\n❌ (C) 最常見的是迴腸套入結腸（迴結腸型），迴腸-迴腸型少見。\n❌ (D) 灌腸復位後的復發率約 10%（多在 72 小時內），遠高於 1%。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Intussusception。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "腎絲球基底膜薄膜病（thin glomerular basement membrane disease）",
     "IgA腎炎（IgA nephropathy）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 腎病症候群「對八週類固醇治療完全無反應（類固醇抗性）」且兩個月內肌酸酐明顯上升——這是局部節段性腎絲球硬化的典型病程，也是兒童類固醇抗性腎病症候群最常見的病理型態。\n❌ (A) 微小變化疾病對類固醇反應極佳（九成以上四週內緩解）。\n❌ (C) 薄基底膜疾病只表現持續性顯微血尿，不會有大量蛋白尿與腎功能惡化。\n❌ (D) IgA 腎病變以感染同時出現的肉眼血尿為主，蛋白尿多不到腎病程度。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nephrotic Syndrome（Steroid-resistant nephrotic syndrome）。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "polio-like syndrome",
     "hypokalemia"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 最不可能：貝爾氏麻痺是「單側顏面神經」麻痺，只影響臉部表情肌，完全不會造成肢體的無力麻痺。\n❌ (B) 可能：急性橫貫性脊髓炎造成病灶以下的急性弛緩性麻痺。\n❌ (C) 可能：腸病毒 71 型等造成的類小兒麻痺症候群，是臺灣兒童急性弛緩性麻痺的重要原因。\n❌ (D) 可能：嚴重低血鉀會造成全身肌肉無力甚至麻痺。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Acute Flaccid Paralysis（Differential diagnosis）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "先天性重症肌無力（congenital myasthenia gravis）",
     "先天性肌肉失養症（congenital muscular dystrophy）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 嬰兒期進行性的四肢無力與肌張力低下、深部肌腱反射消失、腹式呼吸（肋間肌無力而橫膈仍動）加上「舌頭顫動」，但「神智清楚」——這是第一型脊髓性肌肉萎縮症（渥德尼-霍夫曼病）的完整臨床圖像。\n❌ (A) 缺氧缺血性腦病變會有意識障礙與抽搐，且有周產期窒息史。\n❌ (C) 先天性重症肌無力以眼瞼下垂與眼外肌麻痺為主，深部肌腱反射保留。\n❌ (D) 先天性肌肉失養症不會有舌頭顫動（那代表運動神經元受損）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Spinal Muscular Atrophy。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "5個月的嬰兒爬行時自己碰到熨斗而燙到手",
     "1歲2個月的嬰兒抓到餐桌的桌巾，讓桌上熱湯翻下燙傷臉部"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 最合理：1 歲 2 個月的幼兒已能站立行走並抓握拉扯——拉下桌巾造成熱湯翻覆燙傷臉部，「受傷機轉與發展能力完全相符」，是典型的意外傷害。\n❌ (A) 2 個月大的嬰兒還不會自行翻身（4–6 個月才會），此陳述不合理，須懷疑虐待。\n❌ (B) 4 個月大的嬰兒力量不足以造成股骨骨折；嬰兒的長骨骨折是虐待的高度警訊。\n❌ (C) 5 個月大的嬰兒還不會爬行（6–9 個月才會）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Abusive Head Trauma and Physical Abuse（History inconsistent with developmental stage）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "正常染色體核型（normal karyotype）",
     "主動脈狹窄（aortic stenosis）為其最常見的心臟病變"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：努南症候群最常見的心臟病變是「肺動脈瓣狹窄」（常合併瓣膜發育不良）與肥厚型心肌病變，不是主動脈狹窄。\n❌ (A) 正確：身材矮小是核心特徵。\n❌ (B) 正確：蹼狀頸、低耳位與眼距寬是典型顏面頸部特徵。\n❌ (C) 正確：它的染色體核型「正常」（多為 PTPN11 等基因突變），這是與特納氏症候群最重要的鑑別點。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Noonan Syndrome。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "血清副甲狀腺素（parathyroid hormone）濃度高於正常",
     "血清1,25-二羥維生素D（1,25-dihydroxyvitamin D）值正常"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 較罕見：X 性聯低血磷佝僂症的問題是腎小管磷回收障礙（FGF23 過高），血鈣正常，因此「副甲狀腺素通常正常或僅輕度上升」，明顯升高反而要懷疑其他病因（如維生素 D 缺乏）。\n❌ (A) 常見：血鈣維持正常，這正是它與維生素 D 缺乏佝僂症的關鍵鑑別。\n❌ (B) 常見：骨骼病變活躍使鹼性磷酸酶升高。\n❌ (D) 常見：1,25-二羥維生素 D 呈「不當地正常」（在低血磷狀態下本應代償性升高，卻沒有升高），是 FGF23 作用的結果。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Rickets（Hypophosphatemic rickets）。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-105-2-med4'] = {
     "幼年型皮肌炎（juvenile dermatomyositis）",
     "全身性紅斑性狼瘡（systemic lupus erythematosus）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 近端肌無力（Gower 徵象）、肌酸激酶升高，加上「眼瞼紫紅色斑且日曬惡化」——皮膚加肌肉的組合就是幼年型皮肌炎（向陽性皮疹與 Gottron 丘疹是診斷關鍵）。\n❌ (A) 肌肉失養症是遺傳性、逐漸進展，不會有皮疹與發燒體重減輕。\n❌ (B) 感染性肌炎多為急性、短暫（如流感後的小腿肌炎），不會有慢性皮疹。\n❌ (D) 全身性紅斑性狼瘡的皮疹是顴部蝴蝶斑（不會侵犯鼻唇溝），且肌酸激酶通常正常。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Juvenile Dermatomyositis。"
   },
   {
    "n": 21,

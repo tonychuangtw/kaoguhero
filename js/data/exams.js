@@ -1892,7 +1892,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（三）",
   "label": "105 年第二次　醫學（三）",
   "n": 80,
-  "exp": 0,
+  "exp": 80,
   "mins": 100
  },
  {
@@ -1906,7 +1906,7 @@ window.APP_EXAMS = [
   "subjName": "醫學（四）",
   "label": "105 年第二次　醫學（四）",
   "n": 80,
-  "exp": 0,
+  "exp": 20,
   "mins": 100
  },
  {
