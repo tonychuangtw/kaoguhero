@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "上呼吸道阻塞（upper airway obstruction）",
     "睡眠呼吸中止症候（obstructive sleep apnea, OSA）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 關係最薄弱：舌「前緣」的病灶位於口腔最前端，不會遮擋喉頭視野，對面罩通氣與插管的影響最小；真正麻煩的是舌根、會厭與聲門附近的病灶。\n❌ (B) 新發生的聲音沙啞暗示聲帶麻痺或喉部腫瘤，可能造成插管困難甚至通氣危機。\n❌ (C) 上呼吸道阻塞本身就是困難呼吸道的典型情境。\n❌ (D) 睡眠呼吸中止症病人多有肥胖、頸圍粗與咽腔狹窄，是公認的困難面罩通氣與插管危險因子。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Airway Management in the Adult（Predictors of difficult airway）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "越來越多的證據顯示，術中進行麻醉深度監測，有助於降低病患術中清醒的發生率。但是，進行此項監測，並不能保證病患 完全不會發生術中清醒",
     "在病患可以承受的範圍內，儘量維持適當而且穩定的吸入性麻醉氣體濃度，有助於減少病患術中清醒的發生"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：低體溫會加深麻醉效果（最低肺泡濃度隨體溫下降而降低），因此術中清醒的機率反而「較低」；真正的高風險情境是心臟手術、產科急救、嚴重外傷與全靜脈麻醉合併肌肉鬆弛劑。\n❌ (A) 正確：腦波及其衍生指標（如雙頻譜指數）與鎮靜、失憶、意識喪失及腦代謝率下降相關。\n❌ (C) 正確：麻醉深度監測可降低但無法完全杜絕術中清醒。\n❌ (D) 正確：維持足夠而穩定的吸入麻醉濃度（監測呼氣末濃度）是預防術中清醒的有效方式。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Intraoperative Awareness；Ch. Monitoring Depth of Anesthesia。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "②③①④",
     "④②①③"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 敏感度由高到低是：經食道心臟超音波（可看到 0.02 mL/kg 的微量氣泡）＞心前區都卜勒（約 0.05 mL/kg）＞二氧化碳分析儀（呼氣末二氧化碳突然下降）＞血氧計（要到大量氣栓造成低血氧才變化，最慢）。\n❌ (A) 把最不敏感的血氧計排在超音波之前，順序完全顛倒。\n❌ (B) 漏掉經食道超音波才是最敏感的工具。\n❌ (C) 同樣把血氧計高估，且未把超音波列為首位。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Anesthesia for Neurosurgery（Venous air embolism monitoring sensitivity）。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "抑制N-methyl-D-aspartate receptor作用",
     "加強α2 adrenergic receptor作用"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 巴比妥類藥物與 GABA-A 受體結合，延長氯離子通道「開放的時間」（高劑量甚至可直接打開通道），使神經細胞過極化而產生鎮靜催眠作用。\n❌ (A) 阻斷鈉離子通道是局部麻醉劑與部分抗癲癇藥的機轉。\n❌ (C) 抑制 NMDA 受體是氯胺酮（ketamine）與一氧化二氮的機轉。\n❌ (D) 活化 α2 腎上腺素受體是 dexmedetomidine 與 clonidine 的機轉。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Intravenous Anesthetics；Katzung, 15th ed., Ch. Sedative-Hypnotic Drugs。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "缺氧（PaO2 < 40 mmHg）",
     "使用reserpine"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 高血壓本身不影響最小肺泡濃度——最小肺泡濃度反映的是中樞神經對麻醉藥的敏感度，受年齡、體溫、中樞兒茶酚胺濃度與合併用藥影響，與血壓高低無關。\n❌ (B) 抗膽鹼酯酶類的肌肉鬆弛拮抗劑會改變中樞膽鹼系統活性，文獻報告會影響最小肺泡濃度。\n❌ (C) 嚴重缺氧（動脈血氧分壓低於 38–40 mmHg）會使最小肺泡濃度下降。\n❌ (D) reserpine 耗竭中樞兒茶酚胺，明顯降低最小肺泡濃度。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Inhaled Anesthetics（Factors affecting MAC）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "術中發生意識變化時，應抽血檢查血氧與血中鈉離子濃度",
     "經尿道攝護腺切除症候群（TURP syndrome），因屬體液太多，血壓一定下降"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：經尿道攝護腺切除症候群是大量低張沖洗液吸收造成的稀釋性低血鈉與體液過多，臨床上血壓「可以先上升」（容積負荷增加）再因心衰竭而下降，不是「一定下降」。\n❌ (A) 正確：截石位使橫膈上抬，功能性肺餘容積下降。\n❌ (B) 正確：即使採半身麻醉，術前心肺功能評估仍不可省。\n❌ (C) 正確：術中意識改變要立即查血鈉（低血鈉腦水腫）與血氧。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Anesthesia for Urologic Surgery（TURP syndrome）。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "bronchopulmonary dysplasia",
     "在新生兒常引起retinopathy of prematurity（ROP）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 不是併發症：慢性阻塞性肺病病人給高濃度氧氣造成的是「換氣不足與二氧化碳滯留」（機轉主要是換氣灌流比失衡與霍爾丹效應），不是過度換氣。\n❌ (A) 是併發症：高濃度氧使氮氣被沖走，肺泡塌陷造成吸收性肺塌陷。\n❌ (C) 是併發症：早產兒長期高氧與正壓通氣造成支氣管肺發育不全。\n❌ (D) 是併發症：早產兒視網膜病變與高氧暴露密切相關。\n📚 出處：Miller's Anesthesia, 9th ed., Ch. Respiratory Care；Harrison's, 21st ed., Ch. COPD（oxygen-induced hypercapnia）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "維持血小板50000/cumm以上",
     "維持收縮血壓100～140 mmHg"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：外傷早期復甦強調「容許性低血壓」——在出血尚未確實止住前，收縮壓維持在 80–90 mmHg（無頭部外傷者）即可，衝到 100–140 反而會把已形成的血塊沖掉、加重出血與稀釋性凝血病變。\n❌ (A) 正確：血比容維持在 25–30% 是合理的輸血目標。\n❌ (B) 正確：核心體溫維持 35℃ 以上，以避免致死三角中的低體溫。\n❌ (C) 正確：血小板維持 5 萬以上（有活動性出血或頭部外傷則需更高）。\n📚 出處：ATLS Student Course Manual, 10th ed.（Hemorrhagic shock, damage control resuscitation）；Miller's Anesthesia, 9th ed.。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "與致病相關之基因（RB1）位於染色體13q14位置",
     "治療選擇與腫瘤大小無關"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：治療選擇與腫瘤大小、位置、是否單雙側及有無轉移都密切相關——小腫瘤可用雷射光凝或冷凍治療、中等大小用局部或全身化療縮小後再局部治療、巨大且視力無望者才摘除眼球。\n❌ (A) 正確：它是兒童最常見的眼內原發惡性腫瘤。\n❌ (B) 正確：白瞳症（貓眼反射）是最常見的初始表現，其次為斜視。\n❌ (C) 正確：RB1 抑癌基因位於第 13 對染色體長臂 14 區，是「二次打擊假說」的原型。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Retinoblastoma）；Nelson, 21st ed.。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "角膜典型表現為環狀角膜浸潤（ring-shape infiltration）",
     "及時給與適當的藥物，一般約一星期左右可痊癒而停藥"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：棘阿米巴角膜炎極為難治——阿米巴會形成抗藥性極強的囊體，治療需局部抗阿米巴藥物（如 PHMB、chlorhexidine）持續使用「數個月」，太早停藥必定復發。\n❌ (A) 正確：配戴隱形眼鏡（尤其用自來水沖洗鏡片或戴著游泳）是最主要的危險因子。\n❌ (B) 正確：疼痛程度與角膜病灶不成比例地劇烈，是重要鑑別點（單純皰疹角膜炎因角膜知覺減退反而較不痛）。\n❌ (C) 正確：環狀角膜浸潤是它的典型晚期表現。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Acanthamoeba keratitis）。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "水晶體核（nucleus）",
     "晶囊（lens capsule）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 水晶體纖維終生持續生成並向內堆疊，最早形成的纖維被推擠到中心形成「核」——因此核是最老的部分，也是老年性核性白內障發生的位置。\n❌ (A) 小帶纖維是懸韌帶，不屬於水晶體本體。\n❌ (B) 皮質由較「新」的纖維構成，位於核的外圍。\n❌ (D) 晶囊是包覆水晶體的基底膜，由上皮細胞分泌，不是纖維堆積。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Lens anatomy）；Junqueira's Basic Histology, 16th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "近視眼的眼球隅角通常較窄",
     "有些隅角閉鎖性青光眼是因老年性白內障時水晶體變厚導致"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：近視眼的眼軸較長、前房較「深」，隅角通常比較「寬」；隅角狹窄反而好發於遠視眼（眼軸短、前房淺）。\n❌ (A) 正確：隅角鏡是評估隅角開放程度的標準工具。\n❌ (B) 正確：能看到小樑網、鞏膜棘等結構代表隅角開放。\n❌ (D) 正確：老年性白內障使水晶體變厚前推虹膜，可造成瞳孔阻滯型的隅角閉鎖性青光眼。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Gonioscopy; Angle-closure glaucoma）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "向下（downword movement）",
     "向上（upward movement）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 內斜視的眼睛在被遮蓋時會往「內」偏；當遮蓋物從右眼移到左眼，剛被打開的右眼必須從內偏位置往「外」轉（外展）才能重新注視目標。\n❌ (A) 內展是往鼻側移動，那是眼睛被遮蓋時的偏斜方向，不是移開遮蓋後的矯正動作。\n❌ (C) 垂直向下移動出現在下斜視，本例是水平內斜視。\n❌ (D) 向上移動出現在上斜視。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Strabismus: cover tests）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "右眼上直肌（right superior rectus muscle）和左眼下斜肌（left inferior oblique muscle）",
     "右眼內直肌（right medial rectus muscle）和左眼外直肌（left lateral rectus muscle）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 不是共軛肌：右眼上直肌的共軛肌是「左眼下斜肌」（兩者同司左上方注視）；左眼上斜肌負責的是往「右下」看，方向完全相反。\n❌ (A) 是共軛肌：右外直肌與左內直肌同司向右注視。\n❌ (C) 是共軛肌：右上直肌與左下斜肌同司右上方注視。\n❌ (D) 是共軛肌：右內直肌與左外直肌同司向左注視。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Ocular motility: yoke muscles, Hering's law）。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "瞳孔收縮（constriction of the pupil）",
     "虹彩血管收縮（iris vessel constriction）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 不包括：近反射三聯反應是「調節（水晶體變厚）、會聚（雙眼內轉）與瞳孔縮小」；虹膜血管收縮不屬於這個反射。\n❌ (A) 屬於：睫狀肌收縮使懸韌帶放鬆、水晶體變厚以增加屈光力。\n❌ (B) 屬於：雙眼內直肌收縮使視線交會於近物。\n❌ (C) 屬於：瞳孔縮小可增加景深、減少像差。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Near reflex triad）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "砂眼披衣菌（Chlamydia trachomatis）",
     "淋球菌（Neisseria gonorrhoeae）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 急性出血性結膜炎主要由腸病毒 70 型與 A24 型克沙奇病毒引起，特徵是急性眼紅、劇烈異物感與「結膜下出血」，傳染力極強，是我國的法定傳染病。\n❌ (A) 單純皰疹病毒造成的是樹枝狀角膜炎與濾泡性結膜炎，不以出血為特徵。\n❌ (C) 砂眼披衣菌造成慢性濾泡性結膜炎與角膜血管翳。\n❌ (D) 淋球菌造成的是超急性化膿性結膜炎（大量膿性分泌物），可迅速穿孔角膜。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Viral conjunctivitis）；衛福部疾管署急性出血性結膜炎防治指引。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "上半規管（superior semicircular canal）",
     "水平半規管（horizontal semicircular canal）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 後半規管是耳石最常掉入的位置（占八到九成）——因為人站立或躺下時它位於最低點，脫落的耳石受重力牽引自然沉積於此，可用 Dix-Hallpike 檢查誘發並以 Epley 復位術治療。\n❌ (A) 側半規管型約占一成，較少見。\n❌ (C) 上半規管型最罕見（因位置最高，耳石不易停留）。\n❌ (D) 水平半規管就是側半規管的別名，同樣不是最常見的位置。\n📚 出處：Cummings Otolaryngology, 7th ed.（Benign paroxysmal positional vertigo）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "先天性膽脂瘤（congenital cholesteatoma）",
     "後天性膽脂瘤（acquired cholesteatoma）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 幼童、耳膜「完整」（無穿孔、無中耳炎病史）而在耳膜前上或前下方看到白色珍珠樣腫塊——這是先天性膽脂瘤，源自胚胎期殘留的上皮組織。\n❌ (A) 聽神經瘤位於內耳道與橋小腦角，耳鏡看不到，且以單側感音性聽損與耳鳴表現。\n❌ (B) 膽固醇肉芽腫多呈藍色或棕色（含血鐵質），不是白色。\n❌ (D) 後天性膽脂瘤源自耳膜內陷袋或穿孔，一定會有耳膜異常與慢性中耳炎病史，與本例耳膜完整不符。\n📚 出處：Cummings Otolaryngology, 7th ed.（Congenital cholesteatoma）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "鼻咽癌",
     "腮腺癌"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 成人「單側」積液性中耳炎合併同側上頸部無痛性淋巴結腫大，在臺灣必須先想到鼻咽癌——腫瘤阻塞歐氏管開口造成中耳積液，頸部淋巴結則是它最常見的轉移表現，應立即做鼻咽內視鏡與切片。\n❌ (A) 喉癌以持續聲音沙啞為主要表現。\n❌ (B) 下咽癌以吞嚥疼痛、異物感與頸部腫塊表現，不會造成單側中耳積液。\n❌ (D) 腮腺癌表現為耳前腫塊，可能合併顏面神經麻痺。\n📚 出處：Cummings Otolaryngology, 7th ed.（Nasopharyngeal carcinoma）；Harrison's, 21st ed., Ch. Head and Neck Cancer。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med6'] = {
     "海綿竇栓塞",
     "急性上頜竇炎"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 急性額竇炎的頭痛有明顯的「時間模式」——起床時因竇口引流通暢而不痛，起身後 1–2 小時分泌物積聚才開始痛，下午引流後又緩解，這種週期性前額痛是它的招牌。\n❌ (B) 蝶竇炎的疼痛在頭頂、枕部或眼球深部，且無此規律的日內起伏。\n❌ (C) 海綿竇栓塞會有高燒、眼球突出、眼肌麻痺與意識改變，屬急重症。\n❌ (D) 上頜竇炎的疼痛在臉頰與上排牙齒，低頭時加劇，也沒有這種定時模式。\n📚 出處：Cummings Otolaryngology, 7th ed.（Acute rhinosinusitis: frontal sinusitis）。"
   },
   {
    "n": 21,
