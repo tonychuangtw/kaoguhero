@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "產生心智功能障礙的比例比年輕人高",
     "產生胸痛的比例比年輕人高"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 老年人肺炎常「不典型」：發燒、咳嗽、胸痛等典型症狀可能都不明顯，反而以意識混亂、譫妄、活動力下降或跌倒表現——因此老人突然出現心智功能障礙時，一定要把感染列入鑑別診斷。\n❌ (A) 老年人因免疫與體溫調節反應變弱，發燒比例反而較低（甚至體溫正常或偏低）。\n❌ (B) 咳嗽反射與痰液清除能力下降，有痰咳嗽的比例較低。\n❌ (D) 胸膜性胸痛的表述比例也低於年輕人。\n📚 出處：Hazzard's Geriatric Medicine and Gerontology, 8th ed., Ch. Infectious Diseases；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "轉介安排心率節律器置入",
     "給予頸動脈竇（carotid sinus）按摩"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 這是耐力運動員的「生理性竇性心搏過緩」——長期訓練使迷走神經張力升高、心搏量增大，睡眠時心跳降到 40 幾次完全正常；病人清醒時心率正常、運動表現如常、無暈厥或運動不耐，不需任何治療。\n❌ (A) 沒有症狀也沒有傳導阻滯的證據，電氣生理檢查毫無適應症。\n❌ (C) 心律調節器只用於有症狀的心搏過緩或高度房室傳導阻滯。\n❌ (D) 頸動脈竇按摩是用來鑑別心搏過速或評估頸動脈竇過敏，用在心搏過緩的病人只會更慢，且有中風風險。\n📚 出處：Braunwald's Heart Disease, 12th ed., Ch. Bradyarrhythmias；ACC/AHA/HRS Guideline on Bradycardia。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "胸前導程（V1 – V6），ST段凸形彎曲（convex curvature）上升",
     "胸前導程（V2 – V6）與第一導程，aVL導程，ST段凹形彎曲（concave curvature）上升"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 隨呼吸與姿勢變化的胸痛（前傾緩解）加上三成份心包摩擦音，是急性心包膜炎；其心電圖特徵是「廣泛導程」的凹形（concave upward）ST 段上升合併 PR 段下降，分布不侷限於單一冠狀動脈範圍。\n❌ (A) 胸前導程反向 T 波多見於心肌缺血或肺栓塞，不是心包膜炎的初期表現。\n❌ (B) 心包膜炎在下壁導程的 PR 段是「下降」的；唯一 PR 段上升的是 aVR。\n❌ (C) 凸形（convex，墓碑狀）ST 上升且侷限於相鄰導程，是急性心肌梗塞的型態。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pericardial Disease；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "出血性胃炎",
     "十二指腸第二部分出血"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 慢性 B 型肝炎帶原者、無服藥或飲酒誘因、突發「大量」吐血並立即休克——最典型的就是肝硬化門脈高壓造成的食道靜脈曲張破裂，它的出血量大且快，是上消化道出血中死亡率最高者。\n❌ (B) 胃癌出血多為慢性滲血，常伴體重減輕與長期消化不良，少以大量吐血休克表現。\n❌ (C) 出血性胃炎多與非類固醇消炎藥、酒精或重大壓力有關，本例明確排除。\n❌ (D) 十二指腸第二部的出血較少見，且多以黑便而非大量吐血表現。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Gastrointestinal Bleeding；Ch. Cirrhosis and Its Complications。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "除了補充水份，應立即給予強力止瀉藥以遏止腹瀉",
     "若大便檢查發現pus cells，在正式病原尚未確定之前，試用抗生素（如quinolone或metronidazole）是合宜 的"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：發燒且疑似侵襲性（發炎性）腹瀉時，強力止瀉藥（如 loperamide）會延長病原與毒素在腸道停留的時間，可能誘發中毒性巨結腸或溶血性尿毒症候群，應避免使用。\n❌ (A) 急性發燒性水瀉高度懷疑感染性腹瀉，應積極尋找病因。\n❌ (B) 糞便檢查白血球、寄生蟲卵與細菌病毒培養都是合理的評估。\n❌ (D) 糞便有膿細胞代表侵襲性感染，在培養結果出來前經驗性給予氟喹諾酮或 metronidazole 是合宜的。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Infectious Diarrheal Diseases。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "抽血檢驗amylase和lipase",
     "抽血檢驗alkaline phosphatase及γ-glutamyl transpeptidase（γ-GT）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 澱粉酶與脂解酶是診斷「胰臟炎」的酵素，對黃疸的成因鑑別（肝細胞性 vs. 膽汁鬱積性）幫助最小，在此情境診斷效益最低。\n❌ (A) 腹部超音波可看膽管是否擴張，是區分肝內外阻塞最重要的第一線影像。\n❌ (B) 直接型與總膽紅素的比例可判斷屬結合型或未結合型高膽紅素血症。\n❌ (D) 鹼性磷酸酶與 γ-麩胺醯轉肽酶同步上升，指向膽汁鬱積性病因。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Jaundice；Ch. Evaluation of Liver Function。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "perinuclear anti-neutrophil cytoplasmic antibody（pANCA）",
     "anti-HAV IgM"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 最不適合：此病人的型態是「肝細胞性」損傷（轉胺酶飆到數百，而鹼性磷酸酶與 γ-GT 正常）；pANCA 主要用於評估 ANCA 相關血管炎與原發性硬化性膽管炎（後者屬膽汁鬱積型），與本例型態不符。\n❌ (A) 急性 B 型肝炎是最常見的病因之一，應檢驗表面抗原。\n❌ (B) 抗核抗體用於評估自體免疫性肝炎，是合理的檢查。\n❌ (D) 抗 A 型肝炎病毒 IgM 可診斷急性 A 型肝炎。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Viral Hepatitis；Ch. Autoimmune Hepatitis。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "所用透析液一般用重碳酸鹽來矯正尿毒病人的酸中毒（酸血症）",
     "肌肉痙攣（muscle cramps）是透析時常見的併發症"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：單次血液透析的尿素氮下降率應達「65% 以上」（或 Kt/V ≥1.2）才算充足，60% 未達標準，長期不足會增加死亡率。\n❌ (B) 每週三次、每次四小時是臺灣與國際上最普遍的處方。\n❌ (C) 透析液以重碳酸鹽作為鹼基來矯正尿毒症的代謝性酸中毒。\n❌ (D) 快速脫水造成的肌肉痙攣是透析中最常見的併發症之一（另有低血壓）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Dialysis in the Treatment of Renal Failure；KDOQI Hemodialysis Adequacy Guideline。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "糖尿病是產生顯影劑腎病變的危險因子之一",
     "高危險病人一定要做含顯影劑之檢查時，可先適度補充液體（hydration）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：顯影劑腎病變的機轉以腎髓質血管收縮缺血為主，尿液指標典型呈現「鈉排泄分率小於 1%」（像腎前性），這正是它與典型急性腎小管壞死不同的地方。\n❌ (A) 腎小管毒性、管內阻塞與腎血行動力學改變（血管收縮）都是致病機轉。\n❌ (C) 糖尿病（尤其已有腎病變者）、慢性腎病、脫水與心衰竭都是危險因子。\n❌ (D) 檢查前後給予等張生理食鹽水水化，是目前證據最明確的預防措施。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Kidney Injury（Contrast nephropathy）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Goodpasture氏症候群",
     "冷凝球蛋白血症（cryoglobulinemia）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 產後突然出現微血管病性溶血性貧血（血色素低、碎裂紅血球、結合珠蛋白下降）、血小板低下與急性腎衰竭三聯徵，是產後溶血性尿毒症候群（補體媒介的血栓性微血管病變）。\n❌ (A) 急性腎小管壞死的尿鈉會偏高（>40 mmol/L）、鈉排泄分率大於 1%，且不會有溶血與血小板低下；本例尿鈉僅 10。\n❌ (C) 古德帕斯徹症候群以肺出血合併急進性腎絲球腎炎表現，尿中會有大量紅血球圓柱與蛋白尿。\n❌ (D) 冷凝球蛋白血症多合併 C 型肝炎、紫斑與低補體，病程也不會如此急性。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Thrombotic Microangiopathies；Ch. Acute Kidney Injury。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Sjögren's syndrome",
     "systemic lupus erythematosus"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) CREST 症候群（局限型全身性硬化症）的五大表現：皮下鈣化、雷諾氏現象、食道蠕動障礙、指端硬化與微血管擴張；本例有雷諾現象、吞嚥障礙與手部微血管擴張，加上「抗著絲點抗體」高效價與抗核抗體的著絲點型態，診斷明確。\n❌ (A) 多發性肌炎以近端肌無力與肌酵素上升表現，本例沒有。\n❌ (C) 乾燥症以口乾眼乾與抗 SSA/SSB 高效價為主，本例抗 SSA 僅稍高且不符整體表現。\n❌ (D) 紅斑性狼瘡的抗雙股 DNA 抗體與補體本例皆正常，也無典型皮疹或多系統侵犯。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Systemic Sclerosis (Scleroderma)。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "rheumatoid arthritis",
     "systemic lupus eryhematosus"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 最不建議：抗腫瘤壞死因子製劑不但對紅斑性狼瘡無效，還可能誘發「藥物引起的狼瘡」與抗核抗體、抗雙股 DNA 抗體的產生，等於火上加油。\n❌ (A) 克隆氏症是它的核准適應症（對廔管型尤其有效）。\n❌ (B) 僵直性脊椎炎是它的重要適應症（傳統抗風濕藥對中軸病灶無效）。\n❌ (C) 類風濕性關節炎是它最早也最主要的適應症。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Rheumatoid Arthritis；Katzung Basic & Clinical Pharmacology, 15th ed.。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "冷凝球蛋白（cryoglobulin）",
     "C型肝炎病毒量（viral load）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 慢性 C 型肝炎合併可觸摸性紫斑、周邊神經病變與腎絲球腎炎（蛋白尿），是典型的「混合型冷凝球蛋白血症血管炎」；驗出冷凝球蛋白最具診斷價值（同時常見類風濕因子陽性與 C4 顯著下降）。\n❌ (A) 類風濕因子雖常呈陽性，但特異度低，無法據以確診。\n❌ (B) 抗核抗體在許多疾病與正常人都可能陽性。\n❌ (D) 病毒量只反映 C 型肝炎的活性，無法診斷血管炎的存在。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. The Vasculitis Syndromes（Cryoglobulinemic vasculitis）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "iron deficiency anemia",
     "vitamin B12 deficiency anemia"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 次全胃切除後胃酸分泌大減、且食物快速通過十二指腸，鐵的還原與吸收都受影響，長年下來造成缺鐵性貧血——本例小球性（MCV 71）貧血、大便潛血陰性且胃鏡無病灶，正符合這個機轉。\n❌ (A) 海洋性貧血是遺傳性疾病，40 歲時的血液檢查不會正常。\n❌ (B) 慢性病貧血多為正球性（或輕度小球性），且病人並無慢性發炎性疾病。\n❌ (D) 胃切除後確實也可能缺乏維生素 B12（內在因子減少），但那會造成「巨球性」貧血（MCV 上升），與本例相反。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Iron Deficiency and Other Hypoproliferative Anemias。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "顱咽管瘤craniopharyngioma",
     "空蝶鞍症候群empty sella syndrome"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 三個月前一次「嚴重頭痛」之後開始出現全腦下垂體功能低下（低 T4 而 TSH 未代償上升、清晨皮質醇極低、體毛鬍鬚減少），影像又見蝶鞍區 3 公分不均質腫塊——這是腦下垂體腺瘤出血（腦下垂體中風）後留下的殘餘病灶與功能缺損。\n❌ (A) 泌乳素瘤以泌乳、性腺功能低下為主，不會有這種急性頭痛起始的全腺體功能衰竭。\n❌ (C) 顱咽管瘤好發於兒童與中老年，病程漸進，常有視野缺損與尿崩症，不會以突發劇烈頭痛起始。\n❌ (D) 空蝶鞍症候群的影像是蝶鞍被腦脊髓液填充，不會有 3 公分不均質腫塊。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Hypothalamic-Pituitary Disorders（Pituitary apoplexy）。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Viridans streptococcus",
     "Enterococcus faecalis"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 靜脈注射毒癮者的感染性心內膜炎以金黃色葡萄球菌為最主要病原（來自皮膚菌叢），典型侵犯「三尖瓣」造成右心心內膜炎，並以敗血性肺栓塞表現為發燒、胸痛與呼吸困難。\n❌ (B) 表皮葡萄球菌主要造成人工瓣膜或導管相關感染。\n❌ (C) 草綠色鏈球菌多見於原有瓣膜病變者的亞急性心內膜炎（常在牙科處置後）。\n❌ (D) 腸球菌好發於年長男性泌尿道手術或婦科處置後。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Infective Endocarditis。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "嚴重心肌梗塞會造成心因性休克",
     "心包膜積水如發生心包膜填塞（pericardial tamponade），亦會造成休克"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：持續嚴重腹瀉造成的大量體液流失，正是「低血容積性休克」的典型原因之一（霍亂即為經典例子），怎麼會不致於休克。\n❌ (A) 休克的本質就是組織灌流不足造成細胞缺氧與器官衰竭。\n❌ (C) 大面積心肌梗塞使幫浦功能衰竭，造成心因性休克。\n❌ (D) 心包填塞限制心室舒張充盈，屬阻塞性休克。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Approach to the Patient with Shock。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "urine osmolality <350 mOsmol/kg H2O",
     "urine creatinine/plasma creatinine（UCr/PCr）>40"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 腎前性氮血症時腎小管功能完好，會拚命把水再吸收回去，尿液被高度濃縮，因此尿液肌酸酐與血漿肌酸酐的比值大於 40（腎性則小於 20）。\n❌ (A) 腎前性的尿素氮/肌酸酐比值是「大於 20:1」（尿素隨水被再吸收），小於 10:1 反而不符。\n❌ (B) 腎前性時鈉被大量再吸收，尿鈉應「小於 20 mEq/L」。\n❌ (C) 腎前性的尿液滲透壓應「大於 500 mOsmol/kg」（濃縮能力完好）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Kidney Injury（Urinary diagnostic indices）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "organophosphorus compounds---physostigmine",
     "cyanide---sodium thiosulfate"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：有機磷抑制乙醯膽鹼酯酶造成膽鹼過量，解毒要用 atropine 加上 pralidoxime；physostigmine 是「膽鹼酯酶抑制劑」，給下去只會讓中毒更嚴重。\n❌ (A) 甲醇中毒除了 fomepizole／乙醇與透析，補充葉酸鹽（folinate）可促進甲酸代謝，是標準輔助治療。\n❌ (B) 鉛腦病變採用 dimercaprol 合併鈣鈉版乙二胺四乙酸的雙螫合治療。\n❌ (D) 硫代硫酸鈉提供硫供 rhodanese 把氰化物轉為硫氰酸鹽排出，是氰化物解毒的標準組合之一。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Management of the Poisoned Patient；Goldfrank's Toxicologic Emergencies, 11th ed.。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "腎上腺機能低下（Addison's disease）",
     "腦中風"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不可能：副甲狀腺功能低下造成的是低血鈣與神經肌肉過度興奮（手足抽搐），並不影響體溫調節。\n❌ (A) 腦下垂體功能低下使甲狀腺與腎上腺軸同時停擺，代謝率下降而體溫過低。\n❌ (C) 腎上腺功能低下（愛迪生氏病）在危象時會出現低血壓、低血糖與體溫過低。\n❌ (D) 影響下視丘體溫調節中樞的腦中風，可造成體溫調節失常（過低或過高）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Hypothermia and Frostbite；Ch. Disorders of the Adrenal Cortex。"
   },
   {
    "n": 21,
