@@ -2508,7 +2508,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）憲法組",
   "label": "111 年　綜合法學（一）憲法組",
   "n": 75,
-  "exp": 0,
+  "exp": 75,
   "mins": 180
  },
  {
