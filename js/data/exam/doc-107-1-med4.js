@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "肺炎鏈球菌（Streptococcus pneumoniae）感染",
     "B群鏈球菌（group B Streptococcus）感染"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 母親發燒、破水超過 18 小時，加上出生 24 小時內爆發的呼吸窘迫與休克、胸部 X 光雙側瀰漫浸潤——這是「早發型 B 群鏈球菌敗血症」的典型劇本，影像常與呼吸窘迫症候群難以區分。\n❌ (A) 大腸桿菌雖是早發型敗血症第二常見的病原（尤其早產兒），但整體仍以 B 群鏈球菌居首。\n❌ (B) 綠膿桿菌屬院內感染菌，好發於長期住院的早產兒，不會在出生 8 小時發作。\n❌ (C) 肺炎鏈球菌造成的新生兒早發型敗血症相當罕見。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Infections of the Neonatal Infant（Early-onset group B streptococcal disease）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "已服用過克流感，今年不必施打流感疫苗",
     "流感疫苗無效，明年不要施打"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 流感疫苗需「每年」接種（病毒抗原年年變異）；9 歲以上、或 9 歲以下但曾在過去接種過至少兩劑者，每年只需一劑。小恩前年與去年都打過，今年一劑即可。\n❌ (B) 「兩劑」規則只適用於 9 歲以下、且從未接種或過去接種未滿兩劑的孩子，本例已符合基礎免疫。\n❌ (C) 克流感是治療用藥，只對當次感染有效，完全不提供日後的保護力。\n❌ (D) 打過疫苗仍可能感染（型別不符或保護力不完全），但疫苗能顯著降低重症與住院風險，不能因此停打。\n📚 出處：衛生福利部疾病管制署「流感疫苗接種建議」；AAP Red Book（Influenza）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "改用vancomycin 40 mg/kg/day q8h",
     "改用penicillin 300,000 units/kg/day q6h"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 學齡兒童、發燒與咳嗽但活力良好、聽診細囉音、胸部 X 光呈「對稱性間質浸潤」，且對 β-內醯胺類治療三天無效——這是黴漿菌等非典型病原的典型輪廓，應改用巨環類抗生素（azithromycin）。\n❌ (A) 提高 cefotaxime 劑量無濟於事，因為黴漿菌沒有細胞壁，對 β-內醯胺類天生無效。\n❌ (C) 萬古黴素用於懷疑抗藥性金黃色葡萄球菌的重症，病人活力良好、無膿胸或壞死性肺炎的證據。\n❌ (D) 青黴素同屬 β-內醯胺類，理由同上。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Mycoplasma pneumoniae；Ch. Community-Acquired Pneumonia。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "上消化道鋇劑檢查",
     "電腦斷層攝影檢查"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 疑似誤吞異物但呼吸道穩定的幼童，第一步是照頸部與胸部（必要時含腹部）X 光——確認是否為不透光異物（如錢幣、鈕扣電池）及其位置，決定是否需要緊急內視鏡取出。\n❌ (A) 尚未確認異物位置就返家，若卡在食道（尤其鈕扣電池）可能在數小時內造成穿孔。\n❌ (C) 鋇劑會覆蓋黏膜妨礙後續內視鏡視野，並增加吸入風險，不是首選。\n❌ (D) 電腦斷層輻射劑量高，只在 X 光無法定位或懷疑併發症時才安排。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Foreign Bodies in the Esophagus；Ch. Foreign Bodies in the Airway。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "輸尿管膀胱接合處阻塞（ureterovesical junction stenosis）",
     "輸尿管腎盂接合處阻塞（ureteropelvic junction stenosis）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 男嬰、雙側水腎合併輸尿管擴大，加上「膀胱壁增厚而不規則」——問題出在膀胱出口以下的阻塞，即後尿道瓣膜；膀胱長期高壓代償增厚，壓力再往上逆傳造成雙側腎與輸尿管擴張。\n❌ (A) 膀胱輸尿管逆流雖可造成雙側水腎，但不會造成膀胱壁增厚的阻塞性變化。\n❌ (C) 輸尿管膀胱接合處阻塞多為單側，且膀胱本身正常。\n❌ (D) 腎盂輸尿管接合處阻塞只有腎盂擴張，「輸尿管不會擴大」，是重要的鑑別點。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Obstruction of the Urinary Tract（Posterior urethral valves）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "WHO分類之第四類狼瘡性腎炎（WHO class IV lupus nephritis）合併急性腎衰竭",
     "ANCA-mediated腎絲球腎炎（ANCA-mediated glomerulonephritis）合併急性腎衰竭"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 急進性腎絲球腎炎合併細胞性半月體、免疫螢光可見免疫複合體沉積，而「補體 C3、C4 皆正常」——在青少年最符合的是 IgA 腎病變（它的補體不會下降，這正是與感染後腎炎的關鍵區別）。\n❌ (A) 鏈球菌感染後腎炎的 C3 會明顯「下降」（約 6–8 週後回升）。\n❌ (C) 第四類狼瘡腎炎的 C3 與 C4 通常同時下降，且應有其他系統性表現與自體抗體。\n❌ (D) ANCA 相關腎絲球腎炎屬「寡免疫型」，免疫螢光幾乎不見免疫複合體沉積。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. IgA Nephropathy；Ch. Rapidly Progressive Glomerulonephritis。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "建議父母應該添加副食品",
     "建議開始使用學步車以促進粗動作發展"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 早產兒的發展評估要用「矯正年齡」：出生後 5 個月減去早產的 3 個月（40 週減 28 週），矯正年齡為 2 個月——這個校正一般沿用到 2 歲。\n❌ (B) 以矯正年齡 2 個月而言，還不會主動抓握完全正常（4–5 個月才發展）。\n❌ (C) 副食品同樣建議依矯正年齡在 4–6 個月後添加，現在太早。\n❌ (D) 學步車不但無助於粗動作發展，還會增加跌落與燙傷等意外，各國小兒科醫學會皆建議不要使用。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Developmental Surveillance；AAP Policy Statement on Baby Walkers。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "衝動（impulsivity）",
     "智能不足（mental retardation）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 智能不足不是注意力不足過動症的診斷條件——診斷準則的核心症狀只有注意力不足與過動／衝動兩大類，且必須在兩個以上場合出現、12 歲前發病並造成功能損害。\n❌ (A) 注意力不足是兩大核心症狀群之一。\n❌ (B) 過動屬另一核心症狀群。\n❌ (C) 衝動與過動同屬一個症狀群。\n📚 出處：DSM-5-TR, Neurodevelopmental Disorders（ADHD）；Nelson Textbook of Pediatrics, 21st ed.。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "精氨酸（arginine）",
     "升糖素（glucagon）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 運動只是「篩檢用」的生理性刺激試驗——它引發的生長激素分泌變異大、標準化困難，陽性預測力低，對確立生長激素缺乏的診斷參考價值最小。\n❌ (B) 胰島素耐受試驗誘發低血糖刺激生長激素分泌，是公認的黃金標準（但須嚴密監測低血糖）。\n❌ (C) 精氨酸刺激試驗是常用且安全的藥物性刺激試驗。\n❌ (D) 升糖素刺激試驗同樣是標準的確診用刺激試驗。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Hypopituitarism（Growth hormone stimulation tests）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "腎臟",
     "血液"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 兒童期發病的紅斑性狼瘡「腎臟侵犯」比例遠高於成人（約六至八成會有狼瘡腎炎，且較多為嚴重的第三、四類），需要更積極的免疫抑制治療，也是預後較差的主因。\n❌ (A) 心臟侵犯（心包膜炎、心肌炎）在兒童雖可見，但不是預後差異的主因。\n❌ (B) 中樞神經侵犯確實影響預後，但發生率低於腎臟侵犯。\n❌ (D) 血液系統異常（貧血、血小板低下）常見但多可控制。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Systemic Lupus Erythematosus。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "患者血清中（serum）ferritin 是下降的",
     "足月兒的缺鐵性貧血常發生在出生後前3個月"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：足月兒體內的鐵儲備約可用到「4–6 個月」，因此缺鐵性貧血通常在 6 個月後才開始出現，不是前 3 個月。\n❌ (A) 低體重與早產兒的鐵儲備少（多在孕期最後三個月累積），是高危險群，需提早補鐵。\n❌ (B) 青春期後女性的慢性缺鐵最常見的原因就是月經量過多。\n❌ (C) 血清鐵蛋白反映體內儲鐵量，是最早下降也最敏感的指標。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Iron-Deficiency Anemia。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "80～100次/分",
     "180～220次/分"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 1 個月大新生兒清醒時心跳約每分鐘 120–160 次，睡眠時可降到 100 次上下——因此 100–140 次/分是睡眠時的正常範圍。\n❌ (B) 160–180 次/分屬清醒哭鬧時的上限或心搏過速。\n❌ (C) 80–100 次/分對新生兒而言偏慢，需注意心搏過緩。\n❌ (D) 180–220 次/分已是心搏過速（要考慮陣發性上心室頻脈）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. History and Physical Examination in Cardiac Evaluation（Normal vital signs by age）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "典型高胱胺酸尿症（homocystinuria）",
     "葡萄糖-6-磷酸去氫酶（glucose-6-phosphate dehydrogenase）缺乏症"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 蠶豆症是紅血球酵素缺乏造成的氧化壓力溶血，處理原則是「避開誘發因子」（蠶豆、樟腦丸、特定藥物），跟飲食配方奶粉完全無關，特殊配方對它最無效。\n❌ (A) 半乳糖血症必須完全停用乳糖／半乳糖，改用不含乳糖的黃豆配方。\n❌ (B) 苯酮尿症使用低苯丙胺酸的特殊配方，是治療的核心。\n❌ (C) 高胱胺酸尿症採低甲硫胺酸配方並補充維生素 B6 與甜菜鹼。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Defects in Metabolism of Amino Acids；Ch. Glucose-6-Phosphate Dehydrogenase Deficiency。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "幼童應避免接觸爬蟲類、兩棲類的動物，以免被沙門氏菌感染",
     "沙門氏菌腸炎的併發症包含反應性關節炎（reactive arthritis）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：免疫功能正常兒童的非傷寒型沙門氏菌腸胃炎屬自限性，抗生素「不會」縮短病程，反而延長帶菌排菌時間；只有 3 個月以下嬰兒、免疫低下或有菌血症徵象者才需治療。\n❌ (A) 免疫不全（含鐮刀型貧血、愛滋病）病童發生菌血症與轉移性感染的風險明顯較高。\n❌ (C) 烏龜、蜥蜴等爬蟲類與兩棲類是沙門氏菌的重要帶菌來源，幼童應避免接觸。\n❌ (D) 反應性關節炎是沙門氏菌等腸道感染後的典型併發症（尤其 HLA-B27 陽性者）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Salmonella；AAP Red Book。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "Ｂ型肝炎（hepatitis B virus ）",
     "先天性巨細胞病毒（congenital cytomegalovirus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 出生時身高體重頭圍皆正常，出生一週後才出現黃疸、肝脾腫大並合併「感音性聽力障礙」——這是先天性巨細胞病毒感染最常見的表現型（多數出生時無症狀，聽力損失則可能遲發並進行性惡化，需長期追蹤）。\n❌ (A) 新生兒單純疱疹感染多在出生後 1–3 週出現皮膚水泡、腦炎或散播性疾病，不以聽力障礙為特徵。\n❌ (B) 先天性梅毒典型有鼻炎（snuffles）、皮疹（含手掌腳掌）與長骨變化。\n❌ (C) B 型肝炎的垂直感染在新生兒期幾乎無症狀，不會造成聽力障礙。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Cytomegalovirus。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "呼吸性鹼中毒（respiratory alkalosis）",
     "呼吸性酸中毒（respiratory acidosis）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 6 週大男嬰進行性加劇的「非膽汁性」噴射狀嘔吐加上體重下降，是肥厚性幽門狹窄；持續嘔吐流失胃酸（氫離子與氯），造成典型的「低血氯、低血鉀性代謝性鹼中毒」。\n❌ (B) 代謝性酸中毒見於腹瀉（流失碳酸氫根）或組織缺氧，與嘔吐相反。\n❌ (C) 呼吸性鹼中毒來自過度換氣，本例無此情形（反而會代償性換氣不足）。\n❌ (D) 呼吸性酸中毒見於換氣不足，非本例的主要問題。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Pyloric Stenosis。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "C型肝炎急性感染20～30年後，部分患者會進展至肝硬化（cirrhosis）、肝衰竭（liver failure）甚至肝癌 （hepatocellular carcinoma）",
     "目前可以接種疫苗預防"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：C 型肝炎「至今沒有疫苗」（病毒基因高度變異、缺乏有效的中和抗體標的）；能靠疫苗預防的是 A 型與 B 型肝炎。\n❌ (A) C 型肝炎的垂直感染率約 5%，明顯低於未預防的 B 型肝炎。\n❌ (B) 母親病毒量高或合併愛滋病毒感染時，垂直感染風險上升到兩成以上。\n❌ (C) 慢性感染 20–30 年後，部分病人會進展為肝硬化、肝衰竭與肝細胞癌。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Viral Hepatitis；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "B型肝炎帶原者（hepatitis B carrier）",
     "三酸苷油酯（triglyceride）過高"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) B 型肝炎帶原者屬「病毒性」肝炎，不是非酒精性脂肪肝的危險因子；反而在診斷非酒精性脂肪肝時，必須先排除病毒性肝炎等其他肝病原因。\n❌ (A) 胰島素阻抗是非酒精性脂肪肝的核心病生理。\n❌ (B) 肥胖兒童是最主要的篩檢對象（指引建議 9–11 歲起、肥胖或過重合併危險因子者篩檢）。\n❌ (D) 高三酸甘油酯血症屬代謝症候群的一環，是明確的危險因子。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Nonalcoholic Fatty Liver Disease；NASPGHAN Clinical Practice Guideline。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "困難梭狀桿菌（Clostridium difficile）毒素檢測為陽性",
     "糞便離子間距 （ion gap） 大於 200 mOsm/kg"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 禁食後腹瀉即改善，代表是「滲透性腹瀉」——腸道中無法吸收的溶質把水拉進腸腔；其特徵就是糞便滲透間隙明顯升高（一般以大於 100 mOsm/kg 為界，數值愈高愈典型）。\n❌ (A) 若是乳糖等醣類吸收不良，糞便的還原物質應該是「陽性」。\n❌ (B) 未吸收的醣類被腸道細菌發酵，吐氣中的氫氣濃度會「上升」。\n❌ (C) 困難梭狀桿菌造成的是發炎性腹瀉，糞便會有白血球且禁食不會改善。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Chronic Diarrhea（Osmotic vs. secretory diarrhea）。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med4'] = {
     "可能含有異位性組織（ectopic tissue），胃組織比胰組織常見",
     "年紀小的幼童比年紀大的孩童，更易發生憩室炎（diverticulitis）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：憩室炎（臨床上酷似闌尾炎）反而較常發生在「年紀較大」的兒童與成人；年幼孩童以異位胃黏膜分泌胃酸造成的無痛性出血為主要表現。\n❌ (A) 最常見的表現是無痛性血便，其次是腸阻塞（含引發腸套疊）。\n❌ (B) 「2 的法則」：約 2% 人口、位於迴盲瓣近端 50–75 公分（約 2 英尺）內。\n❌ (C) 憩室內的異位組織以胃黏膜最常見，其次為胰臟組織。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Meckel Diverticulum and Other Remnants of the Omphalomesenteric Duct。"
   },
   {
    "n": 21,

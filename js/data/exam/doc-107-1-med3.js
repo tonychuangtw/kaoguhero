@@ -306,7 +306,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "身體診察（physical examination）可發現最大心尖搏動點（point of maximal impulse）由原本位置（第5肋 間及左鎖骨中線）向左及向下偏離",
     "左心室射出分量（left ventricular ejection fraction）為評估心臟收縮功能的指標"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：內頸靜脈壓反映的是「右心」的充盈壓（中央靜脈壓），無法完全反映左心室功能——左心衰竭的指標是肺鬱血、囉音與端坐呼吸。\n❌ (A) 收縮功能不良造成心室快速充盈期的第三心音；心室僵硬（舒張性心衰竭）造成心房收縮期的第四心音。\n❌ (C) 左心室擴大時，最大心尖搏動點會往左下方偏移。\n❌ (D) 左心室射出分率是評估收縮功能與分類心衰竭（射出分率下降或保留）的核心指標。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Heart Failure；Braunwald's Heart Disease, 12th ed.。"
   },
   {
    "n": 22,
@@ -319,7 +320,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "通常在正常吸氣時第二心音會產生生理性分裂（physiological splitting of S2）",
     "第四心音的產生通常與左心的血流量增加有關，如合併二尖瓣閉鎖不全"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：第四心音來自心房收縮把血液打進「僵硬、順應性差」的心室（如左心室肥厚、高血壓、缺血），與血流量增加無關；二尖瓣閉鎖不全這類容積過載造成的是「第三心音」。\n❌ (A) 第一心音來自二尖瓣與三尖瓣關閉。\n❌ (B) 第二心音來自主動脈瓣與肺動脈瓣關閉。\n❌ (C) 吸氣時右心回流增加、肺動脈瓣延後關閉，形成生理性分裂。\n📚 出處：Braunwald's Heart Disease, 12th ed., Ch. Physical Examination（Heart sounds）。"
   },
   {
    "n": 23,
@@ -332,7 +334,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "25歲，男性，風濕性心臟病合併僧帽瓣狹窄，不必使用抗凝血劑治療",
     "可考慮只做心律速度的管控（rate control）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：風濕性二尖瓣狹窄合併心房顫動屬「瓣膜性心房顫動」，血栓與栓塞風險極高，不論年齡與 CHA₂DS₂-VASc 分數都「必須」使用 warfarin 抗凝（此類病人不適用新型口服抗凝劑）。\n❌ (A) 心房顫動是臨床上最常見的持續性心律不整。\n❌ (B) 75 歲女性糖尿病患的 CHA₂DS₂-VASc 至少 4 分，明確需要抗凝治療。\n❌ (D) 對慢性（永久性）心房顫動，只做心室率控制與節律控制的長期預後相當，是合理策略。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Supraventricular Tachyarrhythmias；ACC/AHA/HRS Atrial Fibrillation Guideline。"
   },
   {
    "n": 24,
@@ -345,7 +348,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "是否有症狀",
     "是否適合二尖瓣修補術"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 慢性重度二尖瓣閉鎖不全只要「出現症狀」（活動時呼吸困難、心衰竭），即為手術的第一級適應症，不必等左心室功能惡化——因為左心室一旦受損，術後恢復有限。\n❌ (A) 左心室射出分率 ≤60% 是「無症狀」病人的手術指標，屬第二層考量。\n❌ (B) 左心室收縮末期直徑 ≥40 mm 同樣是無症狀病人的評估指標。\n❌ (D) 能否修補（而非置換）影響手術方式與時機的建議，但不是決定「該不該開刀」的首要條件。\n📚 出處：ACC/AHA Valvular Heart Disease Guideline；Braunwald's Heart Disease, 12th ed., Ch. Mitral Regurgitation。"
   },
   {
    "n": 25,
@@ -358,7 +362,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力",
     "病患肺血管主要的表徵為血管內皮增生，發炎反應增加，以及血管擴張"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 這是肺動脈高壓（頸靜脈壓上升、右心室搏動、右側第四心音、肺動脈膨大）；評估病因時必須排除「慢性血栓栓塞性肺高壓」，因此檢驗蛋白 C、蛋白 S、抗凝血酶 III 等易栓症因子是合理的方向（同時安排肺通氣灌流掃描）。\n❌ (B) 肺高壓的心電圖表現是心軸「右」偏與右心室肥大、右心房擴大。\n❌ (C) 估計肺動脈收縮壓用的是「三尖瓣」逆流的最大流速，不是二尖瓣。\n❌ (D) 肺高壓的血管病變是內皮增生、原位血栓與血管「收縮／重塑」造成管腔狹窄，不是血管擴張。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Pulmonary Hypertension。"
   },
   {
    "n": 26,
@@ -371,7 +376,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "高尿酸",
     "高血脂"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 高尿酸雖與代謝症候群相關，但「不是」ATP III 的五項診斷指標之一；五項為腰圍過大、三酸甘油酯高、高密度脂蛋白低、血壓高與空腹血糖高（符合三項即成立）。\n❌ (A) 血壓 ≥130/85 mmHg 是五項之一。\n❌ (B) 空腹血糖 ≥100 mg/dL 是五項之一。\n❌ (D) 三酸甘油酯 ≥150 mg/dL 與高密度脂蛋白偏低都屬血脂異常指標。\n📚 出處：NCEP ATP III（Metabolic syndrome criteria）；Harrison's Principles of Internal Medicine, 21st ed., Ch. The Metabolic Syndrome。"
   },
   {
    "n": 27,
@@ -384,7 +390,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "每4小時靜脈注射penicillin G二百萬到三百萬單位加上每8小時靜脈注射gentamicin 1 mg/kg，二週後如未發 燒且血液培養陰性即可出院，不需考慮心臟外科手術治療",
     "靜脈注射ampicillin每4小時2g加上每8小時靜脈注射gentamicin 1 mg/kg共4至6週後，考慮外科手術治療瓣 膜病變"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 草綠色鏈球菌造成的自體瓣膜心內膜炎，標準治療是青黴素 G 每日 1,200–1,800 萬單位「每 4 小時」分次靜脈注射，療程四週；本例贅生物達 15 mm（栓塞風險高）並已有心臟擴大的表現，因此後續要評估手術。\n❌ (A) 每 8 小時給藥的間隔太長，無法維持青黴素這種時間依賴性抗生素所需的血中濃度。\n❌ (C) 兩週的短療程只適用於「無併發症、贅生物小」且合併胺基糖苷的特定病例，本例贅生物大又有心臟受累，不能兩週結束也不能排除手術。\n❌ (D) ampicillin 加 gentamicin 是「腸球菌」心內膜炎的處方，與本例病原不符。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Infective Endocarditis；AHA Scientific Statement on Infective Endocarditis。"
   },
   {
    "n": 28,
@@ -397,7 +404,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "gastrin",
     "histamine"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 體制素（somatostatin）由胃竇與胰島的 D 細胞分泌，直接抑制壁細胞的胃酸分泌，並抑制胃泌素與組織胺的釋放，是胃酸調控中的主要抑制性荷爾蒙。\n❌ (A) 乙醯膽鹼經迷走神經作用於壁細胞的 M3 受體，促進胃酸分泌。\n❌ (C) 胃泌素由 G 細胞分泌，是最強的胃酸促進因子之一。\n❌ (D) 組織胺由腸嗜鉻樣細胞釋放，作用於壁細胞 H2 受體促進泌酸。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Peptic Ulcer Disease；Guyton and Hall, 14th ed.。"
   },
   {
    "n": 29,
@@ -410,7 +418,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "胰臟頭部腫瘤",
     "急性A型肝炎"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 急性 A 型肝炎屬「肝細胞性」黃疸（轉胺酶飆高為主），不是膽道機械性阻塞造成的阻塞性黃疸。\n❌ (A) 總膽管結石是阻塞性黃疸最常見的良性原因。\n❌ (B) 壺腹部癌直接阻塞膽胰管共同出口。\n❌ (C) 胰臟頭部腫瘤壓迫總膽管，典型表現是無痛性漸進黃疸合併膽囊腫大。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Jaundice；Ch. Diseases of the Gallbladder and Bile Ducts。"
   },
   {
    "n": 30,
@@ -423,7 +432,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "高血脂症",
     "胃食道逆流"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 胃食道逆流是食道下括約肌鬆弛造成的動力障礙，與肝臟的脂肪堆積沒有因果關係。\n❌ (A) 肥胖（尤其中心型肥胖）是非酒精性脂肪肝最主要的危險因子。\n❌ (B) 第二型糖尿病與胰島素阻抗直接促進肝內三酸甘油酯堆積。\n❌ (C) 高三酸甘油酯血症同屬代謝症候群，與脂肪肝密切相關。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Nonalcoholic Fatty Liver Diseases and Nonalcoholic Steatohepatitis。"
   },
   {
    "n": 31,
@@ -436,7 +446,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "經胃鏡切片組織學檢查",
     "尿液幽門螺旋桿菌抗體檢查"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 碳 13 尿素呼氣試驗是評估「殺菌是否成功」的首選：非侵入性、準確度高（敏感度與特異度均約 95%），只要在停用氫離子幫浦抑制劑兩週、抗生素四週後檢測即可。\n❌ (B) 血清抗體在殺菌成功後仍會持續存在數月至數年，無法判斷是否根除。\n❌ (C) 胃鏡切片雖準確，但屬侵入性且成本高，不是「最簡便」的選擇。\n❌ (D) 尿液抗體同樣反映過去感染，不能用於療效評估。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Peptic Ulcer Disease；Maastricht/Florence Consensus Report。"
   },
   {
    "n": 32,
@@ -449,7 +460,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "④⑤",
     "①④"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) ④⑤ 正確：脾臟膿瘍刺激左側橫膈，經膈神經（C3–C5）轉移痛到「左肩」（Kehr 徵象）；腹主動脈剝離的疼痛範圍廣，也可能傳導到肩背部。\n❌ (A) ①錯：急性膽囊炎正是上腹（右上腹）痛的常見原因；②錯：McBurney 點壓痛是「闌尾炎」，大腸憩室炎（西方型）在左下腹。\n❌ (B) ③錯：急性胰臟炎的疼痛典型輻射到「背部」，不是右肩。\n❌ (D) 含①，理由同上。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Abdominal Pain。"
   },
   {
    "n": 33,
@@ -462,7 +474,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "高磷血症（hyperphosphatemia）促進活性維他命D之產生",
     "低鈣血症（hypocalcemia）刺激副甲狀腺荷爾蒙之產生"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：高血磷會「抑制」腎臟的 1-α 羥化酶（同時經由成纖維細胞生長因子 23 間接抑制），使活性維生素 D 減少——這正是續發性副甲狀腺亢進的核心環節之一。\n❌ (A) 腎絲球過濾率下降使磷排除減少，造成高血磷。\n❌ (B) 成纖維細胞生長因子 23 上升會抑制 1-α 羥化酶並促進尿磷排泄，是早期的代償機轉。\n❌ (D) 低血鈣直接刺激副甲狀腺的鈣感受受體，促進副甲狀腺素分泌。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Chronic Kidney Disease（CKD-MBD）。"
   },
   {
    "n": 34,
@@ -475,7 +488,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "原發性皮質醛酮症",
     "噁心嘔吐兩天"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最不符合：這組數據是「低血鉀性代謝性鹼中毒」（pH 7.49、碳酸氫根 28、鉀 3.0、氯 89）；急性腹瀉流失的是富含碳酸氫根的腸液，造成的是高血氯性「代謝性酸中毒」，方向完全相反。\n❌ (A) 長期使用利尿劑造成低血鉀、低血氯性代謝性鹼中毒，完全符合。\n❌ (C) 原發性醛固酮症使鈉滯留、鉀與氫離子排出，同樣造成低血鉀鹼中毒（且血鈉偏高）。\n❌ (D) 嘔吐流失胃酸（氫離子與氯），是低血氯代謝性鹼中毒的典型原因。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acidosis and Alkalosis。"
   },
   {
    "n": 35,
@@ -488,7 +502,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "是否長期使用制酸劑",
     "有無使用環狀利尿劑"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 幫助最小：病人是「高血鈣」（游離鈣 3.00 mmol/L）；環狀利尿劑會促進鈣的排出而「降低」血鈣，不會是高血鈣的原因（它反而是高血鈣的治療之一）。\n❌ (A) 過量補充維生素 D 是外因性高血鈣的常見原因。\n❌ (B) 嚼含石灰的檳榔會攝入大量鈣質，是臺灣特有的鹼奶症候群（milk-alkali）病因。\n❌ (C) 長期大量使用含鈣制酸劑同樣造成鹼奶症候群（高血鈣、鹼中毒與腎損傷）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis（Hypercalcemia）。"
   },
   {
    "n": 36,
@@ -501,7 +516,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "中樞性尿崩症（central diabetes insipidus）",
     "腎性尿崩症（nephrogenic diabetes insipidus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 禁水後尿液無法濃縮，「再給抗利尿激素仍然無效」——代表腎臟對抗利尿激素沒有反應，即腎性尿崩症（常見於鋰鹽、高血鈣、低血鉀或遺傳性水通道／受體缺陷）。\n❌ (A) 正常人禁水後尿液滲透壓會明顯上升。\n❌ (B) 精神性多尿禁水後也能濃縮尿液（只是基礎值較低）。\n❌ (C) 中樞性尿崩症禁水後無法濃縮，但給予抗利尿激素後尿液滲透壓會「明顯上升」超過 50%。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Neurohypophysis（Diabetes insipidus）。"
   },
   {
    "n": 37,
@@ -514,7 +530,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Churg-Strauss syndrome—asthmatic attack",
     "polyarteritis nodosa—severe migraine"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 嗜酸性肉芽腫性多套血管炎（Churg-Strauss）的三階段病程始於「氣喘」與過敏性鼻炎，接著周邊血液與組織嗜酸性球增多，最後才出現血管炎（周邊神經病變、心臟侵犯）。\n❌ (A) 肉芽腫性多套血管炎（Wegener）的特徵是上呼吸道肉芽腫、肺結節與腎絲球腎炎，不是蕁麻疹。\n❌ (B) 慢性鼻竇炎是肉芽腫性多套血管炎的表現；顯微多套血管炎不侵犯上呼吸道。\n❌ (D) 結節性多動脈炎典型侵犯中型動脈（腎、腸繫膜、周邊神經），不以偏頭痛表現。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. The Vasculitis Syndromes。"
   },
   {
    "n": 38,
@@ -527,7 +544,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "pain on motion during chest expansion",
     "symmetric sacroiliitis in X-ray films"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) X 光上「雙側對稱性薦腸關節炎」是僵直性脊椎炎診斷的核心影像依據（改良紐約標準的必要條件），特異度遠高於其他選項。\n❌ (A) HLA-B27 陽性率在一般人口也有數個百分點，陽性預測值低，只能作輔助。\n❌ (B) 老年人的下背痛絕大多數是退化性，且此病典型在 40 歲前發病。\n❌ (C) 胸廓擴張受限是支持性所見，但特異度不足。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. The Spondyloarthritides（Modified New York criteria）。"
   },
   {
    "n": 39,
@@ -540,7 +558,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "自50歲起每2年做一次乳房攝影（mammography）",
     "自35歲起每2年做正子攝影檢查（PET）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 對一般風險（無家族史或個人史）的女性，美加與歐洲的主流建議是「50 歲起每兩年一次乳房攝影」篩檢至 69–74 歲（臺灣國健署提供 45–69 歲每兩年一次）。\n❌ (A) 磁振造影只建議用於高風險族群（如 BRCA 帶因者），不用於一般族群。\n❌ (B) 超音波是輔助工具（尤其緻密乳房），不是一般族群的主要篩檢工具。\n❌ (D) 正子攝影輻射劑量高、成本高且敏感度不足，完全不適合篩檢。\n📚 出處：US Preventive Services Task Force Breast Cancer Screening Recommendation；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 40,
@@ -553,7 +572,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "先行化學治療，再接續使用芳香環轉化酶抑制劑（如：anastrozole）",
     "同時使用 化學治療和芳香環轉化酶抑制劑"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 停經後、荷爾蒙受體陽性、HER2 陰性且有淋巴結轉移者，術後應「先完成化學治療，再接續荷爾蒙治療」；停經後首選芳香環轉化酶抑制劑（無惡化存活優於 tamoxifen）。\n❌ (A) 停經後病人使用 tamoxifen 的效果不如芳香環轉化酶抑制劑，且會增加子宮內膜癌與血栓風險。\n❌ (B) 化療與荷爾蒙治療「同時」給予會降低化療效果並增加毒性，標準是依序給予。\n❌ (D) 同樣犯了併用的錯誤。\n📚 出處：NCCN Guidelines for Breast Cancer；Harrison's Principles of Internal Medicine, 21st ed., Ch. Breast Cancer。"
   },
   {
    "n": 41,
@@ -566,7 +586,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "有異常之PML/RARα融合基因",
     "以反轉式維甲酸tretinoin治療，可以達到完全緩解"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：急性前骨髓細胞白血病的特徵性染色體異常是「t(15;17)」，把第 15 號染色體的 PML 基因與第 17 號的 RARα 基因融合，不是 t(5;7)。\n❌ (A) 顆粒內的組織因子與蛋白酶大量釋出，是最容易併發瀰漫性血管內凝血、也是早期死亡的主因。\n❌ (C) PML/RARα 融合基因正是它的分子標記與治療標的。\n❌ (D) 全反式維甲酸使停滯在前骨髓細胞階段的白血病細胞恢復分化（併用三氧化二砷），完全緩解率極高。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Acute Myeloid Leukemia（Acute promyelocytic leukemia）。"
   },
   {
    "n": 42,
@@ -579,7 +600,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "multiple myeloma",
     "acute lymphoblastic leukemia"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) rituximab 是抗 CD20 的單株抗體，與 CHOP 化療併用（R-CHOP）能顯著提高瀰漫大 B 細胞淋巴瘤的完全緩解率與整體存活率，是淋巴瘤治療史上的里程碑。\n❌ (B) 周邊 T 細胞淋巴瘤不表現 CD20，rituximab 無效。\n❌ (C) 多發性骨髓瘤的漿細胞多不表現 CD20。\n❌ (D) 急性淋巴性白血病只有 CD20 陽性的成熟 B 細胞型才可能加用，並非普遍適用。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Malignancies of Lymphoid Cells。"
   },
   {
    "n": 43,
@@ -592,7 +614,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "antithrombin III deficiency",
     "factor V Leiden mutation"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 第五凝血因子萊登突變是「白種人」易栓症最常見的原因（帶因率約 5%），但在臺灣人與東亞族群幾乎不存在，因此本例最不可能是它。\n❌ (A) 蛋白 C 缺乏是亞洲人遺傳性易栓症的重要原因之一。\n❌ (B) 蛋白 S 缺乏在臺灣族群的比例甚至更高。\n❌ (C) 抗凝血酶 III 缺乏同樣是亞洲人常見的遺傳性易栓症。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Thrombotic Disorders（Inherited thrombophilia）。"
   },
   {
    "n": 44,
@@ -605,7 +628,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "seminoma",
     "chronic myeloid leukemia"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 精原細胞瘤對含鉑化療（與放射線）極為敏感，即使已有轉移，治癒率仍可達八成以上——它是實體腫瘤中少數能靠化學治療治癒的代表。\n❌ (A) 非小細胞肺癌的化療多屬延長存活的緩解性治療。\n❌ (B) 轉移性大腸直腸癌以化療合併標靶延長存活，難以治癒。\n❌ (D) 慢性骨髓性白血病靠酪胺酸激酶抑制劑可長期控制，但那是標靶治療，真正的治癒仍需異體造血幹細胞移植。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Testicular Cancer；Ch. Principles of Cancer Treatment。"
   },
   {
    "n": 45,
@@ -618,7 +642,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "運動肺功能的變化可作為預後的預測",
     "一氧化碳瀰散量（CO diffusing capacity, DLCO）通常會降低，但DLCO/VA（alveolar ventilation）是正常"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：間質性肺纖維化因肺泡微血管膜增厚且有效交換面積減少，一氧化碳瀰散量下降，而且「校正肺泡容積後的 DLCO/VA 同樣下降」——這正是它與單純肺容積減少（如肺切除、胸廓變形）的區別。\n❌ (A) 老年男性、緩慢進展的病程，最常見的是特發性肺纖維化；自體免疫或類肉瘤的機率較低。\n❌ (B) 限制型的肺功能表現：肺活量與一秒量同步下降、比值正常，全肺量降低。\n❌ (C) 運動時的血氧下降程度與六分鐘走路距離，都是重要的預後預測因子。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Interstitial Lung Disease；Ch. Disturbances of Respiratory Function。"
   },
   {
    "n": 46,
@@ -631,7 +656,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "動脈氧氣分壓由100 mmHg降為70 mmHg",
     "動脈血氧飽和度由100%降為70%"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 影響最小：氧解離曲線在此區段接近平坦，氧分壓由 100 降到 70 mmHg 時，血氧飽和度仍有約 93%，血液的攜氧量幾乎沒有改變。\n❌ (A) 平均動脈壓從 70 降到 50 mmHg，已低於多數器官自我調節的下限，灌流明顯不足。\n❌ (B) 血色素從 15 降到 10 g/dL，攜氧量直接掉三分之一。\n❌ (D) 飽和度掉到 70%，攜氧量同樣減少約三成，影響極大。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Approach to the Patient with Shock；Guyton and Hall, 14th ed.（Oxygen-hemoglobin dissociation curve）。"
   },
   {
    "n": 47,
@@ -644,7 +670,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "「胸水中lactate dehydrogenase（LDH）」與「血清中lactate dehydrogenase（LDH）」的比值＞0.6",
     "「胸水中lactate dehydrogenase（LDH）值」大於「血清中 lactate dehydrogenase（LDH）正常上限值」 的2/3"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 胸水白蛋白的絕對值不是 Light's criteria 的項目（血清與胸水白蛋白的「差值」小於 1.2 g/dL 才是輔助判斷滲出液的指標）。\n❌ (B) 胸水/血清蛋白比 >0.5 是三項標準之一。\n❌ (C) 胸水/血清乳酸脫氫酶比 >0.6 是三項標準之一。\n❌ (D) 胸水乳酸脫氫酶大於血清正常上限的三分之二，是第三項標準（符合任一項即為滲出液）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Pleura（Light's criteria）。"
   },
   {
    "n": 48,
@@ -657,7 +684,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "鱗狀細胞癌（squamous cell carcinoma）",
     "大細胞肺癌（large cell carcinoma）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 分泌副甲狀腺素相關胜肽造成高血鈣，是「鱗狀細胞癌」最典型的腫瘤旁症候群（頭頸部鱗狀細胞癌亦然）。\n❌ (A) 小細胞肺癌的代表性腫瘤旁症候群是抗利尿激素不當分泌症候群、異位促腎上腺皮質素症候群與蘭伯特-伊頓肌無力症候群。\n❌ (B) 腺癌較常見的是肥厚性肺性骨關節病變與血栓傾向。\n❌ (D) 大細胞肺癌沒有特別代表性的腫瘤旁症候群。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Neoplasms of the Lung；Ch. Paraneoplastic Syndromes。"
   },
   {
    "n": 49,
@@ -670,7 +698,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "結核性心包膜炎（pericarditis）的治療除了抗結核標準治療外，類固醇治療未被確認可改善病情",
     "結核性腦膜炎（meningitis）治療為標準抗結核治療6個月"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：結核性腦膜炎的療程是「9–12 個月」（並需併用類固醇以降低死亡率與神經後遺症），不是一般肺結核的 6 個月。\n❌ (A) 淋巴腺結核（尤其頸部淋巴結）是最常見的肺外結核。\n❌ (B) 脊椎結核造成的脊髓病變多數可隨抗結核藥物治療改善，只有嚴重壓迫或脊椎不穩定時才需手術。\n❌ (C) 結核性心包膜炎併用類固醇能否改善病情，大型試驗結果並不一致，尚未獲得確認。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Tuberculosis；WHO Consolidated Guidelines on Tuberculosis Treatment。"
   },
   {
    "n": 50,
@@ -683,7 +712,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "不會呈現陽性之支氣管激發試驗（bronchial provocation test）",
     "經支氣管擴張試驗（bronchodilator test）後之「一秒量（FEV1）」小於0.7"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：慢性阻塞性肺病病人也常有氣道過度反應，支氣管激發試驗「可能呈陽性」——這正是它與氣喘在臨床上不易截然二分（甚至有重疊症候群）的原因。\n❌ (A) 吸菸是最主要且可預防的危險因子。\n❌ (B) 一秒量是評估氣流阻塞嚴重度、分級與追蹤病程的單一最佳指標。\n❌ (D) 支氣管擴張劑後的一秒量／用力肺活量比值仍小於 0.7，是診斷持續性氣流受限的必要條件。\n📚 出處：GOLD Report（Global Strategy for the Diagnosis, Management, and Prevention of COPD）。"
   },
   {
    "n": 51,
@@ -696,7 +726,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "FEV1/FVC",
     "自行使用尖峰呼氣流速（PEFR）之檢查"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 尖峰呼氣流速計便宜、可攜、病人能每天在家自行測量並記錄，用來偵測氣流阻塞的早期變化與執行「氣喘行動計畫」最簡單有效（降到個人最佳值 80% 以下即需調整用藥）。\n❌ (A) 痰液嗜伊紅性白血球計數需特殊處理與判讀，不適合日常自我監測。\n❌ (B) 免疫球蛋白 E 反映過敏體質，數值不隨病情快速變化。\n❌ (C) 一秒量與用力肺活量的比值必須用肺量計測量，無法每日自行追蹤。\n📚 出處：Global Initiative for Asthma（GINA）Report；Harrison's Principles of Internal Medicine, 21st ed., Ch. Asthma。"
   },
   {
    "n": 52,
@@ -709,7 +740,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "頸部MRI（magnetic resonance imaging）",
     "頸部CT（computed tomography）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 生化已確立原發性副甲狀腺亢進（高血鈣、低血磷、副甲狀腺素不當升高），超音波找不到病灶時，下一步是 Tc99m-sestamibi 核醫掃描加單光子電腦斷層——它能偵測異位（縱膈腔、甲狀腺內或食道後）的腺瘤，是術前定位的標準工具。\n❌ (B) 碘-131 掃描評估的是甲狀腺功能，對副甲狀腺定位沒有幫助。\n❌ (C) 頸部磁振造影可作為輔助，但不是首選定位工具。\n❌ (D) 電腦斷層屬第二線輔助（4D-CT），輻射劑量也較高。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Parathyroid Gland；Schwartz's Principles of Surgery, 11th ed.。"
   },
   {
    "n": 53,
@@ -722,7 +754,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "CA-199",
     "CA-125"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 甲狀腺結節的細針抽吸看到紡錘型細胞，加上血中癌胚抗原升高而大腸與肺部檢查皆正常——最該懷疑的是甲狀腺髓質癌；它由濾泡旁 C 細胞形成，同時分泌「降鈣素」與癌胚抗原，驗降鈣素即可確認。\n❌ (A) 甲狀腺球蛋白是濾泡細胞來源腫瘤（乳突癌、濾泡癌）術後追蹤用的標記，髓質癌不分泌。\n❌ (C) CA-199 主要用於胰臟與膽道腫瘤。\n❌ (D) CA-125 主要用於卵巢癌。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Thyroid Gland（Medullary thyroid carcinoma）。"
   },
   {
    "n": 54,
@@ -735,7 +768,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "手術後不用服用cortisone acetate",
     "這病人顯然長期在使用dexamethasone"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 促腎上腺皮質素被壓到測不到、皮質醇卻持續偏高且失去日夜節律，隔夜 dexamethasone 又壓不下來——這是「不依賴促腎上腺皮質素」的庫欣氏症候群，病灶在腎上腺，因此下一步安排腎上腺電腦斷層找腫瘤。\n❌ (B) 庫欣氏「病」指的是腦下垂體腺瘤分泌過多促腎上腺皮質素，此時促腎上腺皮質素應該升高而非測不到。\n❌ (C) 切除分泌皮質醇的腎上腺腫瘤後，對側腎上腺長期被抑制而萎縮，術後必須補充類固醇並慢慢減量。\n❌ (D) 若是外源性類固醇造成，皮質醇應該一併被壓低（測不到），不會是 20 μg/dL 這麼高。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Adrenal Cortex（Cushing's syndrome）。"
   },
   {
    "n": 55,
@@ -748,7 +782,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "腎臟",
     "心血管"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 視網膜病變是第 1 型糖尿病最早、也最普遍出現的微血管併發症——發病 10–15 年後幾乎所有病人都有不同程度的視網膜病變，因此建議發病 5 年後即開始每年眼底檢查。\n❌ (B) 神經病變通常在視網膜病變之後才逐漸明顯。\n❌ (C) 腎病變的微量白蛋白尿多在發病十年以後出現，且只有三成左右的病人會進展。\n❌ (D) 大血管（心血管）併發症在第 1 型糖尿病屬更晚期的問題。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Diabetes Mellitus: Complications；ADA Standards of Medical Care in Diabetes。"
   },
   {
    "n": 56,
@@ -761,7 +796,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "服用過量含碘物質",
     "甲狀腺癌"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 甲狀腺癌極少造成功能亢進——癌細胞攝碘與製造甲狀腺素的能力遠低於正常組織，臨床上表現為「冷結節」而非甲狀腺毒症。\n❌ (A) 葛瑞夫茲病由刺激型甲狀腺促素受體抗體造成，是甲狀腺亢進最常見的原因。\n❌ (B) 橋本氏甲狀腺炎在早期破壞濾泡時，可短暫釋出大量甲狀腺素造成「橋本氏毒症」。\n❌ (C) 攝入過量碘（顯影劑、amiodarone、海藻）可誘發碘引起的甲狀腺毒症（Jod-Basedow 現象）。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Disorders of the Thyroid Gland。"
   },
   {
    "n": 57,
@@ -774,7 +810,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "fibric acid衍生物與Statin合併使用可能造成橫紋肌溶解症（rhabdomyolysis）",
     "fibric acid衍生物與Statin嚴禁合併使用"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：兩者「不是嚴禁」併用——對混合型高血脂病人可在監測肌肉症狀與肌酸激酶的前提下併用，只是要避開交互作用最強的 gemfibrozil，改用 fenofibrate。\n❌ (A) 纖維酸衍生物降三酸甘油酯的效果最強，是高三酸甘油酯血症（尤其超過 500 mg/dL 有胰臟炎風險時）的首選。\n❌ (B) 史他汀是降低低密度脂蛋白膽固醇與心血管事件的第一線用藥。\n❌ (C) 兩者併用確實會提高肌病變與橫紋肌溶解的風險，需要衛教與監測。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Agents Used in Dyslipidemia；ACC/AHA Cholesterol Guideline。"
   },
   {
    "n": 58,
@@ -787,7 +824,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "血小板下降（thrombocytopenia）",
     "血比容下降20%以上"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 不是：登革出血熱的關鍵是血漿滲漏，血比容因血液濃縮而「上升 20% 以上」（或治療後下降 20% 以上），不是一開始就下降。\n❌ (A) 發燒是四大診斷條件之一。\n❌ (B) 出血傾向（點狀出血、紫斑、束帶試驗陽性）是條件之一。\n❌ (C) 血小板低於 100,000/mm³ 是條件之一。\n📚 出處：WHO Dengue Guidelines for Diagnosis, Treatment, Prevention and Control；衛生福利部疾病管制署登革熱臨床診療指引。"
   },
   {
    "n": 59,
@@ -800,7 +838,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "抗生素投藥24小時後，一般病人即不具有傳染性",
     "治療藥物為penicillin或ceftriaxone"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：腦膜炎雙球菌經「飛沫」傳染，採飛沫防護（單人房、戴外科口罩）即可，不需要負壓隔離的空氣傳染防護（那是結核、麻疹、水痘才需要）。\n❌ (B) 腦脊髓液革蘭氏陰性雙球菌加上瘀點性皮疹與群聚爆發，正是腦膜炎雙球菌。\n❌ (C) 有效抗生素治療 24 小時後傳染力即大幅下降，可解除飛沫隔離。\n❌ (D) 青黴素或第三代頭孢子素（ceftriaxone）都是標準治療；密切接觸者另需預防性投藥。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Meningococcal Infections；CDC Isolation Precautions Guideline。"
   },
   {
    "n": 60,
@@ -813,7 +852,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "imipenem/cilastatin",
     "vancomycin"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 住院兩週後突發高燒、腹瀉、低血鈉、意識與呼吸惡化的葉性肺炎，痰液滿是白血球「卻看不到任何細菌」——這組合高度指向退伍軍人菌（Legionella）；治療首選呼吸道氟喹諾酮（如 levofloxacin、ciprofloxacin）或巨環類。\n❌ (B) fluconazole 用於念珠菌感染，痰抹片與臨床表現皆不支持。\n❌ (C) 碳青黴烯類雖廣效，但對細胞內的退伍軍人菌無效（β-內醯胺類無法進入細胞內）。\n❌ (D) 萬古黴素只涵蓋革蘭氏陽性菌，抹片未見任何細菌，不符。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Legionella Infections；Ch. Pneumonia。"
   },
   {
    "n": 61,
@@ -826,7 +866,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "呼吸困難",
     "神智不清"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 最不可能：肉毒桿菌毒素只作用在周邊神經肌肉接合處（阻斷乙醯膽鹼釋放），「不進入中樞神經」，因此病人全程意識清楚——這正是它與腦炎、中風等中樞病灶的重要鑑別點。\n❌ (A) 眼外肌先受影響，複視與眼瞼下垂是最早的症狀。\n❌ (B) 延髓支配的肌肉無力造成吞嚥困難、構音障礙與口乾。\n❌ (C) 對稱性下行性麻痺蔓延到呼吸肌時造成呼吸衰竭，是致死主因。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Botulism。"
   },
   {
    "n": 62,
@@ -839,7 +880,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "漢生病（Hansen’s disease）",
     "流行性感冒"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 嚴重急性呼吸道症候群由冠狀病毒引起，沒有專一有效的抗病毒藥（以支持療法為主）；它可經飛沫與氣膠傳播且致死率高，必須採嚴格的空氣與接觸隔離。\n❌ (B) 吸入型炭疽有明確有效的抗生素（ciprofloxacin、doxycycline 併用），且不會人傳人。\n❌ (C) 漢生病（痲瘋）有多重藥物治療（dapsone、rifampin、clofazimine），治療後即失去傳染力。\n❌ (D) 流行性感冒有神經胺酸酶抑制劑等抗病毒藥，且採飛沫防護即可。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Coronaviruses；CDC Isolation Precautions Guideline。"
   },
   {
    "n": 63,
@@ -852,7 +894,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "ertapenem",
     "ciprofloxacin"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) ertapenem 是碳青黴烯類中唯一「不涵蓋綠膿桿菌」者（也不涵蓋不動桿菌與腸球菌）——這是它與 imipenem、meropenem 最重要的區別。\n❌ (A) ceftazidime 是抗綠膿桿菌的第三代頭孢子素。\n❌ (B) aztreonam 是單環 β-內醯胺類，涵蓋含綠膿桿菌在內的革蘭氏陰性菌，且可用於青黴素過敏者。\n❌ (D) ciprofloxacin 是抗綠膿桿菌活性最強的氟喹諾酮。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Beta-Lactam Antibiotics；Ch. Quinolones。"
   },
   {
    "n": 64,
@@ -865,7 +908,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "尿液dipstick test可偵測到蛋白尿",
     "小便檢驗應可測出monoclonal light chain"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：試紙的蛋白尿測試主要偵測「白蛋白」，對本症的單株輕鏈（本瓊氏蛋白）不敏感，常呈陰性——必須靠尿液蛋白電泳或免疫固定電泳才能測到。\n❌ (A) 本例免疫球蛋白全面偏低（屬輕鏈型骨髓瘤），血中沒有大量單株免疫球蛋白，因此不一定會有紅血球串錢狀排列。\n❌ (B) 漿細胞留在骨髓內，周邊血抹片極少見到（除非是漿細胞白血病）。\n❌ (D) 尿液免疫固定電泳可測出單株輕鏈，是輕鏈型骨髓瘤的診斷關鍵。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Plasma Cell Disorders（Multiple myeloma）。"
   },
   {
    "n": 65,
@@ -878,7 +922,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "bortezomib之類的所謂新型製劑（novel agents）合併化學治療可提高這類新診斷病患誘導治療的完全緩解 率（complete remission rate）",
     "日後的自體造血幹細胞移植（autologous hematopoietic stem cell transplantation）可以提高長期存活率"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：melphalan 加 prednisolone 是 1960 年代的老處方，如今已「不再」是第一線——現行標準是以蛋白酶體抑制劑或免疫調節劑為骨幹的三合一（甚至四合一）方案，且 melphalan 會傷害幹細胞而影響日後自體移植的採集。\n❌ (A) 雙磷酸鹽可減少骨骼相關事件與疼痛，即使沒有高血鈣也建議使用。\n❌ (C) 加入 bortezomib 等新型製劑能明顯提高誘導治療的完全緩解率與反應深度。\n❌ (D) 適合的病人接受自體造血幹細胞移植，可延長無惡化與整體存活。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Plasma Cell Disorders；NCCN Guidelines for Multiple Myeloma。"
   },
   {
    "n": 66,
@@ -891,7 +936,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "每年周邊動脈硬化檢查",
     "需要時安排足底神經學檢查"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：糖尿病共同照護網的年度必要項目不包括「每年周邊動脈硬化檢查」——踝肱指數等血管檢查只在出現症狀或屬高風險時才安排，不是每年例行。\n❌ (A) 糖化血色素每三個月追蹤一次是標準流程。\n❌ (B) 每年一次的眼底檢查（散瞳或眼底照相）是必要項目。\n❌ (D) 足部檢查含單股纖維與音叉的神經學評估，依需要安排。\n📚 出處：衛生福利部中央健康保險署「全民健康保險糖尿病醫療給付改善方案」；ADA Standards of Medical Care in Diabetes。"
   },
   {
    "n": 67,
@@ -904,7 +950,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "第一秒用力吐氣量與肺活量（forced vital capacity, FVC）比值（FEV1/FVC）降低",
     "肺活量中間50%的用力吐氣流速（FEF25-75）降低"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 與這位病人無關：慢性阻塞性肺病因氣體滯留與過度充氣，殘餘容積是「增加」而非減少（同時全肺量增加、吸氣容量減少）。\n❌ (B) 一秒量下降是氣流阻塞的核心表現。\n❌ (C) 一秒量與用力肺活量比值降低，是診斷阻塞型障礙的必要條件。\n❌ (D) 中段用力吐氣流速降低反映小氣道病變，往往是最早出現的異常。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Chronic Obstructive Pulmonary Disease；Ch. Disturbances of Respiratory Function。"
   },
   {
    "n": 68,
@@ -917,7 +964,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "可適用於各層級的老人照護",
     "是以身體疾病的篩檢為主"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：周全性老年評估是「多面向」的——除了身體疾病，還包括功能狀態（日常生活活動）、認知、情緒、營養、用藥、社會支持與居住環境，絕不是以身體疾病篩檢為主。\n❌ (A) 它的目的正是找出虛弱老人的問題並擬定整體照護與追蹤計畫。\n❌ (B) 流程為篩選合適對象、進行多面向評估、提出建議並落實執行與追蹤。\n❌ (C) 從急性病房、亞急性照護到社區與長照機構，各層級都可應用。\n📚 出處：Hazzard's Geriatric Medicine and Gerontology, 8th ed., Ch. Comprehensive Geriatric Assessment。"
   },
   {
    "n": 69,
@@ -930,7 +978,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "根據美國癌症學會建議，吳女士接受子宮頸抹片檢查的年齡不應有上限",
     "應建議吳女士接受人類乳突狀病毒疫苗注射"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 65 歲以上、過去十年內篩檢結果連續正常且無子宮頸癌病史者，指引建議可以「停止」子宮頸抹片篩檢——本例 72 歲、連續三年正常，符合停檢條件。\n❌ (A) 抹片屬「次段」預防（早期發現、早期治療）；初段預防是疫苗接種與健康行為。\n❌ (C) 美國癌症學會明確建議 65 歲以上且過去篩檢正常者可停止，並非沒有上限。\n❌ (D) 人類乳突病毒疫苗建議在初次性行為前接種，對已無性行為的高齡女性沒有效益（核准年齡上限一般為 45 歲）。\n📚 出處：ACS Guideline for Cervical Cancer Screening；Gordis Epidemiology, 6th ed.（Levels of prevention）。"
   },
   {
    "n": 70,
@@ -943,7 +992,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "敏感度與特異度的考量一樣重要",
     "視篩檢族群的不同，而有所不同"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 篩檢工具首重「敏感度」——先天性甲狀腺功能低下如果漏掉（偽陰性），孩子會造成不可逆的智能障礙；偽陽性只是多做一次確認檢查，代價小得多。\n❌ (B) 特異度不足只會增加複檢與家長焦慮，後果遠輕於漏診。\n❌ (C) 篩檢的設計本來就是「寧可錯殺、不可放過」，兩者並非同等重要。\n❌ (D) 這個原則不會因篩檢族群不同而改變——除非改變的是篩檢目的（如確診工具才重特異度）。\n📚 出處：Gordis Epidemiology, 6th ed., Ch. The Validity of Screening Tests；衛生福利部國民健康署新生兒篩檢說明。"
   },
   {
    "n": 71,
@@ -956,7 +1006,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "傾聽、解釋、警覺、建議、妥協",
     "傾聽、解釋、認知、建議、妥協"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) LEARN 模式的五個步驟是 Listen（傾聽病人對疾病的看法）、Explain（解釋醫學觀點）、Acknowledge（認知雙方異同）、Recommend（提出建議）、Negotiate（協商妥協），用於跨文化醫病溝通。\n❌ (A) 沒有 Explain 與 Negotiate 這兩個關鍵步驟。\n❌ (B) 同樣缺少解釋與協商。\n❌ (C) 第三步是 Acknowledge（認知）而非警覺。\n📚 出處：Berlin & Fowkes, A Teaching Framework for Cross-cultural Health Care（LEARN model），West J Med 1983。"
   },
   {
    "n": 72,
@@ -969,7 +1020,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "惡性腫瘤死亡率，超過心臟疾病成為第一大死亡原因",
     "分級醫療及轉診制度的開始"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 全民健保開辦後，資源向醫學中心與大型醫院集中，「地區醫院」在支付制度與競爭下逐年減少（許多轉型為診所或關閉），是健保後醫療生態最明顯的結構變遷之一。\n❌ (B) 基層診所的數目是「增加」的。\n❌ (C) 惡性腫瘤早在 1982 年就已躍居國人死因第一位，不是健保開辦後才發生。\n❌ (D) 分級醫療與轉診制度在健保開辦前即有相關規劃，健保初期反而因就醫自由而弱化，近年才重新強化。\n📚 出處：衛生福利部統計處國人死因統計；中央健康保險署全民健康保險統計年報。"
   },
   {
    "n": 73,
@@ -982,7 +1034,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "預防頭暈之藥物",
     "抗憂鬱劑"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 鴉片類止痛藥造成的便祕「不會隨時間耐受」，會持續整個用藥期間；因此只要開立鴉片類藥物，就應同時常規給予軟便劑與刺激性瀉劑預防。\n❌ (B) 鎮靜本身就是鴉片的副作用，不需另外加強（過度鎮靜反而危險）。\n❌ (C) 頭暈通常在數天內產生耐受，不需常規預防用藥。\n❌ (D) 抗憂鬱劑只在合併憂鬱或神經病變性疼痛時才使用，不是常規併用。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Palliative and End-of-Life Care；WHO Cancer Pain Relief。"
   },
   {
    "n": 74,
@@ -995,7 +1048,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "家族性大腸息肉症有很大的惡性機率",
     "以增生性息肉（hyperplastic polyp）為最常見"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯的是這一項：息肉「愈大」惡性機率愈高（一般以 2 公分為界），不是愈小。\n❌ (A) 波伊茲–耶格症候群、加德納症候群與家族性大腸息肉症都可能合併胃息肉。\n❌ (C) 家族性大腸息肉症的胃底腺息肉雖多為良性，但其十二指腸與大腸病灶惡性風險極高，整體屬高危險族群。\n❌ (D) 胃息肉中以增生性息肉（與胃底腺息肉）最常見，腺瘤性息肉較少但惡性潛能高。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Gastrointestinal Tract Cancer（Gastric polyps）。"
   },
   {
    "n": 75,
@@ -1008,7 +1062,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "神經毒性（neurotoxicity）",
     "腎毒性（nephrotoxicity）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 普拿疼中毒的毒性代謝物 NAPQI 耗盡穀胱甘肽後攻擊肝細胞，造成中央小葉壞死；典型病程是服用後 24–72 小時轉胺酶飆升，第三、四天出現黃疸、深茶色尿與凝血時間延長，嚴重者進展為猛爆性肝衰竭。\n❌ (B) 普拿疼不造成心毒性。\n❌ (C) 意識改變多是肝性腦病變的續發結果，不是直接的神經毒性。\n❌ (D) 少數大量中毒可併發急性腎小管壞死，但黃疸與茶色尿反映的是肝損傷與膽紅素上升。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Toxic and Drug-Induced Hepatitis；Goldfrank's Toxicologic Emergencies, 11th ed.。"
   },
   {
    "n": 76,
@@ -1021,7 +1076,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "若使用Venturi面罩，流量每分鐘4～12 L，可提供的氧氣濃度約為24～50%",
     "若使用非再吸入型面罩（non-rebreathing mask），流量每分鐘6～10 L，可提供的氧氣濃度約為 60～100%"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 文氏面罩靠固定比例的空氣夾帶提供「精準可調」的氧濃度，依所選閥門與流量（約 4–12 L/min）可給到 24–50%，適合需要控制氧濃度的病人。\n❌ (A) 急性冠心症病人血氧 91% 已偏低（一般以維持 90–94% 以上為目標），仍應給氧。\n❌ (B) 鼻導管每分鐘 1–6 公升約提供 24–44% 的氧濃度（每增加 1 公升約多 4%），不只到 30%。\n❌ (D) 非再吸入型面罩必須有足夠流量（10–15 L/min）維持儲氧袋不塌陷，才能提供 60–90% 以上的氧；6–10 公升不足。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Respiratory Failure；ACLS Provider Manual（Oxygen delivery devices）。"
   },
   {
    "n": 77,
@@ -1034,7 +1090,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Encephalitis",
     "Meningitis"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 「這輩子最厲害的頭痛」、突發到達巔峰（霹靂頭痛）並伴隨近乎昏厥，是蜘蛛膜下腔出血的經典描述；應立即安排非顯影腦部電腦斷層，陰性時再做腰椎穿刺找黃變（xanthochromia）。\n❌ (A) 顳動脈炎好發於 50 歲以上，頭痛為漸進性並伴顳動脈壓痛、咀嚼跛行與發炎指數上升。\n❌ (C) 腦炎會有發燒與意識、行為改變，病程數天。\n❌ (D) 腦膜炎有發燒與頸部僵硬，頭痛通常在數小時至數天內逐漸加重。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Cerebrovascular Diseases（Subarachnoid hemorrhage）。"
   },
   {
    "n": 78,
@@ -1047,7 +1104,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "Yersinia enterocolitica",
     "Aeromonas hydrophila"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 沙門氏桿菌（非傷寒型）最容易穿過腸黏膜進入血流造成菌血症與敗血症，尤其在老年人、免疫低下、鐮刀型貧血或使用制酸劑者，還可轉移感染到血管內皮與骨骼。\n❌ (A) 曲狀桿菌雖是常見的旅行者腹瀉病原，但菌血症相對少見（多見於免疫低下者）。\n❌ (C) 小腸結腸炎耶氏桿菌造成假性闌尾炎表現，敗血症僅見於鐵過載的病人。\n❌ (D) 親水產氣單胞菌多與水域接觸的傷口感染有關，腸胃炎後敗血症少見。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Salmonellosis；Ch. Acute Infectious Diarrheal Diseases。"
   },
   {
    "n": 79,
@@ -1060,7 +1118,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "僅②③",
     "僅①③"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) ②③違法：醫師法第 11 條要求「親自診察」，由書記統一收健保卡代領藥、或由家屬代為看診領藥，醫師都沒有見到病人，屬違法。\n❌ (A) 含①與④：①屬同條但書所定的山地離島、偏僻地區或有特殊情形時，得經由通訊方式詢問後開給方劑；④屬緊急救護情境，指導急救不違法。\n❌ (B) 含①，理由同上。\n❌ (D) 含①，且漏掉②。\n📚 出處：醫師法第 11 條；通訊診察治療辦法。"
   },
   {
    "n": 80,
@@ -1073,7 +1132,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med3'] = {
     "病人表示，若疼痛無法控制，希望能持續增加嗎啡的劑量，家屬也表示，常看到病人痛到掉眼淚。醫師表 示，目前嗎啡劑量已經很大，若再增加嗎啡劑量，可能造成病人的呼吸抑制，違反倫理及違反法律，甲醫 師不願意再增加劑量",
     "病人及家屬諮詢氣管插管的事項。醫師表示，在生命近終點時，若不想插管急救，符合倫理與法律"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：末期病人疼痛控制不足時，依照疼痛程度「逐步調升」嗎啡劑量是標準且合乎倫理的做法——依雙重效應原則，目的是止痛而非致死，即使可能加速死亡也不違法；拒絕調整劑量反而是照護上的失職。\n❌ (A) 由醫師直接注射致死藥物屬積極安樂死，僅少數國家合法，臺灣不合法。\n❌ (B) 開立致死劑量由病人自行服用屬醫師協助自殺，臺灣同樣不合法。\n❌ (D) 依安寧緩和醫療條例，末期病人可選擇不施行心肺復甦術與維生醫療，合於倫理與法律。\n📚 出處：安寧緩和醫療條例；Beauchamp & Childress, Principles of Biomedical Ethics, 8th ed.（Rule of double effect）；WHO Cancer Pain Relief。"
   }
  ]
 };
