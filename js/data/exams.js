@@ -2914,7 +2914,7 @@ window.APP_EXAMS = [
   "subjName": "綜合法學（一）刑法組",
   "label": "104 年　綜合法學（一）刑法組",
   "n": 60,
-  "exp": 0,
+  "exp": 60,
   "mins": 180
  },
  {
