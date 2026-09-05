@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "能產生芽胞（spore）",
     "屬革蘭氏陰性桿菌"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 脆弱類桿菌「不會產生芽胞」——它是無芽胞的絕對厭氧革蘭氏陰性桿菌；腸道菌中會產芽胞的厭氧菌是梭狀桿菌屬（Clostridium）。\n❌ (A) 它能水解七葉苷，這是鑑定類桿菌群的常用生化試驗。\n❌ (B) 耐膽鹽是它的特徵（可在含 20% 膽鹽的培養基生長），也符合它以腸道為棲地的生態。\n❌ (D) 它是革蘭氏陰性桿菌，且其脂多醣結構特殊、內毒素活性低。\n📚 出處：Jawetz, Melnick & Adelberg's Medical Microbiology, 28th ed., Ch. Infections Caused by Anaerobic Bacteria。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "對多重抗藥性之嗜麥芽窄食單胞菌 (Stenotrophomonas maltophilia）有效",
     "可以治療抗萬古黴素（Vancomycin）之金黃色葡萄球菌（Staphylococcus aureus）所引起的疾病"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：daptomycin 只對「革蘭氏陽性菌」有效——它必須先插入細胞膜，而革蘭氏陰性菌的外膜擋住了它；嗜麥芽窄食單胞菌是革蘭氏陰性菌，治療首選是 trimethoprim-sulfamethoxazole。\n❌ (A) 它以鈣依賴方式插入細胞膜造成去極化與細胞死亡。\n❌ (B) 它屬環狀脂胜肽類抗生素。\n❌ (D) 對抗萬古黴素的金黃色葡萄球菌與腸球菌都是它的重要適應症（但不可用於肺炎——會被肺部表面張力素去活化）。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Beta-Lactam & Other Cell Wall- & Membrane-Active Antibiotics；Jawetz Medical Microbiology, 28th ed.。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "類結核型痲瘋病的傳染力較癩瘤型痲瘋病為高",
     "癩瘤型痲瘋病患之皮膚對麻瘋菌素（lepromin）測試呈陽性反應"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 類結核型痲瘋病是 Th1 主導的強烈細胞性免疫反應——病灶少、菌量極低、形成明確的肉芽腫，神經破壞明顯；癩瘤型則細胞性免疫低下（Th2 偏向），菌量極多。\n❌ (A) 泡沫巨噬細胞（滿載菌體的 Virchow 細胞）是「癩瘤型」的特徵，類結核型看不到。\n❌ (C) 癩瘤型病人的皮膚與鼻腔分泌物含大量菌體，傳染力遠高於類結核型。\n❌ (D) 麻瘋菌素試驗測的是細胞性免疫，癩瘤型呈「陰性」，類結核型才呈陽性。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Mycobacteria（Leprosy）；Robbins and Cotran Pathologic Basis of Disease, 10th ed.。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "空泡細胞（koilocyte）",
     "蘭氏巨細胞（Langhans giant cell）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 結核肉芽腫的典型細胞是類上皮細胞融合而成的「蘭氏巨細胞」——細胞核沿細胞邊緣排成馬蹄形，周圍環繞淋巴球，中央為乾酪樣壞死。\n❌ (A) 滋養細胞是胎盤的細胞。\n❌ (B) 小膠質細胞是中樞神經系統的巨噬細胞，不出現在肺部肉芽腫。\n❌ (C) 空泡細胞是人類乳突病毒感染上皮的特徵（核周暈環），見於子宮頸抹片。\n📚 出處：Robbins and Cotran Pathologic Basis of Disease, 10th ed., Ch. Inflammation and Repair（Granulomatous inflammation）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "cagA（cytotoxin-associated gene A）陽性細菌的感染被認為與導致胃癌的高風險有關",
     "尿素呼氣試驗（urea breath test）是一種非侵入性的檢驗方法，但其敏感度與專一性都比傳統細菌培養差"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：尿素呼氣試驗的敏感度與特異度都在 95% 上下，「不亞於甚至優於」培養（幽門螺旋桿菌培養難度高、敏感度僅六至八成），是臨床診斷與根除後追蹤的首選非侵入性工具。\n❌ (A) 人是主要貯存宿主，糞口與口口途徑都是可能的傳染方式。\n❌ (B) 它是胃潰瘍與十二指腸潰瘍最主要的可治病因。\n❌ (C) 帶 cagA 致病島的菌株發炎反應更強，與胃癌及黏膜相關淋巴組織淋巴瘤的風險上升有關。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Vibrios, Campylobacters, Helicobacter；Harrison's Principles of Internal Medicine, 21st ed.。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "產生超級抗原（superantigen），可造成嚴重組織壞死（necrosis）",
     "可造成眼球感染，例如桿菌型全眼球炎（Bacillus panophthalmitis）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：蠟狀桿菌的致病靠嘔吐毒素（cereulide）與腹瀉腸毒素，「不是超級抗原」；會分泌超級抗原的是金黃色葡萄球菌（TSST-1、腸毒素）與 A 群鏈球菌。\n❌ (A) 嘔吐型食物中毒由耐熱的環狀胜肽毒素造成（典型情境是隔夜炒飯），加熱無法破壞。\n❌ (B) 它是產芽胞的環境常在菌，土壤、灰塵與生米中普遍存在。\n❌ (D) 外傷或靜脈注射毒品可造成侵襲性感染，眼內炎（全眼球炎）進展極快，是它著名的嚴重表現。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Aerobic Spore-Forming Bacilli。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "產氣腸桿菌（Enterobacter aerogenes）",
     "肺炎克雷伯氏桿菌（Klebsiella pneumoniae）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 奇異變形桿菌以豐富的周身鞭毛在培養基表面「遊走」形成同心圓波紋；它產生的尿素酶分解尿素使尿液鹼化，促成磷酸銨鎂（struvite）結石甚至鹿角結石。\n❌ (B) 黏質沙雷氏菌以產生紅色色素（prodigiosin）著稱，不具遊走現象。\n❌ (C) 產氣腸桿菌不會遊走，也不產尿素酶。\n❌ (D) 肺炎克雷伯氏桿菌有厚莢膜、菌落黏稠，但無鞭毛不會遊走。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Enteric Gram-Negative Rods（Proteus）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "多數的感染始於頸顏部（cervicofacial area）",
     "可造成胸、腹部、骨盆腔、中樞神經系統的放線菌病（actinomycosis）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：放線菌是「厭氧或微需氧」的革蘭氏陽性絲狀菌，生長緩慢（培養常需 1–2 週），不是需氧且生長快速。\n❌ (B) 病灶中肉眼可見的黃色「硫磺狀顆粒」（菌體聚集塊）是它的診斷特徵。\n❌ (C) 最常見的型態是頸顏部放線菌病，多與拔牙、口腔衛生不良或下顎外傷有關。\n❌ (D) 也可侵犯胸腔、腹腔（常見於闌尾手術後）、骨盆腔（子宮內避孕器相關）與中樞神經。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Actinomycetes。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "紅黴素（Erythromycin）抑制細胞壁的合成",
     "磺胺（Sulfonamide）抑制DNA旋轉酶（gyrase）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) trimethoprim 抑制「二氫葉酸還原酶」，阻斷四氫葉酸生成；它與抑制上游二氫蝶酸合成酶的磺胺類合用，可對葉酸路徑產生連續阻斷的協同殺菌效果。\n❌ (A) 克拉維酸本身抗菌力極弱，是 β-內醯胺酶抑制劑，必須與 amoxicillin 或 ticarcillin 併用。\n❌ (C) 紅黴素結合 50S 次單元抑制「蛋白質」合成，不是細胞壁。\n❌ (D) 抑制 DNA 旋轉酶的是氟喹諾酮類；磺胺抑制的是葉酸合成。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Sulfonamides, Trimethoprim, & Quinolones。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "加利福尼亞腦炎病毒（California encephalitis virus）",
     "克里米亞-剛果出血熱病毒（Crimean-Congo hemorrhagic fever virus）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 漢坦病毒是本雅病毒科中的例外——它不靠節肢動物，而是經「囓齒類」的排泄物乾燥後形成氣膠吸入傳染，造成腎症候群出血熱或漢坦病毒肺症候群。\n❌ (B) 裂谷熱病毒由蚊子傳播。\n❌ (C) 加利福尼亞腦炎病毒同樣由蚊子傳播。\n❌ (D) 克里米亞-剛果出血熱病毒由蜱（壁蝨）傳播。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Arthropod-Borne and Rodent-Borne Viral Diseases。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "CCR5-delta 32",
     "t（11；22）（q24；q12）"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) CCR5 是 R5 型愛滋病毒進入細胞的必要副受體；帶有 CCR5-Δ32 缺失「同合子」的人，受體無法表現在細胞表面，對此型病毒幾乎完全抗性（異合子則進展較慢）。\n❌ (A) 第 17 號染色體短臂的 p53 缺失與多種癌症有關，與愛滋病毒感染無關。\n❌ (B) HLA-B*5701 是 abacavir 過敏反應的風險基因（用藥前須篩檢），不是抗感染基因。\n❌ (D) t(11;22)(q24;q12) 是尤文氏肉瘤的染色體轉位。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Human Immunodeficiency Virus Disease；Jawetz Medical Microbiology, 28th ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "病毒顆粒很穩定，可以透過下水道系統汙染水源造成感染",
     "沙克（Salk）減毒疫苗和沙賓（Sabin）死毒疫苗，常被用來預防其所引起的疾病"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 小兒麻痺病毒無套膜、耐酸也耐環境，可長時間存活於污水中，因此經糞口途徑污染水源造成傳播——這也是環境污水監測能追蹤疫情的原因。\n❌ (A) 它的基因體是「單股正意 RNA」（微小病毒科）。\n❌ (B) 它根本沒有套膜，也就沒有套膜醣蛋白。\n❌ (D) 名稱顛倒了：沙克疫苗是「不活化（死）」疫苗，沙賓疫苗才是口服的「減毒活」疫苗。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Picornaviruses（Poliovirus）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "呼吸道細胞融合病毒（Respiratory syncytial virus）",
     "冠狀病毒（Coronavirus）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 人類的季節性冠狀病毒最適生長溫度約 33–35℃，因此侷限在較涼的上呼吸道造成感冒；來自動物的冠狀病毒（SARS、MERS 等）能在 37℃ 複製，得以侵犯下呼吸道並造成全身性感染。\n❌ (A) 人類間質肺炎病毒可直接侵犯下呼吸道，造成細支氣管炎與肺炎。\n❌ (B) 腺病毒能在體溫下複製，可造成肺炎、結膜炎與腸胃炎等全身性表現。\n❌ (C) 呼吸道細胞融合病毒是嬰幼兒細支氣管炎的主因，本來就侵犯下呼吸道。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Coronaviruses。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "B19病毒（B19 virus） - 紅血球M抗原（erythrocyte M antigen）",
     "鼻病毒（Rhinovirus）- ICAM-1"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯的是這一項：B19 微小病毒的受體是紅血球上的「P 抗原（globoside）」——它專一感染紅血球前驅細胞，因此造成暫時性再生不良危象與傳染性紅斑，不是 M 抗原。\n❌ (A) EB 病毒經 CD21（補體受體 2）進入 B 細胞。\n❌ (B) 流感病毒的血球凝集素結合細胞表面的唾液酸（sialic acid，該選項的中譯有誤，指的是唾液酸）。\n❌ (D) 主要群的鼻病毒以 ICAM-1 為受體。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Parvoviruses；Ch. Herpesviruses。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "JC病毒感染免疫不全病人，常造成去髓鞘（demyelination）病變",
     "T抗原可以活化p53，促進細胞死亡"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯的是這一項：多瘤病毒的大 T 抗原會「結合並使 p53 與 Rb 失去功能」，解除細胞週期的煞車以利病毒複製，方向與活化 p53、促進細胞死亡完全相反。\n❌ (A) 人類多瘤病毒包括 BK 與 JC 病毒（另有梅克爾細胞多瘤病毒）。\n❌ (B) 它們是無套膜的雙股環狀 DNA 病毒，因此在環境中相對穩定。\n❌ (C) JC 病毒在免疫低下者（愛滋病、使用 natalizumab 者）造成進行性多灶性白質腦病變，是寡樹突膠細胞被感染後的去髓鞘病變。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Papillomaviruses and Polyomaviruses。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "菌絲（hyphae）無分隔",
     "具瓶狀（flask-shaped）孢子梗（phialides）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 麴菌的分生孢子梗末端膨大成囊泡，其上排列一層或兩層瓶狀的「瓶梗（phialides）」，再由此長出成串的分生孢子——這是顯微鏡下辨識麴菌的關鍵型態。\n❌ (A) 具假根的是根黴菌（Rhizopus），屬毛黴菌目。\n❌ (B) 厚壁孢子是白色念珠菌（Candida albicans）在玉米粉培養基上的鑑定特徵。\n❌ (C) 麴菌的菌絲「有分隔」且呈銳角（約 45 度）分支；無分隔且鈍角分支的是毛黴菌目。\n📚 出處：Jawetz Medical Microbiology, 28th ed., Ch. Medical Mycology（Aspergillosis）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "丙烯胺類（Allylamines）",
     "兩性黴素B（Amphotericin B）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 棘白素類（caspofungin、micafungin）抑制 β-1,3-葡聚醣合成酶，破壞真菌細胞壁；抗藥性主要來自該酵素催化次單元的基因 FKS1／FKS2 出現熱點突變。\n❌ (A) 氟胞嘧啶的抗藥來自細胞嘧啶通透酶或去胺酶的變異（藥物無法進入或無法活化）。\n❌ (C) 丙烯胺類（terbinafine）抑制角鯊烯環氧酶，抗藥與該酵素突變有關。\n❌ (D) 兩性黴素 B 結合麥角固醇，抗藥多來自細胞膜麥角固醇含量或組成改變。\n📚 出處：Katzung Basic & Clinical Pharmacology, 15th ed., Ch. Antifungal Agents。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "MHC-I",
     "MHC-II"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 第一類主要組織相容性複合體分子表現在「所有有核細胞」表面，把細胞內合成的胜肽呈現給 CD8 毒殺型 T 細胞——這正是免疫系統得以監控每一個細胞是否被病毒感染或癌化的基礎（紅血球無核，故不表現）。\n❌ (A) 介白素 1 主要由活化的巨噬細胞等分泌，不是所有細胞持續表現。\n❌ (B) 介白素 2 主要由活化的 T 細胞分泌。\n❌ (D) 第二類主要組織相容性複合體只表現在抗原呈現細胞（樹突細胞、巨噬細胞、B 細胞）上。\n📚 出處：Janeway's Immunobiology, 10th ed., Ch. Antigen Presentation to T Lymphocytes。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "重鏈（heavy chain）之D,J剪接",
     "輕鏈（light chain）之V,J剪接"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 免疫球蛋白基因重組有嚴格順序：重鏈先做「D-J 接合」，再做 V-DJ 接合；重鏈成功後才輪到輕鏈的 V-J 接合（先 κ 後 λ）。\n❌ (A) 重鏈沒有 V 直接接 J 的步驟（中間必須有 D 節段）。\n❌ (B) V-D 接合發生在 D-J 完成之後，不是起始步驟。\n❌ (D) 輕鏈的 V-J 接合是整個過程的最後階段。\n📚 出處：Janeway's Immunobiology, 10th ed., Ch. The Generation of Lymphocyte Antigen Receptors。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-107-1-med2'] = {
     "調節性T細胞可藉由抑制抗原呈現細胞之功能，來抑制免疫反應之強度",
     "第十七型輔助性T細胞（TH17）會藉由幫助嗜中性白血球的趨化與活化，來控制早期的感染"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 錯的是這一項：第一型輔助性 T 細胞的招牌功能正是分泌干擾素 γ「活化巨噬細胞」以殺死胞內病原，並促使 B 細胞做類別轉換產生具調理與補體活化能力的抗體。\n❌ (B) 第二型輔助性 T 細胞分泌 IL-4、IL-5、IL-13，促使 B 細胞產生 IgE 與嗜酸性球活化，對抗寄生蟲。\n❌ (C) 調節性 T 細胞可分泌 IL-10、TGF-β 並抑制抗原呈現細胞的共同刺激分子，降低免疫反應強度。\n❌ (D) 第十七型輔助性 T 細胞分泌 IL-17 招募並活化嗜中性球，對抗胞外細菌與黴菌的早期感染。\n📚 出處：Janeway's Immunobiology, 10th ed., Ch. T Cell-Mediated Immunity（CD4 T cell subsets）。"
   },
   {
    "n": 21,
