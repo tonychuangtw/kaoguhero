@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "手術切除時需結紮中薦部動脈（middle sacral artery）以減少失血",
     "大部分屬良性"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：薦尾部畸胎瘤手術必須「連同尾骨一併切除」——尾骨常是腫瘤的起源處（Hensen 結節殘留），留下尾骨的復發率高達三到四成；切除尾骨並不會造成馬尾症候群。\n❌ (A) 正確：它是新生兒最常見的畸胎瘤，發生率約每 4 萬名新生兒 1 例，女嬰居多。\n❌ (C) 正確：中薦動脈是主要供血來源，術中應先結紮以減少出血。\n❌ (D) 正確：新生兒期診斷者九成以上為良性，但延遲診斷惡性率會大幅上升。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Pediatric Surgery（Sacrococcygeal teratoma）。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "有剖腹探查的明顯適應症",
     "不明原因的休克或是低血壓"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：已有明確剖腹探查適應症（如腹膜炎徵象、內臟外露、氣腹）的病人，應「直接進開刀房」，再做診斷性腹膜灌洗只是白白延誤時間。\n❌ (A) 正確：意識不清或多重外傷使理學檢查不可靠時，正是它的適應症。\n❌ (B) 正確：脊髓損傷者腹部感覺喪失，理學檢查無法判斷，屬適應症。\n❌ (D) 正確：來源不明的低血壓要快速確認腹腔內是否有出血。\n📚 出處：ATLS Student Course Manual, 10th ed.（Abdominal Trauma: DPL indications）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "雖然老年人有糖尿病的比率較高，但是高血糖（hyperglycemia）並不會增加手術的發病率和死亡率（morbidity and mortality）",
     "老年人在手術前應評估其肺部功能"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：圍手術期高血糖與傷口感染、吻合處癒合不良、心血管事件及死亡率上升明確相關，是必須主動控制的危險因子。\n❌ (A) 正確：已有缺血性心臟病者，圍手術期使用乙型阻斷劑（術前已在使用者尤應續用）可降低心臟事件。\n❌ (B) 正確：老年人無症狀菌尿盛行率高，術前尿液檢查有助評估。\n❌ (D) 正確：老年人肺活量與咳痰能力下降，術前肺功能評估可預測術後肺部併發症。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Surgery in the Geriatric Patient；Ch. Perioperative Care。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "低體溫（hypothermia）",
     "敗血症（sepsis）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 敗血症不屬於致死三角：外傷致死三角指的是低體溫、代謝性酸中毒與凝血功能障礙，三者互相加乘形成惡性循環；敗血症是後續（數日後）的併發症，不在此三角內。\n❌ (A) 凝血功能障礙是三角之一，低溫與酸中毒都會抑制凝血酵素活性。\n❌ (B) 代謝性酸中毒源自組織灌流不足產生乳酸。\n❌ (C) 低體溫來自失血、暴露與大量輸液，是三角的起點。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Trauma（Damage control surgery, lethal triad）；ATLS 10th ed.。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "橈脈搏 → 股脈搏 → 頸脈搏",
     "頸脈搏 → 橈脈搏 → 股脈搏"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 血壓下降時，脈搏由「遠端往中央」依序消失：摸得到橈動脈代表收縮壓大約 80 mmHg 以上，只摸得到股動脈約 70 mmHg，只剩頸動脈約 60 mmHg——因此消失順序是橈、股、頸。\n❌ (A) 頸動脈是最後才消失的，不會排在中間。\n❌ (B) 頸動脈灌流優先保留，不可能最先消失。\n❌ (D) 同樣把頸動脈排在最前，與生理代償方向相反。\n📚 出處：ATLS Student Course Manual, 10th ed.（Shock: assessment of perfusion by palpable pulses）。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "第六或七肋間，腋中線（6th or 7th intercostal space, mid-axillary line）",
     "視病患之情況而定"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 胸管的標準置放位置是「第 4 或第 5 肋間、腋中線到腋前線之間」的安全三角——這個高度在橫膈之上，可避免刺傷肝脾，也方便同時引流氣體與血液。\n❌ (B) 第 2 肋間鎖骨中線是「針刺減壓」處理張力性氣胸的位置，不是放置胸管的位置。\n❌ (C) 第 6、7 肋間太低，吐氣時橫膈上升，有刺穿肝或脾的風險。\n❌ (D) 位置有明確標準，不能一律說「視情況而定」。\n📚 出處：ATLS Student Course Manual, 10th ed.（Thoracic Trauma: chest tube insertion, safe triangle）。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "所有的腹腔內感染都必須手術治療",
     "老年人及營養不良者之腹腔內感染比較有發生併發症的風險"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：並非所有腹腔內感染都需要手術——單純的憩室炎、未破裂的膿瘍或輕度膽囊炎可用抗生素治療，膿瘍多可經皮引流；手術保留給破裂、壞死或引流失敗者。\n❌ (A) 正確：腹部電腦斷層是診斷腹腔內感染與定位膿瘍的首選影像。\n❌ (B) 正確：未控制的感染源會引發敗血症與多器官功能障礙。\n❌ (D) 正確：高齡與營養不良都是併發症與死亡率的獨立危險因子。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Surgical Infections（Intra-abdominal infections, source control）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "臂叢神經損傷（brachial plexus injury）",
     "尿路感染（urinary tract infection）"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：尿路感染與中央靜脈導管無關（那是導尿管的併發症）；中央靜脈導管相關的是「導管相關血流感染」。\n❌ (A) 正確：導管內或導管周圍血栓是常見併發症，可能造成阻塞或栓塞。\n❌ (B) 正確：鎖骨下靜脈穿刺最常見的機械性併發症就是氣胸。\n❌ (C) 正確：頸內或鎖骨下靜脈穿刺時可能傷及鄰近的臂神經叢。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Nutrition（Complications of central venous access and TPN）。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "腸胃道＞腎＞乳房＞肺",
     "腎＞肺＞乳房＞腸胃道"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 腦轉移的原發部位依序為肺（約 40–50%）＞乳房（約 15–20%）＞黑色素瘤與腎細胞癌＞腸胃道——肺癌居冠是因為它常見、且癌細胞可直接經肺靜脈進入體循環。\n❌ (A) 把乳癌排在肺癌之前，與流行病學不符。\n❌ (C) 腸胃道癌的腦轉移比例最低，不可能居首。\n❌ (D) 腎細胞癌雖易腦轉移，但總數遠少於肺癌。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Primary and Metastatic Tumors of the Nervous System。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "L3－quadriceps muscle",
     "S1－gastronemius muscle"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：三頭肌由「C7（併 C8）」經橈神經支配，其肌腱反射也是 C7 的代表；C6 對應的是肱二頭肌與腕伸肌。\n❌ (A) 正確：三角肌由 C5 經腋神經支配（C5 也負責肩外展與二頭肌反射）。\n❌ (C) 正確：股四頭肌由 L2-L4（以 L3 為主）經股神經支配，膝反射為 L4。\n❌ (D) 正確：腓腸肌由 S1-S2 經脛神經支配，跟腱反射為 S1。\n📚 出處：Snell's Clinical Neuroanatomy, 8th ed.（Segmental innervation of muscles）；ATLS 10th ed. 脊髓評估表。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "最佳的治療方法為大量的使用降腦壓藥物，避免血塊對腦幹的壓迫",
     "此病人目前GCS為10分"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 老年人跌倒後的顱內出血，影像呈沿著顱骨內側延展、可跨過骨縫的「新月形」血塊——這是硬腦膜下出血，源自橋接靜脈撕裂，老人腦萎縮使橋接靜脈拉長而特別脆弱。\n❌ (B) 顱骨骨折造成中腦膜動脈破裂形成的是「硬腦膜外」出血，影像呈雙凸透鏡形且不跨骨縫。\n❌ (C) 有意義的血塊合併意識障礙應手術清除，單靠降腦壓藥物無法解決壓迫。\n❌ (D) 依昏迷指數計算：對痛張眼 2 分、對痛能定位撥開 5 分、無語言 1 分，合計 8 分而非 10 分。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery（Subdural hematoma）；ATLS 10th ed. GCS scoring。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "使用的藥物是methylprednisolone",
     "此高劑量的皮質類固醇有相當大的副作用"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤（依本題命題所本的 NASCIS 試驗）：該試驗報告中，高劑量 methylprednisolone 組的併發症（傷口感染、肺炎、腸胃道出血）與對照組相比「未達統計顯著差異」，因此當年的結論並非「有相當大的副作用」。（補充：後續研究與現行指引已對此提出質疑，多數創傷中心不再常規使用。）\n❌ (A) 依 NASCIS 協定，須於受傷後 8 小時內開始給藥。\n❌ (B) 劑量正是先以 30 mg/kg 靜脈輸注 1 小時，再以 5.4 mg/kg/hr 持續 23 小時。\n❌ (C) 使用的藥物確為 methylprednisolone。\n📚 出處：NASCIS II/III 試驗；Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery（Spinal cord injury）。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "蜘蛛網膜下腔出血",
     "交通性水腦症（communicating hydrocephalus）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 腦腫瘤造成顱內壓升高與腫塊效應時做腰椎穿刺，可能因壓力梯度導致「腦疝脫」而猝死——這是腰椎穿刺的絕對禁忌，必須先做影像確認沒有腫塊效應。\n❌ (B) 腦膜炎正是腰椎穿刺最主要的適應症（無局部神經學缺損時可直接施行）。\n❌ (C) 電腦斷層陰性但仍高度懷疑蜘蛛網膜下腔出血時，腰椎穿刺找黃變是標準做法。\n❌ (D) 交通性水腦症可藉腰椎穿刺測壓與引流測試評估分流手術效果。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Meningitis（Contraindications to lumbar puncture）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "矢狀竇旁－大腦鐮（parasagittal-falx）、蝶骨平面（planum sphenoidale）、顱凸處（convexity）",
     "顱凸處（convexity）、蝶骨翼（sphenoid wing）、岩骨（petrous bone）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 腦膜瘤最好發於「矢狀竇旁與大腦鐮」、「顱凸處」與「蝶骨翼」——這三處合計占了大多數病例，都是蜘蛛膜顆粒分布密集的位置。\n❌ (A) 岩骨（後顱窩）腦膜瘤相對少見，不在前三名。\n❌ (C) 蝶骨平面腦膜瘤屬前顱底較少見的位置。\n❌ (D) 少了矢狀竇旁—大腦鐮這個最常見的位置。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery（Meningioma）；Youmans Neurological Surgery。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "如果病人不幸死亡，解剖上腦部有明顯不正常的外觀",
     "在胼胝體（corpus callosum）可見出血性壞死的病灶"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：瀰漫性軸突損傷的病理變化在「顯微層次」——軸突腫脹與縮球（retraction balls），肉眼解剖時腦部外觀往往沒有明顯異常，這正是它難以診斷的原因。\n❌ (A) 正確：病人受傷當下即昏迷，沒有硬腦膜外出血那種清明期。\n❌ (B) 正確：電腦斷層可能只見少量點狀出血甚至完全正常，卻與深度昏迷不成比例（磁振造影較敏感）。\n❌ (D) 正確：胼胝體、灰白質交界與腦幹背外側是三個好發部位，可見小出血性壞死灶。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Neurosurgery（Diffuse axonal injury）；Robbins, 10th ed., Ch. CNS Trauma。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "輕微（mild）",
     "正常（normal）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 眼瞼下垂的分級以雙眼瞼緣高度差為準：2 mm 以內為輕度、3 mm 為中度、4 mm 以上為重度——重度下垂常遮蔽瞳孔而影響視野，兒童還可能造成弱視。\n❌ (B) 中度是相差約 3 mm。\n❌ (C) 輕度是相差約 2 mm。\n❌ (D) 正常兩側應大致等高，相差 4 mm 已是明顯病態。\n📚 出處：Kanski's Clinical Ophthalmology, 9th ed.（Ptosis: measurement and classification）。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "右側Le Fort I + III，左側Le Fort II",
     "右側Le Fort I + II，左側Le Fort IV"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 勒福氏骨折可以左右不對稱地合併出現：本例右側同時具有第一型（上頜骨橫斷、齒槽段游離）與第三型（顱面分離，經眶底與顴額縫）的骨折線，左側則為第二型（金字塔型，經鼻額縫與眶下緣）。\n❌ (A) 把第三型錯置於左側，與影像上的骨折線走向不符。\n❌ (B) 左右兩側的型別完全對調。\n❌ (D) 勒福氏分類只有第一、二、三型，沒有「第四型」。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Plastic and Reconstructive Surgery（Le Fort classification of midface fractures）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "上下頜齒列固定復位可用於無明顯位移、無齒列錯位及顳顎關節（temporo-mandibular joint）活動正常之情形",
     "手術治療主要為骨折處和上下頜齒列固定復位， 固定時間越久越好，不會有顳顎關節僵硬的問題"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：上下頜固定的時間應「適可而止」（一般 4–6 週），固定過久會造成顳顎關節僵硬、張口受限與肌肉萎縮，絕不是愈久愈好。\n❌ (A) 正確：下頜骨解剖分區確實包含聯合部、體部、角部、枝部、髁突與喙突。\n❌ (B) 正確：安格氏分類依上下頜第一大臼齒的咬合關係分為三類。\n❌ (C) 正確：無明顯位移、咬合正常且關節活動良好者，可用閉鎖式復位（上下頜固定）處理。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Plastic and Reconstructive Surgery（Mandibular fractures）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "T-淋巴球（T-lymphocyte）",
     "巨噬細胞（macrophage）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 傷口攣縮的主角是肌纖維母細胞——它由纖維母細胞分化而來，胞內表現 α 平滑肌肌動蛋白，能實際產生收縮力把傷口邊緣拉近。\n❌ (B) B 淋巴球負責抗體產生，與傷口收縮無關。\n❌ (C) T 淋巴球參與後期發炎調控，但不提供收縮力。\n❌ (D) 巨噬細胞負責清創與分泌生長因子（是傷口癒合的指揮官），但收縮動作不是由它完成。\n📚 出處：Schwartz's Principles of Surgery, 11th ed., Ch. Wound Healing；Robbins, 10th ed., Ch. Tissue Repair。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-106-1-med5'] = {
     "inhalation injury",
     "5歲以下，50歲以上，二及三度燒傷大於5% TBSA"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 錯誤：美國燒傷學會的轉診標準是「10 歲以下或 50 歲以上，二、三度燒傷超過總體表面積 10%」——本選項把年齡寫成 5 歲、面積寫成 5%，兩處都與準則不符。\n❌ (A) 正確：一般成人二、三度燒傷大於 10% 應轉燒傷中心。\n❌ (B) 正確：任何年齡的三度（全層）燒傷都應轉診。\n❌ (C) 正確：吸入性傷害是明確的轉診指標，可能演變為呼吸道阻塞。\n📚 出處：American Burn Association, Burn Center Referral Criteria；ATLS Student Course Manual, 10th ed.（Thermal Injuries）。"
   },
   {
    "n": 21,
