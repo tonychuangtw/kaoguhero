@@ -26,7 +26,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "臟器轉位症候群",
     "左側氣胸"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 14 個月大幼兒（正是把東西往嘴裡塞的年紀）、持續咳嗽喘鳴卻「不發燒」，且左側呼吸音變小、X 光顯示單側肺野透亮度增加（吸氣時空氣進得去、吐氣時出不來的球閥效應）——這是支氣管異物的典型表現。\n❌ (B) 先天性心臟病會有心雜音、生長遲滯與心臟擴大，不會造成單側呼吸音減弱。\n❌ (C) 臟器轉位症候群在 X 光上是心臟與內臟位置左右顛倒，不會有喘鳴與呼吸音不對稱。\n❌ (D) 氣胸是急性發作，且患側呼吸音消失合併縱隔腔偏移，不會拖十天。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Foreign Bodies in the Airway。"
   },
   {
    "n": 2,
@@ -39,7 +40,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "合併菌血症",
     "病人有sickle cell disease"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 不需常規使用抗生素：3 個月以上、免疫功能正常的孩童若只是單純的非傷寒沙門氏菌腸炎，抗生素不但無法縮短病程，還會「延長帶菌時間」，只需支持療法。\n❌ (B) 需要：腹脹加毒性病容代表可能已侵襲性感染或敗血症。\n❌ (C) 需要：合併菌血症有轉移性感染（腦膜炎、骨髓炎）的風險。\n❌ (D) 需要：鐮刀型貧血病人（脾功能不全）易發生沙門氏菌骨髓炎與敗血症，屬高風險族群，與 3 個月以下嬰兒、免疫低下者同列。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Salmonella（Nontyphoidal salmonellosis）。"
   },
   {
    "n": 3,
@@ -52,7 +54,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "食道閉鎖",
     "十二指腸閉鎖"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 新生兒「嘴邊不斷冒出大量白色泡沫」（唾液無法吞下）並偶爾嗆咳——這是食道閉鎖的招牌表現；診斷方式是放置鼻胃管後照 X 光，看到管子在上段食道盤捲即可確認。\n❌ (A) 肺炎會有發燒或體溫不穩、呼吸窘迫，但不會有無法吞嚥的大量口沫。\n❌ (B) 腦膜炎的新生兒表現為活力差、體溫不穩與抽搐。\n❌ (D) 十二指腸閉鎖表現為出生後含膽汁的嘔吐與腹部 X 光的「雙泡徵」，口水可正常吞下。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Esophageal Atresia and Tracheoesophageal Fistula。"
   },
   {
    "n": 4,
@@ -65,7 +68,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "Arnold-Chiari氏畸型（Arnold-Chiari malformation）",
     "先天性甲狀腺功能低下症（congenital hypothyroidism）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 出生後幾天出現嘔吐、餵食困難、角弓反張與代謝性酸中毒，加上體液「特殊的楓糖／焦糖氣味」——這是楓糖尿症（支鏈酮酸脫氫酶缺乏），必須緊急限制支鏈胺基酸並考慮透析。\n❌ (A) 腎小管酸血症雖有代謝性酸中毒，但不會有特殊氣味與角弓反張，且以生長遲滯表現。\n❌ (C) Arnold-Chiari 畸形不會造成代謝性酸中毒與體味異常。\n❌ (D) 先天性甲狀腺低能症表現為活動力差、黃疸延長與便祕，不會有急性酸中毒。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Defects in Metabolism of Amino Acids（Maple syrup urine disease）。"
   },
   {
    "n": 5,
@@ -78,7 +82,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "因為會復發，進入末期腎病後不建議腎移植",
     "血中IgA值並沒有診斷價值，因為只有部分的病童會升高"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：IgA 腎病變進入末期腎病後「仍可接受」腎臟移植——雖然移植腎有二至五成會在組織學上復發，但真正因復發而失去移植腎的比例低，整體預後良好。\n❌ (A) 正確：有家族聚集現象，部分族群發生率明顯較高。\n❌ (B) 正確：約兩成病人在 15–20 年後進展為慢性腎病或腎衰竭。\n❌ (D) 正確：只有約半數病人血清 IgA 上升，缺乏診斷價值，確診仍靠腎切片的系膜 IgA 沉積。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. IgA Nephropathy；Harrison's, 21st ed.。"
   },
   {
    "n": 6,
@@ -91,7 +96,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "不會用手正確的指出自己的五官",
     "不會說四個字的短句"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 兩歲幼兒「不會指出自己的五官」代表語言理解與認知發展明顯落後（一歲半就該能指出一到兩個部位，兩歲應能指出多個），是需要轉介聯合評估的警訊。\n❌ (A) ㄓㄔㄕ等捲舌音要到 4–6 歲才發展成熟，兩歲發音不清屬正常。\n❌ (B) 認識顏色一般要到 3 歲以後，兩歲不會認顏色不算異常。\n❌ (D) 兩歲能說二到三個字的短語即可，四個字的短句是 3 歲的能力。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Developmental Surveillance and Screening；衛福部兒童發展連續圖。"
   },
   {
    "n": 7,
@@ -104,7 +110,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "睡眠不好常會哭鬧",
     "新生兒黃疸持續時間較長"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 先天性甲狀腺低能症在新生兒期最常見的表現是「延長性黃疸」——甲狀腺素不足使肝臟葡萄糖醛酸轉移酶活性下降，膽紅素代謝變慢；其他早期線索還有活力差、便祕、餵食差與臍疝氣。\n❌ (A) 出生時身高體重通常正常（胎兒期有母親甲狀腺素供應），生長遲緩要幾個月後才顯現。\n❌ (B) 頭圍通常正常甚至偏大（前後囟門較大）。\n❌ (C) 這類嬰兒的特徵是「安靜、嗜睡、不太哭鬧」，與睡不好正好相反。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Hypothyroidism（Congenital hypothyroidism）。"
   },
   {
    "n": 8,
@@ -117,7 +124,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "抗核抗體（antinuclear antibody）陽性",
     "血小板數目正常或增加"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 亨諾-許蘭紫斑症是「非血小板低下性」紫斑——血小板數目正常甚至因發炎而上升，凝血功能也正常，這是與免疫性血小板低下紫斑鑑別的關鍵。\n❌ (A) 紫斑典型出現在「下肢與臀部」（重力依賴部位），不在軀幹。\n❌ (B) 沉積的是 IgA 免疫複合體，不是 IgM。\n❌ (C) 抗核抗體為陰性（陽性要想全身性紅斑性狼瘡）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. IgA Vasculitis (Henoch-Schönlein Purpura)。"
   },
   {
    "n": 9,
@@ -130,7 +138,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "anti-EBNA Ab",
     "anti-EA Ab"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 抗 EB 病毒核抗原抗體出現得最晚——通常要在感染後 3–6 個月才轉為陽性，因此它是判斷「過去感染」的指標；急性期若此抗體陰性但抗病毒殼抗原 IgM 陽性，即可確認為近期感染。\n❌ (A) 抗病毒殼抗原 IgG 在急性期就出現並終生存在。\n❌ (B) 抗病毒殼抗原 IgM 最早出現，數週到數月後消失。\n❌ (D) 抗早期抗原抗體在急性期出現，數月後下降。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Epstein-Barr Virus（Serologic patterns）。"
   },
   {
    "n": 10,
@@ -143,7 +152,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "變小聲",
     "會改變成舒張期雜音"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 發紺發作時右心室流出道的漏斗部痙攣收縮，通過肺動脈的血流大幅減少——雜音是由這股血流產生的，血流變少雜音自然「變小甚至消失」，同時血液大量右往左分流造成發紺加劇。\n❌ (A) 雜音變大代表通過狹窄處的血流增加，與發作的病生理相反。\n❌ (B) 雜音會有明顯變化，是床邊判斷發作的重要線索。\n❌ (D) 法洛氏四重症的雜音是收縮期噴射性雜音，不會轉為舒張期。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Tetralogy of Fallot（Hypercyanotic spells）。"
   },
   {
    "n": 11,
@@ -156,7 +166,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "aromatase基因突變或缺損",
     "SRY基因突變或缺損"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 最不可能：芳香環轉化酶缺乏會使雄性素無法轉成雌激素，46,XY 個體反而更男性化，「不可能」出現乳房發育與典型女性外生殖器。\n❌ (A) 可能：5α-還原酶第二型缺乏者，出生時外生殖器女性化或模糊（雖青春期常會男性化）。\n❌ (B) 可能：完全型雄性素不敏感症候群正是 46,XY 卻有女性外觀、乳房發育（睪固酮轉成雌激素）、無陰毛與無月經的典型。\n❌ (D) 可能：SRY 基因缺損造成純性腺發育不全（斯威爾症候群），表現為女性外觀與原發性無月經。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Disorders of Sex Development；Harrison's, 21st ed.。"
   },
   {
    "n": 12,
@@ -169,7 +180,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "若此病人使用IVIG 2g/kg治療，於1歲1個月時可施打水痘疫苗",
     "需安排心臟超音波檢查"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：接受高劑量靜脈免疫球蛋白（2 g/kg）後，被動抗體會使活性減毒疫苗失效，水痘與麻疹腮腺炎德國麻疹疫苗必須延後「11 個月」——1 歲 1 個月時只間隔一個月，太早了。\n❌ (A) 正確：發燒五天以上加上四肢末梢腫脹、皮疹、結膜充血、草莓舌與頸部淋巴結腫大，符合川崎氏症診斷。\n❌ (B) 正確：急性期給予高劑量阿斯匹靈（退燒後改低劑量抗血小板）是標準治療。\n❌ (D) 正確：必須做心臟超音波評估冠狀動脈瘤，並定期追蹤。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Kawasaki Disease；ACIP immunization spacing guidelines。"
   },
   {
    "n": 13,
@@ -182,7 +194,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "Streptococcus pneumoniae",
     "Staphylococcus aureus"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 發燒、滲出性扁桃腺炎、頸部淋巴結腫大、肝脾腫大、眼皮浮腫，加上「非典型淋巴球 20%」與轉胺酶上升——這是 EB 病毒引起的傳染性單核球增多症的完整組合。\n❌ (B) 腸病毒以口腔潰瘍與手足皮疹為主，不會有肝脾腫大與大量非典型淋巴球。\n❌ (C) 肺炎鏈球菌感染以嗜中性球增加為主，不會有非典型淋巴球。\n❌ (D) 金黃色葡萄球菌感染同樣以嗜中性球為主，且不造成此症候群。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Epstein-Barr Virus（Infectious mononucleosis）。"
   },
   {
    "n": 14,
@@ -195,7 +208,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "唐氏症（Down syndrome）",
     "威廉氏症候群（Williams syndrome）"
    ],
-   "a": 0
+   "a": 0,
+   "exp": "✅ (A) 子宮內生長遲滯、小頭、小眼裂、上唇薄且人中平坦、下頜發育不良——這組顏面特徵加生長遲緩是胎兒酒精症候群的診斷核心，源自懷孕期酒精暴露。\n❌ (B) 新生兒戒斷症候群表現為顫抖、high-pitched 哭聲、餵食困難與抽搐，沒有特定的顏面畸形。\n❌ (C) 唐氏症的臉部特徵是眼裂上斜、內眥贅皮、鼻樑塌與伸舌，並有肌張力低下與掌單一橫紋。\n❌ (D) 威廉氏症候群是精靈臉、寬嘴厚唇與主動脈瓣上狹窄，且個性外向健談。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Fetal Alcohol Spectrum Disorders。"
   },
   {
    "n": 15,
@@ -208,7 +222,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "正壓換氣呼吸",
     "體外膜氧合ECMO（extracorporeal membrane oxygenation）"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 胎便吸入症候群的核心處置是「清除呼吸道的胎便並立即矯正缺氧與酸中毒」——缺氧與酸中毒正是誘發肺血管痙攣、造成持續性肺高壓的元凶，儘早打斷這條路徑最為關鍵。\n❌ (A) 表面張力素可作為輔助（胎便會使表面張力素失活），但不是「最首要」的第一步。\n❌ (C) 正壓換氣在氣道還被胎便阻塞時施行，可能把胎便推得更深並造成氣胸。\n❌ (D) 體外膜氧合是所有治療都失敗後的最後手段。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Meconium Aspiration Syndrome；NRP Guidelines。"
   },
   {
    "n": 16,
@@ -221,7 +236,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "第三肋間隙",
     "第四肋間隙"
    ],
-   "a": 3
+   "a": 3,
+   "exp": "✅ (D) 新生兒緊急氣胸減壓時，除了第 2 肋間鎖骨中線外，「第 4 肋間腋前線到腋中線」是常用且安全的位置——這個高度在乳頭連線附近，位於橫膈之上，可避免傷及肝脾。\n❌ (A) 第 1 肋間太高，鎖骨下血管與臂神經叢就在附近。\n❌ (B) 第 2 肋間雖也可用，但穿刺針一律沿肋骨「上緣」進入且是鎖骨中線，本題問的是可垂直插入的另一標準位置。\n❌ (C) 第 3 肋間不是標準的建議位置。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Pneumothorax in the Newborn；NRP Textbook。"
   },
   {
    "n": 17,
@@ -234,7 +250,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "rotavirus- reactive arthritis",
     "Yersinia- hemolytic anemia"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：反應性關節炎的典型誘發病原是志賀氏菌、沙門氏菌、耶爾辛氏菌與曲狀桿菌等「細菌」；輪狀病毒與反應性關節炎沒有明確關聯。\n❌ (A) 正確：志賀氏菌感染後可併發溶血性尿毒症候群與腎絲球腎炎。\n❌ (B) 正確：曲狀桿菌感染與 IgA 腎病變（以及格林-巴利症候群）都有報告。\n❌ (D) 正確：耶爾辛氏菌感染可併發自體免疫溶血性貧血、結節性紅斑與反應性關節炎。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Acute Gastroenteritis in Children（Extraintestinal manifestations）。"
   },
   {
    "n": 18,
@@ -247,7 +264,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "碳-13尿素吹氣檢查陽性",
     "糞便幽門桿菌抗原檢驗陽性"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 最無法確定「目前」感染：血清抗體在成功除菌後仍可持續陽性數月甚至數年，因此它只能證明「曾經感染過」，不能用來確認現在還有沒有菌、也不能用來評估治療是否成功。\n❌ (A) 可確定：切片組織培養出細菌是最直接的證據（特異度百分之百）。\n❌ (C) 可確定：碳十三尿素呼氣試驗偵測的是活菌產生的尿素酶活性，是評估現症與治療成效的首選。\n❌ (D) 可確定：糞便抗原檢測同樣反映現行感染。\n📚 出處：Harrison's Principles of Internal Medicine, 21st ed., Ch. Helicobacter pylori Infections（Diagnostic tests）。"
   },
   {
    "n": 19,
@@ -260,7 +278,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "最好發的腸段是迴結腸（ileocolic）處",
     "典型的症狀，為腹痛、腹部腫塊與血便"
    ],
-   "a": 1
+   "a": 1,
+   "exp": "✅ (B) 錯誤：兒童腸套疊約有九成是「原發性」（找不到病理性引導點，多半與病毒感染後迴腸末端淋巴組織增生有關）；只有約一成能找到梅克耳憩室、息肉或紫斑症腸壁血腫等引導點，且年紀愈大比例愈高。\n❌ (A) 正確：好發年齡在 6 個月到 1 歲（3 個月到 3 歲之間最多）。\n❌ (C) 正確：迴腸套入結腸（迴結腸型）最常見。\n❌ (D) 正確：陣發性腹痛、香腸狀腹部腫塊與草莓果醬樣血便是經典三聯症（三者齊備者不到三成）。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Intussusception。"
   },
   {
    "n": 20,
@@ -273,7 +292,8 @@ window.APP_EXAM_PAPERS['doc-106-2-med4'] = {
     "靜脈內注射胰島素改善高血鉀時，不可同時加葡萄糖點滴",
     "若高血鉀對於藥物的反應不佳，應考慮透析治療"
    ],
-   "a": 2
+   "a": 2,
+   "exp": "✅ (C) 錯誤：靜脈注射胰島素降血鉀時「必須同時給葡萄糖」（除非病人本身已高血糖），否則會造成嚴重低血糖——標準做法是每 10 單位胰島素搭配 25 公克葡萄糖並持續監測血糖。\n❌ (A) 正確：先停止所有含鉀的輸液、藥物與飲食是基本步驟。\n❌ (B) 正確：心電圖依序出現高尖 T 波、PR 間期延長、P 波消失，最後 QRS 變寬成正弦波。\n❌ (D) 正確：藥物治療只是把鉀暫時趕進細胞內，效果不佳或腎功能衰竭時應透析真正移除鉀離子。\n📚 出處：Nelson Textbook of Pediatrics, 21st ed., Ch. Electrolyte Disorders（Hyperkalemia）；Harrison's, 21st ed.。"
   },
   {
    "n": 21,
